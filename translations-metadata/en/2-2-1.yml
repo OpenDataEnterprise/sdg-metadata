@@ -1,8 +1,9 @@
+SDG_INDICATOR_INFO: ''
 SDG_GOAL: >-
   <p>Goal 2: End hunger, achieve food security and improved nutrition, and
   promote sustainable agriculture</p>
 SDG_TARGET: >-
-  <p>Target 2.2: By 2030 end all forms of malnutrition, including achieving by
+  <p>Target 2.2: by 2030 end all forms of malnutrition, including achieving by
   2025 the internationally agreed targets on stunting and wasting in children
   under five years of age, and address the nutritional needs of adolescent
   girls, pregnant and lactating women, and older persons</p>
@@ -10,18 +11,29 @@ SDG_INDICATOR: >-
   <p>Indicator 2.2.1: Prevalence of stunting (height for age &lt;-2 standard
   deviation from the median of the World Health Organization (WHO) Child Growth
   Standards) among children under 5 years of age</p>
-META_LAST_UPDATE: '<p>Last updated: 02 December 2016</p>'
-SDG_RELATED_INDICATORS: <h1>Related indicators as of February 2020</h1>
+SDG_SERIES_DESCR: >-
+  <p>Description of SDG data series. Only applies if the metadata does not apply
+  to all series under this indicator. </p>
+META_LAST_UPDATE: <p>02 December 2016</p>
+SDG_RELATED_INDICATORS: <p>Linkages with any other Goals and Targets.</p>
 SDG_CUSTODIAN_AGENCIES: |-
-  <h1>Institutional information</h1>
-  <h2>Organization(s):</h2>
   <p>United Nations Children&apos;s Fund (UNICEF)</p>
   <p>World Health Organization (WHO)</p>
   <p>World Bank (WB)</p>
+CONTACT: ''
+CONTACT_ORGANISATION: |-
+  <p>United Nations Children&apos;s Fund (UNICEF)</p>
+  <p>World Health Organization (WHO)</p>
+  <p>World Bank (WB)</p>
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <h1>Concepts and definitions</h1>
-
-  <h2>Definition:</h2>
+  <p>Definition:</p>
 
   <p>Prevalence of stunting (height-for-age &lt;-2 standard deviation from the
   median of the World Health Organization (WHO) Child Growth Standards) among
@@ -30,14 +42,17 @@ STAT_CONC_DEF: >-
   <p> (French: pourcentage de sous-alimentation; Spanish: porcentaje de
   sub-alimentaci&#xF3;n)</p>
 
-  <h2>Concepts:</h2>
+  <p>Concepts:</p>
 
   <p>NA.</p>
+UNIT_MEASURE: >-
+  <p>Description of the unit of measurement (proportion, dollars, number of
+  people, etc.)</p>
+CLASS_SYSTEM: >-
+  <p>Describe references to both national and international standards and
+  classification being used. [Information to be provided where applicable.]</p>
+SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <h1>Data sources</h1>
-
-  <h2>Description:</h2>
-
   <p>For the majority of countries, nationally representative household surveys
   constitute the data source. For a limited number of countries data from
   surveillance systems is used if sufficient population coverage is documented
@@ -45,8 +60,6 @@ SOURCE_TYPE: >-
   measurements have to be collected following recommended standard measuring
   techniques (WHO 2008). </p>
 COLL_METHOD: >-
-  <h2>Collection process:</h2>
-
   <p>UNICEF, WHO and the World Bank group jointly review new data sources to
   update the country level estimates. Each agency uses their existing mechanisms
   for obtaining data.</p>
@@ -70,21 +83,15 @@ COLL_METHOD: >-
   information is included in the databases. Once reviewed, feedback is made
   available on whether or not specific data points are accepted, and if not, the
   reasons why. UNICEF uses these data obtained through CRING to feed into the
-  joint dataset. The World Bank Group provides estimates available through the
-  Living Standard Measurement Surveys (LSMS) which usually requires re-analysis
-  of datasets given that the LSMS reports often do not tabulate the stunting
-  data.</p>
+  joint dataset. The World Bank Group provides estimates availabe through the
+  Living Standard Measurement Surveys (LSMS) which ussually requires re-analysis
+  of datasets given theat the LSMS reports often do not tabulate the stunting
+  data. </p>
 FREQ_COLL: >-
-  <h1>Calendar</h1>
-
-  <h2>Data collection:</h2>
-
   <p>Data sources are currently being updated to feed into the 2017 production
   of global and regional estimates and updated country level dataset to be
-  released in May 2017. </p>
+  released in May 2017.</p>
 REL_CAL_POLICY: >-
-  <h2>Data release:</h2>
-
   <p>The next planned release fo global/regional estimates as well as the
   updated country dataset is May 2017. Global and regional estimates are
   released annually every May starting in 2017. The country level dataset is
@@ -93,16 +100,16 @@ REL_CAL_POLICY: >-
   updates (one coinciding with the annual release of the regional/global
   estimates and at least one other update at another time of the year).</p>
 DATA_SOURCE: >-
-  <h1>Data providers</h1>
-
   <p>Data providers vary and most commonly are ministries of health, national
   offices of statistics or national institutes of nutrition. </p>
-COMPILING_ORG: |-
-  <h1>Data compilers</h1>
-  <p>UNICEF, WHO and the World Bank group</p>
+COMPILING_ORG: '<p>UNICEF, WHO and the World Bank group</p>'
+INST_MANDATE: >-
+  <p>Description of the set of rules or other formal set of instructions
+  assigning responsibility as well as the authority to an organisation for the
+  collection, processing, and dissemination of statistics for this
+  indicator.</p>
+OTHER_METHOD: ''
 RATIONALE: >-
-  <h2>Rationale:</h2>
-
   <p>Child growth is an internationally accepted outcome reflecting child
   nutritional status. Child stunting refers to a child who is too short for his
   or her age and is the result of chronic or recurrent malnutrition. Stunting is
@@ -111,52 +118,66 @@ RATIONALE: >-
   physical and cognitive potential. Child stunting is one of the World Health
   Assembly nutrition target indicators.</p>
 REC_USE_LIM: >-
-  <h2>Comments and limitations:</h2>
-
   <p>Survey estimates come with levels of uncertainty due to both sampling error
-  and non-sampling error (e.g. mesasurement technical error, recording error
-  etc.,). None of the two sources of errros have been fully taken into account
-  for deriving estimates neither at country nor at regional and global levels.
-  </p>
+  and non-sampling error (e.g. measurement technical error, recording error
+  etc.,). None of the two sources of errors have been fully taken into account
+  for deriving estimates neither at country nor at regional and global
+  levels.</p>
 DATA_COMP: >-
-  <h1>Methodology</h1>
-
-  <h2>Computation method:</h2>
-
   <p>Survey estimates are based on standardized methodology using the WHO Child
   Growth Standards as described elsewhere (Ref: Anthro software manual). Global
   and regional estimates are based on methodology outlined in UNICEF-WHO-The
   World Bank: Joint child malnutrition estimates - Levels and trends
   (UNICEF/WHO/WB 2012 )</p>
+DATA_VALIDATION: >-
+  <p>Description of process of monitoring the results of data compilation and
+  ensuring the quality of the statistical results, including consultation
+  process with countries on the national data submitted to the SDGs Indicators
+  Database. Descriptions and links to all relevant reference materials should be
+  provided.</p>
+ADJUSTMENT: >-
+  <p>Description of any adjustments with respect to use of standard
+  classifications and harmonization of breakdowns for age group and other
+  dimensions, or adjustments made for compliance with specific international or
+  national definitions.</p>
 IMPUTATION: >-
-  <h2>Treatment of missing values:</h2>
-
   <ul>
-    <li><strong><em>At country level:</em></strong></li>
+    <li>At country level</li>
   </ul>
 
   <p>No imputation methodology is applied to derive estimates for countries or
   years where no data is avaialble.</p>
 
   <ul>
-    <li><strong><em>At regional and global levels:</em></strong></li>
+    <li>At regional and global levels</li>
   </ul>
 
   <p>Countries and years are treated as missing randomly following a multilevel
   modeling approach (International Journal of Epidemiology 2004;33:1260-70).</p>
 REG_AGG: >-
-  <h2>Regional aggregates:</h2>
-
   <p>Regional aggregates are available for the following classifications: UN,
   MDG, UNICEF, WHO, The World Bank regions and income groups.</p>
+DOC_METHOD: >-
+  <p>Description of methodology used by countries for the compilation of data at
+  national level and the relevant international recommendations and guidelines
+  available to countries. Descriptions and links to all relevant reference
+  materials should be provided. </p>
+QUALITY_MGMNT: >-
+  <p>Description of systems and frameworks in place within an organisation to
+  manage the quality of statistical products and processes.</p>
+QUALITY_ASSURE: >-
+  <p>Description of practices and guidelines focusing on quality in general and
+  dealing with quality of statistical programmes at your agency, including
+  measures for ensuring the efficient use of resources.</p>
+QUALITY_ASSMNT: >-
+  <p>Description of overall evaluation of fulfilling quality requirements, based
+  on standard quality criteria.</p>
 COVERAGE: >-
-  <h1>Data availability</h1>
-
-  <h2>Description:</h2>
+  <p><strong>Data availability:</strong></p>
 
   <p>More than 150 countries.</p>
 
-  <h2>Time series:</h2>
+  <p><strong>Time series:</strong></p>
 
   <p>At country level, data are provided for the years where surveys are
   included in the joint dataset. Survey years range from 1983 to 2016. For the
@@ -164,7 +185,7 @@ COVERAGE: >-
   available estimate upon release each year (i.e. in Sept 2016 edition of the
   Joint Malnutrition Estimates the latest available estimate was for 2015). </p>
 
-  <h2>Disaggregation:</h2>
+  <p><strong>Disaggregation:</strong></p>
 
   <p>Global and regional estimates refer to the age group of children under 5
   years, sexes combined. Disaggregated country data are available in a majority
@@ -172,7 +193,7 @@ COVERAGE: >-
   joint data set to include sub national and stratified estimates (e.g. sex, age
   groups, wealth, mothers&apos; education, residence) in 2017.</p>
 COMPARABILITY: >-
-  <h2>Sources of discrepancies:</h2>
+  <p><strong>Sources of discrepancies:</strong></p>
 
   <p>The standard analysis approach to construct the joint data set aims for a
   maximum comparability of country estimates. For the inclusion of survey
@@ -193,20 +214,13 @@ COMPARABILITY: >-
   performed. Any adjustment or conversion is transparently stated in the
   annotated joint data set.</p>
 OTHER_DOC: >-
-  <h1>References</h1>
+  <p><strong>URL:</strong></p>
 
-  <h2>URL:</h2>
+  <p>data.unicef.org/nutrition/malnutrition.html;
+  http://www.who.int/nutgrowthdb/estimates2014/en/;
+  http://datatopics.worldbank.org/child-malnutrition;</p>
 
-  <p><a
-  href="http://data.unicef.org/nutrition/malnutrition.html">http://data.unicef.org/nutrition/malnutrition.html</a></p>
-
-  <p><a
-  href="http://www.who.int/nutgrowthdb/estimates2014/en/">http://www.who.int/nutgrowthdb/estimates2014/en/</a></p>
-
-  <p><a
-  href="http://datatopics.worldbank.org/child-malnutrition">http://datatopics.worldbank.org/child-malnutrition</a></p>
-
-  <h2>References:</h2>
+  <p><strong>References:</strong></p>
 
   <p>United Nations Children&#x2019;s Fund, World Health Organization, The World
   Bank (2012). UNICEFWHO-World Bank Joint Child Malnutrition Estimates. (UNICEF,
@@ -219,9 +233,9 @@ OTHER_DOC: >-
   <p>Yang H and de Onis M. <a
   href="http://www.who.int/entity/nutgrowthdb/publications/algorithms/en/index.html">Algorithms
   for converting estimates of child malnutrition based on the NCHS reference
-  into estimates based on the WHO Child Growth Standards</a> BMC Pediatrics
-  2008, 8:19 (05 May 2008) (<a
-  href="http://www.biomedcentral.com/1471-2431/8/19">http://www.biomedcentral.com/1471-2431/8/19</a>).</p>
+  into estimates based on the WHO Child Growth Standards</a> <br>BMC Pediatrics
+  2008, 8:19 (05 May 2008)
+  <br>(http://www.biomedcentral.com/1471-2431/8/19).</p>
 
   <p>World Health Organization (2008). Training Course on Child Growth
   Assessment. Geneva, WHO, 2008.</p>
@@ -229,3 +243,5 @@ OTHER_DOC: >-
   <p>International Journal of Epidemiology 2004;33:1260-70</p>
 
   <p>International Journal of Epidemiology 2003;32:518-26</p>
+
+  <p>http://www.biomedcentral.com/1471-2431/8/19</p>

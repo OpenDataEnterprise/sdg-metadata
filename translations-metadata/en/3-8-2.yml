@@ -1,24 +1,33 @@
+SDG_INDICATOR_INFO: ''
 SDG_GOAL: '<p>Goal 3: Ensure healthy lives and promote well-being for all at all ages</p>'
 SDG_TARGET: >-
   <p>Target 3.8: Achieve universal health coverage, including financial risk
-  protection, access to quality essential health-care services and access to
-  safe, effective, quality and affordable essential medicines and vaccines for
-  all</p>
+  protection, access to quality</p>
+
+  <p>essential health-care services and access to safe, effective, quality and
+  affordable essential medicines and</p>
+
+  <p>vaccines for all</p>
 SDG_INDICATOR: >-
   <p>Indicator 3.8.2: Proportion of population with large household expenditure
-  on health as a share of total household expenditure or income</p>
-META_LAST_UPDATE: '<p>Last updated: March 2019</p>'
-SDG_RELATED_INDICATORS: |-
-  <h1>Related indicators as of February 2020</h1>
-  <p>SDG indicators: 3.8.1; 1.1.1 and 1.2.1</p>
-SDG_CUSTODIAN_AGENCIES: |-
-  <h1>Institutional information</h1>
-  <h2>Organization:</h2>
-  <p>World Health Organization (WHO)</p>
-STAT_CONC_DEF: >-
-  <h1>Concepts and definitions</h1>
+  on health as a share of total</p>
 
-  <h2>Definition:</h2>
+  <p>household expenditure or income</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: <p>March 2019</p>
+SDG_RELATED_INDICATORS: '<p>SDG indicators: 3.8.1; 1.1.1 and 1.2.1</p>'
+SDG_CUSTODIAN_AGENCIES: <p>World Health Organization (WHO)</p>
+CONTACT: ''
+CONTACT_ORGANISATION: <p>World Health Organization (WHO)</p>
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  <p><strong>Definition:</strong></p>
 
   <p>Proportion of the population with large household expenditure on health as
   a share of total household expenditure or income. </p>
@@ -27,7 +36,9 @@ STAT_CONC_DEF: >-
   health&#x201D;: greater than 10% and greater than 25% of total household
   expenditure or income.</p>
 
-  <h2>Concepts:</h2>
+  <p> </p>
+
+  <p><strong>Concepts:</strong></p>
 
   <p>Indicator 3.8.2 is defined as the &#x201C;Proportion of the population with
   large household expenditure on health as a share of total household
@@ -48,28 +59,28 @@ STAT_CONC_DEF: >-
   remittances), savings or loans <strong>but do not include any third-party
   payer reimbursement. </strong>As such they only grant access to the health
   services and health products individuals can pay for, without any solidarity
-  between the healthy and the sick beyond the household<sup><a
-  href="#footnote-1" id="footnote-ref-1">[1]</a></sup> and solely based on the
-  willingness and ability of the household to pay. Direct health care payments
-  are labelled Out-Of-Pocket (OOP) payments in the classification of health care
-  financing schemes (HF) of the international Classification for Health Accounts
-  (ICHA). OOP health expenditures are the most unequitable source of funding for
-  the health system. </p>
+  between the healthy and the sick beyond the household<sup><sup><a
+  href="#footnote-2" id="footnote-ref-2">[1]</a></sup></sup> and solely based on
+  the willingness and ability of the household to pay. Direct health care
+  payments are labelled Out-Of-Pocket (OOP) payments in the classification of
+  health care financing schemes (HF) of the international Classification for
+  Health Accounts (ICHA). OOP health expenditures are the most unequitable
+  source of funding for the health system. </p>
 
   <p>The components of a household&#x2019;s health care consumption expenditure
   so defined should be consistent with division 06 on health of the UN
   Classification of Individual Consumption According to Purpose (COICOP) which
   currently includes expenditures on medicines and medical products (06.1),
   outpatient care services (06.2) and inpatient care services (06.3) but is
-  being expanded<sup><a href="#footnote-2"
-  id="footnote-ref-2">[2]</a></sup>.</p>
+  being expanded<sup><sup><a href="#footnote-3"
+  id="footnote-ref-3">[2]</a></sup></sup>.</p>
 
   <p>Further information on definitions and classifications (for example by
   provider, by beneficiary characteristics) of health expenditures should be
   consistent with the <a
-  href="http://www.who.int/health-accounts/methodology/en/">international
-  classification for health accounts</a> and its family of classifications. ICHA
-  results from collaboration between OECD, Eurostat and the World Health
+  href="http://www.who.int/health-accounts/methodology/en/"><u>international
+  classification for health accounts</u></a> and its family of classifications.
+  ICHA results from collaboration between OECD, Eurostat and the World Health
   Organization. </p>
 
   <p><strong><em>Denominator</em></strong></p>
@@ -92,8 +103,8 @@ STAT_CONC_DEF: >-
   taxes (net of refunds), compulsory fees and fines. Total income is generally
   composed of income from employment, property income, income from household
   production of services for own consumption, transfers received in cash and
-  goods, transfers received as services<sup><a href="#footnote-3"
-  id="footnote-ref-3">[3]</a></sup>. </p>
+  goods, transfers received as services<sup><sup><a href="#footnote-4"
+  id="footnote-ref-4">[3]</a></sup></sup>. </p>
 
   <p>Income is more difficult to measure accurately due to its greater
   variability over time. Consumption is less variable over time and easier to
@@ -113,24 +124,23 @@ STAT_CONC_DEF: >-
   indicator measures financial hardship </p>
 
   <p> (see section on comments and limitations). </p><div
-  class="footnotes"><div><sup class="footnote-number" id="footnote-1">1</sup><p>
+  class="footnotes"><div><sup class="footnote-number" id="footnote-2">1</sup><p>
   <a
-  href="http://www.oecd-ilibrary.org/social-issues-migration-health/a-system-of-health-accounts/classification-of-health-care-financing-schemes-icha-hf_9789264116016-9-en">http://www.oecd-ilibrary.org/social-issues-migration-health/a-system-of-health-accounts/classification-of-health-care-financing-schemes-icha-hf_9789264116016-9-en</a>  
-  <a href="#footnote-ref-1">&#x2191;</a></p></div><div><sup
-  class="footnote-number" id="footnote-2">2</sup><p> Agenda item 3(l) available
+  href="http://www.oecd-ilibrary.org/social-issues-migration-health/a-system-of-health-accounts/classification-of-health-care-financing-schemes-icha-hf_9789264116016-9-en">http://www.oecd-ilibrary.org/social-issues-migration-health/a-system-of-health-accounts/classification-of-health-care-financing-schemes-icha-hf_9789264116016-9-en</a>
+  <a href="#footnote-ref-2">&#x2191;</a></p></div><div><sup
+  class="footnote-number" id="footnote-3">2</sup><p> Agenda item 3(l) available
   at <a
   href="https://unstats.un.org/unsd/statcom/49th-session/documents/">https://unstats.un.org/unsd/statcom/49th-session/documents/</a>;
   <a
-  href="http://unstats.un.org/unsd/cr/registry/regcs.asp?Cl=5&amp;Lg=1&amp;Co=06.1">http://unstats.un.org/unsd/cr/registry/regcs.asp?Cl=5&amp;Lg=1&amp;Co=06.1</a> 
-  <a href="#footnote-ref-2">&#x2191;</a></p></div><div><sup
-  class="footnote-number" id="footnote-3">3</sup><p> <a
-  href="http://www.ilo.org/public/english/bureau/stat/download/17thicls/r2hies.pdf">http://www.ilo.org/public/english/bureau/stat/download/17thicls/r2hies.pdf</a>  
-  <a href="#footnote-ref-3">&#x2191;</a></p></div></div>
+  href="http://unstats.un.org/unsd/cr/registry/regcs.asp?Cl=5&amp;Lg=1&amp;Co=06.1">http://unstats.un.org/unsd/cr/registry/regcs.asp?Cl=5&amp;Lg=1&amp;Co=06.1</a>
+  <a href="#footnote-ref-3">&#x2191;</a></p></div><div><sup
+  class="footnote-number" id="footnote-4">3</sup><p> <a
+  href="http://www.ilo.org/public/english/bureau/stat/download/17thicls/r2hies.pdf">http://www.ilo.org/public/english/bureau/stat/download/17thicls/r2hies.pdf</a>
+  <a href="#footnote-ref-4">&#x2191;</a></p></div></div>
+UNIT_MEASURE: ''
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <h1>Data sources</h1>
-
-  <h2>Description:</h2>
-
   <p>The recommended data sources for the monitoring of the &#x201C;Proportion
   of the population with large household expenditure on health as a share of
   total household expenditure or income&#x201D; are household surveys with
@@ -143,10 +153,11 @@ SOURCE_TYPE: >-
   is socio-economic or living standards surveys; however, some of these surveys
   may not collect information on total household consumption expenditures
   &#x2013; for example, when a country measures poverty using income as the
-  welfare measure<sup><a href="#footnote-4" id="footnote-ref-4">[4]</a></sup>.
-  The most important criterion for selecting a data source to measure SDG
-  indicator 3.8.2 is the availability of both household consumption expenditure
-  on health and total household consumption expenditures.</p>
+  welfare measure<sup><sup><a href="#footnote-5"
+  id="footnote-ref-5">[4]</a></sup></sup>. The most important criterion for
+  selecting a data source to measure SDG indicator 3.8.2 is the availability of
+  both household consumption expenditure on health and total household
+  consumption expenditures.</p>
 
   <p>When socio-economic or living standards surveys are used to measure SDG
   indicator 3.8.2, any challenge for cross-country comparability of SDG
@@ -154,22 +165,20 @@ SOURCE_TYPE: >-
   type of household survey, given the focus on household health expenditure
   there is a need to improve the current survey instruments for cross-country
   comparability. The World Health Organization is collaborating with different
-  UN agencies and other important stakeholder to ensure this happens<sup><a
-  href="#footnote-5" id="footnote-ref-5">[5]</a></sup>.</p><div
-  class="footnotes"><div><sup class="footnote-number"
-  id="footnote-4">4</sup><p><sup> </sup><a
+  UN agencies and other important stakeholder to ensure this happens<sup><sup><a
+  href="#footnote-6" id="footnote-ref-6">[5]</a></sup></sup>.</p><div
+  class="footnotes"><div><sup class="footnote-number" id="footnote-5">4</sup><p>
+  <a
   href="http://unstats.un.org/sdgs/metadata/files/Metadata-01-01-01a.pdf">http://unstats.un.org/sdgs/metadata/files/Metadata-01-01-01a.pdf</a>
-  <a href="#footnote-ref-4">&#x2191;</a></p></div><div><sup
-  class="footnote-number" id="footnote-5">5</sup><p> One example is the WHO
-  engagement in the ongoing revision of COICOP by UNSD  <a
+  <a href="#footnote-ref-5">&#x2191;</a></p></div><div><sup
+  class="footnote-number" id="footnote-6">5</sup><p> One example is the WHO
+  engagement in the ongoing revision of COICOP by UNSD <a
   href="https://unstats.un.org/unsd/class/revisions/coicop_revision.asp">https://unstats.un.org/unsd/class/revisions/coicop_revision.asp</a>
-  . Another example is a BMGF project WHO is supporting  to improve the
-  measurement of household health expenditures  <a
-  href="http://www.indepth-network.org/projects/ihope">http://www.indepth-network.org/projects/ihope</a>      
-  <a href="#footnote-ref-5">&#x2191;</a></p></div></div>
+  . Another example is a BMGF project WHO is supporting to improve the
+  measurement of household health expenditures <a
+  href="http://www.indepth-network.org/projects/ihope">http://www.indepth-network.org/projects/ihope</a>
+  <a href="#footnote-ref-6">&#x2191;</a></p></div></div>
 COLL_METHOD: >-
-  <h2>Collection process:</h2>
-
   <p>WHO obtains household survey data from national statistical offices where
   the denominator and numerator of the health expenditure ratio is constructed
   following their own guidelines either directly by them or by WHO consultants.
@@ -201,7 +210,7 @@ COLL_METHOD: >-
   <p><em>For the denominator of the health expenditure ratio</em></p>
 
   <ul>
-    <li>Compare the logarithm of total per capita consumption in a benchmark source with the logarithm of total per capita consumption estimated from the survey. Both are expressed on a monthly basis in 2011 international (PPP) $. The benchmark source is taken from Povcalnet<sup><a href="#footnote-6" id="footnote-ref-6">[6]</a></sup> if available, and otherwise from the World Development Indicators (WDI)<sup><a href="#footnote-7" id="footnote-ref-7">[7]</a></sup>, computed as the household final consumption expenditures in constant 2011 international divided by total population. When the difference between the logarithm of total per capita consumption in the benchmark source and the logarithm of the value estimated from the survey as a share of the logarithm of total per capita consumption in the benchmark is greater than 10% when the comparison is with PovcalNet and greater than 15% when the comparison is made with the WDI the survey point is identified as an outlier internationally in terms of consumption per capita. </li>
+    <li>Compare the logarithm of total per capita consumption in a benchmark source with the logarithm of total per capita consumption estimated from the survey. Both are expressed on a monthly basis in 2011 international (PPP) $. The benchmark source is taken from Povcalnet<sup><sup><a href="#footnote-7" id="footnote-ref-7">[6]</a></sup></sup> if available, and otherwise from the World Development Indicators (WDI)<sup><sup><a href="#footnote-8" id="footnote-ref-8">[7]</a></sup></sup>, computed as the household final consumption expenditures in constant 2011 international divided by total population. When the difference between the logarithm of total per capita consumption in the benchmark source and the logarithm of the value estimated from the survey as a share of the logarithm of total per capita consumption in the benchmark is greater than 10% when the comparison is with PovcalNet and greater than 15% when the comparison is made with the WDI the survey point is identified as an outlier internationally in terms of consumption per capita. </li>
     <li>Compare the poverty headcount estimated from the survey at the $1.90 a day poverty line in 2011 PPPs with the poverty incidence reported in PovcalNet at the same poverty line (benchmark value). When the absolute difference between the benchmark value and the survey estimate exceeds 10 percentage points the survey point is identified as an outlier in the incidence of extreme poverty and flagged for possible exclusion. </li>
     <li>Compare the poverty headcount estimated from the survey at the $3.10 a day poverty line in 2011 PPPs with the poverty incidence reported in PovcalNet at the same poverty line (benchmark value). When the absolute difference between the benchmark value and the survey estimate exceeds 10 percentage points the survey point is identified as an outlier in poverty headcount at $3.10 a day and flagged for possible exclusion.</li>
   </ul>
@@ -209,7 +218,7 @@ COLL_METHOD: >-
   <p><em>For the numerator of the health expenditure ratio</em></p>
 
   <ul>
-    <li>Compare the average health expenditure ratio in the survey to a benchmark average budget share constructed as the ratio of the aggregate measure of household out-of-pocket expenditures in current local currency and aggregate household final consumption expenditure in current local currency. When the absolute difference exceeds 5 percentage points the survey point is identified as an outlier in terms of household budget share spent on health and flagged for possible exclusion. The macro-indicator of household out-of-pocket expenditures is available from the <a href="http://www.who.int/health-accounts/ghed/en/">Global Health Expenditure Database</a> (GHED)<sup><a href="#footnote-8" id="footnote-ref-8">[8]</a></sup> and the <a href="http://data.worldbank.org/data-catalog/world-development-indicators">World Development Indicators Database</a> (WDI)<sup><a href="#footnote-9" id="footnote-ref-9">[9]</a></sup>. Information on household final consumption expenditure is also extracted from WDI (series code: NE.CON.PRVT.CN).</li>
+    <li>Compare the average health expenditure ratio in the survey to a benchmark average budget share constructed as the ratio of the aggregate measure of household out-of-pocket expenditures in current local currency and aggregate household final consumption expenditure in current local currency. When the absolute difference exceeds 5 percentage points the survey point is identified as an outlier in terms of household budget share spent on health and flagged for possible exclusion. The macro-indicator of household out-of-pocket expenditures is available from the <a href="http://www.who.int/health-accounts/ghed/en/"><u>Global Health Expenditure Database</u></a> (GHED)<sup><sup><a href="#footnote-9" id="footnote-ref-9">[8]</a></sup></sup> and the <a href="http://data.worldbank.org/data-catalog/world-development-indicators"><u>World Development Indicators Database</u></a> (WDI)<sup><sup><a href="#footnote-10" id="footnote-ref-10">[9]</a></sup></sup>. Information on household final consumption expenditure is also extracted from WDI (series code: NE.CON.PRVT.CN).</li>
   </ul>
 
   <p>These benchmarks are also used to decide between two estimates for those
@@ -246,48 +255,40 @@ COLL_METHOD: >-
   the methodology simple. Results of such collaborations are not yet included in
   the database assembled by WHO and the World Bank but estimates produced by a
   country will be subject to the same quality assurance process just
-  described.</p><div class="footnotes"><div><sup class="footnote-number"
-  id="footnote-6">6</sup><p> <a
-  href="http://iresearch.worldbank.org/PovcalNet/povOnDemand.aspx">http://iresearch.worldbank.org/PovcalNet/povOnDemand.aspx</a> 
-  <a href="#footnote-ref-6">&#x2191;</a></p></div><div><sup
-  class="footnote-number" id="footnote-7">7</sup><p> <a
-  href="https://datacatalog.worldbank.org/dataset/world-development-indicators">https://datacatalog.worldbank.org/dataset/world-development-indicators</a> 
+  described.</p>
+
+  <p> </p><div class="footnotes"><div><sup class="footnote-number"
+  id="footnote-7">6</sup><p> <a
+  href="http://iresearch.worldbank.org/PovcalNet/povOnDemand.aspx">http://iresearch.worldbank.org/PovcalNet/povOnDemand.aspx</a>
   <a href="#footnote-ref-7">&#x2191;</a></p></div><div><sup
-  class="footnote-number" id="footnote-8">8</sup><p> <a
-  href="http://www.who.int/health-accounts/ghed/en/">http://www.who.int/health-accounts/ghed/en/</a> 
+  class="footnote-number" id="footnote-8">7</sup><p> <a
+  href="https://datacatalog.worldbank.org/dataset/world-development-indicators">https://datacatalog.worldbank.org/dataset/world-development-indicators</a>
   <a href="#footnote-ref-8">&#x2191;</a></p></div><div><sup
-  class="footnote-number" id="footnote-9">9</sup><p> <a
-  href="https://datacatalog.worldbank.org/dataset/world-development-indicators">https://datacatalog.worldbank.org/dataset/world-development-indicators</a> 
-  <a href="#footnote-ref-9">&#x2191;</a></p></div></div>
+  class="footnote-number" id="footnote-9">8</sup><p> <a
+  href="http://www.who.int/health-accounts/ghed/en/">http://www.who.int/health-accounts/ghed/en/</a>
+  <a href="#footnote-ref-9">&#x2191;</a></p></div><div><sup
+  class="footnote-number" id="footnote-10">9</sup><p> <a
+  href="https://datacatalog.worldbank.org/dataset/world-development-indicators">https://datacatalog.worldbank.org/dataset/world-development-indicators</a>
+  <a href="#footnote-ref-10">&#x2191;</a></p></div></div>
 FREQ_COLL: >-
-  <h1>Calendar</h1>
-
-  <h2>Data collection:</h2>
-
   <p>Data collection follows a country&#x2019;s plan to conduct household
   consumption expenditure surveys, household budget surveys and household income
   and expenditure survey.</p>
 REL_CAL_POLICY: >-
-  <h2>Data release:</h2>
-
   <p>Estimates on the proportion of the population with large household
   expenditure on health as a share of total household expenditure or income was
   released on December 2017. Going forward, new data will be added as more
   information is received from nominated focal points (see collection process).
   Updates </p>
 
-  <p>of regional and global estimates are planned every two years. </p>
+  <p>of regional and global estimates are planned every two years</p>
 DATA_SOURCE: >-
-  <h1>Data providers</h1>
-
   <p>National Statistical Offices in collaboration with Ministries of health.
   See data sources for further details. </p>
-COMPILING_ORG: |-
-  <h1>Data compilers</h1>
-  <p>The World Health Organization and the World Bank.</p>
+COMPILING_ORG: <p>The World Health Organization and the World Bank.</p>
+INST_MANDATE: ''
+OTHER_METHOD: ''
 RATIONALE: >-
-  <h2>Rationale:</h2>
-
   <p>Target 3.8 is defined as &#x201C;Achieve universal health coverage,
   including financial risk protection, access to quality essential health-care
   services and access to safe, effective, quality and affordable essential
@@ -332,22 +333,22 @@ RATIONALE: >-
   (indicator 3.8.2) please consult Wagstaff et al. (2018) and chapter 2 in the
   WHO and World Bank report on &#x201C;Tracking universal health coverage: 2017
   global monitoring report&#x201D;.</p>
-REC_USE_LIM: >-
-  <h2>Comments and limitations:</h2>
+
+  <p>4.b. Comments and limitations</p>
 
   <p>It is feasible to monitor indicator 3.8.2 on a regular basis using the same
   household survey data that is used to monitor SDG target 1.1 and 1.2 on
-  poverty<sup><a href="#footnote-10" id="footnote-ref-10">[10]</a></sup>. These
-  surveys are also regularly conducted for other purposes such as calculating
-  weights for the Consumer Price Index. These surveys are conducted typically by
-  NSOs. Thus, monitoring the proportion of the population with large household
-  expenditures on health as a share of total household consumption or income
-  does not add any additional data collection burden so long as the health
-  expenditure component of the household non-food consumption data can be
-  identified. While this is an advantage, indicator 3.8.2 suffers from the same
-  challenges of timeliness, frequency, data quality and comparability of surveys
-  than SDG indicator 1.1.1. However, indicator 3.8.2 has its own conceptual and
-  empirical limitations.</p>
+  poverty<sup><sup><a href="#footnote-11"
+  id="footnote-ref-11">[10]</a></sup></sup>. These surveys are also regularly
+  conducted for other purposes such as calculating weights for the Consumer
+  Price Index. These surveys are conducted typically by NSOs. Thus, monitoring
+  the proportion of the population with large household expenditures on health
+  as a share of total household consumption or income does not add any
+  additional data collection burden so long as the health expenditure component
+  of the household non-food consumption data can be identified. While this is an
+  advantage, indicator 3.8.2 suffers from the same challenges of timeliness,
+  frequency, data quality and comparability of surveys than SDG indicator 1.1.1.
+  However, indicator 3.8.2 has its own conceptual and empirical limitations.</p>
 
   <p>First, indicator 3.8.2 attempts to identify financial hardship that
   individuals face when using their income, savings or taking loans to pay for
@@ -402,44 +403,43 @@ REC_USE_LIM: >-
 
   <p>There are other indicators used to measure financial hardship. WHO uses a
   framework which includes , in addition to indicator 3.8.2, a definition of
-  large health expenditure in relation to non-subsistence spending<sup><a
-  href="#footnote-11" id="footnote-ref-11">[11]</a></sup> <sup><a
-  href="#footnote-12" id="footnote-ref-12">[12]</a></sup> <sup><a
-  href="#footnote-13" id="footnote-ref-13">[13]</a></sup>.</p><div
+  large health expenditure in relation to non-subsistence spending<sup><sup><a
+  href="#footnote-12" id="footnote-ref-12">[11]</a></sup>,<sup><a
+  href="#footnote-13" id="footnote-ref-13">[12]</a></sup>,<sup><a
+  href="#footnote-14" id="footnote-ref-14">[13]</a></sup>,</sup>.</p><div
   class="footnotes"><div><sup class="footnote-number"
-  id="footnote-10">10</sup><p> <a
-  href="http://unstats.un.org/sdgs/metadata/files/Metadata-01-01-01a.pdf">http://unstats.un.org/sdgs/metadata/files/Metadata-01-01-01a.pdf</a>  
-  <a href="#footnote-ref-10">&#x2191;</a></p></div><div><sup
-  class="footnote-number" id="footnote-11">11</sup><p>Chapter 2 in
+  id="footnote-11">10</sup><p> <a
+  href="http://unstats.un.org/sdgs/metadata/files/Metadata-01-01-01a.pdf">http://unstats.un.org/sdgs/metadata/files/Metadata-01-01-01a.pdf</a>
+  <a href="#footnote-ref-11">&#x2191;</a></p></div><div><sup
+  class="footnote-number" id="footnote-12">11</sup><p> Chapter 2 in
   &#x201C;Tracking universal health coverage: 2017 global monitoring
   report&#x201D;, World Health Organization and International Bank for
-  Reconstruction and Development/  The World Bank; 2017; <a
+  Reconstruction and Development/ The World Bank; 2017; <a
   href="http://www.who.int/healthinfo/indicators/2015/en/">http://www.who.int/healthinfo/indicators/2015/en/</a>
-  ;  <a href="#footnote-ref-11">&#x2191;</a></p></div><div><sup
-  class="footnote-number" id="footnote-12">12</sup><p>Xu, K., Evans, D. B.,
+  ; <a href="#footnote-ref-12">&#x2191;</a></p></div><div><sup
+  class="footnote-number" id="footnote-13">12</sup><p>Xu, K., Evans, D. B.,
   Carrin, G., Aguilar-Rivera, A. M., Musgrove, P., and Evans, T. (2007),
   &#x201C;Protecting Households From Catastrophic Health Spending,&#x201D;
   <em>Health Affairs</em>, 26, 972&#x2013;983. Xu, L., Evans, D., Kawabata, K.,
   Zeramdini, R., Klavus, J., and Murray, C. (2003), &#x201C;Households
   Catastrophic Health Expenditure: A Multi-Country Analysis,&#x201D; <em>The
-  Lancet</em>, 326, 111&#x2013;117.  <a
-  href="#footnote-ref-12">&#x2191;</a></p></div><div><sup
-  class="footnote-number" id="footnote-13">13</sup><p><a
+  Lancet</em>, 326, 111&#x2013;117. <a
+  href="#footnote-ref-13">&#x2191;</a></p></div><div><sup
+  class="footnote-number" id="footnote-14">13</sup><p> <a
   href="http://www.euro.who.int/en/health-topics/Health-systems/health-systems-financing/publications/clusters/universal-health-coverage-financial-protection">http://www.euro.who.int/en/health-topics/Health-systems/health-systems-financing/publications/clusters/universal-health-coverage-financial-protection</a>;<a
   href="http://applications.emro.who.int/dsaf/EMROPUB_2016_EN_19169.pdf?ua=1">http://applications.emro.who.int/dsaf/EMROPUB_2016_EN_19169.pdf?ua=1</a>
   ; <a href="http://apps.searo.who.int/uhc">http://apps.searo.who.int/uhc</a><a
   href="http://www.paho.org/hq/index.php?option=com_content&amp;view=article&amp;id=11065%3A2015-universal-health-coverage-latin-america-caribbean&amp;catid=3316%3Apublications&amp;Itemid=3562&amp;lang=en">http://www.paho.org/hq/index.php?option=com_content&amp;view=article&amp;id=11065%3A2015-universal-health-coverage-latin-america-caribbean&amp;catid=3316%3Apublications&amp;Itemid=3562&amp;lang=en</a>
-  <a href="#footnote-ref-13">&#x2191;</a></p></div></div>
+  <a href="#footnote-ref-14">&#x2191;</a></p></div></div>
+REC_USE_LIM: ''
 DATA_COMP: >-
-  <h1>Methodology</h1>
-
-  <h2>Computation method:</h2>
-
   <p>Population weighted average number of people with large household
   expenditure on health as a share of total household expenditure or income</p>
 
-  <p><img
-  src="data:image/png;base64,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"></p>
+  <p> </p>
+
+  <p> <img
+  src="data:image/png;base64,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"></p>
 
   <p>where <em>i </em>denotes a household,<em> 1()</em> is the indicator
   function that takes on the value 1 if the bracketed expression is true, and 0
@@ -453,8 +453,10 @@ DATA_COMP: >-
   information about the methodology please refer to Wagstaff et al (2018) and
   chapter 2 in the WHO and World Bank 2017 report on tracking universal health
   coverage.</p>
+DATA_VALIDATION: ''
+ADJUSTMENT: ''
 IMPUTATION: >-
-  <h2>Treatment of missing values:</h2>
+  <p><strong>Treatment of missing values:</strong></p>
 
   <p>At the country level no imputation is attempted to produce estimates. The
   proportion of the population with large household expenditure on health as a
@@ -467,8 +469,6 @@ IMPUTATION: >-
   survey. A series of tests is performed to retain the best performing series
   (see collection process).</p>
 REG_AGG: >-
-  <h2>Regional aggregates:</h2>
-
   <p>To construct regional and global level estimates, when survey-based
   estimates are not available for the reference years of 2000, 2005 or 2010 all
   survey-based estimates within a 5 year window of the reference year are
@@ -478,14 +478,14 @@ REG_AGG: >-
   tracking universal health care coverage).</p>
 
   <p>The World Bank and the World Health Organization use their own regional
-  grouping, in addition to the regional breakdown proposed for the SDG by
-  UNSD.</p>
-DOC_METHOD: >-
-  <h2>Methods and guidance available to countries for the compilation of the
-  data at the national level:</h2>
-QUALITY_ASSURE: <h2>Quality assurance:</h2>
+  grouping, in addition to the regional breakdown proposed for the SDG by UNSD.
+  </p>
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
 COVERAGE: >-
-  <h1>Data availability</h1>
+  <p>Data availability:</p>
 
   <p>This indicator relies primarily on the same data sources that are used to
   monitor SDG indicator 1.1.1 with the additional requirement of the
@@ -498,7 +498,7 @@ COVERAGE: >-
   they did not pass the quality assurance process or were not part of a
   consistent time series. As of December 2017 a total of 553 datapoints from 132
   countries or territories spanning the period 1984-2015 have been used to
-  produce SDG indicator 3.8.2. </p>
+  produce SDG indicator 3.8.2 . </p>
 
   <p>Data availability measured in terms of the number of countries that WHO and
   the World Bank have currently reviewed and retained for the estimation of the
@@ -534,10 +534,10 @@ COVERAGE: >-
       </tr>
       <tr>
         <td>
-          <p>&#xA0;</p>
+          <p> </p>
         </td>
         <td>
-          <p>&#xA0;</p>
+          <p> </p>
         </td>
         <td>
           <p>(nb of MS)</p>
@@ -664,7 +664,7 @@ COVERAGE: >-
       </tr>
       <tr>
         <td>
-          <p>Western Asia&#xA0;(M49) and Northern Africa (M49)</p>
+          <p>Western Asia (M49) and Northern Africa (M49)</p>
         </td>
         <td>
           <p>23</p>
@@ -798,13 +798,13 @@ COVERAGE: >-
   please consult WHO and World Bank 2017 report on tracking universal health ;
   Wagstaff et al 2018.</p>
 
-  <h2>Time series:</h2>
+  <p>Time series:</p>
 
   <p>The frequency of such data is similar to the frequency of the data used to
   produced SDG indicator 1.1.1. It varies across countries but on average, this
   ranges from an annual 1 year basis to 3 to 5 years.</p>
 
-  <h2>Disaggregation:</h2>
+  <p>Disaggregation:</p>
 
   <p>The following disaggregation is possible in so far as the survey has been
   designed to provide representative estimates at such level:</p>
@@ -815,7 +815,7 @@ COVERAGE: >-
     <li>Quintiles of the household welfare measures (total household expenditure or income). See comments and limitations for the sensitivity of the disaggregation to the choice of the welfare measure.</li>
   </ul>
 COMPARABILITY: >-
-  <h2>Sources of discrepancies:</h2>
+  <p>Sources of discrepancies:</p>
 
   <p>Country level estimates are all based on nationally representative surveys
   with information on both household total expenditure or income and household
@@ -825,16 +825,16 @@ COMPARABILITY: >-
   instance, regional teams from the World Bank produce standardized versions of
   raw datasets following common regional procedures: the ECAPOV harmonized
   datasets are based on the Living Standards Measurement Study datasets &#x2013;
-  LSMS<sup><a href="#footnote-14" id="footnote-ref-14">[14]</a></sup> or
-  household budget surveys (HBS) collected in the World Bank&#x2019;s Europe and
-  Central Asia region; the SHIP collection results from a poverty program on
+  LSMS<sup><sup><a href="#footnote-15" id="footnote-ref-15">[14]</a></sup></sup>
+  or household budget surveys (HBS) collected in the World Bank&#x2019;s Europe
+  and Central Asia region; the SHIP collection results from a poverty program on
   harmonized household surveys in the World Bank&#x2019;s African region, while
   the SHES collection was developed by the World Bank for the international
-  comparison program<sup><a href="#footnote-15"
-  id="footnote-ref-15">[15]</a></sup>. The Luxembourg income study (LIS)
+  comparison program<sup><sup><a href="#footnote-16"
+  id="footnote-ref-16">[15]</a></sup></sup>. The Luxembourg income study (LIS)
   datasets results from effort to harmonize datasets from many high and
-  middle-income countries<sup><a href="#footnote-16"
-  id="footnote-ref-16">[16]</a></sup>. </p>
+  middle-income countries<sup><sup><a href="#footnote-17"
+  id="footnote-ref-17">[16]</a></sup></sup>. </p>
 
   <p>In some cases the raw data is accessible to produce country level
   estimates. In some countries in addition to the raw data a standardized
@@ -848,50 +848,56 @@ COMPARABILITY: >-
   estimated incidence of the population with large household expenditure on
   health as a share of household total expenditure or income.</p><div
   class="footnotes"><div><sup class="footnote-number"
-  id="footnote-14">14</sup><p>http://econ.worldbank.org/WBSITE/EXTERNAL/EXTDEC/EXTRESEARCH/EXTLSMS/0,,contentMDK:21610833~pagePK:64168427~piPK:64168435~theSitePK:3358997,00.html
-  <a href="#footnote-ref-14">&#x2191;</a></p></div><div><sup
-  class="footnote-number" id="footnote-15">15</sup><p> A detailed documentation
+  id="footnote-15">14</sup><p>
+  http://econ.worldbank.org/WBSITE/EXTERNAL/EXTDEC/EXTRESEARCH/EXTLSMS/0,,contentMDK:21610833~pagePK:64168427~piPK:64168435~theSitePK:3358997,00.html
+  <a href="#footnote-ref-15">&#x2191;</a></p></div><div><sup
+  class="footnote-number" id="footnote-16">15</sup><p> A detailed documentation
   describing the harmonization procedures is available from the accompanying pdf
-  documents <a href="#footnote-ref-15">&#x2191;</a></p></div><div><sup
-  class="footnote-number" id="footnote-16">16</sup><p>
+  documents <a href="#footnote-ref-16">&#x2191;</a></p></div><div><sup
+  class="footnote-number" id="footnote-17">16</sup><p>
   http://www.lisdatacenter.org/ <a
-  href="#footnote-ref-16">&#x2191;</a></p></div></div>
+  href="#footnote-ref-17">&#x2191;</a></p></div></div>
 OTHER_DOC: >-
-  <h1>References</h1>
-
-  <h2>URL: </h2>
-
-  <p><a
-  href="http://apps.who.int/gho/cabinet/uhc.jsp">http://apps.who.int/gho/cabinet/uhc.jsp</a>;
+  <p><strong>URL:</strong> <a
+  href="http://apps.who.int/gho/cabinet/uhc.jsp"><u>http://apps.who.int/gho/cabinet/uhc.jsp</u></a>;
   <a
-  href="http://datatopics.worldbank.org/universal-health-coverage/">http://datatopics.worldbank.org/universal-health-coverage/</a>
+  href="http://datatopics.worldbank.org/universal-health-coverage/"><u>http://datatopics.worldbank.org/universal-health-coverage/</u></a>
   </p>
 
-  <h2>References:</h2>
+  <p><strong>References:</strong></p>
 
   <ul>
     <li>Chapter 2 on Financial protection in &#x201C;Tracking universal health coverage: 2017 global monitoring report&#x201D;, World Health Organization and International Bank for Reconstruction and Development/ The World Bank; 2017; </li>
-    <li><a href="http://www.who.int/healthinfo/universal_health_coverage/report/2017/en/">http://www.who.int/healthinfo/universal_health_coverage/report/2017/en/</a></li>
-    <li><a href="http://www.worldbank.org/en/topic/universalhealthcoverage/publication/tracking-universal-health-coverage-2017-global-monitoring-report">http://www.worldbank.org/en/topic/universalhealthcoverage/publication/tracking-universal-health-coverage-2017-global-monitoring-report</a></li>
-    <li><a href="http://www.who.int/health_financing/topics/financial-protection/en/">http://www.who.int/health_financing/topics/financial-protection/en/</a> </li>
-    <li>Wagstaff, A., Flores, G., Hsu J., Smitz, M-F., Chepynoga, K., Buisman, L.R., van Wilgenburg, K. and Eozenou, P., (2018), &#x201C;Progress on catastrophic health spending in 133 countries: a retrospective observational study&#x201D;, the Lancet Global Health, volume 6, issue 2, e169-e179. <a href="http://dx.doi.org/10.1016/S2214-109X(17)30429-1">http://dx.doi.org/10.1016/S2214-109X(17)30429-1</a></li>
+  </ul>
+
+  <p><a
+  href="http://www.who.int/healthinfo/universal_health_coverage/report/2017/en/"><u>http://www.who.int/healthinfo/universal_health_coverage/report/2017/en/</u></a>;
+  <a
+  href="http://www.worldbank.org/en/topic/universalhealthcoverage/publication/tracking-universal-health-coverage-2017-global-monitoring-report"><u>http://www.worldbank.org/en/topic/universalhealthcoverage/publication/tracking-universal-health-coverage-2017-global-monitoring-report</u></a></p>
+
+  <p><a
+  href="http://www.who.int/health_financing/topics/financial-protection/en/"><u>http://www.who.int/health_financing/topics/financial-protection/en/</u></a>
+  </p>
+
+  <ul>
+    <li>Wagstaff, A., Flores, G., Hsu J., Smitz, M-F., Chepynoga, K., Buisman, L.R., van Wilgenburg, K. and Eozenou, P., (2018), &#x201C;Progress on catastrophic health spending in 133 countries: a retrospective observational study&#x201D;, the Lancet Global Health, volume 6, issue 2, e169-e179. <a href="http://dx.doi.org/10.1016/S2214-109X(17)30429-1"><u>http://dx.doi.org/10.1016/S2214-109X(17)30429-1</u></a></li>
   </ul>
 
   <p><em>On underlying approaches behind the current definition of large health
   expenditures as a share of total household consumption or income:</em></p>
 
   <ul>
-    <li>Chapter 18 of &#x201C;Analysing health equity using household survey data&#x201D;. Washington, DC: World Bank Group; 2008, <a href="http://www.worldbank.org/en/topic/health/publication/analyzing-health-equity-using-household-survey-data">http://www.worldbank.org/en/topic/health/publication/analyzing-health-equity-using-household-survey-data</a> </li>
+    <li>Chapter 18 of &#x201C;Analysing health equity using household survey data&#x201D;. Washington, DC: World Bank Group; 2008, <a href="http://www.worldbank.org/en/topic/health/publication/analyzing-health-equity-using-household-survey-data"><u>http://www.worldbank.org/en/topic/health/publication/analyzing-health-equity-using-household-survey-data</u></a> </li>
   </ul>
 
-  <p><em>For the definition of health expenditures: </em></p>
+  <p><em>For the definition of health expenditures </em></p>
 
   <ul>
-    <li><a href="http://www.oecd-ilibrary.org/social-issues-migration-health/a-system-of-health-accounts/classification-of-health-care-financing-schemes-icha-hf_9789264116016-9-en">http://www.oecd-ilibrary.org/social-issues-migration-health/a-system-of-health-accounts/classification-of-health-care-financing-schemes-icha-hf_9789264116016-9-en</a><u> </u></li>
+    <li><a href="http://www.oecd-ilibrary.org/social-issues-migration-health/a-system-of-health-accounts/classification-of-health-care-financing-schemes-icha-hf_9789264116016-9-en"><u>http://www.oecd-ilibrary.org/social-issues-migration-health/a-system-of-health-accounts/classification-of-health-care-financing-schemes-icha-hf_9789264116016-9-en</u></a><u> </u></li>
   </ul>
 
-  <p><em>For the components of health expenditures:</em></p>
+  <p><em>For the components of health expenditures</em></p>
 
   <ul>
-    <li>Division 06 of the UN Classification of Individual Consumption According to Purpose (COICOP) <a href="https://unstats.un.org/unsd/class/revisions/coicop_revision.asp">https://unstats.un.org/unsd/class/revisions/coicop_revision.asp</a>; <a href="http://unstats.un.org/unsd/cr/registry/regcs.asp?Cl=5&amp;Lg=1&amp;Co=06.1">http://unstats.un.org/unsd/cr/registry/regcs.asp?Cl=5&amp;Lg=1&amp;Co=06.1</a><u> </u></li>
+    <li>division 06 of the UN Classification of Individual Consumption According to Purpose (COICOP) <a href="https://unstats.un.org/unsd/class/revisions/coicop_revision.asp"><u>https://unstats.un.org/unsd/class/revisions/coicop_revision.asp</u></a>; <a href="http://unstats.un.org/unsd/cr/registry/regcs.asp?Cl=5&amp;Lg=1&amp;Co=06.1"><u>http://unstats.un.org/unsd/cr/registry/regcs.asp?Cl=5&amp;Lg=1&amp;Co=06.1</u></a><u> </u></li>
   </ul>

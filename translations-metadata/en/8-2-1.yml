@@ -1,61 +1,78 @@
+SDG_INDICATOR_INFO: ''
 SDG_GOAL: >-
   <p>Goal: Promote sustained, inclusive and sustainable economic growth, full
-  and productive employment and decent work for all</p>
+  and productive employment and decent work for all </p>
 SDG_TARGET: >-
   <p>Target: Achieve higher levels of economic productivity through
   diversification, technological upgrading and innovation, including through a
-  focus on high-value added and labour-intensive sectors</p>
-SDG_INDICATOR: '<p>Indicator: 8.2.1: Annual growth rate of real GDP per employed person</p>'
-META_LAST_UPDATE: '<p>Last updated: March 2020</p>'
-SDG_RELATED_INDICATORS: <h1>Related indicators</h1>
-SDG_CUSTODIAN_AGENCIES: |-
-  <h1>Institutional information</h1>
-  <h2>Organization(s):</h2>
+  focus on high-value added and labour-intensive sectors </p>
+SDG_INDICATOR: '<p>Indicator: 8.2.1: Annual growth rate of real GDP per employed person </p>'
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: <p>January 2021</p>
+SDG_RELATED_INDICATORS: '<p>1.1.1, 8.3.1, 8.5.2, 10.4.1</p>'
+SDG_CUSTODIAN_AGENCIES: <p>ILO </p>
+CONTACT: ''
+CONTACT_ORGANISATION: |-
   <p>ILO</p>
+  <p> </p>
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <h1>Concepts and definitions</h1>
+  <p><strong>Definition:</strong> </p>
 
-  <h2>Definition:</h2>
+  <p>The annual growth rate of real GDP per employed person conveys the annual
+  percentage change in real Gross Domestic Product per employed person. </p>
 
-  <p>Annual growth rate of real GDP per employed person conveys the annual
-  percentage change in real Gross Domestic Product per employed person.</p>
+  <p> </p>
 
-  <h2>Concepts:</h2>
+  <p><strong>Concepts:</strong> </p>
 
-  <p><strong><em>Gross Domestic Product (GDP):</em></strong> It is the main
-  measure of national output, representing the total value of all final goods
-  and services within the System of National Accounts (SNA) production boundary
-  produced in a particular economy (that is, the dollar value of all goods and
-  services within the SNA production boundary produced within a country&#x2019;s
-  borders in a given year). According to the SNA, &#x201C;GDP is the sum of
-  gross value added of all resident producer units plus that part (possibly the
-  total) of taxes on products, less subsidies on products, that is not included
-  in the valuation of output &#x2026; GDP is also equal to the sum of the final
-  uses of goods and services (all uses except intermediate consumption) measured
-  at purchasers&#x2019; prices, less the value of imports of goods and services
-  GDP is also equal to the sum of primary incomes distributed by resident
-  producer units.&#x201D;</p>
+  <p>Gross Domestic Product (GDP): It is the main measure of national output,
+  representing the total value of all final goods and services within the System
+  of National Accounts (SNA) production boundary produced in a particular
+  economy (that is, the dollar value of all goods and services within the SNA
+  production boundary produced within a country&#x2019;s borders in a given
+  year). According to the SNA, &#x201C;GDP is the sum of gross value added of
+  all resident producer units plus that part (possibly the total) of taxes on
+  products, less subsidies on products, that is not included in the valuation of
+  output &#x2026; GDP is also equal to the sum of the final uses of goods and
+  services (all uses except intermediate consumption) measured at
+  purchasers&#x2019; prices, less the value of imports of goods and services GDP
+  is also equal to the sum of primary incomes distributed by resident producer
+  units.&#x201D; </p>
 
-  <p><strong><em>Real Gross Domestic Product (GDP):</em></strong> Real GDP
-  refers to GDP calculated at constant prices, that is, the volume level of GDP,
-  excluding the effect of inflation and favouring comparisons of quantities
-  beyond price changes. Constant price estimates of GDP are calculated by
-  expressing values in terms of a base period. In theory, the price and quantity
-  components of a value are identified and the price in the base period is
-  substituted for that in the current period.</p>
+  <p> </p>
 
-  <p><strong><em>Employment</em></strong>: All persons of working age who,
-  during a short reference period (one week), were engaged in any activity to
-  produce goods or provide services for pay or profit.</p>
+  <p>Real Gross Domestic Product (GDP): Real GDP refers to GDP calculated at
+  constant prices, that is, the volume level of GDP, excluding the effect of
+  inflation and favouring comparisons of quantities beyond price changes.
+  Constant price estimates of GDP are calculated by expressing values in terms
+  of a base period. In theory, the price and quantity components of a value are
+  identified and the price in the base period is substituted for that in the
+  current period. </p>
+
+  <p> </p>
+
+  <p>Employment: All persons of working age who, during a short reference period
+  (one week), were engaged in any activity to produce goods or provide services
+  for pay or profit. </p>
+UNIT_MEASURE: <p>Percentage</p>
+CLASS_SYSTEM: <p>Not applicable</p>
+SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <h1>Data sources</h1>
-
-  <h2>Description:</h2>
+  <p><strong>Description:</strong> </p>
 
   <p>Output measures used in the numerator of this indicator (Gross Domestic
   Product) are best obtained from the production side of national accounts and
   represent, as much as possible, GDP at market prices for the aggregate economy
-  (adjusted for inflation, in constant prices).</p>
+  (adjusted for inflation, in constant prices). </p>
+
+  <p> </p>
 
   <p>Employment data used in the denominator are preferably derived from labour
   force or other household surveys with an employment module. In the absence of
@@ -65,45 +82,45 @@ SOURCE_TYPE: >-
   establishment surveys will capture the number of jobs and not the number of
   persons employed as preferred for the denominator. Also, establishment surveys
   cover, in many cases, the formal sector and employers and employees only, not
-  accounting for the whole economy.</p>
+  accounting for the whole economy. </p>
+
+  <p> </p>
 
   <p>When calculating this indicator, it is important to ensure that the
   coverage of the employment data is consistent with that of the national
-  accounts.</p>
+  accounts. </p>
 COLL_METHOD: >-
-  <h2>Collection process:</h2>
-
   <p>For the purposes of international reporting on the SDG indicators, the ILO
   uses country-level estimates of GDP in constant 2010 US$ from the World
   Bank&#x2019;s World Development Indicators database and country-level
-  estimates on employment from household surveys or derived from the
-  ILO&#x2019;s TEM to calculate levels and growth rates of labour productivity
-  at the country, regional and global levels.</p>
-FREQ_COLL: |-
-  <h1>Calendar</h1>
-  <h2>Data collection:</h2>
+  estimates on employment from household surveys or derived from the ILO
+  modelled estimates to calculate levels and growth rates of labour productivity
+  at the country, regional and global levels. </p>
+FREQ_COLL: <p>Continuous</p>
 REL_CAL_POLICY: >-
-  <h2>Data release:</h2>
-
   <p>ILO estimates of labour productivity are part of the ILO modelled estimates
   series, analysed in the ILO&apos;s World Employment and Social Outlook
-  reports. The ILO estimates are released once a year (January).</p>
+  reports. The ILO estimates are released once per year (in November or
+  December). </p>
 DATA_SOURCE: >-
-  <h1>Data providers</h1>
-
-  <p>National statistical offices, and in some cases labour ministries or other
-  related agencies.</p>
-
-  <h1>Data compilers</h1>
-
-  <p>ILO.</p>
+  <p>Input GDP and employment data are provided by national statistical offices,
+  and in some cases labour ministries or other related agencies. </p>
+COMPILING_ORG: <p>ILO </p>
+INST_MANDATE: >-
+  <p> The ILO is the UN focal point for labour statistics. It sets international
+  standards for labour statistics through the International Conference of Labour
+  Statisticians. It also compiles and produces labour statistics with the goal
+  of disseminating internationally-comparable datasets, and provides technical
+  assistance and training to ILO member States to support their efforts to
+  produce high quality labour market data.</p>
+OTHER_METHOD: ''
 RATIONALE: >-
-  <h2>Rationale:</h2>
-
   <p>Real GDP per employed person being a measure of labour productivity, this
   indicator represents a measure of labour productivity growth, thus providing
   information on the evolution, efficiency and quality of human capital in the
-  production process.</p>
+  production process. </p>
+
+  <p> </p>
 
   <p>Economic growth in a country can be ascribed to many factors, including
   increased employment and more effective work by those who are employed. This
@@ -111,10 +128,8 @@ RATIONALE: >-
   economic performance. Labour productivity (and growth) estimates can support
   the formulation of labour market policies and monitor their effects. They can
   also contribute to the understanding of how labour market performance affects
-  living standards.</p>
+  living standards. </p>
 REC_USE_LIM: >-
-  <h2>Comments and limitations:</h2>
-
   <p>Output measures are obtained from national accounts and represent, as much
   as possible, GDP at market prices for the aggregate economy. However, despite
   common principles that are mostly based on the United Nations System of
@@ -123,19 +138,18 @@ REC_USE_LIM: >-
   differences in the treatment of output in services sectors, differences in
   methods used to correct output measures for price changes (in particular, the
   use of different weighting systems to obtain deflators) and differences in the
-  degree of coverage of informal economic activities.</p>
+  degree of coverage of informal economic activities. </p>
+
+  <p> </p>
 
   <p>Data on employment used in the denominator of this indicator refer, as much
   as possible, to the average number of persons with one or more paid jobs
   during the year. That is, the reliability of the employment data is also
   dependent on the degree of coverage of informal activities by the statistical
-  source used.</p>
+  source used. </p>
 DATA_COMP: >-
-  <h1>Methodology</h1>
-
-  <h2>Computation method:</h2>
-
-  <p>Real GDP per employed person = GDP at constant prices/Total employment</p>
+  <p> <img
+  src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAhIAAABQCAIAAADDUAumAAAAAXNSR0IArs4c6QAAF6VJREFUeF7tnUeobcWzxt997zkwzAxcB8oFxTAQTIhgwIkJBRN3oNcEJq5gQsWEAUW8ggEVFBMopoGYBuaBYhgoBlAwgYI6EfQOBMPw/n9/Piia7rXX6rXO2uGc/a3B4ey1u6urv+5d1V1VXb1u27Zt/+PHCBgBI2AEjEAdAv9bV8yljIARMAJGwAj8FwGrDc8DI2AEjIAR6IGA1UYPsFzUCBgBI2AErDY8B4yAETACRqAHAlYbPcByUSNgBIyAEbDa8BwwAkbACBiBHghYbfQAy0WNgBEwAkbAasNzwAgYASNgBHogYLXRAywXNQJGwAgYAasNzwEjYASMgBHogYDVRg+wXNQIGAEjYASsNjwHjIARMAJGoAcCVhs9wHJRI2AEjIARWOcMuJ4ERmD1IvDyyy+/++67v/zyC13YYYcd9txzz4MOOujss89Wj+66666PPvoo7d0uu+yiMqeffnr6/rzzzvvjjz/SN1Dbb7/9TjvttIMPPnj14rPGOP/ggw/uvvvuU0455eKLL55j17zbmCP4btoIDEfg999/v/rqq5988skjjjjiqaeeev311y+77DL0xwsvvBBEb7jhBkQ/H6+77joK8Jx55pn//PMPtW6++WYoRMl77rkHPcFHFYMgsumLL76gGH8HcPnDDz+cdNJJjz322IC6M6iCuoU9pPC4bU2J7LhMrpya1cbKMTQFIzAHBJ5//vnvvvsONcDeYtddd4WDo48+Gs2RsbLvvvumb0444YR7772XDQTKAArxFRTYhaQfIYvm4M0rr7wyoHu//fbbgFozq5JtrcZqd0pkgz2GGKU+360GzFhtjDVhTMcIzA4B1vLvvPMOFqewR6ltiZVOPi6//HLKQAE6LYW1U2F30kmwLPDxxx8PqDWzKlNib0pkZwZLZUP2bVQC5WJGYIEQePbZZzFGHXfccVdccUU7W5iJXnvtNYxUaJS0pKxP2qzoPSYvti+p1pElHeXBBqVsBRvX22+//eWXX1KLb9msXHTRRXKEbN68We6WeCYReeutt2BPhdGCFMOwplqotJdeegkm0VsY0KB84YUXal+FLYju8/7II488/vjj2Q/JkpYBwku+gj1pPogfe+yxu+222wMPPJBtC+QtaOkRpFQLJjHoPfHEE2IMmtdffz1cRYG016UTInxImAHhDb8URICOgdAAZQ1FGUjRtHqdgaluCgF5pM4555x99tknw5DqdD9dZzA3GL4AHzbuuOOOmlnu3UYNSi5jBBYLgV9//RWGdt5558Fs7bHHHtTdunVrCwVkCt/iPy/LIKQuvfRSpN4ll1yCpkGoIX0ef/xxlXzkkUdk4OKvnCWNigex9dBDD+GboQACC4EYDnx0xk033QTNO++8U/T56pZbbpE/Bn/+BRdcwD/IcVQXmyekMHqF/RMaRTxQkogACogCchn9AUGKPf3005nLB53R3iNqoS1EGZ2BrnrxxRfhCpp85OUkshl0NI345uWWLVvgASJodJgEB+38oiEUAGUQ5ahGEYlepzRR7awAKAwCPBCnI7IQCkP+efjhh0GA5tA66GlV13pC4N9///1QqHdiWW2Uvwi/MQKLjoAWy6k3YhjH2Z4giCBz2dAghWkCEVkS/+uvv5DyyE2tahG7yJ1J1Bp5Q6ghtpCSWv/yT8hHPj7zzDPQv+qqq0SfMnwLfZSEqMmBDw7sTljs87CU5o0UKs+3334LBXReUJCqmPR09kgbHVo844wztKmSj6FXrykvtQF02l7wV3EKb775pnhTQ5DdtGkTvig2lOps9DrtAtENfBsgSFvrAUP+xhZN27iImPj+++/5KPCBCB5awMm+stqox8oljcBaQyDkUXSM+CKe888/HzM9Muj222+XFMseOVHSKN6+Ouz999+HZrqVQT6GiYyVL+JVEl8P62L+StjFIxGcPiHE169fz3v2Q7H/YMfT4kyu71HKFU30VRviNrUZbtiwoZFOhD6zKWnknK0GaiyNkEbNgGHYuxiUdPhQnGGdE3TsVLTLqfSKiXmrjWzW+aMRWDUIZAILu7mE/saNGyv7IFNV+simxIOhCVHVqDMqibcXkwIo5T4vFRfb+FW9fx7hLkMW63GQWdhQYDgcfDJGXqVGW6UwpICmhB6V11fsQtAiqGe2dH3DrK02RvkJmIgRmCkCCqvNZGicvcCW3cmNjDl9twgpWRmykDg4wEMkdbY7ywJshoBC5hcMYvCZHlUpOVn8HvVFL3xLsRqIvQgLArZfeFaw/umATmzLOlux2uiEyAWMwMIhIHEvl3U8cfaic4uAfERSYKE65JBDhvVNDmR2DBwjZ18ij2tKqjR/ZQ2pC427h/3335+vGs9AdJLNWgEKzPc4ohtdI2nhzh7VANWXPdGs90U3Yvjvv/+WvAnD8PRMYh7bFD4P4hHgPD0o2t5Zq42ayeAyRmCxEMCEjQ0HI1V2zrnShqPgH5aipYJpX48HCkR80hYhTGFgyaR85z5GG6ZM84m+9B8E0961hHU1jg1WKSKp4iu5RgKf0jrX2aOaGVCSnVQrPTHzzTffUKwxYq29UWn9Rq0jDLFKTRpQNojBA4NI4crJQ4tWGzWTwWWMwMIhIMM9gZsRUonJqHTPZj5kCmOOIJiVIw5pCD/CRXU///zzmq5qWa24JqQPAlpvQhLJI41fHcq8pNGMLJoPUQUnso3IQMTZCBWTZYn1rwjCNmFdbGjCCS8Zl0q68g3EoSniOoh36KGHir4cJzjM+Ytyot3OHoX8bfmnJDsJzEcffVRdo3UMaGnEWkk/iGR9RDcwjuhX+FctgOL8jcqzLKD8gw8+qIb4iyoNhHlD3G3woNDkmqGnjI/7VQLlYkZg4RBIj7PpQBwrVjzABN6I1zKVIeKJh6V3dvovTWWIQsoSHZY9R0ghj7TOpV3OlxEZhfhTMKgEUBzK4yP7ksadTZybQ+DCFSavKIY8RayrCX0b0US8pGuSoRDHxiLrvPjUG4ljpGF61g9dFX1BgKKKYBj7FUFcnT0KiKgihAk9EPF4w/8Z2RI6HauUR6E8yUj5tKEAk/dlr0UcZYBSRHloDhAfHLFe6WlKpbAMhAEQcNKDlhGq2znRrTY6IXIBI2AEjMBoCJSn8UcjPStCczNSoesUEzZ6EspZQbe621GqzjnmKGXpFAGjqxtKc28ElgyB5t1GubcFFgyL7BM7d6/1AKqVMltOSoGdI64qbcF4r9sCYEObzXTXFrXgkzInnnhieiqnsaRy4NRvzeq7tipKojkwaMwxdz+DSzQO+/Sa7HurAlIzaQQ6EZANCr9Cdmyws+LiFGjebUSa/gj7JSGz0vSnHpUVdqMzow6y/pprrsG+iX9MccfkD+ClHFk8GPKUKRrprwIMBhEaaCOSsYSrcFJJalGSJiqjR1bY30Wr3nicapZMZsm6Z9m02zICc0Eg/BYIqMFxt3PhPG10opGqTNNPektq4kSaGdNkRlPOmXBkxR0AwUPm2UOB4zejipRcGuVWlpR2VDa0mXXKDRkBI7C0CHCCRAtcnOr1kUuLBlcP38aMO4kJBS8/8QZZu2iFxmyaKbJUIS4NzUHi5XbEG0/bLtogmR8jYASMwOIg8P8rZCX1PSiU7ayzzooQOhb7pHVUvmJZihrj8Bp56Hu6JyNy1FFHsTEavA0MXwjbEVJDo36U0lmxhqlRMr0VIM1o35I3vzErWXopdNqK4vlomrBIJdwHTP7BcMcmjFpEGeoaAIIIpWLrmS+RnxT1mAY40haLJuqGDywCENvnA1WybrbchibXC1WwlDIKdJOJVM6xkmYMUAadKFBerhRsmFg79Ua3cDPQMbIpn3wFD7HlTclSUVGe/MOIjOj5W+EP09WNwPQQ6LHbUMhTmtyYj2TAR75jp1NGewRc3DTJD48kWcgFkmgqGz6iJ72Hsr1X0jTcqTKs8xKgbDja/RZSTnEIKNqiOmn6+Qj/HMwhFFodpAu4T6JYS0b7lrz5ZY+QROgDuXAIOUeWRSsoA3ZOVNGFKiRy0M0EnPNS6DoSXCn7w+1UyXzJBpKUa3kid7+EtY7aQlPny5Ch0hk8svJRXli1zwe+hUPdfU03dTdAi9qI2wXoODERXIYTdyqks6gGOo68QQHHWLhzmMwAyEfdUkDvwDzuMU351EBQODL2lCOi6woyo2gGL8H1aVK5Sf87sHDY7921ZolArdpAoPDLUdxR8KdTqQg7rdH4nVMgbpqURGDpp2z4HDPhY32SYVVfuWWMtPuNgOpoa6MdTOXVKeQyAitL+h/O9vaM9i1581OWUEWAhlCT94Uu8z+MhZzafvvteY9gipsJBAsxBXpDRTlpQkfWMF/CguBDkkbufv7hI9ssbdoY31LQgw8rCTXXPh/UTQqLZ8BJLxJoHCNJ+fQ6AbEEHfW0EjqYlIdMVzLwaJOBAtPkZFZHNqGMT7rG6ofCacaeGBFtHCmj3BU//fTTpF8vJdN0cpP+zzxwk6j5vRGYIwIdRioWmzzir4zU1FI9nei4CrRqk2s6tcasXAEMg2mnnXZKKyqTsN4gajsPxGYJ65VzJpQfIgYiWUZ7iaT0ib7H8d30288++0zMxEst87OVeBp4pv/La2fQkSkz7cxnTLLORbxmw4Q0hBNy5ui9PqI1IwAaKCRVedrng7qZhVoobU77yJZVQEY9rYQuMgWhsaS0pJCkCZjAkIqhKflkMgM1fDLcKT5lKGD9qmjYZFatmMArIeK6RqAGgcbg+A61IVUhUwyGYIw56c9GP/hyEvN+rEVT+kOddLa+vfOZHMyu4a0BLi2TJmhLM9qXIrgeAWUNwjrEk9LJsgn1ZbUs355driV3f2T+OeaYY1AbGHykNohAi60GH9vnQ8v9Cr26hg4Il9Vg6Ng5kRyUXQuYozxS10ULn1wA14vVKRX2MZcpAWuylQhUGal0ZSCyozy0EQcm0k13bDKUPIvD9DoPXMmTimkpnf5Q45RGzVXpkiydaTh7sdRYuCWjfS/ipdWiM2CsF/1RCmvdDbbYiHiwX2U3hrbPh1F4KIkMgw4TGT4JZYKTo2hK7ImsfRtThdfEZ4lAldqAIfkt+IGll2QhlFt25XKJU5cAFUUr9+pY440CWsLXJLX/8MMPKTkgF3E7k2l/KzPad/ZaPR0c9NVJPwq0m1DExtatW0uCKeAy4gMvp/eZEulmrn0+tNyvUN8FSqZXCKwQOrQgyoObfJSKNV1qNPrqM4NnL7bt2+gFlwsvMgK1aoM+6HJzTFXhd0VqsAWZFPvB3p9fI78W+UvTk3c1iJAdhGL8mNNQqMrj3Pz+qYj9Wn749KnPKa9amfiQBUORV50Z7Wu6SRnZ7mVSH/dpYb5sKHL3pyDLXXHYYYdFeRYQaBGmge6aTum0zwc5GNL7FWio07FBlUyTKQxXC4jB0LEDjogDxlHLC21tRVN5tvWIT6bTvPxz484KUzMCK0RgotqQfEzvjVK4jhK4q1Uku+6Ekubg18VPMbK98xXLW63gKEDQURaHI3EwKQQTZaN88cT4igj0db1M+mRKC+VEPI+y/7OQTP3DKglLlbpHraS57KEMJ+kJxPaM9i1589Mu6OIBBHEIMiXND0WrUUjHooSuvGygk3khH0IZrNQdQBbn2CSBi5dZ8hykpzYumf+mfT5wkkZxWRoIerdlyxa5pttHJL2SQTHHuoyBZwB0gXzMWzhBmYUqgqYc4HFVA3xSS/HHesoRKd9kE9UfjcCaQaA7lSE/0bjORb5xfrdx4AsxirFCYl2ZASPbOy/JDqKTUDoGyM9PqzZsVmm2xJZwpvRMlnLu0xBmCs4u8E/qJNeQ6NwWi0ds7qnOSEumVwK0DyT+GCVPjA6mSf9VtyWj/aS8+WWj0oi0ovz7wBjxuHHqjVoaC8RZBIMKuvQGeZDRorid+ZQso0N8qrhqOeYWbOvoX+OotcwHjddzzz2n7QJMEvaqKTFpRFAwuKy1WJGiyk7e8aYSurSP1AJDVEWc9aMJNqaxmcgSaPI+/bZ9RNLfy5oRE2N1JH6GK4xMGYufmPNxsLTxKO64za0Bar5vo20QkbwLNb97TbjpMY8052cWh/56cdWrsNTGHHP09uJ2tRQWqi3cThVwlp64PBftZzX3bNCrZfKIzx6+jdXVMXM7LgLIms2bN2t1r3Tr49I3tRkjwPZLEWgKWdT/qSGuhh90QN8rWxYzW/jcs0HXoF1TRvfoTDvXgNXGxLGQa6El+0XNKM6rzDSYx0xEHB2uJn5js0m+lHlf5gXmmmwXY3LZLyUCqO9vpGOpr+KSU0VgNvLKaqN5EDHC4sWR2sBFMdWRHp34NJhX7Cln/fAukG1ldJ5LguFCwCU+7UMVM+jOQjXBIE5a9feKFkvjzRaqg0vLzGxGxL6NpZ1g7rgR+C8C7VdbT8qITEWMltlJoPBYoPIVcaDwGUya6fa00+s2+2zQjV60lWSDDnA4Uvrpp58SJ8kCFHw2bdpEJDphRLwBHN6wCEuDdyozakcETVBgsUjoY7bbmJKb6v9uu+02/3qMgBFYWgTIsIKsQZyVCBAleN999+21114ksT711FNREgg7/hJLTeGTTz7577//JlIf2UQxKChlALtz1rznnnvutddei4ikCiqE0/g77rijmiCBMbokyy8QrSP73njjDbwsN954IydqX3311a+++oq2KHD44YfD6o8//rhu3brttttOBd577z2aU8Tmrbfeqha//vprndnafffdDzzwQN3DRh4zMqtyd8O2bdsow0eR5fn5558hggjW6SWelr5Dk1yWdIpNWxwJABNFQpINmmRlUGaX/OeffwLRAQcccOWVV1KFRmH+k08+wbEEOHyl666FJ49CVaFPpCLX4qF3gQJqe++9Ny+pBRo62AB6HDBIKVCALsMDBEmJDTiMSHRn3OltI9W4eJqaEVg7CLRnRJ7UT8QWAk5nevgrq9ekRNQZEaUfXgPZoOmXcitwelRQyG+kg1B6o2DfdMdWk1EbePFLCdWSwmwmn9XGbHB2K0ZglSGgjMhZlmUdnCIjcktniMiKY0AUi/TDNf1vTGlMxWHZoNMWB2SDbu87UIBP3KGAwkMBKLdF+qQhBvo/OySbqg2IZHwqpVNGM/NLzSbvcsqD1UbNZHYZI7B0CNRkRB4dlEhpHNdY6YjJYmaDhrFwQWfZoAcgk2bUju5rFKYdUNuXW6uNvoi5vBEwAh0I4NMm+A1nO+IvLuypR21YSuN6+qOU7MwGPayVsTJqD2u9spbVRiVQLmYElguBmozIZS5qToMSRITvlwQ/ZP5HAfQ6GbrClMb1IzTtbND1nETJUTJq12QHH8BbVsVqY+UYmoIRWIMI1GRELu+zwVYjr68u8uJpTMU/Ca/BKY07B2DG2aA7+SkLjJJRu5cnaQCTqmK1MRg6VzQCqx4BNgeSp6X1vCYj8vr166mLfR86BI8SNqrVriz+vCStgOiH1G7PXzAgpfFiZoOmy2VSaoEQma3LDNl9M2qXFOR1Z7enMS0v1htlyvq43ygwmogRWH0IZAmkG1Mad2ZEpgD5mHULPUciUDaIKo4s8Ia9iFLcy60N/Q0bNij1PR8ji3YGXGVK4wXPBp1m+FZS6khTHfmeN27cKCh4E1fZV2bUVvlGCuBPELPyjnO2Yxrz0mpjGqiaphEwAguEQOe59MG8ziwb9GAOp1HRRqppoGqaRsAIrFkEnA3aamPNTm53zAgYgfAljJsadvbZoBdqKK02Fmo4zIwRMAJjIrA2skGPicgYtOzbGANF0zACRsAILA0C3m0szVC7o0bACBiBMRCw2hgDRdMwAkbACCwNAlYbSzPU7qgRMAJGYAwErDbGQNE0jIARMAJLg4DVxtIMtTtqBIyAERgDAauNMVA0DSNgBIzA0iBgtbE0Q+2OGgEjYATGQMBqYwwUTcMIGAEjsDQIWG0szVC7o0bACBiBMRCw2hgDRdMwAkbACCwNAlYbSzPU7qgRMAJGYAwErDbGQNE0jIARMAJLg4DVxtIMtTtqBIyAERgDAauNMVA0DSNgBIzA0iBgtbE0Q+2OGgEjYATGQMBqYwwUTcMIGAEjsDQIWG0szVC7o0bACBiBMRD4DyBu+Gi233kaAAAAAElFTkSuQmCC"></p>
 
   <p>The numerator and denominator of the equation above should refer to the
   same reference period, for example, the same calendar year.</p>
@@ -144,30 +158,38 @@ DATA_COMP: >-
   the annual growth rate of real GDP per employed person is calculated as
   follows:</p>
 
-  <p>Annual growth rate of real GDP per employed person</p>
-
-  <p>= ((LabProd in year n) &#x2013; (LabProd in year n-1))/((LabProd in year
-  n-1)) x 100</p>
+  <p><img
+  src="data:image/png;base64,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"></p>
+DATA_VALIDATION: >-
+  <p>The ILO engages in annual consultations with member States through the
+  ILOSTAT questionnaire and related Statistics Reporting System (StaRS).
+  National data providers receive a link to the portal where they can review all
+  national SDG data available on ILOSTAT.</p>
+ADJUSTMENT: >-
+  <p>Through the ILO Harmonized Microdata initiative, the ILO strives to produce
+  internationally comparable labour statistics based on the indicator concepts
+  and definitions adopted by the International Conference of Labour
+  Statisticians.</p>
 IMPUTATION: >-
-  <h2>Treatment of missing values:</h2>
-
   <ul>
-    <li><strong><em>At country level:</em></strong></li>
+    <li>At country level </li>
   </ul>
 
   <p>Multivariate regression techniques are used to impute missing employment
-  values at the country level.</p>
+  values at the country level. </p>
 
-  <p>For further information on the estimates, please refer to the the ILO
-  modelled estimates methodological overview, available at <a
-  href="https://www.ilo.org/ilostat-files/Documents/TEM.pdf">https://www.ilo.org/ilostat-files/Documents/TEM.pdf</a></p>
+  <p>For further information on the estimates, please refer to the ILO modelled
+  estimates methodological overview, available at
+  https://www.ilo.org/ilostat-files/Documents/TEM.pdf. </p>
+
+  <p> </p>
 
   <ul>
-    <li><strong><em>At regional and global levels:</em></strong></li>
+    <li>At regional and global levels </li>
   </ul>
-REG_AGG: >-
-  <h2>Regional aggregates:</h2>
 
+  <p> </p>
+REG_AGG: >-
   <p>To address the problem of missing data, the ILO designed several
   econometric models which are used to produce estimates of labour market
   indicators in the countries and years for which real data are not available.
@@ -177,89 +199,79 @@ REG_AGG: >-
   then aggregated to produce regional and global estimates. For further
   information on the estimates, please refer to the the ILO modelled estimates
   methodological overview, available at <a
-  href="https://www.ilo.org/ilostat-files/Documents/TEM.pdf">https://www.ilo.org/ilostat-files/Documents/TEM.pdf</a>.</p>
-DOC_METHOD: >-
-  <h2>Methods and guidance available to countries for the compilation of the
-  data at the national level:</h2>
-
-  <p>See:</p>
-
-  <p>Estimates and projections of labour market indicators (<a
-  href="http://www.ilo.org/empelm/projects/WCMS_114246/lang--en/index.htm">http://www.ilo.org/empelm/projects/WCMS_114246/lang--en/index.htm</a>)</p>
-
-  <p>ILO Guidebook - Decent Work and the Sustainable Development Goals: A
-  Guidebook on SDG Labour Market Indicators (<a
-  href="https://www.ilo.org/stat/Publications/WCMS_647109/lang--en/index.htm">https://www.ilo.org/stat/Publications/WCMS_647109/lang--en/index.htm</a>)</p>
-
-  <p>ILO Manual &#x2013; Decent Work Indicators, Concepts and Definitions
-  &#x2013; Chapter 1, Economic and social context for decent work <a
-  href="http://www.ilo.org/integration/resources/pubs/WCMS_229374/lang--en/index.htm">http://www.ilo.org/integration/resources/pubs/WCMS_229374/lang--en/index.htm</a>
-  (second version, page 214)</p>
-
-  <p>Resolution concerning statistics of work, employment and labour
-  underutilization <a
-  href="http://www.ilo.ch/global/statistics-and-databases/standards-and-guidelines/resolutions-adopted-by-international-conferences-of-labour-statisticians/WCMS_230304/lang--en/index.htm">http://www.ilo.ch/global/statistics-and-databases/standards-and-guidelines/resolutions-adopted-by-international-conferences-of-labour-statisticians/WCMS_230304/lang--en/index.htm</a>
+  href="https://www.ilo.org/ilostat-files/Documents/TEM.pdf">https://www.ilo.org/ilostat-files/Documents/TEM.pdf</a>.
   </p>
+DOC_METHOD: |-
+  <p>See: </p>
+  <ul>
+    <li>ILO Guidebook - Decent Work and the Sustainable Development Goals: A Guidebook on SDG Labour Market Indicators (<a href="https://www.ilo.org/stat/Publications/WCMS_647109/lang--en/index.htm" target="_blank"><u>https://www.ilo.org/stat/Publications/WCMS_647109/lang--en/index.htm</u></a>) </li>
+    <li>ILO Manual &#x2013; Decent Work Indicators, Concepts and Definitions &#x2013; Chapter 1, Economic and social context for decent work <a href="http://www.ilo.org/integration/resources/pubs/WCMS_229374/lang--en/index.htm" target="_blank"><u>http://www.ilo.org/integration/resources/pubs/WCMS_229374/lang--en/index.htm</u></a> (second version, page 214) </li>
+    <li>Resolution concerning statistics of work, employment and labour underutilization <a href="http://www.ilo.ch/global/statistics-and-databases/standards-and-guidelines/resolutions-adopted-by-international-conferences-of-labour-statisticians/WCMS_230304/lang--en/index.htm" target="_blank"><u>http://www.ilo.ch/global/statistics-and-databases/standards-and-guidelines/resolutions-adopted-by-international-conferences-of-labour-statisticians/WCMS_230304/lang--en/index.htm</u></a> </li>
+    <li>System of National Accounts 2008 <a href="http://unstats.un.org/unsd/nationalaccount/sna2008.asp" target="_blank"><u>http://unstats.un.org/unsd/nationalaccount/sna2008.asp</u></a> </li>
+    <li>Trends Econometric Models: A Review of Methodology <a href="http://www.ilo.org/empelm/pubs/WCMS_120382/lang--en/index.htm" target="_blank"><u>http://www.ilo.org/empelm/pubs/WCMS_120382/lang--en/index.htm</u></a> </li>
+    <li>ILOSTAT Database (<a href="https://ilostat.ilo.org/" target="_blank"><u>https://ilostat.ilo.org/</u></a>) </li>
+    <li>ILOSTAT Database &#x2013; Topics - Labour productivity (<a href="https://ilostat.ilo.org/topics/labour-productivity/" target="_blank"><u>https://ilostat.ilo.org/topics/labour-productivity/</u></a>). </li>
+  </ul>
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: >-
+  <p>Data consistency and quality checks are regularly conducted for validation
+  of the data before dissemination in the ILOSTAT database.</p>
 
-  <p>System of National Accounts 2008 <a
-  href="http://unstats.un.org/unsd/nationalaccount/sna2008.asp">http://unstats.un.org/unsd/nationalaccount/sna2008.asp</a>
-  </p>
-
-  <p>Trends Econometric Models: A Review of Methodology <a
-  href="http://www.ilo.org/empelm/pubs/WCMS_120382/lang--en/index.htm">http://www.ilo.org/empelm/pubs/WCMS_120382/lang--en/index.htm</a></p>
-
-  <p>ILOSTAT Database (<a
-  href="https://ilostat.ilo.org/">https://ilostat.ilo.org/</a>)</p>
-
-  <p>ILOSTAT Database &#x2013; Topics - Labour productivity (<a
-  href="https://ilostat.ilo.org/topics/labour-productivity/">https://ilostat.ilo.org/topics/labour-productivity/</a>).</p>
-QUALITY_ASSURE: <h2>Quality assurance:</h2>
+  <p> </p>
+QUALITY_ASSMNT: ''
 COVERAGE: >-
-  <h1>Data availability</h1>
+  <p>Data Availability: Data for this indicator is available for 188 countries
+  and territories.</p>
 
-  <h2>Description:</h2>
-
-  <p><strong>Time series:</strong></p>
+  <p>Time series:</p>
 
   <p>Data for this indicator is available as of 2000 in the SDG Indicators
-  Global Database, but time series going back to 1991 and including projections
-  up to 2024 are available in ILOSTAT.</p>
+  Global Database, but time series going back to 1991 and including estimates up
+  to 2019 are available in ILOSTAT. </p>
 
-  <h2>Disaggregation:</h2>
+  <p>Disaggregation:</p>
 
-  <p>No disaggregation required for this indicator.</p>
-COMPARABILITY: <h2>Sources of discrepancies:</h2>
+  <p>No disaggregation required for this indicator. </p>
+COMPARABILITY: >-
+  <p>Sources of discrepancies:</p>
+
+  <p>The main limitations of the use of labour productivity as a global
+  indicator arise from problems in the international comparability of data, more
+  specifically from methodological differences across countries. Even though
+  national output measures, in particular GDP estimates, are derived mainly from
+  national accounts which should be based on internationally-agreed principles
+  consolidated in the United Nations SNA, there are still significant obstacles
+  to the international consistency of national accounts estimates. These range
+  from differences in the treatment of the output of service sectors to
+  adjustments for price changes and variations in the coverage of informal
+  activities and the underground economy. </p>
+
+  <p>Employment or labour input figures also suffer from comparability issues,
+  especially in terms of differences in age coverage, the definition of
+  employment, geographical and institutional coverage, the treatment of special
+  groups and the coverage of informal employment. </p>
+
+  <p>In cases where the contribution to GDP of forms of work other than
+  employment are expected to be significant, such as in the case of own-use
+  production of goods (subsistence agriculture and fishing) or volunteer work,
+  the exclusion of participation and time-spent in these productive activities
+  can be an important source of bias in the resulting indicators.</p>
 OTHER_DOC: >-
-  <h1>References</h1>
-
-  <p>ILO Guidebook - Decent Work and the Sustainable Development Goals: A
-  Guidebook on SDG Labour Market Indicators (<a
-  href="https://www.ilo.org/stat/Publications/WCMS_647109/lang--en/index.htm">https://www.ilo.org/stat/Publications/WCMS_647109/lang--en/index.htm</a>)</p>
-
-  <p>Estimates and projections of labour market indicators (<a
-  href="http://www.ilo.org/empelm/projects/WCMS_114246/lang--en/index.htm">http://www.ilo.org/empelm/projects/WCMS_114246/lang--en/index.htm</a>)
-  </p>
-
-  <p>ILO Manual &#x2013; Decent Work Indicators, Concepts and Definitions
-  &#x2013; Chapter 1, Economic and social context for decent work <a
-  href="http://www.ilo.org/integration/resources/pubs/WCMS_229374/lang--en/index.htm">http://www.ilo.org/integration/resources/pubs/WCMS_229374/lang--en/index.htm</a>
-  (second version, page 2149)</p>
+  <ul>
+    <li>ILO Guidebook - Decent Work and the Sustainable Development Goals: A Guidebook on SDG Labour Market Indicators (<a href="https://www.ilo.org/stat/Publications/WCMS_647109/lang--en/index.htm" target="_blank"><u>https://www.ilo.org/stat/Publications/WCMS_647109/lang--en/index.htm</u></a>) </li>
+    <li>Estimates and projections of labour market indicators (<a href="http://www.ilo.org/empelm/projects/WCMS_114246/lang--en/index.htm" target="_blank"><u>http://www.ilo.org/empelm/projects/WCMS_114246/lang--en/index.htm</u></a>) </li>
+    <li>ILO Manual &#x2013; Decent Work Indicators, Concepts and Definitions &#x2013; Chapter 1, Economic and social context for decent work <a href="http://www.ilo.org/integration/resources/pubs/WCMS_229374/lang--en/index.htm" target="_blank"><u>http://www.ilo.org/integration/resources/pubs/WCMS_229374/lang--en/index.htm</u></a> (second version, page 2149) </li>
+  </ul>
 
   <p>Resolution concerning statistics of work, employment and labour
   underutilization <a
-  href="http://www.ilo.ch/global/statistics-and-databases/standards-and-guidelines/resolutions-adopted-by-international-conferences-of-labour-statisticians/WCMS_230304/lang--en/index.htm">http://www.ilo.ch/global/statistics-and-databases/standards-and-guidelines/resolutions-adopted-by-international-conferences-of-labour-statisticians/WCMS_230304/lang--en/index.htm</a>
+  href="http://www.ilo.ch/global/statistics-and-databases/standards-and-guidelines/resolutions-adopted-by-international-conferences-of-labour-statisticians/WCMS_230304/lang--en/index.htm"
+  target="_blank"><u>http://www.ilo.ch/global/statistics-and-databases/standards-and-guidelines/resolutions-adopted-by-international-conferences-of-labour-statisticians/WCMS_230304/lang--en/index.htm</u></a>
   </p>
 
-  <p>System of National Accounts 2008 <a
-  href="http://unstats.un.org/unsd/nationalaccount/sna2008.asp">http://unstats.un.org/unsd/nationalaccount/sna2008.asp</a>
-  </p>
-
-  <p>Trends Econometric Models: A Review of Methodology <a
-  href="http://www.ilo.org/empelm/pubs/WCMS_120382/lang--en/index.htm">http://www.ilo.org/empelm/pubs/WCMS_120382/lang--en/index.htm</a>
-  </p>
-
-  <p>ILOSTAT Database (<a
-  href="https://ilostat.ilo.org/">https://ilostat.ilo.org/</a>)</p>
-
-  <p>ILOSTAT Database &#x2013; Topics - Labour productivity (<a
-  href="https://ilostat.ilo.org/topics/labour-productivity/">https://ilostat.ilo.org/topics/labour-productivity/</a>).</p>
+  <ul>
+    <li>System of National Accounts 2008 <a href="http://unstats.un.org/unsd/nationalaccount/sna2008.asp" target="_blank"><u>http://unstats.un.org/unsd/nationalaccount/sna2008.asp</u></a> </li>
+    <li>Trends Econometric Models: A Review of Methodology <a href="http://www.ilo.org/empelm/pubs/WCMS_120382/lang--en/index.htm" target="_blank"><u>http://www.ilo.org/empelm/pubs/WCMS_120382/lang--en/index.htm</u></a> </li>
+    <li>ILOSTAT Database (<a href="https://ilostat.ilo.org/" target="_blank"><u>https://ilostat.ilo.org/</u></a>) </li>
+    <li>ILOSTAT Database &#x2013; Topics - Labour productivity (<a href="https://ilostat.ilo.org/topics/labour-productivity/" target="_blank"><u>https://ilostat.ilo.org/topics/labour-productivity/</u></a>). </li>
+  </ul>

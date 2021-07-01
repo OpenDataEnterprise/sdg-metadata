@@ -1,0 +1,265 @@
+SDG_INDICATOR_INFO: ''
+SDG_GOAL: '<p>Goal 10: Reduce inequality within and among countries</p>'
+SDG_TARGET: >-
+  <p>Target 10.4: Adopt policies, especially fiscal, wage and social protection
+  policies, and progressively achieve greater equality</p>
+SDG_INDICATOR: '<p>Indicator 10.4.1: Labour share of GDP</p>'
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: <p>January 2021</p>
+SDG_RELATED_INDICATORS: '<p>8.2.1, 8.5.1</p>'
+SDG_CUSTODIAN_AGENCIES: <p>ILO</p>
+CONTACT: ''
+CONTACT_ORGANISATION: <p>ILO</p>
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  <p><strong>Definition:</strong></p>
+
+  <p>Labour share of Gross Domestic Product (GDP) is the total compensation of
+  employees and the labour income of the self-employed given as a percent of
+  GDP, which is a measure of total output. It provides information about the
+  relative share of output which accrues to workers as compared with the share
+  that accrues to capital in the production process for a given reference
+  period.</p>
+
+  <p><strong>Concepts:</strong></p>
+
+  <p>Compensation of employees is the total in-cash or in-kind remuneration
+  payable to the employee by the enterprise for the work performed by the
+  employee during the accounting period. Compensation of employees includes: (i)
+  wages and salaries (in cash or in kind) and (ii) social insurance
+  contributions payable by employers. This concept views compensation of
+  employees as a cost to employer, thus compensation equals zero for unpaid work
+  undertaken voluntarily. Moreover, it does not include taxes payable by
+  employers on the wage and salary bill, such as payroll tax.</p>
+
+  <p>The indicator should be produced using data that cover all economic
+  activities, all employees, and the self-employed. Thus, in addition to the
+  compensation of employees, the indicator should also include the labour income
+  of the self-employed.</p>
+
+  <p>Gross domestic product (GDP) represents the market value of all final goods
+  and services produced during a specific time period (for the purposes of this
+  indicator, one year) in a country&apos;s territory.</p>
+
+  <p>Persons in employment are defined as all those persons of working age who,
+  during a short reference period (one week), were engaged in any activity to
+  produce goods or provide services for pay or profit. </p>
+
+  <p>Persons in employment include employees and self-employed.</p>
+
+  <p>Employees are all those workers who hold the type of job defined as paid
+  employment jobs, that is, jobs where the incumbents hold explicit or implicit
+  employment contracts giving them a basic remuneration not directly dependent
+  on the revenue of the unit for which they work. </p>
+UNIT_MEASURE: <p>Percentage</p>
+CLASS_SYSTEM: <p>Not applicable</p>
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  <p>The recommended primary data sources for this indicator are the national
+  accounts estimates of GDP and compensation of employees. The periodicity of
+  this indicator will hence depend on the national accounts data produced in the
+  given country. For self-employed workers an imputation model needs to be
+  developed to account for their labour income, in combination with national
+  accounts data. </p>
+
+  <p>The source of the data should be presented when providing estimates of the
+  indicator, as well as the System of National Accounts revision (preferably the
+  SNA 2008). </p>
+COLL_METHOD: >-
+  <p>The data on compensation of employees and GDP are collected from the
+  repository National Accounts Official Country Data. The Economic Statistics
+  Branch of the United Nations Statistics Division (UNSD) maintains and updates
+  the National Accounts Official Country Data database.</p>
+
+  <p>The necessary data to model and impute the labour of the self-employed are
+  national household survey microdatasets in line with internationally-agreed
+  indicator concepts and definitions. The ILO Department of Statistics processes
+  national household survey microdatasets in line with internationally-agreed
+  indicator concepts and definitions set forth by the International Conference
+  of Labour Statisticians.</p>
+FREQ_COLL: >-
+  <p>Annual for compensation of employees and GDP data and continuous for
+  household survey microdatasets.</p>
+REL_CAL_POLICY: <p>The target frequency of data release is approximately biennial. </p>
+DATA_SOURCE: >-
+  <p>National statistical offices are the primary providers of both the required
+  national accounts data and household survey microdatasets.</p>
+COMPILING_ORG: <p>ILO</p>
+INST_MANDATE: >-
+  <p>The ILO is the UN focal point for labour statistics. It sets international
+  standards for labour statistics through the International Conference of Labour
+  Statisticians. It also compiles and produces labour statistics with the goal
+  of disseminating internationally-comparable datasets, and provides technical
+  assistance and training to ILO member States to support their efforts to
+  produce high quality labour market data.</p>
+OTHER_METHOD: ''
+RATIONALE: >-
+  <p>Labour share of GDP seeks to inform about the relative share of GDP which
+  accrues to workers as compared to the share which accrues to capital in a
+  given reference period. </p>
+
+  <p>In order to interpret this indicator effectively, it is important to
+  consider it together with economic growth trends. The share of labour
+  compensation in national output can highlight the extent to which economic
+  growth translates into higher incomes for employees over time (and/or higher
+  earnings for the self-employed). In periods of economic recession, the labour
+  income share provides an indication of the extent to which falling output
+  reduces labour income relative to profits. If labour income falls at a greater
+  rate than profits, the labour income share will be expected to fall. By
+  contrast, if there is a sharper decline in profits than in labour income, the
+  share will rise. For any given level of GDP and profits, the labour income
+  share can fall as a result of falling wages, falling earnings of the
+  self-employed, changes in the composition of employment by income or a
+  combination these.</p>
+
+  <p>Increased production and GDP often lead to improved living standards of
+  individuals in the economy, but this will depend on the distribution of real
+  income and public policy among other factors. </p>
+
+  <p>If there is a large number of non-resident border or seasonal workers or
+  inflows and outflows of property income such that the value of production
+  differs from the income of residents, there may be a situation of over or
+  understating the living standards of residents.</p>
+REC_USE_LIM: >-
+  <p>GDP may exclude or underreport activities that are difficult to measure,
+  such as transactions in the informal sector or in illegal markets, etc. thus
+  understating the GDP. Moreover, GDP does not account for the social and
+  environmental costs of production, and is therefore is not a good measure of
+  the level of over-all wellbeing.</p>
+DATA_COMP: >-
+  <p>Labour share of Gross Domestic Product = (Total compensation of employees +
+  Labour income of the self-employed) / Gross Domestic Product * 100</p>
+DATA_VALIDATION: >-
+  <p>The ILO engages in annual consultations with member States through the
+  ILOSTAT questionnaire and related Statistics Reporting System (StaRS).
+  National data providers receive a link to the portal where they can review all
+  national SDG data available on ILOSTAT.</p>
+ADJUSTMENT: >-
+  <p>To ensure that the labour share data are internationally comparable, an
+  adjustment for the labour income earned by the self-employed is necessary.
+  Self-employment constitutes a large share of the global workforce. Moreover
+  the share of the self-employed in the total workforce tends to be higher in
+  countries with lower national income. As a consequence, using only national
+  accounts data on compensation of employees &#x2013; computing the unadjusted
+  labour share &#x2013; reduces international comparability.</p>
+
+  <p>Using the ILO Harmonized Microdata collection, the labour income of the
+  self-employed relative to the labour income of employees is imputed. The
+  imputation is based on observable characteristics of workers, such as economic
+  sector, occupation, education and age. For a description of the procedure
+  please refer to sections 2.1-2.4 of: <a
+  href="https://www.ilo.org/ilostat-files/Documents/Labour%20income%20share%20and%20distribution.pdf">The
+  Global Labour Income Share and Distribution</a>. </p>
+
+  <p>The labour income of the self-employed at the national level is computed on
+  the basis of this estimate, and is added to the numerator of the expression in
+  4.c.</p>
+IMPUTATION: >-
+  <p>&#x2022; At country level</p>
+
+  <p>Multivariate regression and cross-validation techniques are used to impute
+  missing values at the country level. The additional variables used for the
+  imputation include a range of indicators, including labour market and economic
+  data. For further information on the estimates, please refer to the ILO
+  modelled estimates methodological overview, available at <a
+  href="https://ilostat.ilo.org/resources/concepts-and-definitions/ilo-modelled-estimates/">https://ilostat.ilo.org/resources/concepts-and-definitions/ilo-modelled-estimates/</a>.
+  For the detailed imputation procedure for the labour share please refer to
+  section 2.6 of: <a
+  href="https://www.ilo.org/ilostat-files/Documents/Labour%20income%20share%20and%20distribution.pdf">The
+  Global Labour Income Share and Distribution</a>.</p>
+
+  <p>&#x2022; At regional and global levels</p>
+
+  <p>Not applicable (see 4.g below)</p>
+REG_AGG: >-
+  <p>The aggregates are derived from the country level data (including country
+  level imputed observations). The regional and global labour shares are
+  obtained by first adding up, across countries, the numerator and denominator
+  of the formula that define the labour share - outlined above. Once both
+  magnitudes are produced at the desired level of aggregation, the ratio between
+  the two is used to compute the share for each regional grouping and the global
+  level. Notice that this direct aggregation method can be used due to the
+  imputation of missing observations at the country level. For further
+  information on the estimates, please refer to the ILO modelled estimates
+  methodological overview, available at <a
+  href="https://ilostat.ilo.org/resources/concepts-and-definitions/ilo-modelled-estimates/">https://ilostat.ilo.org/resources/concepts-and-definitions/ilo-modelled-estimates/</a></p>
+DOC_METHOD: >-
+  <p>In order to compute this indicator, two key variables are required. </p>
+
+  <p>First, the national accounts estimates of GDP and compensation of
+  employees. Comprehensive documentation on the System of National Accounts can
+  be found here: <a
+  href="https://unstats.un.org/unsd/nationalaccount/sna.asp">https://unstats.un.org/unsd/nationalaccount/sna.asp</a></p>
+
+  <p>Second, the necessary data to model and impute the labour income of the
+  self-employed are national household survey microdatasets. For the methodology
+  of each national household survey, one must refer to the most comprehensive
+  survey report or to the methodological publications of the national
+  statistical office in question. For detailed guidance on the estimation of the
+  labour income of the self-employed please refer to sections 2.1-2.4 of: <a
+  href="https://www.ilo.org/ilostat-files/Documents/Labour%20income%20share%20and%20distribution.pdf">The
+  Global Labour Income Share and Distribution</a>. </p>
+QUALITY_MGMNT: >-
+  <p>Data consistency and quality checks regularly conducted for validation of
+  the data before dissemination in the ILOSTAT database.</p>
+
+  <p> </p>
+QUALITY_ASSURE: >-
+  <p>Data consistency and quality checks are regularly conducted for validation
+  of the data before dissemination in the ILOSTAT database.</p>
+
+  <p> </p>
+QUALITY_ASSMNT: >-
+  <p>The adjustment procedure to take into account the labour income of the
+  self-employed enhances the international comparability of the indicator. For a
+  detailed discussion on the bias reduction assessment of the estimation
+  procedure, please refer to section 3.1 of: <a
+  href="https://www.ilo.org/ilostat-files/Documents/Labour%20income%20share%20and%20distribution.pdf">The
+  Global Labour Income Share and Distribution</a>. </p>
+COVERAGE: |-
+  <p>Data availability:</p>
+  <p>Data for this indicator is available for 187 countries and territories</p>
+  <p>Time series:</p>
+  <p>Data for this indicator is available for the period from 2004 to 2017.</p>
+  <p>Disaggregation:</p>
+  <p>No disaggregations are required for this indicator.</p>
+COMPARABILITY: >-
+  <p>The data on compensation of employees and GDP used for the indicator is
+  estimated at the country level, hence no substantial discrepancies should
+  arise. In contrast, the adjustment to reflect the labour income of the
+  self-employed can be a source of sizeable differences between national and
+  international estimates.</p>
+
+  <p> </p>
+
+  <p>The indicator is estimated using a model to impute the labour income of the
+  self-employed on the basis of household survey microdatasets. This is done to
+  provide a comprehensive estimate of labour income and to enhance the
+  international comparability of the estimates. Country level estimates might
+  rely on different models for imputing the labour income of the self-employed
+  or not include the self-employed labour income at all.</p>
+
+  <p>For a detailed description of the different procedures to produce the
+  labour share and their performance please refer to sections 2.1-2.4, and
+  section 3.1 of: <a
+  href="https://www.ilo.org/ilostat-files/Documents/Labour%20income%20share%20and%20distribution.pdf">The
+  Global Labour Income Share and Distribution</a>.</p>
+OTHER_DOC: |-
+  <p><strong>URL:</strong></p>
+  <p><a href="https://ilostat.ilo.org/">https://ilostat.ilo.org/</a></p>
+  <p><strong>References:</strong></p>
+  <ul>
+    <li>ILO Guidebook - Decent Work and the Sustainable Development Goals: A Guidebook on SDG Labour Market Indicators (<a href="https://www.ilo.org/stat/Publications/WCMS_647109/lang--en/index.htm">https://www.ilo.org/stat/Publications/WCMS_647109/lang--en/index.htm</a> )</li>
+    <li>ILOSTAT: <a href="https://ilostat.ilo.org/">https://ilostat.ilo.org/</a></li>
+    <li>ILO Social Protection Data and Indicators: <a href="http://www.social-protection.org/gimi/gess/ShowTheme.action?th.themeId=10&amp;lang=EN">http://www.social-protection.org/gimi/gess/ShowTheme.action?th.themeId=10&amp;lang=EN</a> </li>
+    <li>System of National Accounts: <a href="http://unstats.un.org/unsd/nationalaccount/sna.asp">http://unstats.un.org/unsd/nationalaccount/sna.asp</a> </li>
+    <li>Decent Work Indicators Manual: <a href="http://www.ilo.org/stat/Publications/WCMS_223121/lang--en/index.htm">http://www.ilo.org/stat/Publications/WCMS_223121/lang--en/index.htm</a> </li>
+    <li><a href="https://www.ilo.org/ilostat-files/Documents/Labour%20income%20share%20and%20distribution.pdf">The Global Labour Income Share and Distribution</a></li>
+    <li>Labour income and inequality: <a href="https://ilostat.ilo.org/topics/labour-income/">https://ilostat.ilo.org/topics/labour-income/</a> </li>
+  </ul>

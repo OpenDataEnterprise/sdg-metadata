@@ -1,3 +1,4 @@
+SDG_INDICATOR_INFO: ''
 SDG_GOAL: >-
   <p>Goal 6: Ensure availability and sustainable management of water and
   sanitation for all</p>
@@ -9,10 +10,9 @@ SDG_TARGET: >-
 SDG_INDICATOR: >-
   <p>Indicator 6.4.2: Level of water stress: freshwater withdrawal as a
   proportion of available freshwater resources</p>
-META_LAST_UPDATE: '<p>Last updated: 5 August 2020</p>'
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: <p>February 2021</p>
 SDG_RELATED_INDICATORS: >-
-  <h1>Related indicators</h1>
-
   <p>6.4.1: Change in water-use efficiency over time</p>
 
   <p>6.1.1: Proportion of population using safely managed drinking water
@@ -35,14 +35,18 @@ SDG_RELATED_INDICATORS: >-
 
   <p>11.5.1: Number of deaths, missing persons and persons affected by disaster
   per 100,000 people [a]</p>
-SDG_CUSTODIAN_AGENCIES: |-
-  <h1>Institutional information</h1>
-  <h2>Organization(s):</h2>
-  <p>Food and Agriculture Organization of the United Nations (FAO)</p>
+SDG_CUSTODIAN_AGENCIES: <p>Food and Agriculture Organization of the United Nations (FAO)</p>
+CONTACT: ''
+CONTACT_ORGANISATION: <p>Food and Agriculture Organization of the United Nations (FAO)</p>
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <h1>Concepts and definitions</h1>
-
-  <h2>Definition:</h2>
+  <p><strong>Definition:</strong></p>
 
   <p>The level of water stress: freshwater withdrawal as a proportion of
   available freshwater resources is the ratio between total freshwater withdrawn
@@ -52,7 +56,7 @@ STAT_CONC_DEF: >-
   electricity industry; and services. This indicator is also known as water
   withdrawal intensity.</p>
 
-  <h2>Concepts:</h2>
+  <p><strong>Concepts:</strong></p>
 
   <p>This indicator provides an estimate of pressure by all sectors on the
   country&#x2019;s renewable freshwater resources. A low level of water stress
@@ -80,7 +84,7 @@ STAT_CONC_DEF: >-
 
   <p>Total freshwater withdrawal (TFWW) is the volume of freshwater extracted
   from its source (rivers, lakes, aquifers) for agriculture, industries and
-  services.<sup><a href="#footnote-1" id="footnote-ref-1">[1]</a></sup> It is
+  services<sup><a href="#footnote-2" id="footnote-ref-2">[1]</a></sup>. It is
   estimated at the country level for the following three main sectors:
   agriculture, services (including domestic water withdrawal) and industries
   (including cooling of thermoelectric plants). Freshwater withdrawal includes
@@ -89,94 +93,77 @@ STAT_CONC_DEF: >-
   desalinated water. </p>
 
   <p>Environmental flow requirements (EFR) are defined as the quantity and
-  timing of freshwater flows and levels necessary to sustain aquarian
-  ecosystems, which, in turn, support human cultures, economies, sustainable
-  livelihoods, and wellbeing. Water quality and also the resulting ecosystem
-  services are excluded from this formulation which is confined to water
-  volumes. This does not imply that quality and the support to societies which
-  are dependent on environmental flows are not important and should not be taken
-  care of.<sup><a href="#footnote-2" id="footnote-ref-2">[2]</a></sup> Methods
-  of computation of EFR are extremely variable and range from global estimates
-  to comprehensive assessments for river reaches. For the purpose of the SDG
-  indicator, water volumes can be expressed in the same units as the TFWW, and
-  then as percentages of the available water resources.</p><div
-  class="footnotes"><div><sup class="footnote-number" id="footnote-1">1</sup><p>
-  In AQUASTAT, service water withdrawal is reported as Municipal water
-  withdrawal. <a href="#footnote-ref-1">&#x2191;</a></p></div><div><sup
-  class="footnote-number" id="footnote-2">2</sup><p> They are indeed taken into
-  account by other targets and indicators, such as 6.3.2, 6.5.1, and 6.6.1. <a
-  href="#footnote-ref-2">&#x2191;</a></p></div></div>
+  timing of freshwater flows and levels necessary to sustain aquatic ecosystems,
+  which, in turn, support human cultures, economies, sustainable livelihoods,
+  and wellbeing. Water quality and also the resulting ecosystem services are
+  excluded from this formulation which is confined to water volumes. This does
+  not imply that quality and the support to societies which are dependent on
+  environmental flows are not important and should not be taken care of.<sup><a
+  href="#footnote-3" id="footnote-ref-3">[2]</a></sup> Methods of computation of
+  EFR are extremely variable and range from global estimates to comprehensive
+  assessments for river reaches. For the purpose of the SDG indicator, water
+  volumes can be expressed in the same units as the TFWW, and then as
+  percentages of the available water resources.</p><div
+  class="footnotes"><div><sup class="footnote-number" id="footnote-2">1</sup><p>
+  In AQUASTAT, Services water withdrawal is reported as Municipal water
+  withdrawal. <a href="#footnote-ref-2">&#x2191;</a></p></div><div><sup
+  class="footnote-number" id="footnote-3">2</sup><p> They are indeed taken into
+  account by other targets and indicators, such as 6.3.2, 6.5.1 and 6.6.1. <a
+  href="#footnote-ref-3">&#x2191;</a></p></div></div>
+UNIT_MEASURE: <p>Percentage </p>
+CLASS_SYSTEM: |-
+  <ul>
+    <li>The System of Environmental-Economic Accounting for Water: SEEA-Water for water resources and withdrawals (Available at: https://unstats.un.org/unsd/envaccounting/seeaw/);</li>
+    <li>The World Census of Agriculture 2020: WCA (Volume 1), for irrigation definitions (Available at: http://www.fao.org/world-census-agriculture).</li>
+  </ul>
+SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <h1>Data sources</h1>
-
-  <h2>Description:</h2>
-
   <p>Data for this indicator are usually collected by national ministries and
   institutions having water-related issues in their mandate, such as national
-  statistics offices, ministries of water resources, agriculture, or
-  environment. Official counterparts at country level are the national
-  statistics office and/or the line ministry for water resources. More
+  statistic offices, ministries of water resources, agriculture or environment.
+  Official counterparts at country level are the national statistics office
+  and/or the line ministry for water resources and irrigation. More
   specifically, FAO requests countries to nominate a National Correspondent to
   act as the focal point for the data collection and communication. Data are
   mainly published within national statistical yearbooks, national water
-  resources and irrigation master plans, and other reports (such as those from
+  resources and irrigation master plans and other reports (such as those from
   projects, international surveys or results and publications from national and
   international research centres).</p>
-
-  <p>The data for the indicator are collected through questionnaires to be
-  answered by the relevant institutions in each country. Examples of the
-  questionnaires that can be used can be found at:</p>
-
-  <p>AQUASTAT</p>
-
-  <p><a
-  href="http://www.fao.org/aquastat/en/overview/methodology">http://www.fao.org/aquastat/en/overview/methodology</a></p>
-
-  <p>UNSD/UNEP</p>
-
-  <p><a
-  href="http://unstats.un.org/unsd/environment/Questionnaires/q2013Water_English.xls">http://unstats.un.org/unsd/environment/Questionnaires/q2013Water_English.xls</a></p>
-
-  <p>OECD/Eurostat</p>
-
-  <p><a
-  href="http://ec.europa.eu/eurostat/ramon/coded_files/OECD_ESTAT_JQ_Manual_version_2_21.pdf">http://ec.europa.eu/eurostat/ramon/coded_files/OECD_ESTAT_JQ_Manual_version_2_21.pdf</a></p>
-COLL_METHOD: |-
-  <h2>Collection process:</h2>
-  <ol>
-    <li>Official counterparts at country level are the line ministry for water resources and the national statistics office. FAO requests countries to nominate a National Correspondent to act as the focal point for the data collection and communication.</li>
-    <li>Countries are expected to put in place a process of Quality Control (QC), Quality Assurance (QA) and data verification. The process should be carried out internally for the QC part, ensuring that all the planned steps are properly carried out at each round of data collection. The QA should be carried out by independent experts, either national or international, to assess the consistence and robustness of the data produced. Finally, where possible the resulting data should be verified by comparison with similar data from other sources.</li>
-    <li>After the data are collected, harmonization will be needed among the eventual differences in definitions and aggregations.</li>
-  </ol>
-FREQ_COLL: |-
-  <h1>Calendar</h1>
-  <h2>Data collection:</h2>
-  <p>Annually</p>
+COLL_METHOD: >-
+  <p>Data collection is done through FAO&#x2019;s Global Information System on
+  Water and Agriculture and AQUASTAT questionnaire on water and agriculture. The
+  data collection process relies on a network of National Correspondents,
+  officially nominated by their respective countries, in charge of the provision
+  of official national data to AQUASTAT. As August 2020, 150 countries have
+  nominated national correspondents as well as alternate correspondents from
+  different agencies. Countries submit data through the annual AQUASTAT
+  questionnaire on water and agriculture, which contains, among others, the
+  information required for the calculation of SDG indicator 6.4.2.</p>
+FREQ_COLL: >-
+  <p>Data are collected every year through the AQUASTAT network of National
+  Correspondents. FAO has dispatched the questionnaires to the National
+  Correspondents between April and July 2020.</p>
 REL_CAL_POLICY: >-
-  <h2>Data release:</h2>
+  <p>Data for the indicator are released every year, usually in February
+  following the UNSD collection schedule.</p>
 
-  <p>Data for the indicator are planned to be produced for most countries on an
-  annual basis since 2018 and are usually published in AQUASTAT every year in
-  January.</p>
+  <p> </p>
 DATA_SOURCE: >-
-  <h1>Data providers</h1>
-
-  <h2>Description:</h2>
-
-  <p>National Statistical Offices through AQUASTAT National Correspondents. The
-  institutions responsible for data collection at national level vary according
-  to countries. However, in general data for this indicator are provided by the
-  Ministry of Agriculture, Ministry of Water and Ministry of Environment, and
-  other line ministries.</p>
+  <p>Data come from governmental sources. The institutions responsible for data
+  collection at national level vary according to countries. However, in general
+  data for this indicator are provided by the Ministry of Agriculture, Ministry
+  of Water, Ministry of Environment and other line Ministries. In many cases
+  data collection at country level is coordinated by the National Statistics
+  office (NSO).</p>
 COMPILING_ORG: >-
-  <h1>Data compilers</h1>
-
-  <p>Food and Agriculture Organization of the United Nations (FAO) through
-  AQUASTAT, its global water information system (<a
-  href="http://www.fao.org/aquastat/en/">http://www.fao.org/aquastat/en/</a>).</p>
+  <p>Calculation rules are predefined and use data referring to the same year to
+  general aggregate values</p>
+INST_MANDATE: >-
+  <p>FAO has, as part of its mandate, the function of &#x201C;collect, analyse,
+  interpret and disseminate information relating to nutrition, food and
+  agriculture&#x201D;. (FAO Constitution, Article 1)</p>
+OTHER_METHOD: ''
 RATIONALE: >-
-  <h2>Rationale:</h2>
-
   <p>The purpose of this indicator is to show the degree to which water
   resources are being exploited to meet the country&apos;s water demand. It
   measures a country&apos;s pressure on its water resources and therefore the
@@ -198,9 +185,26 @@ RATIONALE: >-
   use properly its water resources for the benefit of the population. In such
   cases, a moderate and controlled increase in the value of the indicator can be
   a sign of positive development.</p>
-REC_USE_LIM: >-
-  <h2>Comments and limitations:</h2>
 
+  <p>This indicator provides an estimate of pressure by all sectors on the
+  country&#x2019;s renewable freshwater resources. A low level of water stress
+  indicates a situation where the combined withdrawal by all sectors is marginal
+  in relation to the resources, and has therefore little potential impact on the
+  sustainability of the resources or on the potential competition between users.
+  A high level of water stress indicates a situation where the combined
+  withdrawal by all sectors represents a substantial share of the total
+  renewable freshwater resources, with potentially larger impacts on the
+  sustainability of the resources and potential situations of conflicts and
+  competition between users.</p>
+
+  <p>The indicator is computed based on three components:</p>
+
+  <p><strong>Total renewable freshwater resources (TRWR)</strong></p>
+
+  <p><strong>Total freshwater withdrawal (TFWW)</strong></p>
+
+  <p><strong>Environmental flow requirements (EFR)</strong></p>
+REC_USE_LIM: >-
   <p>Freshwater withdrawal as a percentage of renewable freshwater resources is
   a good indicator of pressure on limited water resources, one of the most
   important natural resources. However, it only partially addresses the issues
@@ -215,7 +219,7 @@ REC_USE_LIM: >-
   countries, in particular in agriculture, which is the main user of water.
   Sustainability assessment is also linked to the critical thresholds fixed for
   this indicator. Although there is no universal consensus on such thresholds, a
-  proposal is presented below. </p>
+  proposal is presented below.</p>
 
   <p>Trends in freshwater withdrawal show relatively slow patterns of change.
   Usually, three-five years are a minimum frequency to be able to detect
@@ -240,10 +244,10 @@ REC_USE_LIM: >-
   <ul>
     <li>difficulty to obtain accurate, complete and up-to-date data; </li>
     <li>potentially large variation of sub-national data; </li>
-    <li>lack of account of seasonal variations in water resources;</li>
+    <li>lack of account of historical (e.g., due to climate change and population growth) and seasonal variations in water resources;</li>
     <li>lack of consideration to the distribution among water uses; </li>
     <li>lack of consideration of water quality and its suitability for use; and</li>
-    <li>the indicator can be higher than 100 per cent when water withdrawal non-renewable water (fossil groundwater), when annual groundwater withdrawal is higher than annual replenishment (over-abstraction) or when water withdrawal includes part or all of the water set aside for environmental water requirements. </li>
+    <li>the indicator can be higher than 100 per cent when water withdrawal non-renewable freshwater (fossil groundwater), when annual groundwater withdrawal is higher than annual replenishment (over-abstraction) or when freshwater withdrawal includes part or all of the water set aside for environmental flow requirements. </li>
   </ul>
 
   <p>Some of these issues can be solved through disaggregation of the indicator
@@ -251,9 +255,7 @@ REC_USE_LIM: >-
   sectors. However, due to the complexity of water flows, both within a country
   and between countries, care should be taken not to double-count.</p>
 DATA_COMP: >-
-  <h1>Methodology</h1>
-
-  <h2>Computation method:</h2>
+  <p><strong>Computation Method:</strong></p>
 
   <p>Method of computation: The indicator is computed as the total freshwater
   withdrawn (TFWW) divided by the difference between the total renewable
@@ -276,42 +278,57 @@ DATA_COMP: >-
   <p>Above 25% of water stress, four classes have been identified to signal
   different levels of stress severity:</p>
 
-  <p>NO STRESS&#xA0;&lt;25%&#xA0;</p>
-
-  <p>LOW 25% - 50%&#xA0;</p>
-
-  <p>MEDIUM 50% - 75%&#xA0;</p>
-
-  <p>HIGH 75-100%</p>
-
-  <p>CRITICAL &gt;100%&#xA0;</p>
-IMPUTATION: >-
-  <h2>Treatment of missing values:</h2>
-
   <ul>
-    <li><strong><em>At country level:</em></strong></li>
+    <li>NO STRESS &lt;25% </li>
+    <li>LOW 25% - 50% </li>
+    <li>MEDIUM 50% - 75% </li>
+    <li>HIGH 75-100%</li>
+    <li>CRITICAL &gt;100% </li>
   </ul>
+DATA_VALIDATION: |-
+  <p>Data validation is done in a number of steps. </p>
+  <ul>
+    <li>the AQUASTAT questionnaire embeds automatic validation rules to allow National Correspondents to identify any data consistency errors while compiling the data.</li>
+    <li>Once the questionnaire is submitted, FAO thoroughly reviews the information reported, using the following tools:<ul>
+        <li>Manual cross-variable check. This includes cross-comparison with similar countries as well as historic data for the countries. </li>
+        <li>Time-series coherency by running an R-script to compare reported data with those corresponding to previous years</li>
+        <li>Verification of the metadata, in particular the source of the proposed data. The critical analysis of the compiled data gives preference to national sources and expert knowledge.</li>
+      </ul>
+    </li>
+    <li>After this verification, exchanges between the National Correspondents and FAO take place to correct and confirm the collected data. </li>
+    <li>The last validation step is an automated validation routine included in the Statistical Working System (SWS), which uses almost 200 validation rules.</li>
+  </ul>
+ADJUSTMENT: >-
+  <p>Since national level data is frequently tailored to be useful at national
+  level and not for international comparisons, data may be manipulated in order
+  to maximize international comparability. Adjusted data is displayed with an
+  appropriate qualifier. Data is rounded according to a specific methodology<u>
+  </u><a
+  href="http://www.fao.org/aquastat/en/databases/maindatabase/metadata/">http://www.fao.org/aquastat/en/databases/maindatabase/metadata/</a></p>
+
+  <p>Additionally, the Statistical Working System (SWS) has the correspondence
+  among different international codes (FAOSTAT, UNSDM49, ISO2, ISO3) for
+  geographic areas and is used to convert area codes in the external sources to
+  UNSDM49 codes which is the standard used in the SWS.</p>
+IMPUTATION: >-
+  <p>&#x2022; At country level</p>
 
   <p>Three types of imputation are made at country level to fill in missing
   years in the timeseries:</p>
 
   <ul>
-    <li>
-      <ul>
-        <li>Linear imputation: between two available data-points</li>
-        <li>Carry forward: after the last available data-points and up to 10 years</li>
-        <li>Vertical imputation: in case of available total freshwater withdrawal but missing disaggregation by sources, and if existing disaggregation existed for previous years, the respective ratio by sources is applied to the available total.</li>
-      </ul>
-    </li>
-    <li><strong><em>At regional and global levels:</em></strong></li>
+    <li>Linear imputation: between two available data-points</li>
+    <li>Carry forward: after the last available data-points and up to 10 years</li>
+    <li>Vertical imputation: in case of available total freshwater withdrawal but missing disaggregation by sources, and if existing disaggregation existed for previous years, the respective ratio by sources is applied to the available total.</li>
   </ul>
+
+  <p>&#x2022; At regional and global levels</p>
 
   <p>Thanks to the imputation methods at country level, data will be available
   for the whole time series (unless the latest official value was obtained more
-  than 10 years ago).</p>
+  than 10 years ago). Imputed data is displayed with an appropriate
+  qualifier</p>
 REG_AGG: >-
-  <h2>Regional aggregates:</h2>
-
   <p>Regional and global estimates will be done by summing up the national
   figures on renewable freshwater resources and total freshwater withdrawal,
   considering only the internal renewable water resources of each country in
@@ -321,37 +338,161 @@ REG_AGG: >-
   Countries group, etc.), total renewable water resources are summed up. The EFR
   at regional level is estimated as the average of the countries&#x2019; EFRs,
   in percentage, and applied to the regional water resources.</p>
-DOC_METHOD: >-
-  <h2>Methods and guidance available to countries for the compilation of the
-  data at the national level:</h2>
+DOC_METHOD: |-
+  <ul>
+    <li>A set of tools is available to countries for the compilation of the indicator. Among them, a step-by-step methodological guide, an interpretation paper, and an e-learning course. All the tools are available on the FAO web pages, at: http://www.fao.org/sustainable-development-goals/indicators/642/en/ </li>
+    <li>During 2020 and 2021 FAO has organized four virtual trainings for Asia, Latin-America and the Caribbean and Africa on SDG 6.4. </li>
+    <li>FAO&#x2019;s AQUASTAT team provides continued guidance to the countries thought the National Correspondents during the data collection time to ensure data is duly and timely compiled</li>
+  </ul>
+QUALITY_MGMNT: |-
+  <ul>
+    <li>First, the annual Water and Agriculture questionnaire, used for collecting information on SDG indicator 6.4.1, was endorsed by FAO&#x2019;s Office of the Chief Statistician (OCS).</li>
+    <li>During the reporting process, the OCS provides overall guidance, including on metadata reporting, based on the Metadata Dissemination Standard approved by the FAO IDWG-Statistics Technical Task Force.</li>
+    <li>Data on Environmental flow requirements is re updated only when detailed methodology and metadata reprovided and when consistency in the values is ensured.</li>
+    <li>After revision and validation, data are submitted to the OCS who also ensures the quality of the data and results.</li>
+  </ul>
+QUALITY_ASSURE: >-
+  <p>FAO is responsible for the quality of the internal statistical processes
+  used to compile the published datasets. The FAO Statistics Quality Assurance
+  Framework (SQAF), available at:
+  http://www.fao.org/docrep/019/i3664e/i3664e.pdf, provides the necessary
+  principles, guidelines and tools to carry out quality assessments. FAO is
+  performing an internal bi-annual survey (FAO Quality Assessment and Planning
+  Survey) designed to gather information on all of FAO&#x2019;s statistical
+  activities, notably to assess the extent to which quality standards are being
+  implemented with a view to increasing compliance with the quality dimensions
+  of SQAF, documenting best practices and prepare quality improvement plans,
+  where necessary. Domain-specific quality assurance activities are carried out
+  systematically (e.g. quality reviews, self-assessments, compliance
+  monitoring).</p>
+QUALITY_ASSMNT: >-
+  <p>Overall evaluation of data quality is based on standard quality criteria
+  and follows FAO&#x2019;s SQAF. It also includes:</p>
 
-  <p>This indicator provides an estimate of pressure by all sectors on the
-  country&#x2019;s renewable freshwater resources. A low level of water stress
-  indicates a situation where the combined withdrawal by all sectors is marginal
-  in relation to the resources, and has therefore little potential impact on the
-  sustainability of the resources or on the potential competition between users.
-  A high level of water stress indicates a situation where the combined
-  withdrawal by all sectors represents a substantial share of the total
-  renewable freshwater resources, with potentially larger impacts on the
-  sustainability of the resources and potential situations of conflicts and
-  competition between users.</p>
+  <ul>
+    <li>A qualitative and quantitative manual cross-variable check after data is received. This consists of the verification that all the numbers are consistent based on the internal validation rules embedded in the questionnaire. Any issues identified are flagged and listed to be followed-up with the countries. </li>
+    <li>Time-series coherency check done by running an R-script to compare reported data with those corresponding to previous years. Based on this, a scattered diagram is also made by variable and country to allow for a visual verification of historical data. The critical analysis of the compiled data gives preference to national sources and expert knowledge, unless these greatly diverge from historic data or in the case of drastic changes in methodologies used by countries with significant influence on the results. </li>
+    <li>Verification of the metadata, in particular the source of the proposed data. When data sources were not provided, the questionnaire was added as the data source of a given value. For the </li>
+  </ul>
+COVERAGE: >-
+  <p>Data needed for the indicator are collected through AQUASTAT for 168
+  countries worldwide. In the 2020 round, xx countries reported data. The
+  indicators values for the rest of the countries are imputed as described in
+  section 4.f.</p>
 
-  <p>The indicator is computed based on three components:</p>
+  <p>Breakdown of the number of countries covered by region is as follows:</p>
 
-  <p><strong>Total renewable freshwater resources (TRWR)</strong></p>
+  <p>Countries (2010 to present):</p>
 
-  <p><strong>Total freshwater withdrawal (TFWW)</strong></p>
+  <p>Asia and Pacific 23</p>
 
-  <p><strong>Environmental flow requirements (EFR)</strong> </p>
+  <p>Africa 18</p>
 
-  <p><em>Water Stress (%) = TFWW/(TRWR &#x2013; EFR) *100</em></p>
+  <p>Latin America and the Caribbean 17</p>
+
+  <p>Europe, North America, Australia, New Zealand and Japan 41</p>
+
+  <p>Countries (2000-2009):</p>
+
+  <p>Asia and Pacific 42</p>
+
+  <p>Africa 49</p>
+
+  <p>Latin America and the Caribbean 27</p>
+
+  <p>Europe, North America, Australia, New Zealand and Japan 47</p>
+
+  <p>Time series:</p>
+
+  <p>1961-2018 (Discontinuous, depending on country. Data are interpolated to
+  create timelines.) </p>
+
+  <p>Disaggregation:</p>
+
+  <p>Although the indicator is based on total water volumes, sectoral data are
+  needed to be able to disaggregate it in order to show the respective
+  contribution of different sectors to the country&#x2019;s water stress, and
+  therefore the relative importance of actions needed to contain water demand in
+  the different sectors (agriculture, services and industry). </p>
+
+  <p>At national level, water resources and withdrawals are estimated or
+  measured at the level of appropriate hydrological units (river basins,
+  aquifers). It is therefore possible to obtain a geographical distribution of
+  water stress by hydrological unit, thus allowing for more targeted response in
+  terms of water demand management.</p>
+COMPARABILITY: >-
+  <p>Geographical: For national estimates incoming freshwater is counted as
+  being part of the country&#x2019;s available freshwater resources, while
+  global estimates can only be done by adding up the internal renewable
+  freshwater resources (water generated within the country) of all countries in
+  order to avoid double counting. Moreover, external freshwater resources are
+  computed according to treaties, if present, which may lead to different values
+  with respect to the actual freshwater resources assessed through
+  hydrology.</p>
+
+  <p>Over-time: time series are comparable across time. </p>
+OTHER_DOC: >-
+  <p><strong>URL:</strong></p>
+
+  <p><a
+  href="http://www.fao.org/aquastat/en/">http://www.fao.org/aquastat/en/</a>
+  </p>
+
+  <p><strong>References:</strong></p>
+
+  <p>Food and Agricultural Organization of the United Nations (FAO). AQUASTAT,
+  FAO&apos;s Global Water Information System. Rome. Website <a
+  href="http://www.fao.org/aquastat/en/">http://www.fao.org/aquastat/en/</a>.
+  </p>
+
+  <p>The following resources of specific interest to this indicator are
+  available on these sites: </p>
+
+  <p>AQUASTAT glossary (<a
+  href="http://www.fao.org/aquastat/en/databases/glossary/">http://www.fao.org/aquastat/en/databases/glossary/</a>).
+  </p>
+
+  <p>AQUASTAT Main country database (<a
+  href="http://www.fao.org/nr/water/aquastat/data/query/index.html?lang=en">http://www.fao.org/nr/water/aquastat/data/query/index.html?lang=en</a>
+  ) </p>
+
+  <p>AQUASTAT Water use (<a
+  href="http://www.fao.org/aquastat/en/overview/methodology/water-use/">http://www.fao.org/aquastat/en/overview/methodology/water-use/</a>).
+  </p>
+
+  <p>AQUASTAT Water resources (<a
+  href="http://www.fao.org/aquastat/en/overview/methodology/water-resources/">http://www.fao.org/aquastat/en/overview/methodology/water-resources/</a>).
+  </p>
+
+  <p>AQUASTAT publications dealing with concepts, methodologies, definitions,
+  terminologies, metadata, etc. (<a
+  href="http://www.fao.org/aquastat/en/resources/publications/reports/">http://www.fao.org/aquastat/en/resources/publications/reports/</a>)</p>
+
+  <p>IWMI &#x2013; Global environmental flows assessment <br><a
+  href="http://eflows.iwmi.org/">http://eflows.iwmi.org/</a> </p>
+
+  <p>IWMI - Global Environmental Flow Information for the Sustainable
+  Development
+  Goals<br>http://www.iwmi.cgiar.org/Publications/IWMI_Research_Reports/PDF/pub168/rr168.pdf</p>
+
+  <p>UNSD/UNEP Questionnaire on Environment Statistics &#x2013; Water
+  Section</p>
+
+  <p>http://unstats.un.org/unsd/environment/qindicators.htm </p>
+
+  <p>Framework for the Development of Environment Statistics (FDES 2013)
+  (Chapter 3)
+  http://unstats.un.org/unsd/environment/FDES/FDES-2015-supporting-tools/FDES.pdf</p>
+
+  <p>OECD/Eurostat Questionnaire on Environment Statistics &#x2013; Water
+  Section</p>
 
   <p>Several documents exist that can be used to support countries in the
   computation of this indicator. Among them:</p>
 
-  <p><strong><em>Understanding AQUASTAT - FAO&apos;s global water information
-  system</em><br></strong>This information note covers a twenty year history of
-  the collection and analysis of water-related data and its dissemination as an
+  <p><strong>Understanding AQUASTAT - FAO&apos;s global water information
+  system<br></strong>This information note covers a twenty-year history of the
+  collection and analysis of water-related data and its dissemination as an
   international public good, freely available to all. The process of collecting
   and checking the data has resulted in the establishment of a unique network of
   collaborators who provide data, use data from other countries for comparative
@@ -375,24 +516,24 @@ DOC_METHOD: >-
   <p><a
   href="https://www.unwater.org/app/uploads/2019/01/SDG6_EF_LOW2.pdf">https://www.unwater.org/app/uploads/2019/01/SDG6_EF_LOW2.pdf</a></p>
 
-  <p><strong><em>Renewable Water Resources Assessment - 2015 AQUASTAT
-  methodology review</em><br></strong><a
+  <p><strong>Renewable Water Resources Assessment - 2015 AQUASTAT methodology
+  review<br></strong><a
   href="http://www.fao.org/3/a-bc818e.pdf">http://www.fao.org/3/a-bc818e.pdf</a></p>
 
-  <p><strong><em>Global database on municipal wastewater production, collection,
-  treatment, discharge and direct use in agriculture</em>&#xA0;<br></strong>This
-  paper describes the rationale and method to setup and feed the AQUASTAT
-  database on municipal wastewater production, collection, treatment, discharge
-  or direct use in agriculture. The best available sources of information have
-  been reviewed, including peer-reviewed papers, proceedings of workshops,
+  <p><strong>Global database on municipal wastewater production, collection,
+  treatment, discharge and direct use in agriculture <br></strong>This paper
+  describes the rationale and method to setup and feed the AQUASTAT database on
+  municipal wastewater production, collection, treatment, discharge or direct
+  use in agriculture. The best available sources of information have been
+  reviewed, including peer-reviewed papers, proceedings of workshops,
   conferences and expert meetings, global or regional databases, as well as
   country briefs, national reports and direct communications by country
   government officials and experts<br><a
   href="http://www.fao.org/3/a-bc823e.pdf">http://www.fao.org/3/a-bc823e.pdf</a></p>
 
-  <p><strong><em>Cooling water for energy generation and its impact on
-  national-level water statistics</em>&#xA0;<br></strong>This technical note,
-  describing the issue of cooling water for energy generation and its impact on
+  <p><strong>Cooling water for energy generation and its impact on
+  national-level water statistics <br></strong>This technical note, describing
+  the issue of cooling water for energy generation and its impact on
   national-level water statistics, has two purposes: 1) to act as a general
   informational resource and 2) to encourage governmental agencies responsible
   for water usage to gather and report information disaggregated by sub-sector
@@ -402,18 +543,18 @@ DOC_METHOD: >-
   higher.<br><a
   href="http://www.fao.org/3/a-bc822e.pdf">http://www.fao.org/3/a-bc822e.pdf</a></p>
 
-  <p><strong><em>Municipal and industrial water withdrawal modelling for the
-  years 2000 and 2005 using statistical methods</em>&#xA0;<br></strong>This
-  document describes the efforts to generate models that estimate the municipal
-  and industrial water withdrawals for the years 2000 and 2005.&#xA0;<br><a
+  <p><strong>Municipal and industrial water withdrawal modelling for the years
+  2000 and 2005 using statistical methods <br></strong>This document describes
+  the efforts to generate models that estimate the municipal and industrial
+  water withdrawals for the years 2000 and 2005. <br><a
   href="http://www.fao.org/3/a-bc821e.pdf">http://www.fao.org/3/a-bc821e.pdf</a></p>
 
-  <p><strong><em>Disambiguation of water statistics</em>&#xA0;<br></strong>The
-  nomenclature surrounding water information is often confusing and gives rise
-  to different interpretations and thus confusion. When discussing the way in
-  which renewable water resources are utilized, the terms water use, usage,
-  withdrawal, consumption, abstraction, extraction, utilization, supply and
-  demand are often used without clearly stating what is meant.&#xA0;<br><a
+  <p><strong>Disambiguation of water statistics <br></strong>The nomenclature
+  surrounding water information is often confusing and gives rise to different
+  interpretations and thus confusion. When discussing the way in which renewable
+  water resources are utilized, the terms water use, usage, withdrawal,
+  consumption, abstraction, extraction, utilization, supply and demand are often
+  used without clearly stating what is meant. <br><a
   href="http://www.fao.org/3/a-bc816e.pdf">http://www.fao.org/3/a-bc816e.pdf</a></p>
 
   <p><strong>FAO-AQUASTAT questionnaire on water and
@@ -421,187 +562,26 @@ DOC_METHOD: >-
   prepared specifically designed to collect the SDG 6.4. related water
   variables, and therefore to update the core variables in AQUASTAT
   database.<br><a
-  href="http://www.fao.org/aquastat/en/overview/methodology/">http://www.fao.org/aquastat/en/overview/methodology/</a></p>
+  href="http://www.fao.org/aquastat/en/overview/methodology/">http://www.fao.org/aquastat/en/overview/methodology/</a>
+  </p>
 
-  <p><strong><em>International Recommendations for Water
-  Statistics</em><br></strong>The International Recommendations for Water
-  Statistics (IRWS) were developed to help strengthen national information
-  systems for water in support of design and evaluation of Integrated Water
-  Resources Management (IWRM) policies.<br><a
-  href="https://unstats.un.org/UNSD/envaccounting/irws/">https://unstats.un.org/UNSD/envaccounting/irws/</a></p>
+  <p><strong>International Recommendations for Water Statistics<br></strong>The
+  International Recommendations for Water Statistics (IRWS) were developed to
+  help strengthen national information systems for water in support of design
+  and evaluation of Integrated Water Resources Management (IWRM)
+  policies.<br>https://unstats.un.org/unsd/EconStatKB/KnowledgebaseArticle10209.aspx
+  </p>
 
-  <p><strong><em>UNSD/UNEP Questionnaire on Environment Statistics &#x2013;
-  Water Section</em><br></strong><a
+  <p><strong>UNSD/UNEP Questionnaire on Environment Statistics &#x2013; Water
+  Section<br></strong><a
   href="http://unstats.un.org/unsd/environment/questionnaire.htm">http://unstats.un.org/unsd/environment/questionnaire.htm</a><u><br></u><a
   href="http://unstats.un.org/unsd/environment/qindicators.htm">http://unstats.un.org/unsd/environment/qindicators.htm</a></p>
 
-  <p><strong><em>UNSD &#x2018;National Accounts Main Aggregates
-  Database&#x2019;</em><br></strong><a
+  <p><strong>UNSD &#x2018;National Accounts Main Aggregates
+  Database&#x2019;<br></strong><a
   href="http://unstats.un.org/unsd/snaama/selbasicFast.asp">http://unstats.un.org/unsd/snaama/selbasicFast.asp</a></p>
-QUALITY_ASSURE: >-
-  <h2>Quality assurance:</h2>
 
-  <p>Every data in AQUASTAT goes through a thorough validation process.</p>
-
-  <p>Before uploading, data is compared to other variables to ensure it is
-  logically correct (in other words: 1+2=3) and whether the reference used is
-  not leading back to AQUASTAT itself. In other words, AQUASTAT frequently finds
-  data for 2014, which is really AQUASTAT data for 2000 with the year changed
-  (most probably when the data was harvested).</p>
-
-  <p>Also during the validation process each new data-point is compared to other
-  data already available for this variable in other years or in the same year.
-  If it is impossible to harmonize or reconcile the different data, then one or
-  the other data-point has to be deleted from the database. </p>
-
-  <p>During uploading into the Main Database, another validation process takes
-  place, using a set of about 300 validation rules. Of these, about 100 rules
-  are obligatory rules, which means that if the data-point doesn&apos;t obey
-  this rule, the validation process cannot go on. For example, the cultivated
-  area of a country cannot be larger than the total area of the country. The
-  other set of about 200 validation rules are warning signs for the person doing
-  the validation. For example, in general the area equipped for irrigation using
-  surface irrigation technology is at least half of the total area equipped for
-  irrigation. However, in some countries the localized irrigation area or the
-  sprinkler irrigation area might be larger than the surface irrigation area. If
-  this is the case, then a warning pops up during validation for the analyst to
-  check whether for this country it is possible. </p>
-
-  <p>Beyond the usual AQUASTAT validation described above, in the compilation of
-  the indicator countries will be encouraged and supported in setting up their
-  own quality control system, ensuring that all data used in the computation are
-  checked, and that consistency is kept over the years to ensure comparability
-  and robust identification of trends.</p>
-
-  <p>The indicator requires data from different sectors of expertise.
-  Internationally, they are available of different datasets from various
-  institutions, such as FAO, UNSD and IWMI. Each of these institutions has its
-  own established mechanism to consult and validate the data with the
-  countries.</p>
-
-  <p>For the data deriving from FAOSTAT and AQUASTAT, data are collected in
-  countries through surveys consisting of data collection and country
-  description by means of a detailed questionnaires were the source reference
-  and comments are associated with each value, through officially nominated
-  national resource persons. Critical analysis of information and data
-  processing is done by FAO staff. </p>
-
-  <p>However, for the SDG process a specific mechanism will be put in place,
-  consisting in the identification in each country, by the national government,
-  of a national focal point and a technical team, in charge of the collection
-  and computation of the indicator, in close consultation with FAO. This system
-  has been successfully tested during the initial phase of the GEMI project,
-  carried out by FAO and other seven UN agencies, coordinated by UN-Water.</p>
-
-  <p>For those countries that could initially have difficulties in compiling and
-  computing the indicator, FAO will provide support and ultimately will be able
-  to produce the indicator starting from internationally available data.
-  However, no data will be made public without the prior approval by the
-  relevant national authorities.</p>
-COVERAGE: >-
-  <h1>Data availability</h1>
-
-  <h2>Description:</h2>
-
-  <p><strong><em>Countries (2010 to present):</em></strong></p>
-
-  <p>Asia and Pacific 23</p>
-
-  <p>Africa 18</p>
-
-  <p>Latin America and the Caribbean 17</p>
-
-  <p>Europe, North America, Australia, New Zealand and Japan 41</p>
-
-  <p><strong><em>Countries (2000-2009):</em></strong></p>
-
-  <p>Asia and Pacific 42</p>
-
-  <p>Africa 49</p>
-
-  <p>Latin America and the Caribbean 27</p>
-
-  <p>Europe, North America, Australia, New Zealand and Japan 47</p>
-
-  <h2>Time series:</h2>
-
-  <p>1961-2017 (Discontinuous, depending on country) Data are interpolated to
-  create timelines.</p>
-
-  <h2>Disaggregation:</h2>
-
-  <p>Although the indicator is based on total water volumes, sectoral data are
-  needed to be able to disaggregate it in order to show the respective
-  contribution of different sectors to the country&#x2019;s water stress, and
-  therefore the relative importance of actions needed to contain water demand in
-  the different sectors (agriculture, services, and industry). </p>
-
-  <p>At national level, water resources and withdrawals are estimated or
-  measured at the level of appropriate hydrological units (river basins,
-  aquifers). It is therefore possible to obtain a geographical distribution of
-  water stress by hydrological unit, thus allowing for more targeted response in
-  terms of water demand management.</p>
-COMPARABILITY: >-
-  <h2>Sources of discrepancies:</h2>
-
-  <p>Differences might occur due to the following, amongst others: For national
-  estimates incoming freshwater is counted as being part of the country&#x2019;s
-  available freshwater resources, while global estimates can only be done by
-  adding up the internal renewable water resources (water generated within the
-  country) of all countries in order to avoid double counting. Moreover,
-  external freshwater resources are computed according to treaties, if present,
-  which may lead to different values with respect to the actual freshwater
-  resources assessed through hydrology.</p>
-OTHER_DOC: >-
-  <h1>References</h1>
-
-  <h2>URL:</h2>
-
-  <p><a
-  href="http://www.fao.org/aquastat/en/">http://www.fao.org/aquastat/en/</a>
+  <p><strong>FAO e-learning course on </strong>SDG Indicator 6.4.2 - Level of
+  water stress: https://elearning.fao.org/course/view.php?id=365: <a
+  href="https://elearning.fao.org/course/view.php?id=475">https://elearning.fao.org/course/view.php?id=475</a>
   </p>
-
-  <h2>References:</h2>
-
-  <p>Food and Agricultural Organization of the United Nations (FAO). AQUASTAT,
-  FAO&apos;s Global Water Information System. Rome. Website <a
-  href="http://www.fao.org/aquastat/en/">http://www.fao.org/aquastat/en/</a>.</p>
-
-  <p>The following resources of specific interest to this indicator are
-  available on these sites: </p>
-
-  <p>AQUASTAT glossary (<a
-  href="http://www.fao.org/aquastat/en/databases/glossary/">http://www.fao.org/aquastat/en/databases/glossary/</a>)
-  </p>
-
-  <p>AQUASTAT Main country database (<a
-  href="http://www.fao.org/nr/water/aquastat/data/query/index.html?lang=en">http://www.fao.org/nr/water/aquastat/data/query/index.html?lang=en</a>)
-  </p>
-
-  <p>AQUASTAT Water use (<a
-  href="http://www.fao.org/aquastat/en/overview/methodology/water-use/">http://www.fao.org/aquastat/en/overview/methodology/water-use/</a>)</p>
-
-  <p>AQUASTAT Water resources (<a
-  href="http://www.fao.org/aquastat/en/overview/methodology/water-resources/">http://www.fao.org/aquastat/en/overview/methodology/water-resources/</a>)</p>
-
-  <p>AQUASTAT publications dealing with concepts, methodologies, definitions,
-  terminologies, metadata, etc. (<a
-  href="http://www.fao.org/aquastat/en/resources/publications/reports/">http://www.fao.org/aquastat/en/resources/publications/reports/</a>)</p>
-
-  <p>IWMI &#x2013; Global environmental flows assessment <br><a
-  href="http://eflows.iwmi.org/">http://eflows.iwmi.org/</a> </p>
-
-  <p>IWMI - Global Environmental Flow Information for the Sustainable
-  Development Goals<br><a
-  href="http://www.iwmi.cgiar.org/Publications/IWMI_Research_Reports/PDF/pub168/rr168.pdf">http://www.iwmi.cgiar.org/Publications/IWMI_Research_Reports/PDF/pub168/rr168.pdf</a></p>
-
-  <p>UNSD/UNEP Questionnaire on Environment Statistics &#x2013; Water Section
-  (<a
-  href="http://unstats.un.org/unsd/environment/qindicators.htm">http://unstats.un.org/unsd/environment/qindicators.htm</a>)</p>
-
-  <p>Framework for the Development of Environment Statistics (FDES 2013)
-  (Chapter 3) <a
-  href="http://unstats.un.org/unsd/environment/FDES/FDES-2015-supporting-tools/FDES.pdf">http://unstats.un.org/unsd/environment/FDES/FDES-2015-supporting-tools/FDES.pdf</a></p>
-
-  <p>OECD/Eurostat Questionnaire on Environment Statistics &#x2013; Water
-  Section</p>

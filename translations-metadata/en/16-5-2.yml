@@ -1,3 +1,4 @@
+SDG_INDICATOR_INFO: ''
 SDG_GOAL: >-
   <p>Goal 16: Promote peaceful and inclusive societies for sustainable
   development, provide access to justice for all and build effective,
@@ -14,6 +15,9 @@ SDG_CUSTODIAN_AGENCIES: |-
   <h1>Institutional information</h1>
   <h2><strong><strong>Organization(s):</strong></strong></h2>
   <p>World Bank (WB)</p>
+CONTACT: ''
+ORGANISATION_UNIT: ''
+IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
   <h1>Concepts and definitions</h1>
 
@@ -23,12 +27,12 @@ STAT_CONC_DEF: >-
   tax officials. </p>
 
   <p>In every Enterprise Survey (<a
-  href="file:///C:\Users\jenpa\AppData\Local\Temp\Temp1_Tier%201-Pilot%20Refresh.zip\Tier%201-Pilot%20Refresh\www.enterprisesurveys.org">www.enterprisesurveys.org</a>),
-  there is a standard question which asks the survey respondent if they were
-  inspected by or required to meet with tax officials. If the respondent
-  indicates &#x2018;yes&#x2019;, then there is a follow-up question which asks
-  if the respondent was expected to provide a gift or an informal payment during
-  these inspections/meetings. The response options include &#x201C;yes&#x201D;,
+  href="www.enterprisesurveys.org">www.enterprisesurveys.org</a>), there is a
+  standard question which asks the survey respondent if they were inspected by
+  or required to meet with tax officials. If the respondent indicates
+  &#x2018;yes&#x2019;, then there is a follow-up question which asks if the
+  respondent was expected to provide a gift or an informal payment during these
+  inspections/meetings. The response options include &#x201C;yes&#x201D;,
   &#x201C;no&#x201D;, &#x201C;don&#x2019;t know&#x201D;, and
   &#x201C;refuse&#x201D;.</p>
 
@@ -46,9 +50,10 @@ STAT_CONC_DEF: >-
   employees. The firms are either fully or partially private (100% state-owned
   firms are ineligible for the Enterprise Survey). More information on the
   survey methodology can be found on the Methodology page of the website: <a
-  href="file:///C:\Users\jenpa\AppData\Local\Temp\Temp1_Tier%201-Pilot%20Refresh.zip\Tier%201-Pilot%20Refresh\www.enterprisesurveys.org\methodology">www.enterprisesurveys.org/methodology</a></p>
+  href="www.enterprisesurveys.org/methodology">www.enterprisesurveys.org/methodology</a></p>
 
   <p>A gift or an informal payment is considered a &#x2018;bribe&#x2019;.</p>
+SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
   <h1>Data sources</h1>
 
@@ -95,6 +100,7 @@ COMPILING_ORG: |-
   <h1>Data compilers</h1>
   <h2><strong><strong>Name:</strong></strong></h2>
   <p>World Bank</p>
+OTHER_METHOD: ''
 RATIONALE: >-
   <h2><strong><strong>Rationale:</strong></strong></h2>
 
@@ -145,16 +151,12 @@ DATA_COMP: >-
 IMPUTATION: >-
   <h2><strong><strong>Treatment of missing values:</strong></strong></h2>
 
-  <ul>
-    <li><strong><em>At country level:</em></strong></li>
-  </ul>
+  <h5><strong>At country level:</strong></h5>
 
   <p>The indicator value is not imputed for countries which do not have an
   Enterprise Survey.</p>
 
-  <ul>
-    <li><strong><em>At regional and global levels:</em></strong></li>
-  </ul>
+  <h5><strong>At regional and global levels:</strong></h5>
 
   <p>Regional and global aggregates of the indicator are derived from completed
   surveys. A single point estimate is created for each country and a
@@ -216,7 +218,7 @@ COMPARABILITY: |-
   <h2><strong><strong>Sources of discrepancies:</strong></strong></h2>
   <p>We are unaware of any country-produced data on this indicator.</p>
 OTHER_DOC: |-
-  <h1><u> </u>References</h1>
+  <h1> References</h1>
   <h2><strong><strong>URL:</strong></strong></h2>
   <p><a href="http://www.worldbank.org">www.worldbank.org</a> </p>
   <h2><strong><strong>References:</strong></strong></h2>

@@ -1,3 +1,4 @@
+SDG_INDICATOR_INFO: ''
 SDG_GOAL: >-
   <p>Goal 15: Protect, restore and promote sustainable use of terrestrial
   ecosystems, sustainably manage forests, combat desertification, and halt and
@@ -9,42 +10,51 @@ SDG_TARGET: >-
 SDG_INDICATOR: >-
   <p>Indicator 15.3.1: Proportion of land that is degraded over total land
   area</p>
-META_LAST_UPDATE: '<p>Last updated: 23 January 2018</p>'
-SDG_RELATED_INDICATORS: |-
-  <h1>Related indicators</h1>
-  <p>2.4.1; 6.6.1; 11.3.1; 15.1.1; 15.2.1</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: <p>March 2021</p>
+SDG_RELATED_INDICATORS: <p>2.4.1; 6.6.1; 11.3.1; 15.1.1; 15.2.1</p>
 SDG_CUSTODIAN_AGENCIES: >-
-  <h1>Institutional information</h1>
-
-  <h2>Organization(s):</h2>
-
   <p>United Nations Convention to Combat Desertification (UNCCD) and partners,
   including the Food and Agriculture Organization of the United Nations (FAO),
   United Nations Statistics Division (UNSD), United Nations Environment (UNEP),
   United Nations Framework Convention on Climate Change (UNFCCC) and Convention
   on Biological Diversity (CBD).</p>
+CONTACT: ''
+CONTACT_ORGANISATION: >-
+  <p>United Nations Convention to Combat Desertification (UNCCD) and partners,
+  including the Food and Agriculture Organization of the United Nations (FAO),
+  United Nations Statistics Division (UNSD), United Nations Environment (UNEP),
+  United Nations Framework Convention on Climate Change (UNFCCC) and Convention
+  on Biological Diversity (CBD).</p>
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <h1>Concepts and definitions</h1>
-
-  <h2>Definitions:</h2>
+  <p><strong>Definitions:</strong></p>
 
   <p><strong><em>Land degradation</em></strong> is defined as the reduction or
   loss of the biological or economic productivity and complexity of rain fed
   cropland, irrigated cropland, or range, pasture, forest and woodlands
   resulting from a combination of pressures, including land use and management
   practices. This definition was adopted by and is used by the 196 countries
-  that are Party to the UNCCD.<sup><a href="#footnote-1"
-  id="footnote-ref-1">[1]</a></sup> (see also Figure 1)</p>
+  that are Party to the UNCCD.<sup><sup><a href="#footnote-2"
+  id="footnote-ref-2">[1]</a></sup></sup> (see also Figure 1)</p>
 
   <p><strong><em>Land Degradation Neutrality</em></strong> (LDN) is defined as a
   state whereby the amount and quality of land resources necessary to support
   ecosystem functions and services and enhance food security remain stable or
   increase within specified temporal and spatial scales and ecosystems (decision
-  3/COP12).<sup><a href="#footnote-2" id="footnote-ref-2">[2]</a></sup></p>
+  3/COP12).<sup><sup><a href="#footnote-3"
+  id="footnote-ref-3">[2]</a></sup></sup></p>
 
   <p><strong><em>Total land area</em></strong> is the total surface area of a
   country excluding the area covered by inland waters, like major rivers and
-  lakes.<sup><a href="#footnote-3" id="footnote-ref-3">[3]</a></sup></p>
+  lakes.<sup><sup><a href="#footnote-4"
+  id="footnote-ref-4">[3]</a></sup></sup></p>
 
   <p><strong><em>The</em></strong><em> </em><strong><em>measurement
   unit</em></strong> for this indicator is the spatial extent (hectares or km2)
@@ -56,8 +66,8 @@ STAT_CONC_DEF: >-
   sub-indicators to be validated and reported by national authorities. The
   sub-indicators (Trends in Land Cover, Land Productivity and Carbon Stocks)
   were adopted by the UNCCD&#x2019;s governing body in 2013 as part of its
-  monitoring and evaluation approach.<sup><a href="#footnote-4"
-  id="footnote-ref-4">[4]</a></sup> </p>
+  monitoring and evaluation approach.<sup><sup><a href="#footnote-5"
+  id="footnote-ref-5">[4]</a></sup></sup> </p>
 
   <p><strong><em>The method of computation</em></strong> for this indicator
   follows the &#x201C;One Out, All Out&#x201D; statistical principle and is
@@ -65,16 +75,16 @@ STAT_CONC_DEF: >-
   sub-indicators to determine the extent of land that is degraded over total
   land area.</p>
 
-  <p><strong><em>The One Out, All Out (1OAO)</em></strong><em><sup><a
-  href="#footnote-5" id="footnote-ref-5">[5]</a></sup></em> principle is applied
-  taking into account changes in the sub-indicators which are depicted as (i)
-  positive or improving, (ii) negative or declining, or (iii) stable or
+  <p><strong><em>The One Out, All Out (1OAO)</em></strong><em><sup><sup><a
+  href="#footnote-6" id="footnote-ref-6">[5]</a></sup></sup></em> principle is
+  applied taking into account changes in the sub-indicators which are depicted
+  as (i) positive or improving, (ii) negative or declining, or (iii) stable or
   unchanging. If one of the sub-indicators is negative (or stable when degraded
   in the baseline or previous monitoring year) for a particular land unit, then
   it would be considered as degraded subject to validation by national
   authorities.</p>
 
-  <h2>Concepts:</h2>
+  <p><strong>Concepts:</strong></p>
 
   <p>The assessment and quantification of land degradation is generally regarded
   as context-specific, making it difficult for a single indicator to fully
@@ -82,8 +92,8 @@ STAT_CONC_DEF: >-
   sufficient, the sub-indicators address changes in different yet highly
   relevant ways: for example, land cover or productivity trends can capture
   relatively fast changes while changes in carbon stocks reflect slower changes
-  that suggest a trajectory or proximity to thresholds.<sup><a
-  href="#footnote-6" id="footnote-ref-6">[6]</a></sup> </p>
+  that suggest a trajectory or proximity to thresholds.<sup><sup><a
+  href="#footnote-7" id="footnote-ref-7">[6]</a></sup></sup> </p>
 
   <p>As proxies to monitor the key factors and driving variables that reflect
   the capacity to deliver land-based ecosystem services, the sub-indicators are
@@ -96,7 +106,7 @@ STAT_CONC_DEF: >-
   ground-based information.</p>
 
   <p>An operational definition of land degradation along with a description of
-  the linkages among the sub-indicators is given in Figure 1.</p>
+  the linkages among the sub-indicators is given in Figure 1. </p>
 
   <p><strong>Figure 1: Operational definition of land degradation and linkage
   with the sub-indicators.</strong></p>
@@ -106,142 +116,147 @@ STAT_CONC_DEF: >-
 
   <p><strong><em>Land cover</em></strong> refers to the observed physical cover
   of the Earth&#x2019;s surface which describes the distribution of vegetation
-  types, water bodies and human-made infrastructure.<sup><a href="#footnote-7"
-  id="footnote-ref-7">[7]</a></sup> It also reflects the use of land resources
-  (i.e., soil, water and biodiversity) for agriculture, forestry, human
-  settlements and other purposes.<sup><a href="#footnote-8"
-  id="footnote-ref-8">[8]</a></sup> This sub-indicator serves two functions for
-  SDG indicator 15.3.1: (1) changes in land cover may point to land degradation
-  when there is a loss of ecosystem services that are considered desirable in a
-  local or national context; and (2) a land cover classification system can be
-  used to disaggregate the other two sub-indicators, thus increasing the
-  indicator&#x2019;s policy relevance. This sub-indicator is also expected to be
-  used for reporting on SDG indicators 6.6.1, 11.3.1 and 15.1.1.</p>
-
-  <p>There is an international standard for the sub-indicator on land
-  cover<sup><a href="#footnote-9" id="footnote-ref-9">[9]</a></sup> which
-  includes the Land Cover Meta Language (LCML), a common reference structure
-  (statistical standard) for the comparison and integration of data for any
-  generic land cover classification system. LCML is also used for defining land
-  cover and ecosystem functional units used in the SEEA, and closely linked to
-  the Intergovernmental Panel on Climate Change (IPCC) classification on land
-  cover/land use.</p>
+  types, water bodies and human-made infrastructure.<sup><sup><a
+  href="#footnote-8" id="footnote-ref-8">[7]</a></sup></sup> It also reflects
+  the use of land resources (i.e., soil, water and biodiversity) for
+  agriculture, forestry, human settlements and other purposes.<sup><sup><a
+  href="#footnote-9" id="footnote-ref-9">[8]</a></sup></sup> This sub-indicator
+  serves two functions for SDG indicator 15.3.1: (1) changes in land cover may
+  point to land degradation when there is a loss of ecosystem services that are
+  considered desirable in a local or national context; and (2) a land cover
+  classification system can be used to disaggregate the other two
+  sub-indicators, thus increasing the indicator&#x2019;s policy relevance. This
+  sub-indicator is also expected to be used for reporting on SDG indicators
+  6.6.1, 11.3.1 and 15.1.1.</p>
 
   <p><strong><em>Land productivity</em></strong> refers to the total
   above-ground net primary production (NPP) defined as the energy fixed by
   plants minus their respiration which translates into the rate of biomass
-  accumulation that delivers a suite of ecosystem services.<sup><a
-  href="#footnote-10" id="footnote-ref-10">[10]</a></sup> This sub-indicator
-  points to changes in the health and productive capacity of the land and
-  reflects the net effects of changes in ecosystem functioning on plant and
-  biomass growth, where declining trends are often a defining characteristic of
-  land degradation.<sup><a href="#footnote-11"
-  id="footnote-ref-11">[11]</a></sup></p>
+  accumulation that delivers a suite of ecosystem services.<sup><sup><a
+  href="#footnote-10" id="footnote-ref-10">[9]</a></sup></sup> This
+  sub-indicator points to changes in the health and productive capacity of the
+  land and reflects the net effects of changes in ecosystem functioning on plant
+  and biomass growth, where declining trends are often a defining characteristic
+  of land degradation.<sup><sup><a href="#footnote-11"
+  id="footnote-ref-11">[10]</a></sup></sup></p>
+
+  <p><br><strong><em>Carbon stock</em></strong> is the quantity of carbon in a
+  &#x201C;pool&#x201D;: a reservoir which has the capacity to accumulate or
+  release carbon and is comprised of above- and below-ground biomass, dead
+  organic matter, and soil organic carbon.<sup><sup><a href="#footnote-12"
+  id="footnote-ref-12">[11]</a></sup></sup> In UNCCD decision 22/COP.11,
+  <em>soil organic carbon (SOC) stock</em> was adopted as the metric to be used
+  with the understanding that this metric will be replaced by <em>total
+  terrestrial system carbon stocks</em>, once operational. SOC is an indicator
+  of overall soil quality associated with nutrient cycling and its aggregate
+  stability and structure with direct implications for water infiltration, soil
+  biodiversity, vulnerability to erosion, and ultimately the productivity of
+  vegetation, and in agricultural contexts, yields. SOC stocks reflect the
+  balance between organic matter gains, dependent on plant productivity and
+  management practices, and losses due to decomposition through the action of
+  soil organisms and physical export through leaching and erosion.<sup><sup><a
+  href="#footnote-13" id="footnote-ref-13">[12]</a></sup></sup></p><div
+  class="footnotes"><div><sup class="footnote-number" id="footnote-2">1</sup><p>
+  United Nations Convention to Combat Desertification. 1994. Article 1 of the
+  Convention Text<br><a
+  href="http://www2.unccd.int/sites/default/files/relevant-links/2017-01/UNCCD_Convention_ENG_0.pdf">http://www2.unccd.int/sites/default/files/relevant-links/2017-01/UNCCD_Convention_ENG_0.pdf</a>
+  <a href="#footnote-ref-2">&#x2191;</a></p></div><div><sup
+  class="footnote-number" id="footnote-3">2</sup><p> <a
+  href="http://www2.unccd.int/sites/default/files/sessions/documents/ICCD_COP12_20_Add.1/20add1eng.pdf">http://www2.unccd.int/sites/default/files/sessions/documents/ICCD_COP12_20_Add.1/20add1eng.pdf</a>
+  <a href="#footnote-ref-3">&#x2191;</a></p></div><div><sup
+  class="footnote-number" id="footnote-4">3</sup><p> Food and Agriculture
+  Organization of the United Nations <a
+  href="#footnote-ref-4">&#x2191;</a></p></div><div><sup class="footnote-number"
+  id="footnote-5">4</sup><p> By its decision 22/COP.11, the Conference of the
+  Parties established a monitoring and evaluation approach consisting of: (a)
+  indicators; (b) a conceptual framework that allows for the integration of
+  indicators; and (c) indicators sourcing and management mechanisms at the
+  national/local level.<br><a
+  href="http://www.unccd.int/en/programmes/Science/Monitoring-Assessment/Documents/Decision22-COP11.pdf">http://www.unccd.int/en/programmes/Science/Monitoring-Assessment/Documents/Decision22-COP11.pdf</a>
+  <a href="#footnote-ref-5">&#x2191;</a></p></div><div><sup
+  class="footnote-number" id="footnote-6">5</sup><p> <a
+  href="https://circabc.europa.eu/sd/a/06480e87-27a6-41e6-b165-0581c2b046ad/Guidance%20No%2013%20-%20Classification%20of%20Ecological%20Status%20(WG%20A).pdf">https://circabc.europa.eu/sd/a/06480e87-27a6-41e6-b165-0581c2b046ad/Guidance%20No%2013%20-%20Classification%20of%20Ecological%20Status%20(WG%20A).pdf</a>
+  <a href="#footnote-ref-6">&#x2191;</a></p></div><div><sup
+  class="footnote-number" id="footnote-7">6</sup><p> <a
+  href="http://www2.unccd.int/sites/default/files/documents/2017-08/LDN_CF_report_web-english.pdf">http://www2.unccd.int/sites/default/files/documents/2017-08/LDN_CF_report_web-english.pdf</a>
+  <a href="#footnote-ref-7">&#x2191;</a></p></div><div><sup
+  class="footnote-number" id="footnote-8">7</sup><p> Di Gregorio, A. 2005. Land
+  cover classification system (LCCS): classification concepts and user manual.
+  Food and Agriculture Organization of the United Nations, Rome. <a
+  href="#footnote-ref-8">&#x2191;</a></p></div><div><sup class="footnote-number"
+  id="footnote-9">8</sup><p> FAO-GTOS. 2009. Land Cover: Assessment of the
+  status of the development of the standards for the Terrestrial Essential
+  Climate Variables. Global Terrestrial Observing System, Rome. <a
+  href="#footnote-ref-9">&#x2191;</a></p></div><div><sup class="footnote-number"
+  id="footnote-10">9</sup><p> Millennium Ecosystem Assessment. 2005. Ecosystems
+  and human wellbeing: a framework for assessment. Island Press, Washington, DC.
+  <a href="#footnote-ref-10">&#x2191;</a></p></div><div><sup
+  class="footnote-number" id="footnote-11">10</sup><p> Joint Research Centre of
+  the European Commission. 2017. World Atlas of Desertification, 3<sup>rd</sup>
+  edition. JRC, Ispra. <a
+  href="#footnote-ref-11">&#x2191;</a></p></div><div><sup
+  class="footnote-number" id="footnote-12">11</sup><p> IPCC. 2006. IPCC
+  Guidelines for National Greenhouse Gas Inventories: Agriculture, Forestry and
+  other Land Use. Prepared by the National Greenhouse Gas Inventories Programme:
+  Eggleston H.S., Buendia L., Miwa K., Ngara T. and Tanabe K. (eds). IGES,
+  Japan. <a href="#footnote-ref-12">&#x2191;</a></p></div><div><sup
+  class="footnote-number" id="footnote-13">12</sup><p> Smith, P., Fang, C.,
+  Dawson, J. J., &amp; Moncrieff, J. B. 2008. Impact of global warming on soil
+  organic carbon. Advances in agronomy, 97: 1-43. <a
+  href="#footnote-ref-13">&#x2191;</a></p></div></div>
+UNIT_MEASURE: >-
+  <p>The measurement unit for this indicator is the spatial extent (hectares or
+  km2) expressed as the proportion (percentage or %) of land that is degraded
+  over total land area.</p>
+CLASS_SYSTEM: >-
+  <p>There is an international standard for the sub-indicator on land
+  cover<sup><sup><a href="#footnote-14"
+  id="footnote-ref-14">[13]</a></sup></sup> which includes the Land Cover Meta
+  Language (LCML), a common reference structure (statistical standard) for the
+  comparison and integration of data for any generic land cover classification
+  system. LCML is also used for defining land cover and ecosystem functional
+  units used in the SEEA, and closely linked to the Intergovernmental Panel on
+  Climate Change (IPCC) classification on land cover/land use.</p>
 
   <p>The international standard for calculating NPP (gC/m&#xB2;/day) from
   remotely-sensed, multi-temporal surface reflectance data, accounting for the
   global range of climate and vegetation types, was established in 1999 by the
   U.S. National Aeronautics and Space Administration (NASA) in anticipation of
   the launch of the Moderate Resolution Imaging Spectroradiometer (MODIS)
-  sensor.<sup><a href="#footnote-12" id="footnote-ref-12">[12]</a></sup> The
-  Land Productivity Dynamics (LPD) methodology and dataset, developed by the
-  Joint Research Centre of the European Commission<sup><a href="#footnote-13"
-  id="footnote-ref-13">[13]</a></sup> and used in the UNCCD pilot programme,
-  employs this international standard to calculate NPP time series trends and
-  change analyses. <br><br><strong><em>Carbon stock</em></strong> is the
-  quantity of carbon in a &#x201C;pool&#x201D;: a reservoir which has the
-  capacity to accumulate or release carbon and is comprised of above- and
-  below-ground biomass, dead organic matter, and soil organic carbon.<sup><a
-  href="#footnote-14" id="footnote-ref-14">[14]</a></sup> In UNCCD decision
-  22/COP.11, <em>soil organic carbon (SOC) stock</em> was adopted as the metric
-  to be used with the understanding that this metric will be replaced by
-  <em>total terrestrial system carbon stocks</em>, once operational. SOC is an
-  indicator of overall soil quality associated with nutrient cycling and its
-  aggregate stability and structure with direct implications for water
-  infiltration, soil biodiversity, vulnerability to erosion, and ultimately the
-  productivity of vegetation, and in agricultural contexts, yields. SOC stocks
-  reflect the balance between organic matter gains, dependent on plant
-  productivity and management practices, and losses due to decomposition through
-  the action of soil organisms and physical export through leaching and
-  erosion.<sup><a href="#footnote-15" id="footnote-ref-15">[15]</a></sup></p>
-
-  <p>For carbon stocks, IPCC (2006) contains the most relevant definitions and
-  standards, especially with regard to reference values applicable for Tier 2
-  and 3 GHG reporting.<sup><a href="#footnote-16"
-  id="footnote-ref-16">[16]</a></sup> In this regard, the technical soil
-  infrastructure, data transfer and provision of national reporting data is also
-  standards-based.<sup><a href="#footnote-17"
-  id="footnote-ref-17">[17]</a></sup></p><div class="footnotes"><div><sup
-  class="footnote-number" id="footnote-1">1</sup><p> United Nations Convention
-  to Combat Desertification. 1994. Article 1 of the Convention Text<br><a
-  href="http://www2.unccd.int/sites/default/files/relevant-links/2017-01/UNCCD_Convention_ENG_0.pdf">http://www2.unccd.int/sites/default/files/relevant-links/2017-01/UNCCD_Convention_ENG_0.pdf</a> 
-  <a href="#footnote-ref-1">&#x2191;</a></p></div><div><sup
-  class="footnote-number" id="footnote-2">2</sup><p> <a
-  href="http://www2.unccd.int/sites/default/files/sessions/documents/ICCD_COP12_20_Add.1/20add1eng.pdf">http://www2.unccd.int/sites/default/files/sessions/documents/ICCD_COP12_20_Add.1/20add1eng.pdf</a> 
-  <a href="#footnote-ref-2">&#x2191;</a></p></div><div><sup
-  class="footnote-number" id="footnote-3">3</sup><p> Food and Agriculture
-  Organization of the United Nations <a
-  href="#footnote-ref-3">&#x2191;</a></p></div><div><sup class="footnote-number"
-  id="footnote-4">4</sup><p> By its decision 22/COP.11, the Conference of the
-  Parties established a monitoring and evaluation approach consisting of: (a)
-  indicators; (b) a conceptual framework that allows for the integration of
-  indicators; and (c) indicators sourcing and management mechanisms at the
-  national/local level.<br><a
-  href="http://www.unccd.int/en/programmes/Science/Monitoring-Assessment/Documents/Decision22-COP11.pdf">http://www.unccd.int/en/programmes/Science/Monitoring-Assessment/Documents/Decision22-COP11.pdf</a> 
-  <a href="#footnote-ref-4">&#x2191;</a></p></div><div><sup
-  class="footnote-number" id="footnote-5">5</sup><p> <a
-  href="https://circabc.europa.eu/sd/a/06480e87-27a6-41e6-b165-0581c2b046ad/Guidance%20No%2013%20-%20Classification%20of%20Ecological%20Status%20(WG%20A).pdf">https://circabc.europa.eu/sd/a/06480e87-27a6-41e6-b165-0581c2b046ad/Guidance%20No%2013%20-%20Classification%20of%20Ecological%20Status%20(WG%20A).pdf</a> 
-  <a href="#footnote-ref-5">&#x2191;</a></p></div><div><sup
-  class="footnote-number" id="footnote-6">6</sup><p> <a
-  href="http://www2.unccd.int/sites/default/files/documents/2017-08/LDN_CF_report_web-english.pdf">http://www2.unccd.int/sites/default/files/documents/2017-08/LDN_CF_report_web-english.pdf</a> 
-  <a href="#footnote-ref-6">&#x2191;</a></p></div><div><sup
-  class="footnote-number" id="footnote-7">7</sup><p> Di Gregorio, A. 2005. Land
-  cover classification system (LCCS): classification concepts and user manual.
-  Food and Agriculture Organization of the United Nations, Rome. <a
-  href="#footnote-ref-7">&#x2191;</a></p></div><div><sup class="footnote-number"
-  id="footnote-8">8</sup><p> FAO-GTOS. 2009. Land Cover: Assessment of the
-  status of the development of the standards for the Terrestrial Essential
-  Climate Variables. Global Terrestrial Observing System, Rome. <a
-  href="#footnote-ref-8">&#x2191;</a></p></div><div><sup class="footnote-number"
-  id="footnote-9">9</sup><p> <a
-  href="https://www.iso.org/standard/44342.html">https://www.iso.org/standard/44342.html</a> 
-  <a href="#footnote-ref-9">&#x2191;</a></p></div><div><sup
-  class="footnote-number" id="footnote-10">10</sup><p> Millennium Ecosystem
-  Assessment. 2005. Ecosystems and human wellbeing: a framework for assessment.
-  Island Press, Washington, DC. <a
-  href="#footnote-ref-10">&#x2191;</a></p></div><div><sup
-  class="footnote-number" id="footnote-11">11</sup><p> Joint Research Centre of
-  the European Commission. 2017. World Atlas of Desertification, 3<sup>rd</sup>
-  edition. JRC, Ispra. <a
-  href="#footnote-ref-11">&#x2191;</a></p></div><div><sup
-  class="footnote-number" id="footnote-12">12</sup><p> Running et al. 1999.
+  sensor.<sup><sup><a href="#footnote-15"
+  id="footnote-ref-15">[14]</a></sup></sup> The Land Productivity Dynamics (LPD)
+  methodology and dataset, developed by the Joint Research Centre of the
+  European Commission<sup><sup><a href="#footnote-16"
+  id="footnote-ref-16">[15]</a></sup></sup> and used in the UNCCD pilot
+  programme, employs this international standard to calculate NPP time series
+  trends and change analyses. <br><br>For carbon stocks, IPCC (2006) contains
+  the most relevant definitions and standards, especially with regard to
+  reference values applicable for Tier 2 and 3 GHG reporting.<sup><sup><a
+  href="#footnote-17" id="footnote-ref-17">[16]</a></sup></sup> In this regard,
+  the technical soil infrastructure, data transfer and provision of national
+  reporting data is also standards-based.<sup><sup><a href="#footnote-18"
+  id="footnote-ref-18">[17]</a></sup></sup></p><div class="footnotes"><div><sup
+  class="footnote-number" id="footnote-14">13</sup><p> <a
+  href="https://www.iso.org/standard/44342.html">https://www.iso.org/standard/44342.html</a>
+  <a href="#footnote-ref-14">&#x2191;</a></p></div><div><sup
+  class="footnote-number" id="footnote-15">14</sup><p> Running et al. 1999.
   MODIS Daily Photosynthesis (PSN) and Annual Net Primary Production (NPP)
   Product (MOD17): Algorithm Theoretical Basis Document <a
   href="https://eospso.gsfc.nasa.gov/sites/default/files/atbd/atbd_mod16.pdf">https://eospso.gsfc.nasa.gov/sites/default/files/atbd/atbd_mod16.pdf</a>
-  <a href="#footnote-ref-12">&#x2191;</a></p></div><div><sup
-  class="footnote-number" id="footnote-13">13</sup><p> Ivits and Cherlet. 2013.
+  <a href="#footnote-ref-15">&#x2191;</a></p></div><div><sup
+  class="footnote-number" id="footnote-16">15</sup><p> Ivits and Cherlet. 2013.
   Land-productivity dynamics towards integrated assessment of land degradation
   at global scales. European Commission JRC Technical Report. <a
-  href="https://publications.europa.eu/en/publication-detail/-/publication/1e2aceac-b20b-45ab-88d9-b3d187ae6375/language-en/format-PDF/source-49343336">https://publications.europa.eu/en/publication-detail/-/publication/1e2aceac-b20b-45ab-88d9-b3d187ae6375/language-en/format-PDF/source-49343336</a>    
-  <a href="#footnote-ref-13">&#x2191;</a></p></div><div><sup
-  class="footnote-number" id="footnote-14">14</sup><p> IPCC. 2006. IPCC
-  Guidelines for National Greenhouse Gas Inventories: Agriculture, Forestry and
-  other Land Use. Prepared by the National Greenhouse Gas Inventories Programme:
-  Eggleston H.S., Buendia L., Miwa K., Ngara T. and Tanabe K. (eds). IGES,
-  Japan. <a href="#footnote-ref-14">&#x2191;</a></p></div><div><sup
-  class="footnote-number" id="footnote-15">15</sup><p> Smith, P., Fang, C.,
-  Dawson, J. J., &amp; Moncrieff, J. B. 2008. Impact of global warming on soil
-  organic carbon. Advances in agronomy, 97: 1-43. <a
-  href="#footnote-ref-15">&#x2191;</a></p></div><div><sup
-  class="footnote-number" id="footnote-16">16</sup><p> IPCC. 2006. ibid <a
-  href="#footnote-ref-16">&#x2191;</a></p></div><div><sup
-  class="footnote-number" id="footnote-17">17</sup><p> <a
-  href="https://www.iso.org/standard/44595.html">https://www.iso.org/standard/44595.html</a> 
-  <a href="#footnote-ref-17">&#x2191;</a></p></div></div>
+  href="https://publications.europa.eu/en/publication-detail/-/publication/1e2aceac-b20b-45ab-88d9-b3d187ae6375/language-en/format-PDF/source-49343336">https://publications.europa.eu/en/publication-detail/-/publication/1e2aceac-b20b-45ab-88d9-b3d187ae6375/language-en/format-PDF/source-49343336</a>
+  <a href="#footnote-ref-16">&#x2191;</a></p></div><div><sup
+  class="footnote-number" id="footnote-17">16</sup><p> IPCC. 2006. ibid <a
+  href="#footnote-ref-17">&#x2191;</a></p></div><div><sup
+  class="footnote-number" id="footnote-18">17</sup><p> <a
+  href="https://www.iso.org/standard/44595.html">https://www.iso.org/standard/44595.html</a>
+  <a href="#footnote-ref-18">&#x2191;</a></p></div></div>
+SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <h1>Data sources</h1>
-
-  <h2>Description:</h2>
+  <p><strong>Description:</strong></p>
 
   <p>National data on the three sub-indicators is and can be collected through
   existing sources (e.g., databases, maps, reports), including participatory
@@ -257,24 +272,54 @@ SOURCE_TYPE: >-
   <p>The most accessible and widely used regional and global data sources for
   each of the sub-indicators are briefly described here.</p>
 
-  <ol>
-    <li><strong>Land cover and land cover change</strong> data are available in the: <ol>
-        <li><strong>ESA-CCI-LC,<sup><a href="#footnote-18" id="footnote-ref-18">[18]</a></sup></strong> containing annual land cover area data for the period 1992-2015, produced by the Catholic University of Louvain Geomatics as part of the Climate Change Initiative of the European Space Agency (ESA); or </li>
-        <li><strong>SEEA-MODIS,<sup><a href="#footnote-19" id="footnote-ref-19">[19]</a></sup></strong> containing annual land cover area data for the period 2001-2012, derived from the International Geosphere-Biosphere Programme (IGBP) type of the MODIS land cover dataset (MCD12Q1).</li>
-      </ol>
-    </li>
-    <li><strong>Land productivity data</strong> represented as vegetation indices (i.e., direct observations), and their derived products are considered the most independent and robust option for the analyses of land productivity, offering the longest consolidated time series and a broad range of operational data sets at different spatial scales. The most accurate and reliable datasets are available in the: <ol>
-        <li><strong>MODIS data products</strong>,<strong><sup><a href="#footnote-20" id="footnote-ref-20">[20]</a></sup> </strong>averaged at 1 km pixel resolution, integrated over each calendar year since 2000; and </li>
-        <li><strong>Copernicus Global Land Service products</strong>,<strong><sup><a href="#footnote-21" id="footnote-ref-21">[21]</a></sup></strong> averaged at 1 km pixel resolution and integrated over each calendar year since 1998.</li>
-      </ol>
-    </li>
-    <li><strong>Soil organic carbon stock</strong> data are available in the: <ol>
-        <li><strong>Harmonized World Soil Database (HWSD)</strong>, Version 1.2,<strong><sup><a href="#footnote-22" id="footnote-ref-22">[22]</a></sup></strong> the latest update being the current de facto standard soil grid with a spatial resolution of about 1 km; </li>
-        <li><strong>SoilGrids250m,<sup><a href="#footnote-23" id="footnote-ref-23">[23]</a></sup></strong> a global 3D soil information system at 250m resolution containing spatial predictions for a selection of soil properties (at six standard depths) including SOC stock (t ha<sup>-1</sup>);</li>
-        <li><strong>Global SOC Map, Version 1.0,<sup><a href="#footnote-24" id="footnote-ref-24">[24]</a></sup></strong> which consists of national SOC maps, developed as 1 km soil grids, covering a depth of 0-30 cm.</li>
-      </ol>
-    </li>
-  </ol>
+  <p><strong>1) Land cover and land cover change data</strong> are available in
+  the: </p>
+
+  <p><strong>(1) ESA-CCI-LC,</strong><sup><sup><a href="#footnote-19"
+  id="footnote-ref-19">[18]</a></sup></sup> containing annual land cover area
+  data for the period 1992-2015, produced by the Catholic University of Louvain
+  Geomatics as part of the Climate Change Initiative of the European Space
+  Agency (ESA); or </p>
+
+  <p><strong>(2) SEEA-MODIS,</strong><sup><sup><a href="#footnote-20"
+  id="footnote-ref-20">[19]</a></sup></sup> containing annual land cover area
+  data for the period 2001-2012, derived from the International
+  Geosphere-Biosphere Programme (IGBP) type of the MODIS land cover dataset
+  (MCD12Q1).</p>
+
+  <p><strong>2) Land productivity data</strong> represented as vegetation
+  indices (i.e., direct observations), and their derived products are considered
+  the most independent and robust option for the analyses of land productivity,
+  offering the longest consolidated time series and a broad range of operational
+  data sets at different spatial scales. The most accurate and reliable datasets
+  are available in the: </p>
+
+  <p><strong>(1) MODIS data products,</strong><sup><sup><a href="#footnote-21"
+  id="footnote-ref-21">[20]</a></sup></sup><strong> </strong>averaged at 1 km
+  pixel resolution, integrated over each calendar year since 2000; and </p>
+
+  <p><strong>(2) Copernicus Global Land Service products,</strong><sup><sup><a
+  href="#footnote-22" id="footnote-ref-22">[21]</a></sup></sup> averaged at 1 km
+  pixel resolution and integrated over each calendar year since 1998.</p>
+
+  <p><strong>3) Soil organic carbon stock data</strong> are available in the:
+  </p>
+
+  <p><strong>(1) Harmonized World Soil Database (HWSD), Version
+  1.2,</strong><sup><sup><a href="#footnote-23"
+  id="footnote-ref-23">[22]</a></sup></sup> the latest update being the current
+  de facto standard soil grid with a spatial resolution of about 1 km; </p>
+
+  <p><strong>(2) SoilGrids250m,</strong><sup><sup><a href="#footnote-24"
+  id="footnote-ref-24">[23]</a></sup></sup> a global 3D soil information system
+  at 250m resolution containing spatial predictions for a selection of soil
+  properties (at six standard depths) including SOC stock (t
+  ha<sup>-1</sup>);</p>
+
+  <p><strong>(3) Global SOC Map, Version 1.0,</strong><sup><sup><a
+  href="#footnote-25" id="footnote-ref-25">[24]</a></sup></sup> which consists
+  of national SOC maps, developed as 1 km soil grids, covering a depth of 0-30
+  cm.</p>
 
   <p>In the absence of, to enhance, or as a complement to national data sources,
   good practice suggests that the data and information derived from global and
@@ -287,30 +332,28 @@ SOURCE_TYPE: >-
   including the ground-truthing of remotely sensed data using Google Earth
   images, field surveys or a combination of both.</p><div
   class="footnotes"><div><sup class="footnote-number"
-  id="footnote-18">18</sup><p> <a
-  href="https://www.esa-landcover-cci.org/">https://www.esa-landcover-cci.org/</a> 
-  <a href="#footnote-ref-18">&#x2191;</a></p></div><div><sup
-  class="footnote-number" id="footnote-19">19</sup><p> <a
-  href="https://modis.gsfc.nasa.gov/data/dataprod/mod12.php">https://modis.gsfc.nasa.gov/data/dataprod/mod12.php</a> 
+  id="footnote-19">18</sup><p> <a
+  href="https://www.esa-landcover-cci.org/">https://www.esa-landcover-cci.org/</a>
   <a href="#footnote-ref-19">&#x2191;</a></p></div><div><sup
-  class="footnote-number" id="footnote-20">20</sup><p> <a
-  href="https://modis.gsfc.nasa.gov/data/dataprod/mod13.php">https://modis.gsfc.nasa.gov/data/dataprod/mod13.php</a> 
+  class="footnote-number" id="footnote-20">19</sup><p> <a
+  href="https://modis.gsfc.nasa.gov/data/dataprod/mod12.php">https://modis.gsfc.nasa.gov/data/dataprod/mod12.php</a>
   <a href="#footnote-ref-20">&#x2191;</a></p></div><div><sup
-  class="footnote-number" id="footnote-21">21</sup><p> <a
-  href="http://land.copernicus.eu/global/">http://land.copernicus.eu/global/</a> 
+  class="footnote-number" id="footnote-21">20</sup><p> <a
+  href="https://modis.gsfc.nasa.gov/data/dataprod/mod13.php">https://modis.gsfc.nasa.gov/data/dataprod/mod13.php</a>
   <a href="#footnote-ref-21">&#x2191;</a></p></div><div><sup
-  class="footnote-number" id="footnote-22">22</sup><p> <a
-  href="http://www.fao.org/soils-portal/soil-survey/soil-maps-and-databases/harmonized-world-soil-database-v12/en/">http://www.fao.org/soils-portal/soil-survey/soil-maps-and-databases/harmonized-world-soil-database-v12/en/</a> 
+  class="footnote-number" id="footnote-22">21</sup><p> <a
+  href="http://land.copernicus.eu/global/">http://land.copernicus.eu/global/</a>
   <a href="#footnote-ref-22">&#x2191;</a></p></div><div><sup
-  class="footnote-number" id="footnote-23">23</sup><p> <a
-  href="https://www.soilgrids.org/">https://www.soilgrids.org/</a>  <a
-  href="#footnote-ref-23">&#x2191;</a></p></div><div><sup
-  class="footnote-number" id="footnote-24">24</sup><p> <a
-  href="http://54.229.242.119/apps/GSOCmap.html">http://54.229.242.119/apps/GSOCmap.html</a> 
-  <a href="#footnote-ref-24">&#x2191;</a></p></div></div>
+  class="footnote-number" id="footnote-23">22</sup><p> <a
+  href="http://www.fao.org/soils-portal/soil-survey/soil-maps-and-databases/harmonized-world-soil-database-v12/en/">http://www.fao.org/soils-portal/soil-survey/soil-maps-and-databases/harmonized-world-soil-database-v12/en/</a>
+  <a href="#footnote-ref-23">&#x2191;</a></p></div><div><sup
+  class="footnote-number" id="footnote-24">23</sup><p> <a
+  href="https://www.soilgrids.org/">https://www.soilgrids.org/</a> <a
+  href="#footnote-ref-24">&#x2191;</a></p></div><div><sup
+  class="footnote-number" id="footnote-25">24</sup><p> <a
+  href="http://54.229.242.119/apps/GSOCmap.html">http://54.229.242.119/apps/GSOCmap.html</a>
+  <a href="#footnote-ref-25">&#x2191;</a></p></div></div>
 COLL_METHOD: >-
-  <h2>Collection process:</h2>
-
   <p>Data on the indicator and sub-indicators will be provided by national
   authorities (&#x201C;main reporting entity&#x201D;) to the UNCCD in their
   national reports following a standard format every four years beginning in
@@ -321,43 +364,37 @@ COLL_METHOD: >-
   financial and technical assistance in preparing their national reports from
   the UNCCD and its partners.</p>
 
-  <p>Once received, national reports will undergo a review process by the UNCCD
-  and its partners to ensure the correct use of definitions and methodology as
-  well as internal consistency. A comparison can be made with past assessments
-  and other existing data sources. Regular contacts between the main reporting
-  entity and UNCCD secretariat via a help desk system, and through regional,
-  sub-regional, and national workshops, will form part of this review process,
-  enable data adjustments when needed, and contribute to building national
-  capacities. The data will then be aggregated at sub-regional, regional and
-  global levels by the UNCCD and its partners.</p>
+  <p> </p>
 FREQ_COLL: >-
-  <h1>Calendar</h1>
-
-  <h2>Data collection:</h2>
-
   <p>The data collection process for UNCCD reporting has begun with the first
   reporting period scheduled for 2018 and subsequent reporting every four
   years.</p>
 REL_CAL_POLICY: >-
-  <h2>Data release:</h2>
-
   <p>Data from the 2018 reporting period will be released by February 2019 in
   national, sub-regional, regional and global formats. </p>
 DATA_SOURCE: >-
-  <h1>Data providers</h1>
-
   <p>The ministries or agencies (&#x201C;main reporting entity&#x201D;) that
   host the UNCCD National Focal Points, in conjunction with National Statistical
   Offices and specialized agencies, will prepare UNCCD national reports that
   include indicator 15.3.1 and the sub-indicators. Otherwise national data will
   be procured through national data platforms and mechanisms endorsed by the UN
   Statistical Commission.</p>
-COMPILING_ORG: |-
-  <h1>Data compilers</h1>
-  <p>UNCCD </p>
+COMPILING_ORG: <p>UNCCD </p>
+INST_MANDATE: >-
+  <p>The 13<sup>th</sup> meeting of the Conference of the Parties gave the UNCCD
+  secretariat the mandate to continue working with the Interagency and Expert
+  Group on Sustainable Development Goal Indicators in its role as the custodian
+  agency to finalize the methodology and data management protocols for
+  Sustainable Development Goal indicator 15.3.1 and begin coordination related
+  to national, regional and global reporting according to the protocols
+  established within the Sustainable Development Goal indicator framework.
+  <sup><a href="#footnote-26" id="footnote-ref-26">[25]</a></sup></p><div
+  class="footnotes"><div><sup class="footnote-number"
+  id="footnote-26">25</sup><p>
+  https://www.unccd.int/sites/default/files/sessions/documents/2019-08/9COP13_0.pdf
+  <a href="#footnote-ref-26">&#x2191;</a></p></div></div>
+OTHER_METHOD: ''
 RATIONALE: >-
-  <h2>Rationale:</h2>
-
   <p>In the last decade, there have been a number of global/regional targets and
   initiatives to halt and reverse land degradation and restore degraded land.
   Starting in 2010, these include the Aichi Biodiversity Targets, one of which
@@ -368,13 +405,13 @@ RATIONALE: >-
 
   <p>For each of the sub-indicators, countries can access a wide range of data
   sources, including Earth observation and geospatial information, while at the
-  same time ensuring national ownership.<sup><a href="#footnote-25"
-  id="footnote-ref-25">[25]</a></sup> The use of the existing national reporting
-  templates of the UNCCD,<sup><a href="#footnote-26"
-  id="footnote-ref-26">[26]</a></sup> which include the indicator and
+  same time ensuring national ownership.<sup><sup><a href="#footnote-27"
+  id="footnote-ref-27">[26]</a></sup></sup> The use of the existing national
+  reporting templates of the UNCCD,<sup><sup><a href="#footnote-28"
+  id="footnote-ref-28">[27]</a></sup></sup> which include the indicator and
   sub-indicators, provides a practical and harmonized approach to reporting on
-  this indicator beginning in 2018 and every four years thereafter.<sup><a
-  href="#footnote-27" id="footnote-ref-27">[27]</a></sup> The quantitative
+  this indicator beginning in 2018 and every four years thereafter.<sup><sup><a
+  href="#footnote-29" id="footnote-ref-29">[28]</a></sup></sup> The quantitative
   assessments and corresponding mapping at the national level, as required by
   this indicator, would help countries to set policy and planning priorities
   among diverse land resource areas, in particular:</p>
@@ -383,19 +420,17 @@ RATIONALE: >-
     <li>to identify hotspots and plan actions of redress, including through the conservation, rehabilitation, restoration and sustainable management of land resources; and</li>
     <li>to address emerging pressures to help avoid future land degradation.</li>
   </ul><div class="footnotes"><div><sup class="footnote-number"
-  id="footnote-25">25</sup><p> United Nations General Assembly. 2015.
+  id="footnote-27">26</sup><p> United Nations General Assembly. 2015.
   Transforming our world: the 2030 Agenda for Sustainable Development.
   Resolution adopted by the General Assembly on 25 September 2015 (A/RES/70/1).
-  <a href="#footnote-ref-25">&#x2191;</a></p></div><div><sup
-  class="footnote-number" id="footnote-26">26</sup><p> <a
-  href="http://www2.unccd.int/sites/default/files/relevant-links/2017-12/20171107_Template_Final_EN.pdf">http://www2.unccd.int/sites/default/files/relevant-links/2017-12/20171107_Template_Final_EN.pdf</a> 
-  <a href="#footnote-ref-26">&#x2191;</a></p></div><div><sup
-  class="footnote-number" id="footnote-27">27</sup><p> <a
-  href="http://www2.unccd.int/sites/default/files/sessions/documents/2017-09/ICCD_CRIC%2816%29_L.3-1715758E.pdf">http://www2.unccd.int/sites/default/files/sessions/documents/2017-09/ICCD_CRIC%2816%29_L.3-1715758E.pdf</a> 
-  <a href="#footnote-ref-27">&#x2191;</a></p></div></div>
+  <a href="#footnote-ref-27">&#x2191;</a></p></div><div><sup
+  class="footnote-number" id="footnote-28">27</sup><p> <a
+  href="http://www2.unccd.int/sites/default/files/relevant-links/2017-12/20171107_Template_Final_EN.pdf">http://www2.unccd.int/sites/default/files/relevant-links/2017-12/20171107_Template_Final_EN.pdf</a>
+  <a href="#footnote-ref-28">&#x2191;</a></p></div><div><sup
+  class="footnote-number" id="footnote-29">28</sup><p> <a
+  href="http://www2.unccd.int/sites/default/files/sessions/documents/2017-09/ICCD_CRIC%2816%29_L.3-1715758E.pdf">http://www2.unccd.int/sites/default/files/sessions/documents/2017-09/ICCD_CRIC%2816%29_L.3-1715758E.pdf</a>
+  <a href="#footnote-ref-29">&#x2191;</a></p></div></div>
 REC_USE_LIM: >-
-  <h2>Comments and limitations:</h2>
-
   <p>SDG indicator 15.3.1 is a binary -- degraded/not degraded -- quantification
   based on the analysis of available data that is validated and reported by
   national authorities. Reporting on the sub-indicators should be based
@@ -431,23 +466,19 @@ REC_USE_LIM: >-
   practice guidance for the monitoring and the reporting of the sub-indicators
   in other processes will assist in this regard. </p>
 DATA_COMP: >-
-  <h1>Methodology</h1>
-
-  <h2>Computation method:</h2>
-
   <p>By analysing changes in the sub-indicators in the context of local
   assessments of climate, soil, land use and any other factors influencing land
   conditions, national authorities can determine which land units are to be
   classified as degraded, sum the total, and report on the indicator. A
   conceptual framework, endorsed by the UNCCD&#x2019;s governing body in
-  September 2017,<sup><a href="#footnote-28" id="footnote-ref-28">[28]</a></sup>
-  underpins a universal methodology for deriving the indicator. The methodology
-  helps countries to select the most appropriate datasets for the sub-indicators
-  and determine national methods for estimating the indicator. In order to
-  assist countries with monitoring and reporting, Good Practice Guidance for SDG
-  Indicator 15.3.1<sup><a href="#footnote-29"
-  id="footnote-ref-29">[29]</a></sup> has been developed by the UNCCD and its
-  partners. </p>
+  September 2017,<sup><sup><a href="#footnote-30"
+  id="footnote-ref-30">[29]</a></sup></sup> underpins a universal methodology
+  for deriving the indicator. The methodology helps countries to select the most
+  appropriate datasets for the sub-indicators and determine national methods for
+  estimating the indicator. In order to assist countries with monitoring and
+  reporting, Good Practice Guidance for SDG Indicator 15.3.1<sup><sup><a
+  href="#footnote-31" id="footnote-ref-31">[30]</a></sup></sup> has been
+  developed by the UNCCD and its partners. </p>
 
   <p>The indicator is derived from a binary classification of land condition
   (i.e., degraded or not degraded) based primarily, and to the largest extent
@@ -486,11 +517,11 @@ DATA_COMP: >-
   considered negative (or stable when degraded in the baseline or previous
   monitoring year) by national authorities. This involves the:</p>
 
-  <ol>
-    <li>assessment and evaluation of <strong>land cover and land cover changes</strong>;</li>
-    <li>analysis of <strong>land productivity</strong> status and trends based on net primary production; and </li>
-    <li>determination of <strong>carbon stock</strong> values and changes, with an initial assessment of soil organic carbon as the proxy.</li>
-  </ol>
+  <p>(1) assessment and evaluation of <strong>land cover and land cover
+  changes</strong>;<br>(2) analysis of <strong>land productivity</strong> status
+  and trends based on net primary production; and <br>(3) determination of
+  <strong>carbon stock</strong> values and changes, with an initial assessment
+  of soil organic carbon as the proxy.</p>
 
   <p>It is good practice to assess change for interim and final reporting years
   in relation to the baseline year for each sub-indicator and then the
@@ -519,144 +550,101 @@ DATA_COMP: >-
   previously been defined as degraded and that remain degraded:</p>
 
   <p><img
-  src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA10AAABLCAMAAAC8wh12AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAJDUExURf///+zs7Ojo6Onp6fb29vn5+b29vWBgYENDQ42Njf7+/vX19a+vr1hYWHR0dPPz8/T09NLS0sPDw/Ly8tTU1MXFxW9vb0BAQEdHR7a2tp+fn2dnZ4yMjFFRUevr64qKinNzc4+Pj1paWo6OjtnZ2X19fVVVVWlpad7e3m5ubqenp/39/dra2rOzs5eXl05OTsHBwUxMTGVlZcnJydDQ0KCgoNXV1e/v72tra5KSkubm5vz8/Hl5eczMzIuLi+rq6tvb24SEhEhISPr6+ri4uJmZmfDw8GxsbOTk5Pj4+Ofn50FBQdPT02hoaEJCQnBwcIaGhuPj41lZWWNjY/v7+52dnX5+ft3d3YWFhZycnHV1dXt7e1RUVK2trYmJiaGhoWJiYsTExL+/v0ZGRoeHh3FxcURERJiYmMvLy1NTU5CQkGZmZtjY2N/f35ubm39/f66ursLCwrKyssjIyEtLS83Nzb6+vru7u2RkZFxcXJ6enldXV1JSUnJyckpKSk1NTV5eXu7u7oCAgHd3d8/Pz7GxsfHx8eXl5UVFRZqamsbGxuHh4dbW1tfX10lJSV9fX21tbe3t7YGBgZOTk6ysrMfHx/f395aWlrm5uU9PT6Wlpbe3t8rKytHR0eDg4LS0tM7OzqOjo11dXXZ2drCwsMDAwKSkpNzc3OLi4qKiopSUlIODg6mpqYKCgnp6eltbW4iIiFBQULq6umpqarW1taampmFhYaioqKqqqnh4eKurq7y8vJWVlZGRkXx8fFZWVgAAAHA6CGAAAADBdFJOU////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wCINFSNAAAACXBIWXMAACHVAAAh1QEEnLSdAAARl0lEQVR4Xu2dy5mjOrdAnYUz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"></p>
-
-  <p>Where: </p>
-
-  <p><em>A(Degraded)</em> <em><sub>i,n </sub></em>is the total area degraded in
-  the land cover class <em>i</em> in the year of monitoring <em>n</em> (ha);</p>
-
-  <p><em>Arecent<sub>i,n </sub></em>is the area defined as degraded in the
-  current monitoring year following 1OAO assessment of the sub-indicators
-  (ha);</p>
-
-  <p><em>Apersistent<sub>i,n</sub></em> is the area previously defined as
-  degraded which remains degraded in the monitoring year following the 1OAO
-  assessment of the sub-indicators (ha).</p>
-
-  <p>The proportion of land cover type <em>i</em> that is degraded is then given
-  by:</p>
+  src="data:image/png;base64,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"></p>
 
   <p><img
-  src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAT8AAABOCAMAAABhceFJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAJDUExURf////n5+erq6u/v7/f39+fn5/b29v7+/uHh4ZmZmXJycq2trdPT04yMjNHR0dXV1WVlZXp6etfX1/Hx8dzc3FpaWrCwsPr6+vPz8/z8/N3d3UhISHNzc+3t7cnJyUxMTEBAQJWVlebm5mNjY0NDQ1FRUXl5eUVFRURERMjIyI2NjU5OTr+/v/39/fj4+J+fn0JCQl5eXnt7e0lJScfHx0dHR7Ozs5eXl/Ly8mtra2dnZ+jo6FlZWVdXV9TU1MXFxU1NTZKSktjY2FNTU83NzYqKip2dna6urm5ubkpKSqurq4GBgW9vb1VVVdDQ0IaGhr29vUZGRl1dXWZmZszMzMLCwlRUVMHBwVBQUKioqHR0dHZ2dnh4eGlpaXd3d39/f2JiYqenp7q6unV1dZOTk+vr66WlpYCAgFhYWOTk5HFxcZSUlIWFhfX19c/Pz4eHh3x8fImJiXBwcOPj4/T09EtLS76+vn5+frS0tKKiosTExH19fdbW1lZWVtLS0qqqqru7u6Ojo6GhoYiIiOzs7LKysvDw8J6enunp6ba2toSEhEFBQdra2qmpqWFhYZubm5CQkN/f37y8vLe3t4+Pj/v7+21tbYuLi+Dg4GhoaMDAwF9fX4KCgq+vr1xcXGpqasrKyrGxsbm5ucbGxmRkZJGRkY6OjtnZ2aSkpO7u7pycnFtbW5aWllJSUuXl5U9PT5qamtvb2+Li4t7e3s7OzpiYmKCgoLi4uKysrGBgYGxsbMPDw6ampsvLy4ODg7W1tQAAAPovdWQAAADBdFJOU////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wCINFSNAAAACXBIWXMAACHVAAAh1QEEnLSdAAAKIElEQVR4Xu1cSXbrKhDNlC0w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"></p>
+  src="data:image/png;base64,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"></p>
 
-  <p>Where:</p>
+  <p>The proportion is converted to a percentage value by multiplying by 100.
+  </p><div class="footnotes"><div><sup class="footnote-number"
+  id="footnote-30">29</sup><p> <a
+  href="http://www2.unccd.int/sites/default/files/sessions/documents/2017-09/ICCD_COP%2813%29_CST_L.1-1715678E_0.pdf">http://www2.unccd.int/sites/default/files/sessions/documents/2017-09/ICCD_COP%2813%29_CST_L.1-1715678E_0.pdf</a>
+  <a href="#footnote-ref-30">&#x2191;</a></p></div><div><sup
+  class="footnote-number" id="footnote-31">30</sup><p> <a
+  href="http://www2.unccd.int/sites/default/files/relevant-links/2017-10/Good%20Practice%20Guidance_SDG%20Indicator%2015.3.1_Version%201.0.pdf">http://www2.unccd.int/sites/default/files/relevant-links/2017-10/Good%20Practice%20Guidance_SDG%20Indicator%2015.3.1_Version%201.0.pdf</a>
+  <a href="#footnote-ref-31">&#x2191;</a></p></div></div>
+DATA_VALIDATION: >-
+  <p>Once received, national reports will undergo a review process by the UNCCD
+  and its partners to ensure the correct use of definitions and methodology as
+  well as internal consistency. A comparison can be made with past assessments
+  and other existing data sources. Regular contacts between the main reporting
+  entity and UNCCD secretariat via a help desk system, and through regional,
+  sub-regional, and national workshops, will form part of this review process,
+  enable data adjustments when needed, and contribute to building national
+  capacities. The data will then be aggregated at sub-regional, regional and
+  global levels by the UNCCD and its partners.</p>
 
-  <p><em>P<sub>i,n</sub></em><sub> </sub>is the proportion of degraded land in
-  that land cover type <em>i</em> in the monitoring period <em>n</em>;<em>
-  </em></p>
-
-  <p> <em>A(Degraded)<sub>i,n</sub></em> is the total area degraded in the land
-  cover type <em>i</em> in the year of monitoring <em>n </em>(ha);</p>
-
-  <p><em>A(total)<sub>i,n</sub></em> is the total area of land cover type
-  <em>i</em> within the national boundary (ha). </p>
-
-  <p>The total area of land that is degraded over total land area is the
-  accumulation across the <em>m</em> land cover classes within the monitoring
-  period <em>n </em>is given by:</p>
-
-  <p><img
-  src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAtsAAABCCAMAAACxWOo4AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAJDUExURf////z8/Ovr69jY2Nzc3PT09Orq6tra2tnZ2ezs7P39/f7+/uDg4N7e3vb29q2trZubm7m5ub+/v29vb0FBQUlJSaysrPv7+7W1tWtra0REREJCQnp6eufn542NjVRUVEBAQE5OTqenp/r6+tPT046OjpGRkaWlpff394SEhL6+vlxcXKurq6SkpImJiZqammFhYb29vcDAwGpqas7OzoKCgmRkZPHx8fLy8rq6uoqKitXV1eLi4ouLi7CwsOHh4eTk5N/f34eHh1hYWKmpqenp6ePj4/Dw8FpaWkdHR/X19Xl5eVBQUNTU1H19fWBgYEVFRcPDw19fX9vb22ZmZldXV8LCwuXl5ejo6Pj4+MnJycbGxl5eXkNDQ4+Pj4yMjE9PT1JSUt3d3XJyckxMTF1dXbe3t6ioqGVlZebm5m1tbVZWVtLS0k1NTZCQkK+vr1tbW/Pz80tLS1VVVfn5+czMzEZGRoODg8/Pz1NTU3h4eLOzs3t7e8vLy+3t7ZKSkoaGhsjIyMXFxUpKSlFRUaOjo+/v79fX15aWlmlpaaCgoH5+frKyspWVlYGBgZycnO7u7mxsbJiYmNbW1oCAgIWFhXd3d3V1dcfHx66urn9/f7GxsUhISHR0dHBwcGhoaHZ2dqKios3Nzbu7u2dnZ4iIiMHBwZ+fn3x8fJeXl9HR0aamppOTk7S0tLa2tsrKymNjY6GhoWJiYri4uFlZWcTExJmZmaqqqnFxcZ6enm5ubpSUlHNzc7y8vNDQ0J2dnQAAAL4B85cAAADBdFJOU////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wCINFSNAAAACXBIWXMAACHVAAAh1QEEnLSdAAAPdElEQVR4Xu2c63WkuhKFHQe/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"></p>
-
-  <p>Where:</p>
-
-  <p><em>A(Degraded)</em><sub>n</sub> is the total area degraded in the year of
-  monitoring <em>n </em>(ha);</p>
-
-  <p><em>A(Degraded)<sub>i,</sub></em><sub>n</sub> the total area degraded in
-  the land cover type <em>i</em> in the year of monitoring <em>n</em>.</p>
-
-  <p>The total proportion of land that is degraded over total land area is given
-  by:</p>
-
-  <p><img
-  src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAtsAAABXCAMAAADiQ3kQAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAJDUExURf////Dw8NTU1PPz89fX197e3vj4+MXFxXl5eXZ2dtbW1pKSkoyMjLu7u8/Pz7i4uJubm3BwcOzs7FFRUYqKivr6+qmpqU1NTZSUlPv7+2FhYYCAgMfHx8HBwUBAQKOjo/f397m5uUpKSqSkpGxsbFdXV9vb293d3U5OTnJycsbGxnx8fGpqal5eXkxMTHNzc+Xl5UhISNDQ0Onp6UFBQdnZ2ebm5l1dXWNjY+Hh4fHx8X9/f2BgYFtbW3d3d4mJiYaGhre3t2lpaerq6uTk5FxcXFRUVNXV1UtLS5aWlrGxsVlZWVhYWJiYmLq6uv39/WhoaPz8/L+/v1BQUEVFRbOzs+3t7aampp2dnfT09Ht7e2RkZL6+vnh4eM3NzW1tbe7u7mdnZ7y8vL29vZWVldzc3JCQkIKCgpOTk42NjWZmZszMzNPT046OjmJiYoSEhJ6enlNTU+jo6Gtra+vr6/n5+UNDQ+/v73FxcaKiooGBgU9PT5qamlVVVbS0tOPj48PDw5GRkcTExERERIiIiEJCQvLy8nR0dIWFhaurq1JSUqysrJeXl0lJScvLy35+fqqqqsrKykZGRmVlZa2trcnJyY+Pj87Ozv7+/qGhoZycnLa2toODg9/f34uLi+fn519fX29vb7W1tUdHR+Dg4K6urtLS0rKyssDAwJmZmaenp6CgoFpaWp+fn9HR0W5ublZWVtra2qioqIeHh8jIyNjY2Pb29np6enV1dfX19bCwsMLCwqWlpa+vr+Li4n19fQAAAH7AsoIAAADBdFJOU////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wCINFSNAAAACXBIWXMAACHVAAAh1QEEnLSdAAAKnElEQVR4Xu2d2XXsrBKFOwFS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"></p>
-
-  <p>Where</p>
-
-  <p><em>P</em><sub>n</sub> is the proportion of land that is degraded over
-  total land area;</p>
-
-  <p><em>A (Degraded)</em><sub>n</sub> is the total area degraded in the year of
-  monitoring <em>n </em>(ha)<em>;</em></p>
-
-  <p>A (Total) is the total area within the national boundary (ha).</p>
-
-  <p><br>The proportion is converted to a percentage value by multiplying by
-  100. </p><div class="footnotes"><div><sup class="footnote-number"
-  id="footnote-28">28</sup><p> <a
-  href="http://www2.unccd.int/sites/default/files/sessions/documents/2017-09/ICCD_COP%2813%29_CST_L.1-1715678E_0.pdf">http://www2.unccd.int/sites/default/files/sessions/documents/2017-09/ICCD_COP%2813%29_CST_L.1-1715678E_0.pdf</a> 
-  <a href="#footnote-ref-28">&#x2191;</a></p></div><div><sup
-  class="footnote-number" id="footnote-29">29</sup><p> <a
-  href="http://www2.unccd.int/sites/default/files/relevant-links/2017-10/Good%20Practice%20Guidance_SDG%20Indicator%2015.3.1_Version%201.0.pdf">http://www2.unccd.int/sites/default/files/relevant-links/2017-10/Good%20Practice%20Guidance_SDG%20Indicator%2015.3.1_Version%201.0.pdf</a> 
-  <a href="#footnote-ref-29">&#x2191;</a></p></div></div>
+  <p>By leveraging an already established reporting mechanism, this data flows
+  and validation mechanism increases the efficiency with which UNCCD can gather
+  data from countries. In addition, since the definitions and methodologies for
+  reporting on SDG Indicator 15.3.1 are aligned with those adopted by the UNCCD,
+  the reporting burden on countries and the need for harmonization/validation of
+  the indicator values is reduced. Since national data and information to report
+  on SDG Indicator 15.3.1 generally comes from outside the National Statistical
+  Offices (NSOs), prior to submitting the data to the UN Statistical Division
+  (UNSD), the UNCCD consults with the NSOs and requests them to review and
+  validate the data submitted by their country as part of their national report.
+  For those countries that have not submitted a national report, the UNCCD
+  provides the NSOs with national estimates derived from global data sources for
+  review and validation.<sup><a href="#footnote-32"
+  id="footnote-ref-32">[31]</a></sup></p><div class="footnotes"><div><sup
+  class="footnote-number" id="footnote-32">31</sup><p>
+  https://www.unccd.int/sites/default/files/sessions/documents/2018-12/ICCD_CRIC%2817%29_8-1819696E.pdf
+  <a href="#footnote-ref-32">&#x2191;</a></p></div></div>
+ADJUSTMENT: <p>Not applicable.</p>
 IMPUTATION: >-
-  <h2>Treatment of missing values:</h2>
-
-  <ul>
-    <li><strong><em>At country level:</em></strong></li>
-  </ul>
+  <p><em>At country level</em></p>
 
   <p>For countries where no data or information is available, the UNCCD and its
   partners can provide default estimates from regional or global data sources
   that would then be validated by national authorities.</p>
 
-  <ul>
-    <li><strong><em>At regional and global levels:</em></strong></li>
-  </ul>
+  <p><em>At regional and global levels</em></p>
 
   <p>The land area of countries with missing values (i.e., there is no default
   data) would be excluded from regional and global aggregation.</p>
 REG_AGG: >-
-  <h2>Regional and global aggregates:</h2>
-
   <p>The indicator can be aggregated to the regional and global level by summing
   the spatial extent of land that is degraded over total land area for all
   countries reporting in a specific region or globally.</p>
 DOC_METHOD: >-
-  <h2>Methods and guidance available to countries for the compilation of the
-  data at the national level:</h2>
-
   <p>All data are provided to UNCCD by countries in the form of a national
-  report following a standard reporting template,<sup><a href="#footnote-30"
-  id="footnote-ref-30">[30]</a></sup> which includes the quantitative data for
-  the indicator and sub-indicators as well as a qualitative assessment of
-  indicator trends. The reporting template ensures that countries provide the
-  full reference for original data sources as well as national definitions and
-  methodology.</p>
+  report following a standard reporting template,<sup><sup><a
+  href="#footnote-33" id="footnote-ref-33">[32]</a></sup></sup> which includes
+  the quantitative data for the indicator and sub-indicators as well as a
+  qualitative assessment of indicator trends. The reporting template ensures
+  that countries provide the full reference for original data sources as well as
+  national definitions and methodology.</p>
 
   <p>Detailed guidance on how to prepare the country reports and how to compute
   the indicator and sub-indicators is contained in the UNCCD reporting manual
-  and in the Good Practice Guidance for SDG indicator 15.3.1,<sup><a
-  href="#footnote-31" id="footnote-ref-31">[31]</a></sup> respectively. </p><div
-  class="footnotes"><div><sup class="footnote-number"
-  id="footnote-30">30</sup><p> <a
-  href="http://www2.unccd.int/sites/default/files/relevant-links/2017-12/20171107_Template_Final_EN.pdf">http://www2.unccd.int/sites/default/files/relevant-links/2017-12/20171107_Template_Final_EN.pdf</a> 
-  <a href="#footnote-ref-30">&#x2191;</a></p></div><div><sup
-  class="footnote-number" id="footnote-31">31</sup><p> <a
+  and in the Good Practice Guidance for SDG indicator 15.3.1,<sup><sup><a
+  href="#footnote-34" id="footnote-ref-34">[33]</a></sup></sup> respectively.
+  </p><div class="footnotes"><div><sup class="footnote-number"
+  id="footnote-33">32</sup><p> <a
+  href="http://www2.unccd.int/sites/default/files/relevant-links/2017-12/20171107_Template_Final_EN.pdf">http://www2.unccd.int/sites/default/files/relevant-links/2017-12/20171107_Template_Final_EN.pdf</a>
+  <a href="#footnote-ref-33">&#x2191;</a></p></div><div><sup
+  class="footnote-number" id="footnote-34">33</sup><p> <a
   href="http://www2.unccd.int/sites/default/files/relevant-links/2017-10/Good%20Practice%20Guidance_SDG%20Indicator%2015.3.1_Version%201.0.pdf">http://www2.unccd.int/sites/default/files/relevant-links/2017-10/Good%20Practice%20Guidance_SDG%20Indicator%2015.3.1_Version%201.0.pdf</a>
-  <a href="#footnote-ref-31">&#x2191;</a></p></div></div>
+  <a href="#footnote-ref-34">&#x2191;</a></p></div></div>
+QUALITY_MGMNT: ''
 QUALITY_ASSURE: >-
-  <h2>Quality assurance:</h2>
-
   <p>The UNCCD reporting templates has built-in quality check functionalities
   (e.g., range checks). Once received, national reports will undergo a review
   process by the UNCCD and its partners to ensure data integrity, correctness
   and completeness, the correct use of definitions and methodology as well as
   internal consistency. </p>
 
-  <p>A help-desk system<sup><a href="#footnote-32"
-  id="footnote-ref-32">[32]</a></sup> has been set up as a single point of
+  <p>A help-desk system<sup><sup><a href="#footnote-35"
+  id="footnote-ref-35">[34]</a></sup></sup> has been set up as a single point of
   contact for countries to get answers to questions and gain assistance on
   reporting issues.</p><div class="footnotes"><div><sup class="footnote-number"
-  id="footnote-32">32</sup><p> <a
+  id="footnote-35">34</sup><p> <a
   href="http://support.unccd.int/">http://support.unccd.int/</a> <a
-  href="#footnote-ref-32">&#x2191;</a></p></div></div>
+  href="#footnote-ref-35">&#x2191;</a></p></div></div>
+QUALITY_ASSMNT: ''
 COVERAGE: >-
-  <h1>Data availability</h1>
-
-  <h2>Description:</h2>
+  <p>Data availability:</p>
 
   <p>In many countries, national data for one or more of the sub-indicators are
   available. Regional and global data are available for all three sub-indicators
@@ -667,20 +655,20 @@ COVERAGE: >-
   capacity building for monitoring and reporting on the indicator when
   necessary.</p>
 
-  <h2>Time series:</h2>
+  <p>Time series:</p>
 
   <p>Annual since the year 2000.</p>
 
-  <h2>Disaggregation:</h2>
+  <p>Disaggregation:</p>
 
   <p>The indicator can be disaggregated by land cover class or other spatially
   explicit land unit.</p>
 COMPARABILITY: >-
-  <h2>Sources of discrepancies:</h2>
+  <p>Sources of discrepancies:</p>
 
   <p>Data reported by the countries themselves will follow a standardized format
-  for UNCCD national reporting<sup><a href="#footnote-33"
-  id="footnote-ref-33">[33]</a></sup> that will include the indicator and
+  for UNCCD national reporting<sup><sup><a href="#footnote-36"
+  id="footnote-ref-36">[35]</a></sup></sup> that will include the indicator and
   sub-indicators as well as their data sources and explanatory notes.
   Differences between global and national figures may arise due to differences
   in spatial resolution of datasets, classification approaches (i.e. definition
@@ -693,9 +681,7 @@ COMPARABILITY: >-
   analysis of the data, including any assumptions made and the methods used for
   estimating the indicator and sub-indicators.</p><div
   class="footnotes"><div><sup class="footnote-number"
-  id="footnote-33">33</sup><p> <a
-  href="http://www2.unccd.int/sites/default/files/relevant-links/2017-12/20171107_Template_Final_EN.pdf">http://www2.unccd.int/sites/default/files/relevant-links/2017-12/20171107_Template_Final_EN.pdf</a>  
-  <a href="#footnote-ref-33">&#x2191;</a></p></div></div>
-OTHER_DOC: |-
-  <h1>References</h1>
-  <p>All references for this indicator are provided in the footnotes.</p>
+  id="footnote-36">35</sup><p> <a
+  href="http://www2.unccd.int/sites/default/files/relevant-links/2017-12/20171107_Template_Final_EN.pdf">http://www2.unccd.int/sites/default/files/relevant-links/2017-12/20171107_Template_Final_EN.pdf</a>
+  <a href="#footnote-ref-36">&#x2191;</a></p></div></div>
+OTHER_DOC: <p>All references for this indicator are provided in the footnotes</p>

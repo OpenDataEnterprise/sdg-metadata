@@ -1,3 +1,4 @@
+SDG_INDICATOR_INFO: ''
 SDG_GOAL: '<p>Goal 3: Ensure healthy lives and promote well-being for all at all ages</p>'
 SDG_TARGET: >-
   <p>Target 3.7: By 2030, ensure universal access to sexual and reproductive
@@ -7,79 +8,78 @@ SDG_TARGET: >-
 SDG_INDICATOR: >-
   <p>Indicator 3.7.2: Adolescent birth rate (aged 10-14 years; aged 15-19 years)
   per 1,000 women in that age group</p>
-META_LAST_UPDATE: '<p>Last updated: May 2020</p>'
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: <p>March 2021</p>
 SDG_RELATED_INDICATORS: >-
-  <h1>Related indicators</h1>
-
   <p>Indicator is linked to Target 5.6 (Ensure universal access to sexual and
   reproductive health and reproductive rights as agreed in accordance with the
   Programme of Action of the International Conference on Population and
   Development and the Beijing Platform for Action and the outcome documents of
   their review conferences) because reductions in adolescent childbearing that
-  can be brought about by increasing access to sexual and reproductive
-  health-care services are also reflective of improvements in sexual and
-  reproductive health and reproductive rights per se. Indicator is linked to
+  are brought about by increasing access to sexual and reproductive health-care
+  services are also reflective of improvements in sexual and reproductive health
+  and the exercise of reproductive rights per se. This indicator is linked to
   Target 17.19 (By 2030 build on existing initiatives to develop measurements of
   progress on sustainable development that complement gross domestic product and
   support statistical capacity-building in developing countries) because the
-  adolescent birth rate draws on in part birth registration and census data.
-  Strengthened civil registration and vital statistics systems in countries that
-  can reach 100 per cent registration coverage of births and timeliness of
-  census data are relevant for measuring progress on target 3.7.</p>
-SDG_CUSTODIAN_AGENCIES: >-
-  <h1>Institutional information</h1>
-
-  <h2>Organization(s):</h2>
-
-  <p>Population Division, Department of Economic and Social Affairs (DESA)
-  United Nations</p>
-
-  <p>Population Fund (UNFPA)</p>
+  estimates of the adolescent birth rate are based in part on birth registration
+  and census data. Strengthened civil registration and vital statistics systems
+  reaching universal coverage of birth registration and conducting at least one
+  census every 10 years are directly relevant for measuring progress on target
+  3.7.</p>
+SDG_CUSTODIAN_AGENCIES: |-
+  <p>Population Division, Department of Economic and Social Affairs (DESA) </p>
+  <p>United Nations Population Fund (UNFPA)</p>
+CONTACT: ''
+CONTACT_ORGANISATION: |-
+  <p>Population Division, Department of Economic and Social Affairs (DESA) </p>
+  <p>United Nations Population Fund (UNFPA)</p>
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <h1>Concepts and definitions</h1>
-
-  <h2>Definition:</h2>
+  <p>Definition:</p>
 
   <p>Annual number of births to females aged 10-14 or 15-19 years per 1,000
   females in the respective age group.</p>
 
-  <h2>Concepts:</h2>
+  <p>Concepts:</p>
 
-  <p>The adolescent birth rate represents the risk of childbearing among females
-  in the particular age group. The adolescent birth rate among women aged 15-19
-  years is also referred to as the age-specific fertility rate for women aged
-  15-19 years.</p>
+  <p>The adolescent birth rate represents the level of childbearing among
+  females in the particular age group. The adolescent birth rate among women
+  aged 15-19 years is also referred to as the age-specific fertility rate for
+  women aged 15-19.</p>
+UNIT_MEASURE: >-
+  <p>Annual number of births to females aged 10-14 or 15-19 years per 1,000
+  females in the respective age group.</p>
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <h1>Data sources</h1>
-
-  <h2>Description:</h2>
-
   <p>Civil registration is the preferred data source. Census and household
-  survey are alternate sources when there is no reliable civil registration.
-  </p>
+  survey are alternate sources when there is no reliable civil registration.</p>
 
   <p>Data on births by age of mother are obtained from civil registration
   systems covering 90 per cent or more of all live births, supplemented
   eventually by census or survey estimates for periods when registration data
-  are not available.</p>
+  are not available. For the numerator, the figures reported by National
+  Statistical Offices to the</p>
 
-  <p>For the numerator, the figures reported by National Statistical Offices to
-  the United Nations Statistics Division have first priority. When they are not
-  available or present problems, use is made of data from statistical entities
-  of intergovernmental organizations at the regional and sub-regional levels or
-  directly from National Statistical Offices.</p>
-
-  <p>For the denominator, first priority is given to the latest revision of
-  World Population Prospects produced by the Population Division, Department of
+  <p>United Nations Statistics Division have first priority. When they are not
+  available or present problems, use is made of data from the regional
+  statistical units or directly from National Statistical Offices. For the
+  denominator, first priority is given to the latest revision of World
+  Population Prospects produced by the Population Division, Department of
   Economic and Social Affairs, United Nations. In cases where the numerator does
   not cover the complete de facto population, an alternative appropriate
   population estimate is used if available. When either the numerator or
   denominator is missing, the direct estimate of the rate produced by the
-  National Statistics Office is used. </p>
-
-  <p>Information on sources is provided at the cell level. When the numerator
-  and denominator come from two different sources, they are listed in that
-  order.</p>
+  National Statistics Office is used. Information on sources is provided at the
+  cell level. When the numerator and denominator come from two different
+  sources, they are listed in that order.</p>
 
   <p>In countries lacking a civil registration system or where the coverage of
   that system is lower than 90 per cent of all live births, the adolescent birth
@@ -92,17 +92,15 @@ SOURCE_TYPE: >-
 
   <p>For information on the source of each estimate, see United Nations,
   Department of Economic and Social Affairs, Population Division (2019). World
-  Fertility Data 2019 (POP/DB/Fert/Rev2019), publicly accessible at <a
-  href="http://www.un.org/en/development/desa/population/publications/dataset/fertility/wfd20197.aspshtml">http://www.un.org/en/development/desa/population/publications/dataset/fertility/wfd2019.asp</a>.</p>
+  Fertility Data 2019. POP/DB/Fert/Rev2019. Available at: <a
+  href="https://www.un.org/en/development/desa/population/publications/dataset/fertility/wfd2019.asp">https://www.un.org/en/development/desa/population/publications/dataset/fertility/wfd2019.asp</a></p>
 COLL_METHOD: >-
-  <h2>Collection process:</h2>
-
   <p>For civil registration data, data on births or the adolescent birth rate
   are obtained from country-reported data from the United Nations Statistics
   Division or regional Statistics Divisions or statistical units (ESCWA, ESCAP,
-  CARICOM, SPC, Eurostat). The population figures are obtained from the last
-  revision of <em>United Nations</em> <em>World Population Prospects</em> and
-  only exceptionally from other sources.</p>
+  CARICOM, SPC). The population figures are obtained from the last revision of
+  the United Nations Population Division World Population Prospects and only
+  exceptionally from other sources.</p>
 
   <p>Survey data are obtained from national household surveys that are
   internationally coordinated&#x2014;such as the Demographic and Health Surveys
@@ -116,52 +114,46 @@ COLL_METHOD: >-
   clarification is needed, contact is made with the survey sponsors or authoring
   organization, which occasionally may supply corrected or adjusted estimates in
   response. In other cases, if microdata is available, estimates are produced by
-  the Population Division based on these national data.</p>
+  the Population Division based on national data.</p>
 
-  <p>For census data, the estimates are preferably directly obtained from census
+  <p> </p>
+
+  <p>For census data, the estimates are preferably obtained directly from census
   reports. In such cases, adjusted rates are only used when reported by the
   National Statistical Office. In other cases, the adolescent birth rate is
   computed from tables on births in the preceding 12 months by age of mother,
-  and the census population distribution by sex and age.</p>
+  and census population distribution by sex and age.</p>
 
   <p>In addition to obtaining data and estimates directly from the websites of
-  National Statistical Offices, the following databases and websites are
-  utilized: the Demographic and Health Surveys (DHS) (<a
-  href="http://api.dhsprogram.com/%23/index.html">http://api.dhsprogram.com/#/index.html</a>),
+  National Statistical Offices, the</p>
+
+  <p>following databases and websites are utilized: the Demographic and Health
+  Surveys (DHS) (<a
+  href="http://api.dhsprogram.com/#/index.html">http://api.dhsprogram.com/#/index.html</a>),
   Demographic Yearbook database of the Statistics Division of the Department of
   Economic and Social Affairs of the United Nations Secretariat (<a
-  href="http://data.un.org/">http://data.un.org</a>), internal databases of the
+  href="http://data.un.org/">http://data.un.org/</a>), internal databases of the
   Population Division of the Department of Economic and Social Affairs of the
   United Nations Secretariat (see latest public release here: <a
-  href="http://www.un.org/en/development/desa/population/publications/dataset/fertility/wfd2019.asp">http://www.un.org/en/development/desa/population/publications/dataset/fertility/wfd2019.asp</a>),
-  Eurostat <a
-  href="http://ec.europa.eu/eurostat/data/database">(http://ec.europa.eu/eurostat/data/database</a>),
+  href="https://www.un.org/en/development/desa/population/publications/dataset/fertility/wfd2019.asp">https://www.un.org/en/development/desa/population/publications/dataset/fertility/wfd2019.asp</a>).
+  Eurostat (<a
+  href="https://ec.europa.eu/eurostat/data/database">https://ec.europa.eu/eurostat/data/database</a>),
   the Human Fertility Database (<a
-  href="http://www.humanfertility.org/">http://www.humanfertility.org</a>), the
-  Human Fertility Collection <a
-  href="http://www.fertilitydata.org">(http://www.fertilitydata.org</a>), and
-  the Multiple Indicator Cluster Surveys (MICS) (<a
+  href="http://www.humanfertility.org">http://www.humanfertility.org</a>), the
+  Human Fertility Collection (<a
+  href="http://www.fertilitydata.org">http://www.fertilitydata.org</a>), and the
+  Multiple Indicator Cluster Surveys (MICS) (<a
   href="http://mics.unicef.org/">http://mics.unicef.org/</a>). Survey databases
   (e.g., the Integrated Household Survey Network (IHSN) database) are also
   consulted in addition to searches for data on websites of National Statistical
-  Offices and ad hoc queries.</p>
+  Offices and ad hoc queries. </p>
 FREQ_COLL: >-
-  <h1>Calendar</h1>
-
-  <h2>Data collection:</h2>
-
   <p>Data are compiled and updated annually in the first quarter of the
   year.</p>
 REL_CAL_POLICY: >-
-  <h2>Data release:</h2>
-
   <p>Updated data on the adolescent birth rate are released by the Population
-  Division annually. The next release is expected in 2020.</p>
+  Division annually. The next release is expected in 2022.</p>
 DATA_SOURCE: >-
-  <h1>Data providers</h1>
-
-  <h2><strong>Name:</strong> </h2>
-
   <p>For civil registration data, data on births or the adolescent birth rate
   are obtained from country-reported data from the United Nations Statistics
   Division or regional Statistics Divisions or statistical units (ESCWA, ESCAP,
@@ -173,17 +165,22 @@ DATA_SOURCE: >-
   and the Multiple Indicator Cluster Surveys (MICS)&#x2014;and other
   nationally-sponsored surveys. Data from censuses are obtained from
   country-reported data from the United Nations Statistics Division or regional
-  Statistics Divisions or statistical units (Eurostat, ESCWA, ESCAP, CARICOM,
-  SPC) or directly from census reports.</p>
+  Statistics Divisions or statistical units (ESCWA, ESCAP, CARICOM, SPC) or
+  directly from census reports.</p>
 COMPILING_ORG: >-
-  <h1>Data compilers</h1>
-
   <p>This indicator is produced at the global level by the Population Division,
-  Department of Economic and Social Affairs, United Nations in collaboration
-  with the United Nations Population Fund (UNFPA).</p>
-RATIONALE: >-
-  <h2>Rationale:</h2>
+  Department of Economic and</p>
 
+  <p>Social Affairs, United Nations in collaboration with the United Nations
+  Population Fund (UNFPA).</p>
+INST_MANDATE: >-
+  <p>The Population Division of the Department of Economic and Social Affairs
+  provides the international community with timely and accessible population
+  data and analysis of population trends and development outcomes for all
+  countries and areas of the world. It is the custodian agency for SGG indicator
+  3.7.2.</p>
+OTHER_METHOD: ''
+RATIONALE: >-
   <p>Reducing adolescent fertility and addressing the multiple factors
   underlying it are essential for improving sexual and reproductive health and
   the social and economic well-being of adolescents. There is substantial
@@ -192,32 +189,29 @@ RATIONALE: >-
   or even death during pregnancy and birth and their children are also more
   vulnerable. Therefore, preventing births very early in a woman&#x2019;s life
   is an important measure to improve maternal health and reduce infant
-  mortality. Furthermore, women having children at an early age experience a
-  curtailment of their opportunities for socio-economic improvement,
-  particularly because young mothers are unlikely to keep on studying and, if
-  they need to work, may find it especially difficult to combine family and work
+  mortality. Furthermore, women having children at an early age experience
+  reduced opportunities for socio-economic advancement, particularly because
+  young mothers are less likely to complete their education and, if they need to
+  work, may find it especially difficult to combine family and work
   responsibilities. The adolescent birth rate also provides indirect evidence on
-  access to pertinent health services since young people, and, in particular
+  access to pertinent health services since young people, and in particular
   unmarried adolescent women, often experience difficulties in access to sexual
   and reproductive health services.</p>
 REC_USE_LIM: >-
-  <h2>Comments and limitations:</h2>
-
-  <p>Discrepancies between the sources of data at the country level are common
-  and the level of the adolescent birth rate depends in part on the source of
-  the data selected.</p>
+  <p>Discrepancies between estimates obtained from different national data are
+  common.</p>
 
   <p>For civil registration, rates are subject to limitations which depend on
   the completeness of birth registration, the treatment of infants born alive
-  but that die before registration or within the first 24 hours of life, the
-  quality of the reported information relating to age of the mother, and the
-  inclusion of births from previous periods. The population estimates may suffer
-  from limitations connected to age misreporting and coverage.</p>
+  but die before registration or within the first 24 hours of life, the quality
+  of the reported information relating to age of the mother, and the inclusion
+  of births from previous periods. The population estimates may suffer from
+  limitations connected to age misreporting and coverage.</p>
 
   <p>For survey and census data, both the numerator and denominator come from
-  the same population. The main limitations concern age misreporting, birth
-  omissions, misreporting the date of birth of the child, and sampling
-  variability in the case of surveys.</p>
+  the same population. The main limitations concern age misreporting, the
+  omission of births, misreporting the date of birth of the child, and, in the
+  case of surveys, sampling size and variability.</p>
 
   <p>With respect to estimates of the adolescent birth rate among females aged
   10-14 years, comparative evidence suggests that a very small proportion of
@@ -233,10 +227,6 @@ REC_USE_LIM: >-
   related measure is the proportion of adolescent fertility measured as the
   percentage of total fertility contributed by women aged 15-19.</p>
 DATA_COMP: >-
-  <h1>Methodology</h1>
-
-  <h2>Computation method:</h2>
-
   <p>The adolescent birth rate is computed as a ratio. The numerator is the
   number of live births to women aged 15-19 years, and the denominator an
   estimate of exposure to childbearing by women aged 15-19 years. The
@@ -254,249 +244,275 @@ DATA_COMP: >-
   15-19 years of age at the time of the births during a reference period before
   the interview, and the denominator is person-years lived between the ages of
   15 and 19 years by the interviewed women during the same reference period. The
-  reported observation year corresponds to the middle of the reference period.
-  For some surveys without data on retrospective birth histories, computation of
-  the adolescent birth rate is based on the date of last birth or the number of
-  births in the 12 months preceding the survey.</p>
+  reported observation</p>
+
+  <p>year corresponds to the middle of the reference period. For some surveys
+  without data on retrospective birth histories, computation of the adolescent
+  birth rate is based on the date of last birth or the number of births in the
+  12 months preceding the survey.</p>
 
   <p>With census data, the adolescent birth rate is computed on the basis of the
   date of last birth or the number of births in the 12 months preceding the
   enumeration. The census provides both the numerator and the denominator for
-  the rates. In some cases, the rates based on censuses are adjusted for
-  under-registration based on indirect methods of estimation. For some countries
-  with no other reliable data, the own-children method of indirect estimation
+  the rates. In some cases, the rates based on censuses are adjusted for under-
+  registration based on indirect methods of estimation. For some countries with
+  no other reliable data, the own-children method of indirect estimation
   provides estimates of the adolescent birth rate for a number of years before
   the census.</p>
 
-  <p>If data are available, adolescent fertility at ages 10-14 years can also be
-  computed.</p>
+  <p>Whenever data are available, adolescent fertility at ages 10-14 years can
+  also be computed.</p>
 
   <p>For a thorough treatment of the different methods of computation, see
-  <em>Handbook on the Collection of Fertility and Mortality Data, United Nations
-  Publication, Sales No. E.03.XVII.11</em> (publicly accessible at <a
-  href="http://unstats.un.org/unsd/publication/SeriesF/SeriesF_92E.pdf%20">http://unstats.un.org/unsd/publication/SeriesF/SeriesF_92E.pdf</a>).
-  Indirect methods of estimation are analyzed in <em>Manual X: Indirect
-  Techniques for Demographic Estimation, United Nations Publication, Sales No.
-  E.83.XIII.2 </em>(publicly accessible at <a
-  href="http://www.un.org/esa/population/publications/Manual_X/Manual_X.htmpdf">http://www.un.org/esa/population/publications/Manual_X/Manual_X.pdf</a>).</p>
+  Handbook on the Collection of Fertility and Mortality Data, United Nations
+  Publication, Sales No. E.03.XVII.11, <a
+  href="http://unstats.un.org/unsd/publication/SeriesF/SeriesF_92E.pdf)">(
+  </a><a
+  href="https://unstats.un.org/unsd/demographic/standmeth/handbooks/Handbook_Fertility_Mortality.pdf"><u>https://unstats.un.org/unsd/demographic/standmeth/handbooks/Handbook_Fertility_Mortality.pdf</u></a>).
+  Indirect methods of estimation are analyzed in Manual X: Indirect Techniques
+  for Demographic Estimation, United Nations Publication, Sales No. E.83.XIII.2.
+  (<a
+  href="http://www.un.org/esa/population/publications/Manual_X/Manual_X.htm)"></a><a
+  href="https://www.un.org/en/development/desa/population/publications/pdf/mortality/Manual_X.pdf"><u>https://www.un.org/en/development/desa/population/publications/pdf/mortality/Manual_X.pdf</u></a>).</p>
+DATA_VALIDATION: >-
+  <p>The Population Division maintains a database on fertility rates from
+  different sources including estimates produced by National Statistical Offices
+  and regional statistical units. Data since the last round of SDG reporting are
+  updated from various sources up to a specified cut-off date&#x2014;usually by
+  the end of January of the reporting year. Newly available demographic data are
+  subjected to quality analyses and evaluated by examining the consistency in
+  the patterns, levels and trends of the data within and across countries and
+  regions. The Population Division has often reached out to the United
+  Population Fund (UNFPA) to request its country offices to assist in obtaining
+  data that might be available but not yet published. Also, through the UNFPA,
+  data that the Population Division deems questionable are verified by the
+  National Statistics Office or other relevant government agency. The process of
+  data compilation and selection for SDG reporting is available at: <a
+  href="https://www.un.org/development/desa/pd/sites/www.un.org.development.desa.pd/files/unpd-egm-fer-2020-10-backgroundpaper_newtitle_final_oct9.pdf">https://www.un.org/development/desa/pd/sites/www.un.org.development.desa.pd/files/unpd-egm-fer-2020-10-backgroundpaper_newtitle_final_oct9.pdf</a>
+  </p>
+ADJUSTMENT: >-
+  <p>When data are available from civil registration systems covering 90 per
+  cent or more of all live births, the adolescent birth rate is calculated by
+  dividing the annual number of live births to females aged 19 years or younger
+  (10-14 and 15-19 age groups) by the female population in the pertinent age
+  group taken from the latest revision of World Population Prospects produced by
+  the Population Division. The adolescent birth rate from other sources are not
+  adjusted.</p>
 IMPUTATION: >-
-  <h2>Treatment of missing values:</h2>
-
-  <ul>
-    <li><strong><em>At country level:</em></strong></li>
-  </ul>
+  <p>&#x2022; At country level</p>
 
   <p>There is no attempt to provide estimates for individual countries or areas
   when country or area data are not available.</p>
 
-  <ul>
-    <li><strong><em>At regional and global levels:</em></strong></li>
-  </ul>
+  <p>&#x2022; At regional and global levels</p>
 
   <p>The regional or global aggregates of the adolescent birth rate for the age
   group 15-19 years are from the latest revision of World Population Prospects
-  produced by the Population Division. Given cases when data are missing or
-  assessed as unreliable, estimates for individual countries or areas are
-  generated either through expert-based opinion, reviewing and weighting each
-  observation analytically, or, in more recent years, using automated
-  statistical methods, or by using a bias-adjusted data model to control for
-  systematic biases between different types of data. See United Nations,
-  Department of Economic and Social Affairs, Population Division (2019). World
-  Population Prospects 2019: Revision, Methodology of the United Nations
-  Population estimates and projections, (ST/ESA/SER.A/425), available at <a
-  href="https://population.un.org/wpp/Publications/Files/WPP2019_Methodology.pdf">https://population.un.org/wpp/Publications/Files/WPP2019_Methodology.pdf</a>.</p>
-REG_AGG: >-
-  <h2>Regional aggregates:</h2>
+  produced by the Population Division. </p>
 
+  <p>In cases when data are missing or assessed as unreliable, estimates for
+  individual countries or areas are generated either through expert-based
+  opinion reviewing and weighting each observation analytically, or, in more
+  recent years, using automated statistical methods, or by using a bias-
+  adjusted data model to control for systematic biases between different types
+  of data. See United Nations, Department of Economic and Social Affairs,
+  Population Division (2019). World Population Prospects 2019: Methodology of
+  the United Nations population estimates and projections (ST/ESA/SER.A/425),
+  available at: <a
+  href="https://population.un.org/wpp/Publications/Files/WPP2019_Methodology.pdf">https://population.un.org/wpp/Publications/Files/WPP2019_Methodology.pdf</a></p>
+REG_AGG: >-
   <p>The adolescent birth rates reported for global and regional aggregates are
-  based on the average of estimated adolescent birth rates for two contiguous
+  based on the average of estimated adolescent birth rates for two, contiguous
   five-year periods (e.g., 2015-2020 and 2020-2025 for year 2020) published in
   United Nations, Department of Economic and Social Affairs, Population Division
-  (2017). <em>World Population Prospects: The 2017 Revision, DVD Edition</em>
-  (<a href="http://esa.un.org/unpd/wpp/">http://esa.un.org/unpd/wpp/</a>).</p>
+  (2019), World Population Prospects 2019 (<a
+  href="http://esa.un.org/unpd/wpp/">http://esa.un.org/unpd/wpp/</a>)</p>
 
   <p>The age-specific fertility rates for global and regional aggregates from
   World Population Prospects (WPP) are based on population reconstruction at the
   country level and provide a best estimate based on all the available
-  demographic information. WPP considers and evaluates as many types and sources
+  demographic information. WPP considers potentially as many types and sources
   of empirical estimates as possible (including retrospective birth histories,
   direct and indirect fertility estimates), and the final estimates are derived
   to ensure as much internal consistency as possible with all other demographic
-  components and cohorts enumerated in successive censuses.</p>
+  components and intercensal cohorts enumerated in successive censuses.</p>
+DOC_METHOD: ''
+QUALITY_MGMNT: >-
+  <p>The Population Division maintains a database on fertility rates from
+  different sources including estimates produced by National Statistical Offices
+  and regional statistical units. Data since the last round of SDG reporting are
+  updated from various sources up to a specified cut-off date&#x2014;usually by
+  the end of January of the reporting year. With each revision of World
+  Population Prospects (WPP), the Population Division carries out a
+  re-estimation of historical demographic trends for countries and territories
+  of the world. These demographic estimates are based on the most recently
+  available data sources, such as censuses, demographic surveys, registries of
+  vital events, population registers and various other sources. Newly available
+  demographic data and information are subjected to quality analyses and
+  evaluated by examining the consistency in the patterns, levels and trends of
+  the data across countries and regions. The description of the guidelines for
+  managing the quality of the data and process is available at: <a
+  href="https://www.un.org/development/desa/pd/sites/www.un.org.development.desa.pd/files/unpd-egm-fer-2020-10-backgroundpaper_newtitle_final_oct9.pdf">https://www.un.org/development/desa/pd/sites/www.un.org.development.desa.pd/files/unpd-egm-fer-2020-10-backgroundpaper_newtitle_final_oct9.pdf</a>;
+  <a
+  href="https://population.un.org/wpp/Publications/Files/WPP2019_Methodology.pdf">https://population.un.org/wpp/Publications/Files/WPP2019_Methodology.pdf</a>.
+  </p>
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
 COVERAGE: >-
-  <h1>Data availability</h1>
+  <p>Data availability:</p>
 
   <p>Data for the adolescent birth rate for women aged 15-19 years are available
-  for 229 countries or areas for the 2000-2019 time period. For 219 countries or
-  areas, there are at least two available data points. Only four countries have
-  one data point, two in Europe and North America (Gibraltar and Saint Pierre
-  and Miquelon) and two in Oceania (Tokelau and Wallis and Futuna Islands).</p>
+  for 224 countries or areas for the 2000-2020 time period. For 219 countries or
+  areas, there are at least two available data points. Only five countries have
+  one data point, two in Europe and Northern America (Gibraltar and Saint Pierre
+  and Miquelon), two in Oceania (Tokelau and Wallis and Futuna Islands) and one
+  in Latin America and the Caribbean (Cayman Islands).</p>
 
   <p>The regional breakdown of data availability is as follows:</p>
 
   <table>
-    <thead>
-      <tr>
-        <th colspan="2"></th>
-        <th colspan="3">
-          <p><strong>Between 2000 and 2018</strong></p>
-        </th>
-      </tr>
-      <tr>
-        <th colspan="2">
-          <p><strong>World and SDG regions</strong></p>
-        </th>
-        <th>
-          <p><strong>At least one data point</strong></p>
-        </th>
-        <th colspan="2">
-          <p><strong>Two or more data points</strong></p>
-        </th>
-      </tr>
-    </thead>
     <tbody>
       <tr>
+        <td></td>
         <td colspan="2">
+          <p><strong>Between 2000 and 2020</strong></p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p><strong>World and SDG regions</strong></p>
+        </td>
+        <td>
+          <p><strong>At least one data point</strong></p>
+        </td>
+        <td>
+          <p><strong>Two or more data points</strong></p>
+        </td>
+      </tr>
+      <tr>
+        <td>
           <p>WORLD</p>
         </td>
         <td>
-          <p>223</p>
+          <p>224</p>
         </td>
-        <td colspan="2">
+        <td rowspan="12">
           <p>219</p>
+          <p>47</p>
+          <p>44</p>
+          <p>14</p>
+          <p>19</p>
+          <p>24</p>
+          <p>50</p>
+          <p>19</p>
+          <p>2</p>
+          <p>32</p>
+          <p>47</p>
+          <p>56</p>
         </td>
       </tr>
       <tr>
-        <td colspan="2">
-          <p>Europe and Northern America </p>
+        <td>
+          <p>Europe and Northern America</p>
         </td>
         <td>
           <p>49</p>
         </td>
-        <td colspan="2">
-          <p>47</p>
-        </td>
       </tr>
       <tr>
-        <td colspan="2">
+        <td>
           <p>Latin America and the Caribbean</p>
         </td>
         <td>
-          <p>44</p>
-        </td>
-        <td colspan="2">
-          <p>44</p>
+          <p>45</p>
         </td>
       </tr>
       <tr>
-        <td colspan="2">
+        <td>
           <p>Central Asia and Southern Asia</p>
         </td>
         <td>
           <p>14</p>
         </td>
-        <td colspan="2">
-          <p>14</p>
-        </td>
       </tr>
       <tr>
-        <td colspan="2">
+        <td>
           <p>Eastern Asia and South-eastern Asia</p>
         </td>
         <td>
           <p>19</p>
         </td>
-        <td colspan="2">
-          <p>19</p>
-        </td>
       </tr>
       <tr>
-        <td colspan="2">
+        <td>
           <p>Northern Africa and Western Asia</p>
         </td>
         <td>
           <p>24</p>
         </td>
-        <td colspan="2">
-          <p>24</p>
-        </td>
       </tr>
       <tr>
-        <td colspan="2">
+        <td>
           <p>Sub-Saharan Africa</p>
         </td>
         <td>
           <p>50</p>
         </td>
-        <td colspan="2">
-          <p>50</p>
-        </td>
       </tr>
       <tr>
-        <td colspan="2">
+        <td>
           <p>Oceania excluding Australia and New Zealand</p>
         </td>
         <td>
           <p>21</p>
         </td>
-        <td colspan="2">
-          <p>19</p>
-        </td>
       </tr>
       <tr>
-        <td colspan="2">
+        <td>
           <p>Australia and New Zealand</p>
         </td>
         <td>
           <p>2</p>
         </td>
-        <td colspan="2">
-          <p>2</p>
-        </td>
       </tr>
       <tr>
-        <td colspan="2">
+        <td>
           <p>Landlocked developing countries (LLDCs)</p>
         </td>
         <td>
           <p>32</p>
         </td>
-        <td colspan="2">
-          <p>32</p>
-        </td>
       </tr>
       <tr>
-        <td colspan="2">
+        <td>
           <p>Least Developed Countries (LDCs)</p>
         </td>
         <td>
           <p>47</p>
         </td>
-        <td colspan="2">
-          <p>47</p>
-        </td>
       </tr>
       <tr>
-        <td colspan="2">
+        <td>
           <p>Small island developing States (SIDS)</p>
         </td>
         <td>
-          <p>56</p>
-        </td>
-        <td colspan="2">
-          <p>56</p>
+          <p>57</p>
         </td>
       </tr>
     </tbody>
   </table>
 
-  <h2>Disaggregation:</h2>
+  <p>Time series:</p>
+
+  <p>See above</p>
+
+  <p>Disaggregation:</p>
 
   <p>Age, education, number of living children, marital status, socioeconomic
   status, geographic location and other categories, depending on the data source
   and number of observations.</p>
 COMPARABILITY: >-
-  <h2>Sources of discrepancies:</h2>
+  <p>Sources of discrepancies:</p>
 
   <p>Estimates based on civil registration are only provided when the country
   reports at least 90 per cent coverage and when there is reasonable agreement
@@ -506,45 +522,43 @@ COMPARABILITY: >-
   reliable civil registration. There might be discrepancies on the dating and
   the actual figure if a different reference period is being used. In
   particular, many surveys report rates both for a three-year and a five-year
-  reference period. For countries where data are scarce, reference periods of
-  more than five years before the survey might be used.</p>
+  reference period. For countries where data are scarce, reference periods
+  located more than five years before the survey might be used.</p>
 OTHER_DOC: >-
-  <h1>References</h1>
-
-  <h2>URL:</h2>
+  <p>URL:</p>
 
   <p><a
-  href="http://www.un.org/en/development/desa/population/index.asp%20">http://www.un.org/en/development/desa/population/index.asp
-  </a></p>
-
-  <p><a
+  href="https://www.un.org/en/development/desa/population/index.asp">https://www.un.org/en/development/desa/population/index.asp</a>;
+  <a
   href="https://www.unfpaopendata.org/libraries/aspx/Home.aspx">https://www.unfpaopendata.org/libraries/aspx/Home.aspx</a></p>
 
-  <h2>References:</h2>
+  <p>Other references:</p>
 
   <p>United Nations, Department of Economic and Social Affairs, Population
-  Division (2019). World Fertility Data 2019 (POP/DB/Fert/Rev2019), Available
-  at: <a
-  href="http://www.un.org/en/development/desa/population/publications/dataset/fertility/wfd2019.asp">http://www.un.org/en/development/desa/population/publications/dataset/fertility/wfd2019.asp</a>.</p>
+  Division (2019). World Fertility Data 2019. POP/DB/Fert/Rev2019. Available at:
+  <a
+  href="https://www.un.org/en/development/desa/population/publications/dataset/fertility/wfd2019.asp">https://www.un.org/en/development/desa/population/publications/dataset/fertility/wfd2019.asp</a>
+  </p>
 
   <p>United Nations, Department of Economic and Social Affairs, Population
-  Division (2019).World Population Prospects 2019: Methodology of the United
-  Nations population estimates and projections (ST/SER.A/425) <a
-  href="https://esa.un.org/unpd/wpp/Publications/Files/WPP2019_Methodology.pdf">https://esa.un.org/unpd/wpp/Publications/Files/WPP2019_Methodology.pdf</a>.</p>
+  Division (2019). World Population Prospects 2019: Methodology of the United
+  Nations population estimates and projections (ST/ESA/SER.A/425). <a
+  href="https://population.un.org/wpp/Publications/Files/WPP2019_Methodology.pdf">https://population.un.org/wpp/Publications/Files/WPP2019_Methodology.pdf</a>
+  </p>
 
   <p>United Nations, Department of Economic and Social Affairs, Population
-  Division (2019).World Population Prospects 2019. <a
+  Division (2019). World Population Prospects 2019. <a
   href="http://esa.un.org/unpd/wpp/">http://esa.un.org/unpd/wpp/</a></p>
 
   <p>Handbook on the Collection of Fertility and Mortality Data, United Nations
-  Publication (ST/ESA/STAT/SER.F/92), <a
-  href="http://unstats.un.org/unsd/demographic/standmeth/handbooks/Handbook_Fertility_Mortality.pdf">http://unstats.un.org/unsd/demographic/standmeth/handbooks/Handbook_Fertility_Mortality.pdf</a></p>
+  Publication (ST/ESA/STAT/SER.F/92), (<a
+  href="https://unstats.un.org/unsd/demographic/standmeth/handbooks/Handbook_Fertility_Mortality.pdf">https://unstats.un.org/unsd/demographic/standmeth/handbooks/Handbook_Fertility_Mortality.pdf</a>)</p>
 
   <p>Manual X: Indirect Techniques for Demographic Estimation, United Nations
-  Publication, Sales No. E.83.XIII.2 <a
-  href="http://www.un.org/esa/population/publications/Manual_X/Manual_X.htmpdf">http://www.un.org/esa/population/publications/Manual_X/Manual_X.hpdf</a>.</p>
+  Publication, Sales No. E.83.XIII.2. (<a
+  href="https://www.un.org/en/development/desa/population/publications/pdf/mortality/Manual_X.pdf">https://www.un.org/en/development/desa/population/publications/pdf/mortality/Manual_X.pdf</a>)</p>
 
   <p>Indicator and Monitoring Framework for the Global Strategy for
   Women&#x2019;s, Children&#x2019;s and Adolescents&#x2019; Health (2016-2030),
-  available at: <a
-  href="https://www.who.int/life-course/publications/gs-indicator-and-monitoring-framework.pdf%20http:/www.everywomaneverychild.org/wp-content/uploads/2016/05/EWEC_INDICATOR_MONITORING_FRAMEWORK_2016-1.pdf">https://www.who.int/life-course/publications/gs-indicator-and-monitoring-framework.pdf</a>.</p>
+  (<a
+  href="https://www.who.int/life-course/publications/gs-Indicator-and-monitoring-framework.pdf">https://www.who.int/life-course/publications/gs-Indicator-and-monitoring-framework.pdf</a>)</p>

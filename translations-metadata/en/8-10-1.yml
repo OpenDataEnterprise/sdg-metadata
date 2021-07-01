@@ -1,97 +1,97 @@
+SDG_INDICATOR_INFO: ''
 SDG_GOAL: >-
   <p>Goal 8: Promote sustained, inclusive and sustainable economic growth, full
-  and productive employment and decent work for all</p>
+  and productive employment and decent work for all </p>
 SDG_TARGET: >-
   <p>Target 8.10: Strengthen the capacity of domestic financial institutions to
   encourage and expand access to banking, insurance and financial services for
-  all</p>
+  all </p>
 SDG_INDICATOR: >-
   <p>Indicator 8.10.1: (a) Number of commercial bank branches per 100,000 adults
-  and (b) number of automated teller machines (ATMs) per 100,000 adults</p>
-META_LAST_UPDATE: '<p>Last updated: March 2020</p>'
-SDG_CUSTODIAN_AGENCIES: |-
-  <h1>Institutional information</h1>
-  <h2>Organization(s):</h2>
-  <p>International Monetary Fund (STAFI - Financial Access Survey Team)</p>
+  and (b) Number of automated teller machines (ATMs) per 100,000 adults </p>
+SDG_SERIES_DESCR: <p>NA </p>
+META_LAST_UPDATE: <p>February 2021</p>
+SDG_RELATED_INDICATORS: |-
+  <p>NA</p>
+  <p>0.g. International organisation(s) responsible for global monitoring</p>
+  <p>International Monetary Fund (STAFI - Financial Access Survey Team) </p>
+SDG_CUSTODIAN_AGENCIES: ''
+CONTACT: ''
+CONTACT_ORGANISATION: <p>International Monetary Fund (STAFI - Financial Access Survey Team) </p>
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <h1>Concepts and definitions</h1>
+  <p><strong>Definition:</strong> </p>
 
-  <h2>Definition:</h2>
+  <p>The number of commercial bank branches per 100,000 adults </p>
 
-  <p>The number of commercial bank branches per 100,000 adults</p>
+  <p>The number of automated teller machines (ATMs) per 100,000 adults </p>
 
-  <p>The number of automated teller machines (ATMs) per 100,000 adults</p>
+  <p> </p>
 
-  <h2>Concepts:</h2>
+  <p><strong>Concepts:</strong> </p>
 
-  <p>The number of commercial bank branches per 100,000 adults refers to the
-  number of commercial banks branches at end-year reported by the Central Bank
-  or the main financial regulator of the country. To make the indicator
-  meaningful for cross-country comparison, the number of commercial banks
-  branches is scaled per 100,00 adults.</p>
+  <p> </p>
 
-  <p>The number of automated teller machines (ATMs) per 100,000 adults, refers
-  to the number of ATMs in the country for all types of financial institutions
-  such as: commercial banks, non-deposit taking microfinance institutions,
-  deposit taking micro finance institutions, credit union and financial
-  cooperatives, among other. This information is reported every year by the
-  Central Bank or the main financial regulator of the country. To make the
-  indicator meaningful for cross-country comparison, the number of ATMs is
-  scaled per 100,00 adults.</p>
+  <p>The number of commercial bank branches refers to the total number of
+  commercial bank branches in the country reported annually by the central bank
+  or the main financial regulator of the country to the Financial Access Survey
+  (FAS). To make the indicator meaningful for cross-country comparison, the
+  number of commercial bank branches is scaled per 100,000 adults. </p>
+
+  <p> The number of automated teller machines (ATMs), refers to the number of
+  ATMs in the country for all types of financial institutions such as:
+  commercial banks, non-deposit taking microfinance institutions, deposit taking
+  micro finance institutions, credit unions and credit cooperatives, and other
+  deposit takers. This information is reported annually by the central bank or
+  the main financial regulator of the country to the FAS. To make the indicator
+  meaningful for cross-country comparison, the number of ATMs is scaled per
+  100,000 adults. </p>
+
+  <p> </p>
+UNIT_MEASURE: <p>Number</p>
+CLASS_SYSTEM: <p>NA</p>
+SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <h1>Data sources</h1>
-
-  <h2>Description:</h2>
+  <p><strong>Description:</strong> </p>
 
   <p>The indicators in the FAS database are collected on an annual basis since
-  2009, covering the period 2004-2018. Information is collected from Central
-  Banks or other main financial regulators for 189 countries. </p>
+  2009, covering the period 2004-2019. Information is collected from central
+  banks or other main financial regulators for 189 jurisdictions. </p>
+
+  <p> </p>
 
   <p>All data and metadata are available free of charge to the public on the
   IMF&#x2019;s <a
-  href="http://data.imf.org/?sk=E5DCAB7E-A5CA-4892-A6EA-598B5463A34C">FAS
-  website</a>, along with other key documents.</p>
+  href="http://data.imf.org/?sk=E5DCAB7E-A5CA-4892-A6EA-598B5463A34C"
+  target="_blank"><u>FAS website</u></a>, along with other key documents. </p>
 COLL_METHOD: >-
-  <h2>Collection process:</h2>
-
   <p>Every year, the FAS Team reaches out to FAS respondents to initiate the
   annual survey process. Data are compiled by countries and sent to the IMF
-  through the ICS which allows for a secure submission of country information.
-  Data are processed and validated by the FAS Team. </p>
+  through the Integrated Collection System (ICS) or National Summary Data Page
+  (NSDP), which allows for a secure submission of country information. Data are
+  processed and validated by the FAS Team. </p>
 
-  <p>Each submission is carefully reviewed, and when necessary, the FAS Team
-  engages with the country authorities for clarifications or adjustments to the
-  data provided. In case a country needs to add additional relevant information
-  pertinent to the data reported, they can do so through the metadata portal in
-  ICS.</p>
-
-  <p>Every year, submissions are disseminated on the FAS website (<a
-  href="https://data.imf.org/fas">https://data.imf.org/fas</a>) on a rolling
-  basis as soon as they are reviewed and validated by the FAS Team.</p>
+  <p> </p>
 FREQ_COLL: >-
-  <h1>Calendar</h1>
-
-  <h2>Data collection:</h2>
-
-  <p>The 2020 data collection round will be launched around end-March 2020;
-  collection occurs on an annual basis.</p>
+  <p>The 2021 data collection round will be launched around end-March 2021;
+  collection occurs on an annual basis. </p>
 REL_CAL_POLICY: >-
-  <h2>Data release:</h2>
-
   <p>FAS data are publicly disseminated on a rolling basis as soon as
   submissions are reviewed and validated by the FAS Team, with complete
   dissemination at end-September each year. Submissions that have passed through
-  the validation process are made available in the FAS website on the following
-  Monday after completion.</p>
-DATA_SOURCE: |-
-  <h1>Data providers</h1>
-  <p>Central Banks or other financial regulators.</p>
-COMPILING_ORG: |-
-  <h1>Data compilers</h1>
-  <p>International Monetary Fund.</p>
+  the validation process are made available on the FAS website on the following
+  Monday after successful validation. </p>
+DATA_SOURCE: <p>Central banks or other financial regulators. </p>
+COMPILING_ORG: <p>International Monetary Fund. </p>
+INST_MANDATE: <p>NA</p>
+OTHER_METHOD: ''
 RATIONALE: >-
-  <h2>Rationale:</h2>
-
   <p>Access to and use of formal financial services is essential. Services such
   as savings, insurance, payments, credit and remittances allow people to manage
   their lives, plan and pay expenses, grow their businesses and improve their
@@ -102,43 +102,45 @@ RATIONALE: >-
   automated teller machines of all formal financial institutions, which can
   extend financial services to remote locations. </p>
 REC_USE_LIM: >-
-  <h2>Comments and limitations:</h2>
-
-  <p>Since 2009, the Financial Access Survey (FAS) collects information from
-  administrative sources on an annual basis. The Central Bank or the main
-  financial regulator reports yearly information including the two indicators
-  that are part of the SDGs. Since its launch, 189 economies have contributed to
-  the FAS, which now contains more than 100 series on financial inclusion
-  covering the period 2004-2018.</p>
+  <p>Since 2009, the FAS collects information from administrative sources on an
+  annual basis. The central bank or the main financial regulator reports yearly
+  information including the two indicators that are part of the SDGs. Since its
+  launch, 189 economies have contributed to the FAS, which now contains more
+  than 100 series on financial inclusion covering the period 2004-2019. </p>
 DATA_COMP: >-
-  <h1>Methodology</h1>
-
-  <h2>Computation method:</h2>
-
   <p>The indicators are calculated based on data collected directly from the
-  Central Bank or the main financial regulator in the country. The formula to
+  central bank or the main financial regulator in the country. The formula to
   obtain these indicators are:</p>
 
-  <p>The number of commercial bank branches per 100,000 adults<sub>it</sub></p>
-
-  <p>= Number of commercial bank branches<sub>it</sub>/(Adult
-  population<sub>it</sub>/100,000)</p>
-
-  <p>The number of automated teller machines (ATMs) per 100,000
-  adults<sub>it</sub></p>
-
-  <p>= Number of automated teller machines (ATMs)<sub>it</sub>/(Adult
-  population<sub>it</sub>/100,000)</p>
+  <p><img
+  src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAlQAAADiCAIAAAAH9s4/AAAAAXNSR0IArs4c6QAAUKVJREFUeF7tnW3oXtWV9p8+bQSbQD9ooQljw4zBVEkzTZNRwZeJgo22M3Q0+JZEq22iVkkl1CE60kxqkBqISBtIJ42CHaL9EFNTmMZWYRTTMqOQFhqJtRAYGxiFVjCSNBQ/5PkN18N69rPPuc997vdz3+c6H/7c/3P2Xnuta629195rv33kzJkz/8uPETACRsAIGIE2IfC/2ySsZTUCRsAIGAEj8D8I2PnZDoyAETACRqB1CNj5tU7lFtgIGAEjYATs/GwDRsAIGAEj0DoE7Pxap3ILbASMgBEwAnZ+tgEjYASMgBFoHQJ2fq1TuQU2AkbACBgBOz/bgBEwAkbACLQOATu/1qncAhsBI2AEjICdn23ACBgBI2AEWofARyZ+vNkPfvCDn/zkJ52A//KXv7xixYrvfve7f/zjHz/zmc88/vjj06KiH//4x0899RTcbt68+corr5wI27/73e/279//i1/8gtKnC73B4Xr11Ve3b9+O/dx1113V1L7+9a///ve/J81Pf/rTLOV3vvMdoVf8NCCHmMePfvSjP/3pT105/NWvfgUbdVIOyFKd7BVY1cnenDR/+MMfnn/++bfeequ0SaFReumll8D805/+NAq69tprU87RyDPPPPPb3/724x//+Oc///n169d/8pOfLBWNUp588kmZECmvv/56/qYpf/azn2EGNG7nnnvuZZddltlq1+y94tmrLdHwvvjii5NtxHqVsX76poz88BC0L/wV0PFbRrNjx476IjUk5Q033PCFL3xhssw8+uijVGDApAJPlpMml/7973+fNq6Uw4ceeqjTpwElwjy+9rWv1SGC/ddMWYfagGkqsBqQ8jiz792799577+3U56bFx/Oh+qeffhrt79y5k45UsEeHkr4IvopqtXHjRtzJY4891on5LVu20K+CzhNPPIGHIyP+LBLj+SBO3YTUNddcAz843ZRUdfY+EMOWaBPqZ7z//vsn3ojV57bXlI1wfqikODbizeWXXy55OnWsepV2zOnPPvvsMZeYFkeNpb5RqXhJj3KKBs1DAQ37oU3pOuxTWXThOxVa8WlAPutTrp9yQJbqZG8UM3UYztLg23izb9++0m4Nvo2xDg6JRolmh1EdiVM3SSiFN7hG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"></p>
 
   <p>Where &#x201C;i&#x201D; indicates the country and &#x201C;t&#x201D;
   indicates the year. The source of information for the number of commercial
   bank branches and the number of ATMs is the FAS, while the source of
-  information for the adult population is the World Development Indicators.</p>
-IMPUTATION: >-
-  <h2>Treatment of missing values:</h2>
+  information for the adult population is the World Development Indicators or
+  the CIA Factbook.</p>
+DATA_VALIDATION: >-
+  <p>The FAS questionnaire has built-in consistency checks to help data
+  reporters spot inconsistencies in data reporting. Once the data is reported to
+  the FAS, it undergoes a round of automated validation checks. In any
+  inconsistency is detected, the FAS Team engages with the country authorities
+  for clarifications or adjustments to the data provided. In case a country
+  needs to add additional relevant information pertinent to the data reported,
+  they can do so through the metadata portal in ICS. </p>
 
+  <p>Every year, submissions are disseminated on the FAS website
+  (data.imf.org/fas) on a rolling basis as soon as they are reviewed and
+  validated. </p>
+ADJUSTMENT: >-
+  <p><strong> </strong>Adult population<strong> </strong>refers to the total
+  population in the reporting jurisdiction of individuals 15 years old and
+  above. Data are taken from the World Bank&apos;s World Development Indicators
+  database and the CIA Factbook. In cases where data for the most recent period
+  are not available, data for the previous period is used.</p>
+IMPUTATION: >-
   <ul>
-    <li><strong><em>At country level:</em></strong></li>
+    <li>At country level </li>
   </ul>
 
   <p>Missing values are registered as empty. &#x201C;n/a&#x201D; are used when
@@ -146,69 +148,90 @@ IMPUTATION: >-
   country, or alternatively, do not fall under the supervisory scope of a
   regulatory agency. </p>
 
+  <p> </p>
+
   <ul>
-    <li><strong><em>At regional and global levels:</em></strong></li>
+    <li>At regional and global levels </li>
   </ul>
 
   <p>&#x201C;n/a&#x201D; are used when the country indicates that those services
   or institutions do not exist in the country, or alternatively, do not fall
   under the supervisory scope of a regulatory agency. Trend extrapolation is
-  used for countries that have not reported for 2018.</p>
+  used for countries that have not reported for 2019. </p>
 REG_AGG: >-
-  <h2>Regional aggregates:</h2>
-
   <p>Country level: information provided by the authorities, recalculated as
   number of access points per 100,000 adults. For regional values, the FAS
   aggregates information of all countries and uses country&#x2019;s adult
-  population as weights.</p>
+  population as weights. </p>
 DOC_METHOD: >-
-  <h2>Methods and guidance available to countries for the compilation of the
-  data at the national level:</h2>
+  <p>Information collected by the FAS relies on the &#x201C;<em>FAS Guidelines
+  and Manual</em>&#x201D;, which is published every year in English, Spanish and
+  French. To foster the use of a common methodology, the definitions of
+  financial institutional units and instruments covered in the FAS are primarily
+  based on the IMF&#x2019;s <em>Monetary and Financial Statistics Manual and
+  Compilation Guide</em> (<a href="http://imf.org/"
+  target="_blank"><u>http://imf.org/</u></a>). The FAS also publishes a
+  <em>Glossary</em> for FAS indicators. </p>
 
-  <ul>
-    <li>Information collected by the FAS relies on the &#x201C;<em>FAS Guidelines and Manual</em>&#x201D;, which is published every year in English, Spanish and French. To foster the use of a common methodology, the definitions of financial institutional units and instruments covered in the FAS are primarily based on the IMF&#x2019;s <em>Monetary and Financial Statistics Manual and Compilation Guide</em> (<a href="http://imf.org/">http://imf.org/</a>). The FAS also publishes a <em>Glossary</em> for FAS indicators.</li>
-    <li>All these documents can be found in <a href="http://data.imf.org/?sk=E5DCAB7E-A5CA-4892-A6EA-598B5463A34C&amp;sId=1460040555909">FAS website - documents</a>.</li>
-  </ul>
-QUALITY_ASSURE: |-
-  <h2>Quality assurance:</h2>
-  <ul>
-    <li>FAS data are collected through the Integrated Collection System (ICS) which allows for a secure submission of country information. Data submitted by countries are received internally in a system that facilitates the validation process conducted by the FAS Team. </li>
-    <li>Each submission is carefully reviewed, and when necessary, the FAS Team engages with the country authorities for clarifications or adjustments to the data provided. In case a country needs to add additional relevant information pertinent to the data reported, they can do so through the metadata portal in ICS.</li>
-  </ul>
+  <p> </p>
+
+  <p>All these documents can be found in <a
+  href="http://data.imf.org/?sk=E5DCAB7E-A5CA-4892-A6EA-598B5463A34C&amp;sId=1460040555909"
+  target="_blank"><u>FAS website - documents</u></a>. </p>
+QUALITY_MGMNT: >-
+  <p> The FAS questionnaire has built-in consistency checks to help data
+  reporters spot inconsistencies in data reporting. Once the data is reported to
+  the FAS, it undergoes a round of automated validation checks and careful
+  review by the FAS team. The analytical work on the reported data also aids
+  spotting and correcting inconsistencies in the data, if any.</p>
+QUALITY_ASSURE: >-
+  <p>FAS data are collected through the ICS or the NSDP, which allows for a
+  secure submission of country information. Data submitted by countries are
+  received internally in a system that facilitates the validation process
+  conducted by the FAS Team. </p>
+
+  <p> </p>
+
+  <p>Each submission is carefully reviewed, and when necessary, the FAS Team
+  engages with the country authorities for clarifications or adjustments to the
+  data provided. In case a country needs to add additional relevant information
+  pertinent to the data reported, they can do so through the metadata portal in
+  ICS. </p>
+QUALITY_ASSMNT: >-
+  <p> The FAS is a supply-side database with data reported from central banks
+  and other financial regulators sourced from administrative data. Supply-side
+  data tend to be more accurate than demand-side surveys. Furthermore, any
+  deviations from the FAS methodology or fluctuations are reported by the
+  country in the metadata, which is available on the FAS data portal. </p>
 COVERAGE: >-
-  <h1>Data availability</h1>
-
-  <h2>Description:</h2>
+  <p>Data availability:</p>
 
   <p>Covering 189 economies, the FAS provides a unique set of high-quality
-  global supply side data. It contains 121 times series and 64 indicators that
+  global supply side data. It contains 121 times series and 70 indicators that
   are expressed as ratios to GDP, land area, or adult population to facilitate
   cross-country comparisons. </p>
 
-  <h2>Time series:</h2>
+  <p>Time series:</p>
 
-  <p>2004-2018; on an annual basis.</p>
+  <p>2004-2019; on an annual basis. </p>
 
-  <h2>Disaggregation:</h2>
+  <p>Disaggregation:</p>
 
   <p>Data are provided at country level, by year. Aggregates are compiled by
-  region in accordance with UN suggested regional aggregations.</p>
+  region in accordance with UN suggested regional aggregations. </p>
 COMPARABILITY: >-
-  <h2>Sources of discrepancies:</h2>
-
-  <p>The FAS is an administrative source survey, with information from Central
-  Banks or other main financial regulators. The data collection is centralized
+  <p>The FAS is a supply-side database based on administrative data from central
+  banks or other main financial regulators. The data collection is centralized
   at the regulatory agency, which sources data from financial institutions and
   financial services providers for series for which data are available. The
-  regulatory agency reports aggregates for the total economy in the FAS survey.
-  The FAS survey provides country-level metadata that explain the institutional
-  coverage of each reporting economy. Data from the FAS survey may differ from
-  household-based surveys because of possible difference in coverage, scope, or
-  concept definitions.</p>
+  regulatory agency reports aggregates for the total economy to the FAS. The FAS
+  provides country-level metadata that explain the institutional coverage of
+  each reporting economy. Data from the FAS may differ from household-based
+  surveys because of possible difference in coverage, scope, or concept
+  definitions. </p>
 OTHER_DOC: |-
-  <h1>References</h1>
-  <h2>URL:</h2>
-  <p><a href="http://data.imf.org/fas">http://data.imf.org/fas</a></p>
-  <h2>References:</h2>
-  <p>FAS website:</p>
-  <p><a href="http://data.imf.org/fas">http://data.imf.org/fas</a></p>
+  <p><strong>URL:</strong> </p>
+  <p>http://data.imf.org/fas </p>
+  <p><strong>References:</strong> </p>
+  <p>FAS website: </p>
+  <p>http://data.imf.org/fas </p>

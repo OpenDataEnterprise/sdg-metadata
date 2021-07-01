@@ -1,5 +1,6 @@
+SDG_INDICATOR_INFO: ''
 SDG_GOAL: >-
-  <p>Goal 9: Build resilient infrastructure, promote inclusive and sustainable
+  <p>Build resilient infrastructure, promote inclusive and sustainable
   industrialization and foster innovation</p>
 SDG_TARGET: >-
   <p>Target 9.3: Increase the access of small-scale industrial and other
@@ -9,28 +10,35 @@ SDG_TARGET: >-
 SDG_INDICATOR: >-
   <p>Indicator 9.3.2: Proportion of small-scale industries with a loan or line
   of credit</p>
-META_LAST_UPDATE: '<p>Last updated: March 2020</p>'
-SDG_CUSTODIAN_AGENCIES: |-
-  <h1>Institutional information</h1>
-  <h2>Organization(s):</h2>
-  <p>United Nations Industrial Development Organization (UNIDO)</p>
-STAT_CONC_DEF: >-
-  <h1>Concepts and definitions</h1>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: <p>February 2021</p>
+SDG_RELATED_INDICATORS: <p>9.3.1</p>
+SDG_CUSTODIAN_AGENCIES: <p>United Nations Industrial Development Organization (UNIDO)</p>
+CONTACT: ''
+CONTACT_ORGANISATION: <p>United Nations Industrial Development Organization (UNIDO)</p>
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: >-
+  <p>2.a. Definition and concepts<sup><sup><a href="#footnote-2"
+  id="footnote-ref-2">[1]</a></sup></sup></p>
 
-  <h2>Definition:<sup><sup><a href="#footnote-1"
-  id="footnote-ref-1">[1]</a></sup></sup></h2>
+  <p>Definitions:</p>
 
-  <p><strong>Small-scale industrial enterprises</strong>, in the SDG framework
-  also called &#x201C;<strong>small-scale industries</strong>&#x201D;, defined
-  here for the purpose of statistical data collection and compilation refer to
-  statistical units, generally enterprises, engaged in production of goods and
-  services for market below a designated size class.</p>
+  <p>Small-scale industrial enterprises, in the SDG framework also called
+  &#x201C;small-scale industries&#x201D;, defined here for the purpose of
+  statistical data collection and compilation refer to statistical units,
+  generally enterprises, engaged in production of goods and services for market
+  below a designated size class.</p>
 
   <p>This indicator shows the number of &#x201C;small-scale industries&#x201D;
   with an active line of credit or a loan from a financial institution in the
   reference year in percentage to the total number of such enterprises.</p>
 
-  <h2>Concepts:</h2>
+  <p>Concepts:</p>
 
   <p>International recommendations for industrial statistics 2008 (IRIS 2008)
   (United Nations, 2011) define an <strong>enterprise</strong> as the smallest
@@ -101,7 +109,7 @@ STAT_CONC_DEF: >-
   within this framework.</p>
 
   <p>A <strong>loan</strong> is a financial instrument that is created when a
-  creditor lends funds directly to a debtor and receives a nonnegotiable
+  creditor lends funds directly to a debtor and receives a non-negotiable
   document as evidence of the asset. This category includes overdrafts, mortgage
   loans, loans to finance trade credit and advances, repurchase agreements,
   financial assets and liabilities created by financial leases, and claims on or
@@ -117,21 +125,30 @@ STAT_CONC_DEF: >-
   of credit and undisbursed loan commitments are contingent liabilities of the
   issuing institutions&#x2014; generally, banks (IMF, 2011). A loan or line of
   credit refers to regulated financial institutions only.</p><div
-  class="footnotes"><div><sup class="footnote-number" id="footnote-1">1</sup><p>
+  class="footnotes"><div><sup class="footnote-number" id="footnote-2">1</sup><p>
   Some of the text on concepts and definition may be identical to Metadata
   submitted for Indicators 9.3.1. <a
-  href="#footnote-ref-1">&#x2191;</a></p></div></div>
+  href="#footnote-ref-2">&#x2191;</a></p></div></div>
+STAT_CONC_DEF: ''
+UNIT_MEASURE: <p>Percentages</p>
+CLASS_SYSTEM: >-
+  <p><a
+  href="https://unstats.un.org/unsd/publication/seriesm/seriesm_4rev4e.pdf">International
+  Standard Industrial Classification of all Economic Activities (ISIC) Revision
+  4</a></p>
+
+  <p><a
+  href="https://unstats.un.org/unsd/publication/seriesm/seriesm_4rev3_1e.pdf">International
+  Standard Industrial Classification of all Economic Activities (ISIC) Revision
+  3</a></p>
+SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <h1>Data sources</h1>
-
-  <h2>Description:</h2>
-
   <p>Data were collected from the World Bank Enterprise Surveys as a pilot study
   on this indicator, however the preferable source of data are national
   statistical offices.</p>
-COLL_METHOD: >-
-  <h2>Collection process:</h2>
 
+  <p> </p>
+COLL_METHOD: >-
   <p>One of the main sources of data for this indicator currently available is
   the Enterprise Survey conducted by the World Bank which covers the formal
   sector and contains data for small and medium enterprises only (with 5 or more
@@ -144,7 +161,7 @@ COLL_METHOD: >-
   environment topics including access to finance, corruption, infrastructure,
   crime, competition, and performance measures. Since 2002, the World Bank has
   collected these data from face-to-face interviews with top managers and
-  business owners in over 130,000 companies in 135 economies.</p>
+  business owners in over 161,000 companies in 144 economies.</p>
 
   <p>The surveys have been conducted since 2002 by different units within the
   World Bank. Since 2005-06, most data collection efforts have been centralized
@@ -203,15 +220,34 @@ COLL_METHOD: >-
   <p>The survey also defines an enterprise with female ownership as an
   enterprise having at least one female owner, and female-managed is measured by
   whether the top manager is a woman.</p>
-DATA_SOURCE: |-
-  <h1>Data providers</h1>
-  <p>World Bank Enterprise Surveys</p>
-COMPILING_ORG: |-
-  <h1>Data compilers</h1>
-  <p>United Nations Industrial Development Organization (UNIDO)</p>
-RATIONALE: >-
-  <h2>Rationale:</h2>
+FREQ_COLL: >-
+  <p>Data are collected through the World Bank Enterprise Surveys conducted in
+  countries.</p>
+REL_CAL_POLICY: >-
+  <p>The data are regularly updated on the World Bank Enterprise Surveys
+  website. The Enterprise Surveys are implemented every year in around 20
+  countries. Data frequency for each country is around 4 years.</p>
 
+  <p>The UNIDO SDG-9 database is updated between March and April every year
+  including the 9.3.2 indicator.</p>
+DATA_SOURCE: <p>World Bank Enterprise Surveys</p>
+COMPILING_ORG: <p>United Nations Industrial Development Organization (UNIDO)</p>
+INST_MANDATE: >-
+  <p>UNIDO, as the specialized UN agency on industrial development, has the
+  international mandate for collecting, producing and disseminating
+  internationally comparable industrial statistics. UNIDO&#x2019;s mandate
+  covers (i) the maintenance and updating of international industrial statistics
+  databases; (ii) methodological and analytical products based on statistical
+  research and experience of maintaining internationally comparable statistics;
+  (iii) contributions to the development and implementation of international
+  statistical standards and methodology; and (iv) technical cooperation services
+  to countries in the field of industrial statistics. With the repositioning of
+  UNIDO as the focal agency for inclusive and sustainable industrial development
+  (ISID), its statistical mandate was expanded to cover all dimensions of
+  industrial development, including its inclusiveness and environmental
+  sustainability.</p>
+OTHER_METHOD: ''
+RATIONALE: >-
   <p>Industrial enterprises are classified to small compared to large or medium
   for their distinct nature of economic organization, production capability,
   scale of investment and other economic characteristics. &#x201C;Small-scale
@@ -233,8 +269,6 @@ RATIONALE: >-
   reflects the main message of the target 9.3 which promotes to increase the
   access of &#x201C;small-scale industries&#x201D; to financial services.</p>
 REC_USE_LIM: >-
-  <h2>Comments and limitations:</h2>
-
   <p>The main limitation of existing national data is varying size classes by
   country indicating that data are obtained from different target populations.
   Data of one country are not comparable to another. </p>
@@ -247,57 +281,116 @@ REC_USE_LIM: >-
   compile the data by a size class of &#x201C;small-scale industries&#x201D; as
   with less than 20 persons employed. From such data, an internationally
   comparable data on the share of &#x201C;small-scale industries&#x201D; in
-  total could be derived. </p>
+  total could be derived.</p>
 DATA_COMP: >-
-  <h1>Methodology</h1>
-
-  <h2>Computation method:</h2>
-
   <p>The proportion of &#x201C;small-scale industries&#x201D; with a loan or
   line of credit is calculated as the number of &#x201C;small-scale
   industries&#x201D; with an active line of credit or a loan from a financial
   institution in the reference year in percentage to the total number of such
   enterprises:</p>
 
-  <p><em>(the number of &#x201C;small -scale industries&#x201D; with loan or
-  line of credit/total number of &#x201C;small-scale industries&#x201D;) *
-  100</em></p>
+  <p><img
+  src="data:image/png;base64,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"></p>
 
   <p>The indicator is calculated as a share of small-scale manufacturing
   enterprises with a loan or line of credit in the total number of small-scale
   manufacturing enterprises. Calculation of the indicator can be extended for
   other economic activities.</p>
+DATA_VALIDATION: ''
+ADJUSTMENT: ''
+IMPUTATION: >-
+  <p>&#x2022; At country level</p>
+
+  <p>No treatment of missing values is applied at country level.</p>
+
+  <p>&#x2022; At regional and global levels</p>
+
+  <p>No treatment of missing values is applied at regional and global
+  levels.</p>
+REG_AGG: >-
+  <p>Regional and global aggregates are currently not provided due to a limited
+  geographical and time coverage. The Enterprise Surveys are implemented every
+  year in around 20 countries. Data frequency for each country is around 4
+  years.</p>
+DOC_METHOD: >-
+  <p>International Recommendations for Industrial Statistics (IRIS) 2008</p>
+
+  <p><a
+  href="https://unstats.un.org/unsd/publication/seriesM/seriesm_90e.pdf">https://unstats.un.org/unsd/publication/seriesM/seriesm_90e.pdf</a></p>
+
+  <p>International Standard Industrial Classification of All Economic Activities
+  (ISIC) </p>
+
+  <p><a
+  href="https://unstats.un.org/unsd/classifications/Econ/isic">https://unstats.un.org/unsd/classifications/Econ/isic</a></p>
+
+  <p>International Monetary Fund. (2011). Public Sector Debt Statistics: Guide
+  for Compilers and Users. Washington, DC: International Monetary Fund. </p>
+
+  <p>https://www.elibrary.imf.org/view/IMF069/11874-9781616351564/11874-9781616351564/front.xml?language=en&amp;redirect=true</p>
+
+  <p>World Bank Enterprise Surveys methodology</p>
+
+  <p>https://www.enterprisesurveys.org/en/methodology</p>
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: >-
+  <p>The UNIDO quality assurance framework is followed to check data quality and
+  consistency before the data dissemination.</p>
+
+  <p>UNIDO (2009), UNIDO Data Quality: A quality assurance framework for UNIDO
+  statistical activities <a
+  href="https://open.unido.org/api/documents/4814740/download/UNIDO-Publication-2009-4814740">https://open.unido.org/api/documents/4814740/download/UNIDO-Publication-2009-4814740</a>
+  </p>
+QUALITY_ASSMNT: ''
 COVERAGE: >-
-  <h1>Data availability</h1>
+  <p>Data availability:</p>
 
-  <h2>Description:</h2>
+  <p>Data for around 140 economies were collected.</p>
 
-  <p>Data for around 130 economies were collected.</p>
-
-  <p>&#xA0;</p>
-
-  <h2>Time series:</h2>
+  <p>Time series:</p>
 
   <p>Surveys are implemented every year in around 20 countries. Data frequency
   for each country is around 4 years.</p>
+
+  <p>Disaggregation:</p>
+
+  <p>No disaggregation available</p>
+COMPARABILITY: >-
+  <p>Sources of discrepancies:</p>
+
+  <p>Discrepancies might arise due to the natural evolution of questionnaire
+  design and survey methodology over time.</p>
 OTHER_DOC: >-
-  <h1>References</h1>
+  <h2>URL:</h2>
+
+  <p>https://www.enterprisesurveys.org/</p>
+
+  <p><a href="http://www.unido.org/statistics">www.unido.org/statistics</a></p>
+
+  <p><a href="https://stat.unido.org/">https://stat.unido.org/</a></p>
+
+  <h2>References:</h2>
 
   <p>International Monetary Fund. (2011). Public Sector Debt Statistics: Guide
-  for Compilers and Users. Washington, DC: International Monetary Fund. <a
-  href="http://www.tffs.org/pdf/method/2013/psds2013.pdf">http://www.tffs.org/pdf/method/2013/psds2013.pdf</a></p>
+  for Compilers and Users. Washington, DC: International Monetary Fund. </p>
+
+  <p>https://www.elibrary.imf.org/view/IMF069/11874-9781616351564/11874-9781616351564/front.xml?language=en&amp;redirect=true</p>
 
   <p>United Nations. (2002). International Standard Industrial Classification of
-  All Economic Activities (ISIC Revision 4). New York : United Nations. <a
+  All Economic Activities (ISIC Revision 4). New York : United Nations.</p>
+
+  <p> <a
   href="https://unstats.un.org/unsd/publication/seriesm/seriesm_4rev4e.pdf">https://unstats.un.org/unsd/publication/seriesm/seriesm_4rev4e.pdf</a></p>
 
   <p>United Nations. (2008). International Standard Industrial Classification of
-  All Economic Activities (ISIC Revision 3.1). New York : United Nations. <a
+  All Economic Activities (ISIC Revision 3.1). New York : United Nations.</p>
+
+  <p> <a
   href="https://unstats.un.org/unsd/publication/SeriesM/seriesm_4rev3_1e.pdf">https://unstats.un.org/unsd/publication/SeriesM/seriesm_4rev3_1e.pdf</a></p>
 
   <p>United Nations. (2011). International Recommendations for Industrial
   Statistics 2008 (IRIS 2008), New York: United Nations. <a
   href="http://dx.doi.org/10.18356/677c08dd-en">http://dx.doi.org/10.18356/677c08dd-en</a></p>
 
-  <p>World Bank Enterprise Surveys. 2019. Methodology. <a
+  <p>World Bank Enterprise Surveys. 2020. Methodology. <a
   href="http://www.enterprisesurveys.org/methodology">http://www.enterprisesurveys.org/methodology</a></p>

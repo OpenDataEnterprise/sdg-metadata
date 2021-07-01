@@ -1,0 +1,195 @@
+SDG_INDICATOR_INFO: ''
+SDG_GOAL: >-
+  <p>Goal 17: Strengthen the means of implementation and revitalize the Global
+  Partnership for Sustainable Development</p>
+SDG_TARGET: >-
+  <p>Target 17.19: By 2030, build on existing initiatives to develop
+  measurements of progress on sustainable development that complement gross
+  domestic product, and support statistical capacity-building in developing
+  countries</p>
+SDG_INDICATOR: >-
+  <p>Indicator 17.19.2: Proportion of countries that (a) have conducted at least
+  one population and housing census in the last 10 years; and (b) have achieved
+  100 per cent birth registration and 80 per cent death registration</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: <p>March 2021</p>
+SDG_RELATED_INDICATORS: ''
+SDG_CUSTODIAN_AGENCIES: >-
+  <p>United Nations Statistics Division (UNSD), Department of Economic and
+  Social Affairs, United Nations</p>
+CONTACT: ''
+CONTACT_ORGANISATION: >-
+  <p>United Nations Statistics Division (UNSD), Department of Economic and
+  Social Affairs, United Nations</p>
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  <p>Definition:</p>
+
+  <p>This information refers only to 17.19.02b: Proportion of countries that
+  have achieved 100 per cent birth registration and 80 per cent death
+  registration</p>
+
+  <p>According to the Principles and Recommendations for a Vital Statistics
+  System, Revision 3
+  (https://unstats.un.org/unsd/demographic/standmeth/principles/M19Rev3en.pdf),
+  a complete civil registration is defined as: &#x201C;The registration in the
+  civil registration system of every vital event that has occurred to the
+  members of the population of a particular country (or area), within a
+  specified period as a result of which every such event has a vital
+  registration record and the system has attained 100 per cent
+  coverage.&#x201D;</p>
+
+  <p>In a given country or area, the level of completeness of birth registration
+  can be different from the level of completeness of death registration. </p>
+
+  <p>There exist several methods for the evaluation of completeness of birth or
+  death registration systems. </p>
+
+  <p>An elaboration of these methods is available at Principles and
+  Recommendations for a Vital Statistics System, Revision 3. The evaluation and
+  monitoring of quality and completeness of birth and death registration systems
+  are addressed in Part three, sub-Chapters: D. Quality assessment methods; E.
+  Direct versus indirect assessment, and F. Choosing appropriate methods for
+  assessing completeness and qualitative accuracy of registration and
+  register-based vital statistics (para 579 to 622).</p>
+
+  <p>Indicator 17.19.02b has two parts; the first concerning the birth
+  registration and the second concerning the death registration of each
+  individual country or area. </p>
+UNIT_MEASURE: ''
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: ''
+COLL_METHOD: >-
+  <p>The national level of completeness of birth and death registration is
+  provided by the National Statistical Offices of all countries and areas to the
+  United Nations Statistics Division as part of the annual data collection for
+  the United Nations Demographic Yearbook. This information is usually reported
+  as part of the metadata worksheets of the Vital Statistics questionnaire. The
+  template of this questionnaire is available at:
+  https://unstats.un.org/unsd/demographic-social/products/dyb/index.cshtml#questionnaires
+  </p>
+FREQ_COLL: <p>The first quarter of each year</p>
+REL_CAL_POLICY: <p>Annually</p>
+DATA_SOURCE: <p>National Statistical Offices of all countries and areas.</p>
+COMPILING_ORG: >-
+  <p>United Nations Statistics Division, Department of Economic and Social
+  Affairs, United Nations</p>
+INST_MANDATE: ''
+OTHER_METHOD: ''
+RATIONALE: >-
+  <p>The introduction of indicator 17.19.02b as part of the SDG global framework
+  reflects the recognition of the fundamental role of the civil registration
+  system to the functioning of societies, and the legal and protective
+  advantages that it offers to individuals. The essential purpose of civil
+  registration system is to furnish legal documents of direct interest to
+  individuals. Aside from the direct and overarching importance of civil
+  registration to the public authorities, in that the information compiled using
+  the registration method provides essential data for national and regional
+  preparation and planning for medical and health-care programmes, the role
+  played by civil registration in proving, establishing, implementing and
+  realizing many of the human rights embodied in international declarations and
+  conventions reflects one of its most important contributions to the normal
+  functioning of societies.</p>
+REC_USE_LIM: ''
+DATA_COMP: >-
+  <p>The two sub-indicators of the indicator 17.19.02b are expressed as
+  proportions: at the global level, the proportion of countries that have
+  achieved 100 per cent birth registration is measured as the number of
+  countries that have achieved 100 per cent birth registration divided by the
+  total number of countries. The computation is done in an analogous manner for
+  the death registration part as well as for the regional measurements of both
+  birth and death registration sub-indicators. </p>
+
+  <p>The latest compiled data for this indicator are part of the Statistical
+  Annex to the annual SG&#x2019;s progress report, available at
+  https://unstats.un.org/sdgs. These data are compiled using the
+  country-reported information on availability and completeness of birth and
+  death registration data at the country level, to the United Nations
+  Demographic Yearbook, via the Demographic Yearbook Vital Statistics
+  questionnaire and accompanying metadata. United Nations Demographic Yearbook
+  collection and associated online compilations are published by the United
+  Nations Statistics Division of the Department of Economic and Social Affairs.
+  Please refer to:
+  https://unstats.un.org/unsd/demographic-social/products/dyb/index.cshtml#overview</p>
+
+  <p>At the present time, the thresholds used for compiling the data for the
+  indicator 17.19.02b are 90 per cent for birth registration and 75 per cent for
+  death registration, due to the classification that has been used in the
+  Demographic Yearbook metadata questionnaire on vital statistics. This
+  classification is modified to enable reporting according to the exact
+  formulation of the indicator 17.19.02b.</p>
+DATA_VALIDATION: ''
+ADJUSTMENT: ''
+IMPUTATION: >-
+  <p>&#x2022; At country level</p>
+
+  <p>No attempts are made to provide estimates of completeness of birth and
+  death registration, when such information is not reported via the United
+  Nations Demographic Yearbook data collection.</p>
+
+  <p>&#x2022; At regional and global levels</p>
+
+  <p>Not applicable</p>
+REG_AGG: >-
+  <p>The regional values of this indicator are compiled as follows:</p>
+
+  <p>17.19.2 (b.1) Number and proportion of countries with birth registration
+  data that are at least 90 per cent complete: The number of countries or areas
+  on each of the listed regions with birth registration data that are at least
+  90 per cent complete, and the proportion of such countries or areas to the
+  total number of countries or areas in the respective region.</p>
+
+  <p>17.19.2 (b.2) Number and proportion of countries with death registration
+  data that are at least 75 per cent complete: The number of countries or areas
+  on each of the listed regions with death registration data that are at least
+  75 per cent complete, and the proportion of such countries or areas to the
+  total number of countries or areas in the respective region.</p>
+DOC_METHOD: >-
+  <p><em>Principles and Recommendations for a Vital Statistics System, Revision
+  3 , </em>United Nations, New York, 2014 <a
+  href="https://unstats.un.org/unsd/demographic/standmeth/principles/M19Rev3en.pdf">https://unstats.un.org/unsd/demographic/standmeth/principles/M19Rev3en.pdf</a></p>
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: >-
+  <p>Principles and Recommendations for a Vital Statistics System, Revision 3,
+  Part three, I, &#x201C;Quality assurance and assessment of civil registration
+  and register based vital statistics&#x201D; </p>
+
+  <p>Follow up with National Statistical Offices as part of the annual United
+  Nations Demographic Yearbook data collection, validation and processing.</p>
+QUALITY_ASSMNT: ''
+COVERAGE: >-
+  <p>Data availability:</p>
+
+  <p>For the current availability please refer to the Statistical Annex
+  SG&#x2019;s progress reports, available at https://unstats.un.org/sdgs.</p>
+
+  <p>Time series:</p>
+
+  <p>Disaggregation:</p>
+
+  <p>By their definition, the sub-indicators of the indicator 17.19.02b refer to
+  the national levels of completeness of birth and death registration. </p>
+
+  <p>However, knowledge of the birth and death registration completeness at
+  sub-national administrative areas, as well as by income, sex, age group,
+  disability status, etc. is very important for monitoring and improving the
+  functioning of birth and death registration systems.</p>
+COMPARABILITY: |-
+  <p>Sources of discrepancies:</p>
+  <p>Not applicable since the information is derived from country reporting.</p>
+OTHER_DOC: >-
+  <p>Principles and Recommendations for a Vital Statistics System, Revision 3,
+  United Nations, New York, 2014
+  https://unstats.un.org/unsd/demographic/standmeth/principles/M19Rev3en.pdf</p>
+
+  <p>United Nation Demographic Yearbook, United Nations, New York, annual</p>
+
+  <p>https://unstats.un.org/unsd/demographic-social/products/dyb/index.cshtml
+  </p>

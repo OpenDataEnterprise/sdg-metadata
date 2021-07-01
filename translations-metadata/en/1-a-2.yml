@@ -1,0 +1,165 @@
+SDG_INDICATOR_INFO: ''
+SDG_GOAL: '<p>Goal 1: End poverty in all its forms everywhere</p>'
+SDG_TARGET: >-
+  <p>Target 1.a: Ensure significant mobilization of resources from a variety of
+  sources, including through enhanced development cooperation, in order to
+  provide adequate and predictable means for developing countries, in particular
+  least developed countries, to implement programmes and policies to end poverty
+  in all its dimensions</p>
+SDG_INDICATOR: >-
+  <p>Indicator 1.a.2: Proportion of total government spending on essential
+  services (education, health and social protection)</p>
+
+  <p>This document applies to the education component of indicator 1.a.2.</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: <p>26 February 2020</p>
+SDG_RELATED_INDICATORS: '<p>4.5.3, 4.5.4, 4.5.5, 4.a.1, 4.b.1, 4.b.2</p>'
+SDG_CUSTODIAN_AGENCIES: <p>UNESCO Institute for Statistics (UNESCO-UIS)</p>
+CONTACT: ''
+CONTACT_ORGANISATION: <p>UNESCO Institute for Statistics (UNESCO-UIS)</p>
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  <p><strong>Definition:</strong></p>
+
+  <p>Total general (local, regional and central) government expenditure on
+  education (current, capital, and transfers), expressed as a percentage of
+  total general government expenditure on all sectors (including health,
+  education, social services, etc.). It includes expenditure funded by transfers
+  from international sources to the government.</p>
+
+  <p><strong>Concepts:</strong></p>
+
+  <p>Government expenditure on education covers educational expenditure by all
+  levels of government (local, regional, central) on the formal education
+  system, from early childhood to tertiary education, in both public and private
+  instructional and non-instructional institutions within the borders of a
+  country.</p>
+
+  <p>Expenditure on education includes expenditure on core educational goods and
+  services, such as teaching staff, school buildings, or school books and
+  teaching materials, and peripheral educational goods and services such as
+  ancillary services, general administration and other activities.</p>
+UNIT_MEASURE: ''
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  <p>Annual financial reports by national Ministries of Finance or Ministries of
+  Education, or national accounts reports by National Statistical Offices.</p>
+COLL_METHOD: >-
+  <p>Data on education expenditure are submitted by country governments in
+  response to the annual UIS survey on formal education or to the
+  UNESCO-OECD-Eurostat (UOE) data collection. </p>
+
+  <p>Data on total general government expenditure (all sectors) are obtained
+  from the International Monetary Fund&apos;s World Economic Outlook database
+  and are updated once a year. </p>
+FREQ_COLL: >-
+  <p>Annual UIS survey (latest launched in October 2019) and UOE survey (latest
+  launched in June 2019).</p>
+REL_CAL_POLICY: <p>Biannual UIS data release (February and September).</p>
+DATA_SOURCE: >-
+  <p>Ministries of Finance, Ministries of Education, National Statistical
+  Offices.</p>
+COMPILING_ORG: >-
+  <p>UNESCO Institute for Statistics, OECD, Eurostat, International Monetary
+  Fund</p>
+INST_MANDATE: ''
+OTHER_METHOD: ''
+RATIONALE: >-
+  <p>The indicator is used to assess a government&apos;s emphasis on education
+  relative to its investments in other sectors. The indicator shows how much of
+  a priority education is for a given government, over time or in comparison
+  with other countries.</p>
+REC_USE_LIM: >-
+  <p>A high proportion of government expenditure on education demonstrates a
+  high government priority for education relative to other public investments.
+  When interpreting this indicator one should keep in mind that some governments
+  have more (or fewer) financial resources and therefore larger (or smaller)
+  overall budgets, and that countries with younger populations may spend more on
+  education relative to other sectors such as health or social security, and
+  vice-versa. The Education 2030 Framework for Action has endorsed a benchmark
+  for this indicator, which encourages countries to allocate at least 15% to 20%
+  of their public expenditure to education.</p>
+
+  <p>In some instances data on total public expenditure on education refer only
+  to the Ministry of Education, excluding other ministries may also spend a part
+  of their budget on educational activities. Although the IMF aims to publish
+  data on total general government expenditure following common definitions
+  based on the Government Finance Statistics Manual, in practice this concept
+  (and what it includes) may differ between countries.</p>
+DATA_COMP: >-
+  <p>Total government expenditure for a given level of education (e.g. primary,
+  secondary, or all levels combined) is expressed as a percentage of total
+  general government expenditure (all sectors).</p>
+
+  <p><img
+  src="data:image/png;base64,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"></p>
+
+  <p><img
+  src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFQAAAAtCAIAAAC/JNufAAAAAXNSR0IArs4c6QAABNpJREFUaEPtmEsobV8cx//33x3JkCHJAMkEQ4+Z90ApA6UojzJAoiSPASEDAylKGShloMhAiZnHzGMiYSAxw9jU/dz7q1+rvfda55zdcbvnnL0Gp7PX/q21ft/f9/da+8fX19d/mTr+z1Tgv3FH4DOV/Yj5iPkMtEDk9hlI+h/IEfMR8xlogYx2+x+Oi01XV9fHx4ffI0pKSsrLyxsaGnJzc823o6Oj9/f3OtPa2trf38/j6enp0tKSzldUVMzNzcnj3t7e5uam2+k4bnl5+Tsc0wX+/f19Zmbm5eUlKytrd3dXjj86Ojo4OGAyPz9/fX3do5PiV+QisLKycnx8zJ/q6ure3l7Taoq/o6Ojs7NTN+T0sbExrO/ZKolWcLk9KgKbw7C9HtnY2DgyMsIj+NHbo0pVVZXMmEtUBuQTExMef8nJyRGB0tJSczfEZLfArZJighgx//n5yTHFxcXmYUVFRfLoD4q2tjaxlyyUcX19De14Cpw7lCYcPG/FLrW1tUmB6t8kBnjoZQ16x3+8YLi5uZEleO/i4iIwZmdnPZyLgKSJQHox5eHhYfxHJyrpAk+iku08tgePzKvHmqeSCIVtESNr8Ds8PByInFcPDw+J2jdRkDZ5F3gbJ/v7+7JdTU2Nf1+Yxyi4/dnZGZzjO4ODg36X1oXiXGZkYfSWlhY1cbKg+vdxgQ/kBEpPTk7YiCRsI1OgUhTOz897enocQctukh0KCwtFOWZWV1cJNNvmSbSFC7yHE9Ta2NiATNStr6+XGh44mpqamCcdIkbcOtR9fn6Wt1QQ2GZMT0+z//dleFMZK3jlBB5UrYuLC1gdHx8nhh2Qbm9v4+RHnIs9SWwy8BRPFMS5VQgxK3jhhOhVtfiztbVFoXbXHrogmjahDgu6dZK0Yga8JNHKysoQYBJdYgUfLgmDFuQwSUNKwcfzsYVNJ1KadApmKcWyWPkvBDznWsH7OYlpV8DQxkLd0NCQODO/WvD9y6+urmTy+9qY9vZ2VLJpHgw+kJOY4Cnp5Kq+vj7hjcuPeL6taIXooGLqYApsb2+jj6c9jZ3wQnAiJZ10pSWdWwCeLwU/UGlHZFFWIE1XySNDkog8koZtrNIpcMXa2dlBWBO2PwEFM+/w1UAYaENJ594CYFNAgpkaEbjKFlnSSmi1w6wYcW1tDTteXl4CmFfcMtlcbor+QRxJ0kFGE7a/0QoAz9lqpMfHx5iext2OfgYxv4NJAwNI7ZR1N70RFhQUmEcgCTwWStQwqC9cdV9fX/mPUWgrJUfIDco2pFS7+4WfnsWeDw/0HlR1R0LSizr7YAKQqIEHBgYkqsX3srOz9RWeIm0ig64mEEBZWZk5L6W3rq5ON2HzwMuFrLq7u+PXEfC/hfiSkxJjYWGhubmZZCTa8odHJm3KT01NIfD29uZAlzLf8Igd/FxpJ/jdxCKPX7j7hdQAT+qhHTIDWCqFhIa/lDJDwGtQ2DJXaoB/enoCZF5enic78E2JWiBXbPKI5yIMfqxAFpufnw/EnxrghWeTefm8x/dlLGLeL6Uo4O1cKMmI3d3dZNbJyUn99Gaaz/X11lZF/s15qSD6lTkeJVOD+XiQ0JhRCOORVJk0AU9g08w5vq8EGiV93D4hzkU4TZgPgTwCH85oabEqcvu0oDEEiF+iblE+r1FqWgAAAABJRU5ErkJggg==">=
+  expenditure on education level <em>n</em> as a percentage of total government
+  expenditure in financial year <em>t</em></p>
+
+  <p><img
+  src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAAAuCAIAAAAEIshXAAAAAXNSR0IArs4c6QAABD1JREFUaEPtmDssLUEYx69b6gQlhcKrQ6Lx6CjoJAqJhIQQhYiQIB6NiCgkaCQeCYlEISEK8WrEo0MlgpISrdb9yZdMJruzs3Nce8/ek51ic3Z29tv///t/j5mT9fn5+SsTx+9MJPXFKSH2vymbKJYoFhMPJKEYEyGcYSSKObsqJgsTxWIihDOMRDFnV8VkYcYqlmU/jx0dHa2vr398fCgdDg4O5PfQ0NDDw4Oan56erqyslNuOjo63tze7dCMjI/X19dHJG0KMD5+fn8/NzfEjLy9vfHy8uLhY0Ly+vnZ2dvIjOzu7v79fR8mjqamp5+dnHu3s7Ojot7a2tre3mVEOiohbeCiCGEpCTLFSaIA+Njbm8X1+fj7zrCktLfXgbm9vN87/OL1wYnyyoaGBqx6Q3C4tLXFta2tTEegHV1BQ4J/EQSUlJT/OxGPQiVh1dTWvEVpPT0/y/srKyu3tLaxaWlqMECX9/Ioxubm52dPTEwtiRKDIcnZ2xpWKsr+/X1tbK3HlH6SlTJaVlUVNIMi+k2K8XFFRwfXq6gqhqJNIQWoFGUVbHhUWFpJsag1VdHFx8Z/xdCVWV1cHJoo44EiS0dFRC8THx0chptbMzs4SnP8gtdQXw8u9Du7y8pJyNzMz4y+POs+gPraxsaFrGKl6rorRmiTAqI05OTkWTBQY6c60bJqVDET2RGakrDDuSoyGC1yJrouLCwusu7s7niKs3gYgZqyQ0dFzIkaGIBfVoqamBiinp6cWQC8vL54E43Z+fn5gYCA6Gn7L4cTYBJFaXV1dKOBvaH6L0sGiqxPgaW5uJjXsbgohRstia0fLkkZMzZBolIZmHKrWR6EPfIgXl3S1EZOWhRW9ZUk00tCMuFVrLioq8iwAU2trK/6WeYzT2fA9ca7fUlF5ZDTOyuHhYVId3/EiY3JyMsh9gcTAgSFq4ODgoP6yKIZ1xUF/KnFo3C6vra1hrby8nAVUztXV1d7e3sbGRuIcJhQkeiOnBCxfX18b4eJf2bWyTIothTc1YnLuAIcfotoKs6vyGxUl9dbMLdZo6xDAmpRKQnp5eZmrNIbj42NKizoTWGJYWn9VVVVonBsUw38oLqkiWw1lZXd3l+CUW8SRKJKBCH19fQIUCxIqMji2nZycMO+v+HJm6+7uFiPyUTklGQcfdUmwr3c5Qadr4P6mpqaJiQkFgN/MMG+EdHNzw9OFhQUXwOHlPlT0by+QVq43BqQ25qd84v7+nqvxjOfHkE5ikjBSThhSjSRcjW3q/f1dD1R1ODR6Np3EJKM8B/Dc3FxJcuFGSyB1deiksVTsw8NDS7CkjZjsqvVywqmUwkCx3dvb418jdQ5Qf3hxdCJQqV7QJiDte7QUji3fzqW/eRHFKJuWfhVkPG2KubBFVeq7NOVUR6wV4y8jYi/o/yI71VgTS1UlfX2sQzEhZvBAxir2B5dCupHKJcAbAAAAAElFTkSuQmCC">=
+  total general government expenditure on education level <em>n</em> in
+  financial year <em>t</em></p>
+
+  <p><img
+  src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEMAAAAnCAIAAADbzWJoAAAAAXNSR0IArs4c6QAAA/NJREFUWEftmD8o7lEYx687mikLmZAsKBM2lLspg1CKlIVESbEoodwkg1LKoAxKGe7CIn9WNv8GA4swW93P9a2nX+e8v/MexEXvGd7Oec5zzvN8n7/n9+Y9PT39+Bbj57dA8Q9EDsnnc2XOJzmfvJ8FctH1frZ97c3fxyd5To8/Pj6enJyMsUtzc/PQ0JA4Ly8vh4eH/VP5+fkVFRXV1dVtbW3JXfinp6cfHh6MODY21tjYyHJlZWV7e9voHR0dXV1dMfq4Pjk9PeVYSUnJwsLCn+eBKlDQW0vo6AeluLjYBJSVlUHXsqamRpxra2vocX5+vrq6uri4mNQG/vn5ed3DMBjM+/v7kS56PAyYXSQXFxcImJqaQpiuQ5Wk3tAlqbS01FFOy/Lyck0KCwtxBdow39nZwQ9JfnbBLIq84Yze3t5Ib+igiwS9m5qaEKPt/f19TaqqqpKSQGt6iH5/f69JZWVlkrOgoEDL29tbR9eWlhbnLMv19fXr6+v6+nonID2kLsFFsrm5iX+Ni0uZo7e5SFsWAMZ5dnamuYMwoAGcwnlwcCA2DLexsQF9fHw8q+oOQ5baRbBxQKli4/fzcC5SEDqcUB4fH8VZVFTkK4f/IR4dHfFL+C0tLWGjwcHBl8KAPwsS+SSZ3GkyhNmSxNh2d3eZo5/jVTHU1dXxixWomaoZpKjF9ovwhJBgJBVK39K+DPnEibqtrS3Rlff+sPpBcUMWQfU6GFl8cnV1JdkZa0tSLSyqZW1trSZE/MzMDPWXHKMKBW5QgAEDtvgc840S8okCxk9u/xZ1IUZPT8+v5zE3N0dk0oXogOEqJClvHyEkSpKY0Lq5uYGT0qmeqLG8vMwjIGN6mN4E1eHhoUScnJy8BU8IidMTA2LiOZOXkEV0TFKos7MTOpCsKb0CUiqStJ7oy7DC4PTEsDakFlmEG2nkfmPxz7a3tztPHocnFUlaT/RlWGGIz1fAUw/IwL6+Pl2os2os/qDx05f8Ep/kTEUSn+4Zu2fAIYSQWgfPZ6u5DQ0NUIhS53lGaIyMjND42aVvqpxYqYxCotAPm0EXZbw3gGR2dhaHkx7JYmD+3NvbS56lfPOeoJTjQKslGZ2f2Sd8JOiVgb3DWUjWqnvCH5OvBJVs5DxJ7SxvAuceLMXlWUtoBiQIs28dpNIi0gwMYLJWu5g5wCmegYEBCpTm9j0jr46OjoqO0jYXRc0qe3TwzfjJx8TERGtr693dXVjPL/AdT1zw+M/6HvvsSMgZ4s0+15zKlgz7z47EkgdIVGRecWlg3P9WAtXzf23R2nnUIJ3i293dnfaQ+wJIIi34NaIrBkwOSYyVPpYn55OPtXeMtL+gHKAxsD80QgAAAABJRU5ErkJggg==">=
+  total government expenditure in financial year <em>t</em></p>
+DATA_VALIDATION: ''
+ADJUSTMENT: ''
+IMPUTATION: |-
+  <p>&#x2022; At country level</p>
+  <p>None by data compiler.</p>
+  <p>&#x2022; At regional and global levels</p>
+  <p>None by data compiler.</p>
+REG_AGG: >-
+  <p>Regional and global aggregates are not currently available for this
+  indicator.</p>
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: |-
+  <p>Data availability:</p>
+  <p>156 countries with at least one data point for the period 2010-2019.</p>
+  <p>Time series:</p>
+  <p>1980-2019 in UIS database; 2000-2019 in the SDG Global database.</p>
+  <p>Disaggregation:</p>
+  <p>By level of education.</p>
+COMPARABILITY: ''
+OTHER_DOC: >-
+  <p><strong>URL:</strong></p>
+
+  <p><a href="http://uis.unesco.org">http://uis.unesco.org</a></p>
+
+  <p><strong>References:</strong></p>
+
+  <p>UIS Instructional Manual: Survey of Formal Education </p>
+
+  <p><a
+  href="http://uis.unesco.org/sites/default/files/documents/instruction-manual-survey-formal-education-2017-en.pdf">http://uis.unesco.org/sites/default/files/documents/instruction-manual-survey-formal-education-2017-en.pdf</a></p>
+
+  <p>UOE data collection on formal education: Manual on concepts, definitions
+  and classifications</p>
+
+  <p><a
+  href="http://uis.unesco.org/sites/default/files/documents/uoe-data-collection-manual-2019-en.pdf">http://uis.unesco.org/sites/default/files/documents/uoe-data-collection-manual-2019-en.pdf</a></p>
+
+  <p>UIS Questionnaire on Educational Expenditure (ISCED 0-8)</p>
+
+  <p><a
+  href="http://uis.unesco.org/en/uis-questionnaires">http://uis.unesco.org/en/uis-questionnaires</a></p>
+
+  <p>IMF World Economic Outlook</p>
+
+  <p><a
+  href="https://www.imf.org/en/Publications/WEO">https://www.imf.org/en/Publications/WEO</a></p>

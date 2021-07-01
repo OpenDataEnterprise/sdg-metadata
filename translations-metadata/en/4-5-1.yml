@@ -1,3 +1,4 @@
+SDG_INDICATOR_INFO: ''
 SDG_GOAL: >-
   <p>Goal 4: Ensure inclusive and equitable quality education and promote
   lifelong learning opportunities for all</p>
@@ -11,69 +12,54 @@ SDG_INDICATOR: >-
   wealth quintile and others such as disability status, indigenous peoples and
   conflict-affected, as data become available) for all education indicators on
   this list that can be disaggregated</p>
-META_LAST_UPDATE: '<p>Last updated: 19 July 2016</p>'
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: <p>19 July 2016</p>
 SDG_RELATED_INDICATORS: >-
-  <h1>Related indicators</h1>
-
   <p>All equity targets and targets associated with the underlying
   indicators.</p>
-SDG_CUSTODIAN_AGENCIES: |-
-  <h1>Institutional information</h1>
-  <h2><strong><strong>Organization(s):</strong></strong></h2>
-  <p>UNESCO Institute for Statistics (UNESCO-UIS)</p>
+SDG_CUSTODIAN_AGENCIES: <p>UNESCO Institute for Statistics (UNESCO-UIS)</p>
+CONTACT: ''
+CONTACT_ORGANISATION: <p>UNESCO Institute for Statistics (UNESCO-UIS)</p>
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <h1>Concepts and definitions</h1>
-
-  <h2><strong><strong>Definition:</strong></strong></h2>
+  <p>Definition:</p>
 
   <p>Parity indices require data for the specific groups of interest. They
   represent the ratio of the indicator value for one group to that of the other.
   Typically, the likely more disadvantaged group is placed in the numerator. A
   value of exactly 1 indicates parity between the two groups.</p>
 
-  <h2><strong><strong>Concepts:</strong></strong></h2>
+  <p>Concepts:</p>
 
   <p>See metadata for relevant underlying indicator.</p>
+UNIT_MEASURE: ''
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <h1>Data sources</h1>
-
-  <h2><strong><strong>Description:</strong></strong></h2>
-
   <p>The sources are the same as for the underlying indicators for this
   goal.</p>
-COLL_METHOD: |-
-  <h2><strong><strong>Collection process:</strong></strong></h2>
-  <p>The same as the underlying indicator.</p>
-FREQ_COLL: |-
-  <h1>Calendar</h1>
-  <h2><strong><strong>Data collection:</strong></strong></h2>
-  <p>Depends on underlying indicator. </p>
-REL_CAL_POLICY: |-
-  <h2><strong><strong>Data release:</strong></strong></h2>
-  <p>Depends on underlying indicator. </p>
-DATA_SOURCE: |-
-  <h1>Data providers</h1>
-  <p>The same as the underlying indicator.</p>
-COMPILING_ORG: |-
-  <h1>Data compilers</h1>
-  <p>UNESCO Institute for Statistics</p>
+COLL_METHOD: <p>The same as the underlying indicator. </p>
+FREQ_COLL: <p>Depends on underlying indicator.</p>
+REL_CAL_POLICY: <p>Depends on underlying indicator.</p>
+DATA_SOURCE: <p>The same as the underlying indicator.</p>
+COMPILING_ORG: <p>UNESCO Institute for Statistics</p>
+INST_MANDATE: ''
+OTHER_METHOD: ''
 RATIONALE: >-
-  <h2><strong><strong>Rationale:</strong></strong></h2>
-
   <p>To measure the general level of disparity between two sub-populations of
   interest with regard to a given indicator. The further from 1 the parity index
   lies, the greater the disparity between the two groups of interest.</p>
 REC_USE_LIM: >-
-  <h2><strong><strong>Comments and limitations:</strong></strong></h2>
-
   <p>The indicator is not symmetrical about 1 but a simple transformation can
   make it so (by inverting ratios that exceed 1 and subtracting them from 2).
   This will make interpretation easier.</p>
 DATA_COMP: >-
-  <h1>Methodology</h1>
-
-  <h2><strong><strong>Computation method:</strong></strong></h2>
-
   <p>The indicator value of the likely more disadvantaged group is divided by
   the indicator value of the other sub-population of interest. </p>
 
@@ -91,39 +77,32 @@ DATA_COMP: >-
   <p>d = the likely disadvantaged group (e.g. female, poorest, etc.)</p>
 
   <p>a = the likely advantaged group (e.g. male, richest, etc.)</p>
+DATA_VALIDATION: ''
+ADJUSTMENT: ''
 IMPUTATION: |-
-  <h2><strong><strong>Treatment of missing values:</strong></strong></h2>
-  <ul>
-    <li><strong><em>At country level:</em></strong></li>
-  </ul>
+  <p>&#x2022; At country level</p>
   <p>The same as the underlying indicator.</p>
-  <ul>
-    <li><strong><em>At regional and global levels:</em></strong></li>
-  </ul>
+  <p>&#x2022; At regional and global levels</p>
   <p>The same as the underlying indicator.</p>
-REG_AGG: |-
-  <h2><strong><strong>Regional aggregates:</strong></strong></h2>
-  <p>The same as the underlying indicator.</p>
+REG_AGG: <p>The same as the underlying indicator.</p>
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
 COVERAGE: >-
-  <h1>Data availability</h1>
+  <p>Data availability:</p>
 
-  <p>Depends on underlying indicator </p>
+  <p>Depends on underlying indicator</p>
 
-  <h2><strong><strong>Disaggregation:</strong></strong></h2>
+  <p>Disaggregation:</p>
 
   <p>None because the parity indices directly compare two sub-populations of
   interest.</p>
 COMPARABILITY: |-
-  <h2><strong><strong>Sources of discrepancies:</strong></strong></h2>
+  <p>Sources of discrepancies:</p>
   <p>The same as the underlying indicator.</p>
-OTHER_DOC: >-
-  <h1>References</h1>
-
-  <h2><strong><strong>URL:</strong></strong></h2>
-
-  <p><a
-  href="http://www.uis.unesco.org/Pages/default.aspx">http://www.uis.unesco.org/Pages/default.aspx</a></p>
-
-  <h2><strong><strong>References:</strong></strong></h2>
-
+OTHER_DOC: |-
+  <p>URL:</p>
+  <p>http://www.uis.unesco.org/Pages/default.aspx</p>
+  <p>References:</p>
   <p>See references for each underlying indicator.</p>

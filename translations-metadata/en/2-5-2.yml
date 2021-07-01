@@ -1,0 +1,416 @@
+SDG_INDICATOR_INFO: ''
+SDG_GOAL: >-
+  <p>Goal 2: End hunger, achieve food security and improved nutrition and
+  promote sustainable agriculture</p>
+SDG_TARGET: >-
+  <p>Target 2.5: By 2020, maintain the genetic diversity of seeds, cultivated
+  plants and farmed and domesticated animals and their related wild species,
+  including through soundly managed and diversified seed and plant banks at the
+  national, regional and international levels, and promote access to and fair
+  and equitable sharing of benefits arising from the utilization of genetic
+  resources and associated traditional knowledge, as internationally agreed</p>
+SDG_INDICATOR: >-
+  <p>Indicator 2.5.2: Proportion of local breeds classified as being at risk of
+  extinction</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: <p>March 2021</p>
+SDG_RELATED_INDICATORS: <p>This indicator is linked to SDG indicator 2.5.1b.</p>
+SDG_CUSTODIAN_AGENCIES: <p>Food and Agriculture Organization of the United Nations (FAO)</p>
+CONTACT: ''
+CONTACT_ORGANISATION: <p>Food and Agriculture Organization of the United Nations (FAO)</p>
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  <p>Definition: </p>
+
+  <p>The indicator presents the percentage of local livestock breeds among local
+  breeds with known risk status classified as being at risk of extinctions at a
+  certain moment in time, as well as the trends for this percentage.</p>
+
+  <p>Concepts: </p>
+
+  <p>A similar indicator was originally proposed for the Target 15.5, and it
+  serves also as an indicator for the Aichi Target 13 &#x201C;Genetic Diversity
+  of Terrestrial Domesticated Animals&#x201D; under the Convention on Biological
+  Diversity (CBD). It is described on the webpage of the Biodiversity Indicators
+  Partnership (BIP), a network of organizations, which have come together to
+  provide the most up-to date biodiversity information possible for tracking
+  progress towards the Aichi Targets
+  (http://www.bipindicators.net/domesticatedanimals). Further, it is presented
+  in the Global Biodiversity Outlook 4, page 91 (see
+  http://www.cbd.int/gbo/gbo4/publication/gbo4-en-lr.pdf) which is an output of
+  the processes under the CBD.</p>
+UNIT_MEASURE: <p>Proportion of local breeds </p>
+CLASS_SYSTEM: >-
+  <p>International standards and classifications used have been endorsed by the
+  FAO Commission on Genetic Resources for Food and Agriculture and are provided
+  in more detail in: FAO. 2013. In vivo conservation of animal genetic resources
+  (accessible at http://www.fao.org/3/a-i3327e.pdf).</p>
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  <p>DAD-IS is the Domestic Animal Diversity Information System maintained and
+  developed by FAO (http://www.fao.org/dad-is/en/). It provides access to
+  searchable databases of breed-related information and photos and links to
+  other online resources on livestock diversity. It allows to analyze the
+  diversity of livestock breeds on national, regional and global levels
+  including the status of breeds regarding their risk of extinction. DAD-IS
+  currently contains data from 182 countries and 38 species. It contains
+  information on more than 8,800 mammalian and avian breeds, among those about
+  7,700 are considered local (i.e. reported to occur in only one country).</p>
+COLL_METHOD: >-
+  <p>Livestock census on breed level or data derived from national herdbooks or
+  national surveys. </p>
+FREQ_COLL: <p>Data entry into DAD-IS is possible all over the year.</p>
+REL_CAL_POLICY: <p>The indicator is updated in the first quarter of each year.</p>
+DATA_SOURCE: >-
+  <p>The data are provided by the National Coordinators for the Management of
+  Animal Genetic Resources (NCs). The NC is officially nominated by the country
+  (usually by the Ministry of Agriculture). FAO provides the password for
+  entering/updating the country&#x2019;s data within the global data information
+  system DAD-IS directly to the NC, after having received the official
+  nomination letter.</p>
+COMPILING_ORG: <p>FAO</p>
+INST_MANDATE: >-
+  <p>The National Coordinators for Management of Animal Genetic Resources are
+  responsible for the provision of national data the indicator is based on.
+  Their Terms of Reference have been endorsed by the Commission on Genetics
+  Resources for Food and Agriculture and are described in more detail in:
+  <em>Developing the institutional framework for the management of animal
+  genetic resources</em>.</p>
+
+  <p>FAO Animal Production and Health Guidelines. No. 6. Rome. (Accessible at
+  http://www.fao.org/3/ba0054e/ba0054e00.pdf). </p>
+OTHER_METHOD: ''
+RATIONALE: >-
+  <p>The indicator has a direct link to &#x201C;biodiversity&#x201D; as animal
+  or livestock genetic resources represent an integral part of agricultural
+  ecosystems and biodiversity as such. Further there are indirect links to
+  &#x201C;malnutrition&#x201D;: Animal genetic resources for food and
+  agriculture are an essential part of the biological basis for world food
+  security, and contribute to the livelihoods of over a thousand million people.
+  A diverse resource base is critical for human survival and well-being, and a
+  contribution to the eradication of hunger: animal genetic resources are
+  crucial in adapting to changing socio-economic and environmental conditions,
+  including climate change. They are the animal breeder&#x2019;s raw material
+  and amongst the farmer&#x2019;s most essential inputs. They are essential for
+  sustainable agricultural production. </p>
+
+  <p>No increase of the percentage of breeds being at risk or being extinct is
+  directly related to &#x201C;halt the loss of biodiversity&#x201D;.</p>
+REC_USE_LIM: >-
+  <p>Breed-related information remains far from complete. Across the world, when
+  excluding extinct breeds, 65 percent of local breeds are classified as of
+  unknown status because of missing population data or lack of recent updates.
+  </p>
+
+  <p>Generally, data collection should be possible in all countries. Updating of
+  population size data at least each 10 years is needed for the definition of
+  the risk classes.</p>
+DATA_COMP: >-
+  <p>The indicator is based on the data contained in FAO&#x2019;s Global
+  Databank for Animal Genetic Resources DAD-IS (http://dad.fao.org/). Risk
+  classes are defined based on population sizes of breeds reported to DAD-IS.
+  The risk class is considered to be &#x201C;unknown&#x201D; if (i) no
+  population sizes are reported or (ii) the most recent population size reported
+  refers to a year more than 10- years before the year of calculation (10 year
+  cut off point). </p>
+
+  <p> Species are assigned to two groups. The first group comprises species that
+  have high reproductive capacity, such as pigs, rabbits, guinea pigs and avian
+  species, and the second comprises species that</p>
+
+  <p>have low reproductive capacity, i.e. those belonging to the taxonomical
+  families Bovidae,</p>
+
+  <p>Equidae, Camelidae and Cervidae.</p>
+
+  <p>The risk status categories are defined as follows (see also FAO. 2013. In
+  vivo conservation of animal genetic resources. FAO Animal Production and
+  Health Guidelines. No. 14. Rome. Accessible at
+  http://www.fao.org/docrep/018/i3327e/i3327e.pdf.): </p>
+
+  <p><strong><em>Extinct. </em></strong>A breed is categorized as extinct when
+  there are no breeding males or breeding</p>
+
+  <p>females remaining and any cryoconserved genetic material that may be
+  available is insufficient</p>
+
+  <p>for breed reconstitution.</p>
+
+  <p><strong><em>Cryoconserved only. </em></strong>Breeds that have no living
+  male or female animals remaining, but</p>
+
+  <p>for which there is sufficient cryopreserved material to allow for
+  reconstitution of the breed,</p>
+
+  <p>are assigned to the category cryoconserved only. The ability to
+  reconstitute an otherwise extinct</p>
+
+  <p>breed depends on the amount of and type of stored germplasm.
+  Requirements</p>
+
+  <p>differ greatly according to species. Guidance on what constitutes
+  &#x201C;sufficient cryopreserved</p>
+
+  <p>material&#x201D; is provided in the FAO guidelines <em>Cryoconservation of
+  animal genetic resources</em></p>
+
+  <p>(FAO, 2012).</p>
+
+  <p><strong><em>Critical. </em></strong>A breed is categorized as critical
+  if:</p>
+
+  <p><strong>&#x2022; </strong>the total number of breeding females is less than
+  or equal to 100 (300 for species</p>
+
+  <p>with low reproductive capacity); or</p>
+
+  <p><strong>&#x2022; </strong>the overall population size is less than or equal
+  to 80 (240) and the population trend</p>
+
+  <p>is increasing and the proportion of females being bred to males of the same
+  breed</p>
+
+  <p>is greater than 80 percent (i.e. cross-breeding is equal to or less than 20
+  percent); or</p>
+
+  <p><strong>&#x2022; </strong>the overall population size is less than or equal
+  to 120 (360) and the population trend</p>
+
+  <p>is stable or decreasing; or</p>
+
+  <p><strong>&#x2022; </strong>the total number of breeding males is less than
+  or equal to five (i.e. <em>&#x394;F </em>is 3 percent</p>
+
+  <p>or greater).</p>
+
+  <p>If the population trend is unknown, then it is assumed to be stable.</p>
+
+  <p>Breeds for which demographic characteristics suggest a critical risk of
+  extinction, but</p>
+
+  <p>that have active conservation programmes (including cryoconservation) in
+  place, or populations</p>
+
+  <p>that are maintained by commercial companies or research institutions are
+  considered</p>
+
+  <p>to be &#x201C;critical-maintained&#x201D; for reporting purposes.</p>
+
+  <p><strong><em>Endangered. </em></strong>A breed is categorized as endangered
+  if:</p>
+
+  <p><strong>&#x2022; </strong>the total number of breeding females is greater
+  than 100 (300 for species with low</p>
+
+  <p>reproductive capacity) and less than or equal to 1 000 (3 000); or</p>
+
+  <p><strong>&#x2022; </strong>the overall population size is greater than 80
+  (240) and less than 800 (2 400) and</p>
+
+  <p>increasing in size and the percentage of females being bred to males of the
+  same</p>
+
+  <p>breed is above 80 percent; or</p>
+
+  <p><strong>&#x2022; </strong>the overall population size is greater than 120
+  (360) and less than or equal to 1 200</p>
+
+  <p>(3 600) and the trend is stable or decreasing; or</p>
+
+  <p><strong>&#x2022; </strong>the total number of breeding males is less than
+  or equal to 20 and greater than five</p>
+
+  <p>(i.e. <em>&#x394;F </em>is between 1 and 3 percent).</p>
+
+  <p>Once again, if the population trend is unknown, then it is assumed to be
+  stable.</p>
+
+  <p>Endangered breeds will be assigned to the subcategory
+  &#x201C;endangered-maintained&#x201D; if</p>
+
+  <p>active conservation programmes are in place or if their populations are
+  maintained by commercial</p>
+
+  <p>companies or research institutions.</p>
+
+  <p><strong><em>Vulnerable. </em></strong>A breed is categorized as vulnerable
+  if:</p>
+
+  <p><strong>&#x2022; </strong>the total number of breeding females is between 1
+  000 and 2 000 (3 000 and 6 000</p>
+
+  <p>for species with low reproductive capacity); or</p>
+
+  <p><strong>&#x2022; </strong>the overall population size is greater than 800
+  (2 400) and less than or equal to 1 600</p>
+
+  <p>(4 800) and increasing and the percentage of females being bred to males of
+  the</p>
+
+  <p>same breed is greater than 80 percent; or</p>
+
+  <p><strong>&#x2022; </strong>the overall population size is greater than 1 200
+  (3 600) and less than or equal to</p>
+
+  <p>2 400 (7 200) but stable or decreasing; or</p>
+
+  <p><strong>&#x2022; </strong>the total number of breeding males is between 20
+  and 35 (i.e. the <em>&#x394;F </em>is between 0.5</p>
+
+  <p>and 1 percent).</p>
+
+  <p>Unreported population trends are assumed to be stable.</p>
+
+  <p><strong><em>Not at risk. </em></strong>A breed is categorized as not at
+  risk if the population status is known and</p>
+
+  <p>the breed does not fall in the critical or endangered categories (including
+  the respective</p>
+
+  <p>subcategories) or the vulnerable category. </p>
+
+  <p><strong><em>Unknown. </em></strong>This category is self-explanatory and
+  calls for action. A population survey is</p>
+
+  <p>needed; the breed could be critical, endangered or vulnerable.</p>
+
+  <ul>
+    <li>A Breed is considered to be at risk if it has been classified as either critical, critical-maintained, endangered, endangered-maintained or vulnerable. </li>
+  </ul>
+
+  <p>The indicator is calculated as follows:</p>
+
+  <table>
+    <tbody>
+      <tr>
+        <td>
+          <p><strong>Risk status of local breeds</strong></p>
+        </td>
+        <td>
+          <p><strong>Number</strong></p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>At risk</p>
+        </td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>
+          <p>Not at risk</p>
+        </td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>
+          <p>Unknown</p>
+        </td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>
+          <p>All risk classes</p>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p><strong>SDG indicator for country i: </strong></p>
+
+  <p><strong> </strong><img
+  src="data:image/png;base64,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"></p>
+DATA_VALIDATION: >-
+  <p>Consistency of data uploaded for computation of risk status is
+  automatically checked by DAD-IS (e.g. number of females not exceeding total
+  population size)</p>
+ADJUSTMENT: <p>Not applicable.</p>
+IMPUTATION: >-
+  <p>At breed level</p>
+
+  <p>If no population data are provided for a respective year, it is assumed
+  that the risk status remains the same as for the last year for which
+  population data have been reported. In this case the nature of data is
+  considered to be estimated. However, if the most recent reporting refers to a
+  year more than 10- years before, the risk status is considered
+  &#x201C;unknown&#x201D;. </p>
+
+  <p>&#x2022; At country level</p>
+
+  <p>Country information is considered to be missing if 100% percent of a
+  country&#x2019;s local breeds do have risk status &#x201C;unknown&#x201D;. If
+  100% of a country&#x2019;s breed risk status values are estimates (see above),
+  the nature of country data is also considered to be an estimate.</p>
+
+  <p>&#x2022; At regional and global levels</p>
+
+  <p>See aggregation rules under 4.g</p>
+REG_AGG: >-
+  <p>Aggregated SDG indicator Pj for k countries (with at least one local breed
+  with known risk status) in region j with total number of local breeds in k
+  countries: <img
+  src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAAAxCAIAAACeUfohAAAAAXNSR0IArs4c6QAABYJJREFUeF7tmTssrUsUx++5OZUWiYaovDqUHp3nLcSrQEFCvBIkFCSoJOQW4lFIvBJCohCFQgiVR4vSoxChQ03p/M5ZN3Nnf9/e3/ftbe/JlswUO/bsNWut+c+a/1pr/Pj8/PzLjsQj8HfiTVgLvxGwQBuKAwu0BdoQAobM2Ii2QBtCwJAZG9EWaEMIGDLz7SP67Ozsnz9je3vbEGYxmfn2QJeXlw8MDLD3goKCmBAwtOjbAw1Ob29vKSkpRUVFhjCLycyPpHrruLq6mpycDLKRg4MDJTYzMwPWs7Ozr6+vHR0dzKelpW1ubgbRY0wmuSKaqMzLy2PzROjc3Bxo6mNjY6O0tNQNze3tbW5uLvPp6eksZ21LS4sxBAMacgJNQEluaW5u1lWonMNPKysrAbXHINbT08Oq9/f3ra0tx3Jw7OrqAkd9/v7+nnAGXzwcGRnJyspaWlqqrq6OwXRClziBnpqawlfZ6tHRkbJNzpEwqays7O7uTpxPOTk5dXV16IdGwM6NtYOLHx4ekPn3z8DzoaEhziNx7sWsOQx1qMRyfX2t65VQqqmpidlYwIX19fWQLMLr6+vuJYWFhfrk3d0djsEwoExoBzRhXiwM0LhbUVHBVokp3SHmmSTiEu0lISm3B4vu6hha0DPh09OT0HpJSQkOkw8T7V5s+p1AC+VlZGTgvYM9iB3ZkoEBmmJrf3/fGzsyYWZmJpJSR5+fn0M4Sdi8OIGG8riJhK3cUJ091JYMAI2JtrY2PjnstbW1SBaFxOVI4G5qEtgGn6uqqr7upNSaJP/29nY5bKoAagRmFhYWotXvrKNRwWWkJkWRFB67u7t8ilVSpXdfQN7nPHydIN0Fyag4c3x8jLbR0VGysa/aOAqA7OLiItni8fGRw6P5PDk5wW3c6OvrAyJfKJzO0LDoo7e3d3l5WWamp6dra2sPDw/5m2KLvx3Cif768vLS1NSEXbxKtK1I+vf29nBgeHj48vJSZObn55k5PT2NyqUQ6uAYVW7hQHT2eH5+NkbQKhb0rBjHaI1KFZkJeRoidZWBiBnHDYNVoBQPzSFA39zcIJqfny8LyEjwtdQeqvuKysuvC8PRKPHt9BLXRgmscIjaC1BIq6EPzsM9qQv81L+ICr3g5xgvLi7IOZQi3opET3w5mjOm6sCHhoYGjzOTlBjEPYcSOrKdnZ3Ozs5ICUBdcYWJNHHuyy1ZzWOEAO0+FtgDoPEGFcXFxb4R6mvPV4MusLq6ytfBwUHvVcAUbarkbDhCose7x4GXMS0PKTIUk6gZVNGU8tU7Y4dQBxGdmpqq70rYg+tDq2K4tYX1sEu697bLHYI3+IzqCCkBeVQhlr1XCax6/AqT6DHHGfMswaSi3LA6/wdaivyPjw+HnCQBw5lQIo4N+Ibq2NgY7kXLGzyJBGlxBdawCAIXz7MKKwflurH+D2hhK36mbnW0VXJxpPsyM2BGSldcb21tdVukdyWEHe9N+u2WGA873K9U3jtyJy0afZb09/eTpXlKlOVh06NTc1TFoBnhiYkJClVVtzqMSkXPpZZ5ynz9a1QeUgvHUBE7TFDso4Ry29t0cj38EwXcLYoNerCwLajUIYipiw/iZp66IsW+1MTZ2dnelyO5/pUFLYyPj0vt7D3UAx5EQbqmIVbyHiWmozCQguGL/T1Jm7Pnvz+8yTQ2Nkai/uQCmucUx9tsJLgV0HAxObOsrIx3O1Kc3wGF/C5vKQEfXiJpxmGyIoeNHo96P7mAjgomEWaTVPrwDOV28ALUHfVfhNvX828PtO8Ok0Qg6ZJhkuASdzcs0HGHNLxCC7QF2hAChszYiLZAG0LAkBkb0RZoQwgYMmMj2gJtCAFDZmxEW6ANIWDIjI1oC7QhBAyZ+QVsM/g+z8j14QAAAABJRU5ErkJggg=="></p>
+
+  <p><img
+  src="data:image/png;base64,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"></p>
+
+  <p> </p>
+
+  <p>Regional and global results are only reported if more than 50% of the
+  countries within the respective region or globally are not missing</p>
+DOC_METHOD: >-
+  <p>Livestock census on breed level or data derived from national herdbooks or
+  national surveys. </p>
+
+  <p>FAO. 2011. Surveying and monitoring of animal genetic resources. FAO Animal
+  Production and Health Guidelines. No. 7. Rome. (available at
+  http://www.fao.org/docrep/014/ba0055e/ba0055e00.htm)</p>
+QUALITY_MGMNT: >-
+  <p>FAO provides regular training to National Coordinators related to data
+  collection and entering data into the official system, DAD-IS. The indicators
+  itself is automatically calculated in DAD-IS. </p>
+
+  <p>There is an automatic check of data consistency when uploaded into
+  DAD-IS.</p>
+QUALITY_ASSURE: >-
+  <p>Described in section 7 of FAO. 2011. Surveying and monitoring of animal
+  genetic resources. FAO Animal Production and Health Guidelines. No. 7. Rome.
+  (available at http://www.fao.org/docrep/014/ba0055e/ba0055e00.htm) </p>
+
+  <p>The guidelines were presented to and endorsed by the Commission on Genetic
+  Resources for Food and Agriculture at its Thirteenth Regular Session in July
+  2011. </p>
+
+  <p>FAO is responsible for the quality of the internal statistical processes
+  used to compile the published datasets.</p>
+QUALITY_ASSMNT: >-
+  <p>Each second year FAO is organizing a global National Coordinators&#x2019;
+  Workshops to assess and discuss the collection of data the indicator is based
+  on. The indicators itself is automatically calculated in DAD-IS. </p>
+COVERAGE: |-
+  <p>Data availability:</p>
+  <p>Data are public available through DAD-IS (see http://dad.fao.org/).</p>
+  <p>Time series:</p>
+  <p>Disaggregation: </p>
+  <p>Data are available by country.</p>
+COMPARABILITY: |-
+  <p><strong>Sources of discrepancies:</strong></p>
+  <p>NA</p>
+OTHER_DOC: >-
+  <p><strong>URL: </strong></p>
+
+  <p>http://dad.fao.org/ </p>
+
+  <p><strong>References: </strong></p>
+
+  <p>FAO. 2013. In vivo conservation of animal genetic resources.</p>
+
+  <p>FAO Animal Production and Health Guidelines. No. 14. Rome. Accessible at
+  http://www.fao.org/docrep/018/i3327e/i3327e.pdf</p>

@@ -1,3 +1,4 @@
+SDG_INDICATOR_INFO: ''
 SDG_GOAL: >-
   <p>Goal 9: Build resilient infrastructure, promote inclusive and sustainable
   industrialization and foster innovation</p>
@@ -9,32 +10,44 @@ SDG_TARGET: >-
 SDG_INDICATOR: >-
   <p>Indicator 9.2.2: Manufacturing employment as a proportion of total
   employment</p>
-META_LAST_UPDATE: '<p>Last updated: March 2020</p>'
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: <p>January 2021</p>
+SDG_RELATED_INDICATORS: <p>8.2.1</p>
 SDG_CUSTODIAN_AGENCIES: >-
-  <h1>Institutional information</h1>
-
-  <h2>Organization(s):</h2>
-
   <p>United Nations Industrial Development Organization (UNIDO)</p>
 
   <p>(with the collaboration of the International Labour Organization &#x2013;
   ILO)</p>
-STAT_CONC_DEF: >-
-  <h1>Concepts and definitions</h1>
+CONTACT: ''
+CONTACT_ORGANISATION: >-
+  <p>United Nations Industrial Development Organization (UNIDO)</p>
 
-  <h2>Definition:</h2>
+  <p>(with the collaboration of the International Labour Organization &#x2013;
+  ILO)</p>
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  <p>Definitions:</p>
 
   <p>This indicator presents the share of manufacturing employment in total
   employment.</p>
 
-  <h2>Concepts:</h2>
+  <p>Concepts:</p>
 
   <p>Employment comprises all persons of working age who during a short
   reference period (one week), were engaged in any activity to produce goods or
-  provide services for pay or profit. The working-age population is usually
-  defined as all persons aged 15 and above. For further clarification, see:
-  Resolution concerning statistics of work, employment and labour
-  underutilization (2013), available from <a
+  provide services for pay or profit. </p>
+
+  <p>The working-age population is usually defined as all persons aged 15 and
+  above. </p>
+
+  <p>For further clarification, see: Resolution concerning statistics of work,
+  employment and labour underutilization (2013), available from <a
   href="http://ilo.org/global/statistics-and-databases/standards-and-guidelines/resolutions-adopted-by-international-conferences-of-labour-statisticians/WCMS_230304/lang--en/index.htm">http://ilo.org/global/statistics-and-databases/standards-and-guidelines/resolutions-adopted-by-international-conferences-of-labour-statisticians/WCMS_230304/lang--en/index.htm</a>.
   </p>
 
@@ -45,11 +58,19 @@ STAT_CONC_DEF: >-
   Industrial Classification of all Economic Activities (ISIC) revision 4 (2008,
   the latest) or revision 3 (1990). It refers to industries belonging to sector
   C in revision 4 or sector D in revision 3.</p>
+UNIT_MEASURE: <p>Percentage</p>
+CLASS_SYSTEM: >-
+  <p><a
+  href="https://unstats.un.org/unsd/publication/seriesm/seriesm_4rev4e.pdf">International
+  Standard Industrial Classification of all Economic Activities (ISIC) Revision
+  4</a></p>
+
+  <p><a
+  href="https://unstats.un.org/unsd/publication/seriesm/seriesm_4rev3_1e.pdf">International
+  Standard Industrial Classification of all Economic Activities (ISIC) Revision
+  3</a></p>
+SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <h1>Data sources</h1>
-
-  <h2>Description:</h2>
-
   <p>The preferred official national data source for this indicator is a
   household-based labour force survey. </p>
 
@@ -63,54 +84,50 @@ SOURCE_TYPE: >-
   these sources may exclude some types of establishments, establishments of
   certain sizes, some economic activities or some geographical areas.</p>
 COLL_METHOD: >-
-  <h2>Collection process:</h2>
-
-  <p>The ILO Department of Statistics sends out its annual ILOSTAT questionnaire
-  to all relevant agencies within each country (national statistical office,
-  labour ministry, etc.) requesting the latest annual data and any revisions on
-  numerous labour market topics and indicators, including many SDG indicators.
-  Indicator 9.2.2 is calculated from statistics submitted to the ILO via this
-  questionnaire as well as through special agreements with regional and national
-  statistical offices or through ILO processing of microdatasets of national
-  labour force surveys.</p>
+  <p>The ILO Department of Statistics processes national household survey
+  microdatasets in line with internationally-agreed indicator concepts and
+  definitions set forth by the International Conference of Labour Statisticians.
+  For data that could not be obtained through this processing or directly from
+  government websites, the ILO sends out an annual ILOSTAT questionnaire to all
+  relevant agencies within each country (national statistical office, labour
+  ministry, etc.) requesting the latest annual data and any revisions on
+  numerous labour market topics and indicators, including many SDG
+  indicators.</p>
 
   <p>UNIDO employment data are collected using General Industrial Statistics
   Questionnaire which is filled by NSOs and submitted to UNIDO annually. </p>
-FREQ_COLL: >-
-  <h1>Calendar</h1>
-
-  <h2>Data collection:</h2>
-
-  <p>The ILO Department of Statistics sends out its annual ILOSTAT
-  questionnaire, usually in the 2nd quarter, with a view to receiving the
-  requested statistics by the 3rd quarter or the end of the year at the latest.
-  Data received in batch from regional and national statistical offices and data
-  obtained through the processing of microdata sets of national household
-  surveys by the ILO Department of Statistics are continuously updated in
-  ILOSTAT (as they become available).</p>
-REL_CAL_POLICY: >-
-  <h2>Data release:</h2>
-
-  <p>The ILO&#x2019;s online database ILOSTAT is continuously updated to reflect
-  statistics compiled and processed every week. In general, statistics for
-  EUROSTAT and OECD countries are available around the 2nd or 3rd quarter of the
-  year following the year of reference, whereas they are usually available
-  around the 3rd or 4th quarter of the year following the year of reference for
-  the other countries.</p>
+FREQ_COLL: <p>Continuous</p>
+REL_CAL_POLICY: <p>Continuous</p>
 DATA_SOURCE: >-
-  <h1>Data providers</h1>
-
   <p>Mainly national statistical offices, and in some cases labour ministries or
   other related agencies, at the country-level. In some cases, regional or
   international statistical offices can also act as data providers.</p>
 COMPILING_ORG: >-
-  <h1>Data compilers</h1>
-
   <p>United Nations Industrial Development Organization (UNIDO) and
   International Labour Organization (ILO)</p>
-RATIONALE: >-
-  <h2>Rationale:</h2>
+INST_MANDATE: >-
+  <p>The ILO is the UN focal point for labour statistics. It sets international
+  standards for labour statistics through the International Conference of Labour
+  Statisticians. It also compiles and produces labour statistics with the goal
+  of disseminating internationally-comparable datasets, and provides technical
+  assistance and training to ILO member States to support their efforts to
+  produce high quality labour market data.</p>
 
+  <p>UNIDO, as the specialized UN agency on industrial development, has the
+  international mandate for collecting, producing and disseminating
+  internationally comparable industrial statistics. UNIDO&#x2019;s mandate
+  covers (i) the maintenance and updating of international industrial statistics
+  databases; (ii) methodological and analytical products based on statistical
+  research and experience of maintaining internationally comparable statistics;
+  (iii) contributions to the development and implementation of international
+  statistical standards and methodology; and (iv) technical cooperation services
+  to countries in the field of industrial statistics. With the repositioning of
+  UNIDO as the focal agency for inclusive and sustainable industrial development
+  (ISID), its statistical mandate was expanded to cover all dimensions of
+  industrial development, including its inclusiveness and environmental
+  sustainability.</p>
+OTHER_METHOD: ''
+RATIONALE: >-
   <p>This indicator conveys the contribution of manufacturing in total
   employment. It measures the ability of the manufacturing sector to absorb
   surplus labour from agricultural and other traditional sectors. However, in
@@ -118,8 +135,6 @@ RATIONALE: >-
   to reduction in labor in manufacturing as part of cost-cutting measures, to
   promote more capital-intensive industries. </p>
 REC_USE_LIM: >-
-  <h2>Comments and limitations:</h2>
-
   <p>The characteristics of the data source impact the international
   comparability of the data, especially in cases where the coverage of the
   source is less than comprehensive (either in terms of country territory or
@@ -132,18 +147,22 @@ REC_USE_LIM: >-
   also be caused by differences in the definition of employment or the
   working&#x2013;age population. </p>
 DATA_COMP: >-
-  <h1>Methodology</h1>
+  <h2>Computation Method:</h2>
 
-  <h2>Computation method:</h2>
-
-  <p>(Total employment in manufacturing activities/Total employment in all
-  economic activities) x 100</p>
+  <p><img
+  src="data:image/png;base64,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"></p>
+DATA_VALIDATION: >-
+  <p>The ILO engages in annual consultations with member States through the
+  ILOSTAT questionnaire and related Statistics Reporting System (StaRS).
+  National data providers receive a link to the portal where they can review all
+  national SDG data available on ILOSTAT.</p>
+ADJUSTMENT: >-
+  <p>Through the ILO Harmonized Microdata initiative, the ILO strives to produce
+  internationally comparable labour statistics based on the indicator concepts
+  and definitions adopted by the International Conference of Labour
+  Statisticians.</p>
 IMPUTATION: >-
-  <h2>Treatment of missing values:</h2>
-
-  <ul>
-    <li><strong><em>At country level:</em></strong></li>
-  </ul>
+  <p>&#x2022; At country level</p>
 
   <p>Multivariate regression and cross-validation techniques are used to impute
   missing values at the country level. The additional variables used for the
@@ -151,13 +170,11 @@ IMPUTATION: >-
   data. However, the imputed missing country values are only used to calculate
   the global and regional estimates; they are not used for international
   reporting on the SDG indicators by the ILO. For further information on the
-  estimates, please refer to the the ILO modelled estimates methodological
-  overview, available at <a
-  href="https://www.ilo.org/ilostat-files/Documents/TEM.pdf">https://www.ilo.org/ilostat-files/Documents/TEM.pdf</a>.</p>
+  estimates, please refer to the ILO modelled estimates methodological overview,
+  available at
+  https://ilostat.ilo.org/resources/concepts-and-definitions/ilo-modelled-estimates/.</p>
 
-  <ul>
-    <li><strong><em>At regional and global levels:</em></strong></li>
-  </ul>
+  <p>&#x2022; At regional and global levels</p>
 
   <p>The aggregates are derived from the ILO modelled estimates that are used to
   produce global and regional estimates of, amongst others, employment by
@@ -171,40 +188,40 @@ IMPUTATION: >-
   level of aggregation, the ratio between the two is used to compute the share
   for each regional grouping and the global level. Notice that this direct
   aggregation method can be used due to the imputation of missing observations.
-  For further information on the estimates, please refer to the the ILO modelled
-  estimates methodological overview, available at <a
-  href="https://www.ilo.org/ilostat-files/Documents/TEM.pdf">https://www.ilo.org/ilostat-files/Documents/TEM.pdf</a>.</p>
+  For further information on the estimates, please refer to the ILO modelled
+  estimates methodological overview, available at
+  https://ilostat.ilo.org/resources/concepts-and-definitions/ilo-modelled-estimates/.</p>
 REG_AGG: >-
-  <h2>Regional aggregates:</h2>
-
   <p>The global and regional aggregates are calculated after direct summation of
   country values within country groups.</p>
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: >-
+  <p>Data consistency and quality checks are regularly conducted for validation
+  of the data before dissemination in the ILOSTAT database. </p>
+QUALITY_ASSMNT: ''
 COVERAGE: >-
-  <h1>Data availability</h1>
+  <p>Data availability:</p>
 
-  <h2>Description:</h2>
+  <p>Data is available in ILOSTAT for 177 countries and territories.</p>
 
-  <p>Data is available in ILOSTAT for around 170 countries and territories.</p>
+  <p>Time series:</p>
 
-  <h2>Time series:</h2>
-
-  <p>Data for this indicator is available as of 2000 in the UN Global SDG
+  <p>Data for this indicator is available from 2000 in the UN Global SDG
   Database, but longer time series are available in ILOSTAT.</p>
 
-  <h2>Disaggregation:</h2>
+  <p>Disaggregation:</p>
 
   <p>This indicator can be disaggregated by sex, occupation, age, region and
-  others. </p>
+  others.</p>
 COMPARABILITY: >-
-  <h2>Sources of discrepancies:</h2>
+  <p>Sources of discrepancies:</p>
 
   <p>The difference may arise due to: a) discrepancies in data sources; b) ISIC
   Revision used by a country; c) informal employment; d) coverage of data source
   (geographical coverage, economic activities covered, types of establishments
-  covered, etc.); e) working-age population definition.</p>
+  covered, etc.); e) working-age population definition..</p>
 OTHER_DOC: >-
-  <h1>References</h1>
-
   <h2>URL:</h2>
 
   <p><a href="https://ilostat.ilo.org/">https://ilostat.ilo.org/</a></p>
@@ -218,25 +235,11 @@ OTHER_DOC: >-
 
   <h2>References:</h2>
 
-  <p>ILO Guidebook - Decent Work and the Sustainable Development Goals: A
-  Guidebook on SDG Labour Market Indicators (<a
-  href="https://www.ilo.org/stat/Publications/WCMS_647109/lang--en/index.htm">https://www.ilo.org/stat/Publications/WCMS_647109/lang--en/index.htm</a>
-  )</p>
-
-  <p>Decent Work Indicators Manual: <a
-  href="http://www.ilo.org/wcmsp5/groups/public/---dgreports/---stat/documents/publication/wcms_223121.pdf">http://www.ilo.org/wcmsp5/groups/public/---dgreports/---stat/documents/publication/wcms_223121.pdf</a>
-  </p>
-
-  <p>Resolution concerning statistics of work, employment and labour
-  underutilization, adopted by the 19<sup>th</sup> ICLS in 2013: <a
-  href="http://www.ilo.org/global/statistics-and-databases/standards-and-guidelines/resolutions-adoptedby-international-conferences-of-labour-statisticians/WCMS_230304/lang--en/index.htm">http://www.ilo.org/global/statistics-and-databases/standards-and-guidelines/resolutions-adoptedby-international-conferences-of-labour-statisticians/WCMS_230304/lang--en/index.htm</a>
-  </p>
-
-  <p>ILOSTAT database: https://ilostat.ilo.org</p>
-
-  <p>ILOSTAT Metadata &#x2013; Indicator Descriptions (<a
-  href="https://ilostat.ilo.org/resources/methods/description-employment-by-economic-activity/">https://ilostat.ilo.org/resources/methods/description-employment-by-economic-activity/</a>)</p>
-
-  <p>International Standard Industrial Classification of All Economic Activities
-  2008 (<a
-  href="https://unstats.un.org/unsd/publication/seriesm/seriesm_4rev4e.pdf">https://unstats.un.org/unsd/publication/seriesm/seriesm_4rev4e.pdf</a>)</p>
+  <ul>
+    <li>ILO Guidebook - Decent Work and the Sustainable Development Goals: A Guidebook on SDG Labour Market Indicators (<a href="https://www.ilo.org/stat/Publications/WCMS_647109/lang--en/index.htm">https://www.ilo.org/stat/Publications/WCMS_647109/lang--en/index.htm</a> )</li>
+    <li>Decent Work Indicators Manual: <a href="http://www.ilo.org/wcmsp5/groups/public/---dgreports/---stat/documents/publication/wcms_223121.pdf">http://www.ilo.org/wcmsp5/groups/public/---dgreports/---stat/documents/publication/wcms_223121.pdf</a> </li>
+    <li>Resolution concerning statistics of work, employment and labour underutilization, adopted by the 19<sup>th</sup> ICLS in 2013: <a href="http://www.ilo.org/global/statistics-and-databases/standards-and-guidelines/resolutions-adoptedby-international-conferences-of-labour-statisticians/WCMS_230304/lang--en/index.htm">http://www.ilo.org/global/statistics-and-databases/standards-and-guidelines/resolutions-adoptedby-international-conferences-of-labour-statisticians/WCMS_230304/lang--en/index.htm</a> </li>
+    <li>ILOSTAT database: https://ilostat.ilo.org</li>
+    <li>ILOSTAT Metadata &#x2013; Indicator Descriptions (<a href="https://ilostat.ilo.org/resources/methods/description-employment-by-economic-activity/">https://ilostat.ilo.org/resources/methods/description-employment-by-economic-activity/</a>)</li>
+    <li>International Standard Industrial Classification of All Economic Activities 2008 (<a href="https://unstats.un.org/unsd/publication/seriesm/seriesm_4rev4e.pdf">https://unstats.un.org/unsd/publication/seriesm/seriesm_4rev4e.pdf</a>)</li>
+  </ul>

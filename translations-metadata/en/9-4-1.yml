@@ -1,3 +1,4 @@
+SDG_INDICATOR_INFO: ''
 SDG_GOAL: >-
   <p>Goal 9: Build resilient infrastructure, promote inclusive and sustainable
   industrialization and foster innovation</p>
@@ -8,31 +9,50 @@ SDG_TARGET: >-
   all countries taking action in accordance with their respective
   capabilities</p>
 SDG_INDICATOR: '<p>Indicator 9.4.1: CO<sub>2</sub> emission per unit of value added</p>'
-META_LAST_UPDATE: '<p>Last updated: March 2020</p>'
+SDG_SERIES_DESCR: >-
+  <p>Indicator 9.4.1: Carbon dioxide emissions from fuel combustion (millions of
+  tonnes)</p>
+
+  <p>Indicator 9.4.1: Carbon dioxide emissions per unit of GDP PPP (kilogrammes
+  of CO<sub>2</sub> per constant 2017 United States dollars)</p>
+
+  <p>Indicator 9.4.1: Carbon dioxide emissions from manufacturing industries per
+  unit of manufacturing value added (kilogrammes of CO<sub>2</sub> per constant
+  2015 United States dollars) </p>
+META_LAST_UPDATE: <p>February 2021</p>
+SDG_RELATED_INDICATORS: ''
 SDG_CUSTODIAN_AGENCIES: |-
-  <h1>Institutional information</h1>
-  <h2>Organization(s):</h2>
   <p>International Energy Agency (IEA)</p>
   <p>United Nations Industrial Development Organization (UNIDO)</p>
+CONTACT: ''
+CONTACT_ORGANISATION: |-
+  <p>International Energy Agency (IEA)</p>
+  <p>United Nations Industrial Development Organization (UNIDO)</p>
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <h1>Concepts and definitions</h1>
+  <p>Definitions:</p>
 
-  <p><strong>Definition:</strong></p>
-
-  <p>Carbon dioxide (here after, CO<sub>2</sub>) emissions per unit value added
-  is an indicator computed as ratio between CO<sub>2</sub> emissions from fuel
-  combustion and the value added of associated economic activities. The
+  <p>Carbon dioxide (here after, CO<sub>2</sub>) emissions per unit of value
+  added is an indicator computed as ratio between CO<sub>2</sub> emissions from
+  fuel combustion and the value added of associated economic activities. The
   indicator can be computed for the whole economy (total CO<sub>2</sub>
   emissions/GDP) or for specific sectors, notably the manufacturing sector
   (CO<sub>2</sub> emissions from manufacturing industries per manufacturing
   value added (MVA). </p>
 
   <p>CO<sub>2</sub> emissions per unit of GDP are expressed in kilogrammes of
-  CO<sub>2</sub> per USD constant 2010 PPP GDP. CO<sub>2</sub> emissions from
-  manufacturing industries per unit of MVA are measured in kilogrammes of
-  CO<sub>2</sub> equivalent per unit of MVA in constant 2015 USD.</p>
+  CO<sub>2</sub> per unit of purchasing power parity GDP in constant 2017 USD.
+  CO<sub>2</sub> emissions from manufacturing industries per unit of MVA are
+  measured in kilogrammes of CO<sub>2</sub> equivalent per unit of MVA in
+  constant 2015 USD.</p>
 
-  <h2>Concepts:</h2>
+  <p>Concepts:</p>
 
   <p>Total CO<sub>2</sub> emissions for an economy are estimated based on energy
   consumption data for all sectors.</p>
@@ -56,16 +76,16 @@ STAT_CONC_DEF: >-
   </ul>
 
   <p>Energy data are collected at a country level, based on internationally
-  agreed standards (UN International Recommendations on Energy Statistics).
-  CO<sub>2</sub> emissions need to be estimated based on energy data and on
-  internationally agreed methodologies (IPCC Guidelines for GHG inventories).
-  </p>
+  agreed standards (UN International Recommendations on Energy Statistics
+  (IRES)). CO<sub>2</sub> emissions need to be estimated based on energy data
+  and on internationally agreed methodologies (2006 IPCC Guidelines for National
+  GHG Inventories). </p>
 
   <p>The IEA collects national energy data, according to internationally agreed
   energy statistics definitions and estimates CO<sub>2</sub> emissions based on
-  the IPCC Guidelines for GHG inventories Tier 1 methodology, producing
-  internationally comparable CO<sub>2</sub> emissions data for over 150
-  countries and regions.</p>
+  the 2006 IPCC Guidelines for National GHG Inventories&#x2019; Tier 1
+  methodology, producing internationally comparable CO<sub>2</sub> emissions
+  data for over 150 countries and regions.</p>
 
   <p>The gross value added measures the contribution to the economy of each
   individual producer, industry or sector in a country. The gross value added
@@ -83,196 +103,282 @@ STAT_CONC_DEF: >-
   total CO<sub>2</sub> emissions intensity of the economy. MVA is estimated in
   terms of constant prices in USD. The current series are given at constant
   prices of 2015.</p>
+UNIT_MEASURE: >-
+  <p>CO<sub>2</sub> emissions from fuel combustion are reported in millions of
+  tonnes. </p>
+
+  <p>CO<sub>2</sub> emissions per unit of GDP PPP are reported in kilogrammes of
+  CO<sub>2</sub> per constant 2017 United States dollars. </p>
+
+  <p>CO<sub>2</sub> emissions from manufacturing industries per unit of MVA are
+  reported in kilogrammes of CO<sub>2</sub> per constant 2015 United States
+  dollars.</p>
+CLASS_SYSTEM: >-
+  <p><a href="https://unstats.un.org/unsd/energy/ires/">UN International
+  Recommendations for Energy Statistics</a> (IRES)</p>
+
+  <p><a href="http://www.ipcc-nggip.iges.or.jp/public/2006gl/">2006 IPCC
+  Guidelines for National Greenhouse Gas Inventories</a></p>
+
+  <p><a
+  href="https://unstats.un.org/unsd/publication/seriesm/seriesm_4rev4e.pdf">International
+  Standard Industrial Classification of all Economic Activities (ISIC) Revision
+  4</a></p>
+
+  <p><a
+  href="https://unstats.un.org/unsd/publication/seriesm/seriesm_4rev3_1e.pdf">International
+  Standard Industrial Classification of all Economic Activities (ISIC) Revision
+  3</a></p>
+SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <h1>Data sources</h1>
-
-  <h2>Description:</h2>
-
   <p>Data on total CO<sub>2</sub> emissions from fuel combustion, also
   disaggregated by sector, are taken from the International Energy Agency (IEA)
-  database (IEA CO<sub>2</sub> Emissions from Fuel Combustion: <a
-  href="https://www.iea.org/reports/co2-emissions-from-fuel-combustion-2019">https://www.iea.org/reports/co2-emissions-from-fuel-combustion-2019</a>).
-  </p>
+  CO<sub>2</sub> Emissions from Fuel Combustion database available at: (<a
+  href="https://www.iea.org/reports/co2-emissions-from-fuel-combustion-2019">iea.org/reports/co2-emissions-from-fuel-combustion-2019</a>).</p>
 
   <p>The IEA produces the indicator on total CO<sub>2</sub> emissions/GDP, based
-  on secondary sources for GDP (OECD National Accounts and World Bank
-  Development indicators).</p>
+  on secondary sources for GDP (World Bank Development indicators and the
+  National Accounts &#x2013; Analysis of Main Aggregates (AMA)).</p>
 
-  <p>UNIDO maintains MVA database. Figures for updates are obtained from
-  national account estimates produced by UN Statistics Division (UNSD).</p>
+  <p>UNIDO maintains the MVA database. Figures for updates are obtained from
+  national account estimates produced by UN Statistics Division (UNSD) and from
+  national publications.</p>
 COLL_METHOD: >-
-  <p><strong>Collection process:</strong></p>
-
-  <p>Energy data are collected at the national level according to harmonised
+  <p>The IEA collects energy data at the national level according to harmonised
   international definitions and questionnaires, as described in the UN
-  International Recommendations for Energy Statistics (<a
-  href="https://unstats.un.org/unsd/energy/ires/">https://unstats.un.org/unsd/energy/ires/</a>).</p>
+  International Recommendations for Energy Statistics available at : (<a
+  href="https://unstats.un.org/unsd/energy/ires/">unstats.un.org/unsd/energy/ires/</a>).</p>
 
   <p>The estimates of CO<sub>2</sub> emissions from fuel combustion are
   calculated by the IEA based on the IEA energy data and the default methods and
-  emission factors from the 2006 IPCC Guidelines for National Greenhouse Gas
-  Inventories (<a
-  href="http://www.ipcc-nggip.iges.or.jp/public/2006gl/">http://www.ipcc-nggip.iges.or.jp/public/2006gl/</a>).
+  emission factors from the 2006 IPCC Guidelines for National GHG Inventories
+  available at: (<a
+  href="http://www.ipcc-nggip.iges.or.jp/public/2006gl/">ipcc-nggip.iges.or.jp/public/2006gl/</a>).
   More information on methodologies from the IEA is available at: <a
-  href="http://wds.iea.org/wds/pdf/Worldco2_Documentation.pdf">http://wds.iea.org/wds/pdf/Worldco2_Documentation.pdf</a></p>
+  href="http://wds.iea.org/wds/pdf/Worldco2_Documentation.pdf">wds.iea.org/wds/pdf/Worldco2_Documentation.pdf</a></p>
 
-  <p>The MVA and GDP country data are collected through a national accounts
-  questionnaire (NAQ) sent by UNSD. More information on the methodology is
-  available on <a
-  href="https://unstats.un.org/unsd/snaama/methodology.pdf">https://unstats.un.org/unsd/snaama/methodology.pdf</a>.</p>
+  <p>The most recent GDP estimates published by the World Bank with reference
+  year of 2017 have been used when calculating CO<sub>2</sub> emissions per unit
+  of GDP indicator. Additionally, missing years for countries with at least one
+  data point for GDP reported by the World Bank have been estimated using
+  National Accounts &#x2013; Analysis of Main Aggregates (AMA) growth rates.</p>
+
+  <p>For the calculation of the CO<sub>2</sub> emissions from manufacturing
+  industries per unit of MVA indicator, the MVA and GDP country data are
+  collected through a national accounts questionnaire (NAQ) sent by UNSD. More
+  information on the methodology is available at:</p>
+
+  <p><a
+  href="https://unstats.un.org/unsd/snaama/methodology.pdf">unstats.un.org/unsd/snaama/methodology.pdf</a>.</p>
 FREQ_COLL: >-
-  <h1>Calendar</h1>
-
-  <h2>Data collection:</h2>
-
   <p>Data collection is carried out by receiving data electronically throughout
   the year.</p>
 REL_CAL_POLICY: >-
-  <h2>Data release:</h2>
-
-  <p>The IEA releases its World CO<sub>2</sub> emissions from fuel combustion
-  statistics in Fall each year.</p>
+  <p>The IEA CO<sub>2</sub> emissions from fuel combustion statistics are
+  published in February, April and July with progressively broader geographical
+  coverage (publishing full information for two calendar years prior and
+  selected information for one year prior).</p>
 
   <p>UNIDO MVA database is updated between March and April every year.</p>
 DATA_SOURCE: >-
-  <h1>Data providers</h1>
+  <p>IEA, UNSD, UNIDO</p>
 
-  <h2>Name:</h2>
-
-  <p>UNSD, IEA</p>
-
-  <h2>Description:</h2>
+  <p><strong>Description:</strong></p>
 
   <p>NSOs and national energy data collecting agencies provide the data to UNSD
   and IEA.</p>
 COMPILING_ORG: >-
-  <h1>Data compilers</h1>
-
-  <h2>Name:</h2>
+  <p><strong>Name:</strong></p>
 
   <p>UNIDO, IEA</p>
 
-  <h2>Description:</h2>
+  <p><strong>Description:</strong></p>
 
   <p>IEA provides data on total CO<sub>2</sub> emissions, CO<sub>2</sub>
-  emissions/GDP, manufacturing CO<sub>2</sub> emissions.</p>
+  emissions/GDP PPP and manufacturing CO<sub>2</sub> emissions.</p>
 
   <p>UNIDO compiles the data using its source for MVA data and IEA for data on
   CO<sub>2</sub> emissions.</p>
-RATIONALE: >-
-  <h2>Rationale:</h2>
+INST_MANDATE: >-
+  <p>IEA as one of the custodian agencies responsible for monitoring progress
+  towards the SDG 7.3 target, leverage on their national data efforts and add
+  value by promoting coherent standards, definitions and methodologies for both
+  raw data and the derived indicators with the ultimate goal of producing
+  international comparable datasets. </p>
 
-  <p>The indicator CO2 emissions per unit of value added represents the amount
-  of emissions from fuel combustion produced by an economic activity, per unit
-  of economic output. When computed for the whole economy, it combines effects
-  of the average carbon intensity of the energy mix (linked to the shares of the
-  various fossil fuels in the total); of the structure of an economy (linked to
-  the relative weight of more or less energy-intensive sectors); of the average
-  efficiency in the use of energy. When computed for the manufacturing sector
-  (CO2 emissions from fuel combustion per unit of manufacturing value added), it
-  measures the carbon intensity of the manufacturing economic output, and its
-  trends result from changes in the average carbon intensity of the energy mix
-  used, in the structure of the manufacturing sector, in the energy efficiency
-  of production technologies in each sub-sector, and in the economic value of
-  the various output. Manufacturing industries are generally improving their
-  emission intensity as countries move to higher levels of industrialization,
-  but it should be noted that emission intensities can also be reduced through
-  structural changes and product diversification in manufacturing. </p>
+  <p>UNIDO, as the specialized UN agency on industrial development, has the
+  international mandate for collecting, producing and disseminating
+  internationally comparable industrial statistics. UNIDO&#x2019;s mandate
+  covers (i) the maintenance and updating of international industrial statistics
+  databases; (ii) methodological and analytical products based on statistical
+  research and experience of maintaining internationally comparable statistics;
+  (iii) contributions to the development and implementation of international
+  statistical standards and methodology; and (iv) technical cooperation services
+  to countries in the field of industrial statistics. With the repositioning of
+  UNIDO as the focal agency for inclusive and sustainable industrial development
+  (ISID), its statistical mandate was expanded to cover all dimensions of
+  industrial development, including its inclusiveness and environmental
+  sustainability.</p>
+OTHER_METHOD: ''
+RATIONALE: >-
+  <p>The indicator CO<sub>2</sub> emissions per unit of value added represents
+  the amount of emissions from fuel combustion produced by an economic activity,
+  per unit of economic output. When computed for the whole economy, it combines
+  effects of the average carbon intensity of the energy mix (linked to the
+  shares of the various fossil fuels in the total); of the structure of an
+  economy (linked to the relative weight of more or less energy-intensive
+  sectors); of the average efficiency in the use of energy. When computed for
+  the manufacturing sector (CO<sub>2</sub> emissions from fuel combustion per
+  unit of manufacturing value added), it measures the carbon intensity of the
+  manufacturing economic output, and its trends result from changes in the
+  average carbon intensity of the energy mix used, the structure of the
+  manufacturing sector, the energy efficiency of production technologies in each
+  sub-sector and the economic value of the various output. Manufacturing
+  industries are generally improving their emission intensity as countries move
+  to higher levels of industrialization, but it should be noted that emission
+  intensities can also be reduced through structural changes and product
+  diversification in manufacturing. </p>
 
   <p>CO<sub>2</sub> emission accounts for around 80% of all GHG emission from
   the manufacturing processes. </p>
 REC_USE_LIM: >-
-  <h2>Comments and limitations:</h2>
-
   <p>Estimation of CO<sub>2</sub> emission data is not systematized in many
   countries, although is performed internationally based on harmonised energy
   data collected at national level. Energy data collection is generally well
   established, although in some cases national methodologies may differ from
   internationally agreed methodologies. National data sources include
-  statistical offices, Energy Ministries, Environment agencies, among others.
+  statistical offices, energy ministries, environment agencies, among others.
   Energy consumption data and value added data are coming from different data
   sources which may raise some consistency issues.</p>
 DATA_COMP: >-
-  <h1>Methodology</h1>
-
-  <h2>Computation method:</h2>
-
   <p>CO<sub>2</sub> emissions from fuel combustion are estimated based on energy
-  consumption and on the IPCC Guidelines.</p>
+  consumption and on the 2006 IPCC Guidelines on National GHG Inventories.</p>
 
   <p>The total intensity of the economy is defined as the ratio of total
-  CO<sub>2</sub> emissions from fuel combustion and GDP.</p>
+  CO<sub>2</sub> emissions from fuel combustion and per unit of GDP. For
+  international comparison purposes, GDP is measured in constant terms at
+  purchasing power parity and the indicator is expressed in kilogrammes of CO2
+  per constant 2017 USD PPP for the current series.</p>
 
   <p>The sectoral intensity is defined as CO<sub>2</sub> emission from
   manufacturing (in physical measurement unit such as tonnes) divided by
   manufacturing value added (MVA) in constant 2015 USD.</p>
 
-  <p>CO2 emission per unit of value added </p>
+  <p><img
+  src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAjsAAAAwCAIAAAB47CzmAAAAAXNSR0IArs4c6QAAFVZJREFUeF7tnTnIZcUSx5+PlyhmKpgoYuCGiQsmjmIyroG4BS44grugoiOM4hIoboG4geIGT1wmEBUDcYvcMpdE3AIZnETUwUQ09P2e/8efet197j333HO/7965dYKP853TXV3173Oruqu7qvf566+//pFXIpAIJAKJQCKw9Aj8c+k5TAYTgUQgEUgEEoH/IpAWK7+DRCARSAQSgdVAIC3WavRTcpkIJAKJQCKQFiu/gUQgEUgEEoHVQCAt1mr0U3KZCCQCiUAisE/uFcyPIBEYHYF33313586dv/76K5S3bNlyxx13qInvv//+pZde+uKLL/T8qquuOuigg7j/6KOP3nrrrW+//Xa//fa7+OKLzz///NFZ2hSCv/zyy6uvvvrJJ5/88ccfO3bsOPXUUzeFjUU0SpfRxT/++ONRRx31yCOPLKKJDaCJFJ9++ukFF1xwxBFHzNrc9u3b+WJvvPHGM888c2rdN95447vvvvMHP7V8V4GcYw2GLismAm0Enn322RdeeOHKK698++23Tz/9dNktmas777wTm/Tvvy9+7W+++abM1ZNPPnnppZdSfuvWrdSl5FjgQvyiiy6aldo555wjszrnhblCpz/11FOY5/33339OastTnQ6iy84999xHH32UDp2VMbBF3c9ay+XH6h2syAcffIAVsbmaifLtt98OS4cffngfQRiEnXHGGQ899BCDmD7lO8swx8orEUgExkKAgeTZZ5/94YcfiiA3zzzzjO5v/ftyQzyP/+r5zz//HKuPxdWm0EGWCy+88J133tmU1hfaKH133XXXDW7irrvueuyxxwZXH6UivXP55ZfzdzA1PnUozFQdB8MDDzwwU5WicM6x5rL3WTkRKBB4/fXXcRPZ/cXNNddcQxmG1UyqGJVPRuy3336jwMEHH1wUY2T6+OOPM1tiFPzyyy/zlgEy97gfubZt28YrBv5M73jo8fuDDz7Iv5QUNW5Egb96CFkK84Tr+uuvN1kqmgHRF1lN/tw0QrnpgmHmdldccQXOQOYi5qfgWS0KHLEBNSr2lM4tUh2JwMd0BAsPIegJK8LefffdagWghACSCjqBY5YEnZjhogoEdQ+ruHCZO8YC4llAwQkNmT3aEuwizj18vv/+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"></p>
+DATA_VALIDATION: >-
+  <p>The IEA has several internal procedures in place for energy data
+  validation. This includes energy balance checks, time series analysis and
+  reconciling differences in statistical classifications and definitions.</p>
 
-  <p>= CO2 emission from manufacturing (in kg)/MVA (constant USD)</p>
+  <p>UNIDO engages with countries in regular consultations during the data
+  collection process to ensure the data quality and international
+  comparability.</p>
+ADJUSTMENT: >-
+  <p>The country specific commodity balances underlying the IEA CO<sub>2</sub>
+  emissions estimates are based on national energy data of heterogeneous nature
+  converted and adapted to fit the IEA format and methodology. Considerable
+  effort has been made to ensure that the data adhere to the IEA definitions
+  based on the guidelines provided by IRES. Nevertheless, energy statistics at
+  the national level are often collected using criteria and definitions which
+  differ, sometimes considerably, from those of international organisations.
+  This is especially true for non-OECD countries, which are submitting data to
+  the IEA on a voluntary basis. The IEA has identified most of these differences
+  and, where possible, adjusted the data to meet international definitions. For
+  details on recognized country specific anomalies and the corresponding
+  adjustments, please refer to country specific notes included in the IEA World
+  energy balances documentation file available at: <a
+  href="http://wds.iea.org/wds/pdf/WORLDBAL_Documentation.pdf">wds.iea.org/wds/pdf/WORLDBAL_Documentation.pdf</a></p>
+
+  <p>UNIDO compiles the MVA data based on the UNSD National Accounts Main
+  Aggregates Database (NAMAD) and national publications. UNSD collects national
+  accounts data through a regular consultation with countries and areas by
+  sending the UN NAQ to obtain important information about differences in
+  concept, scope, coverage and classification used. The final estimates are
+  provided to facilitate international comparability. More detailed information
+  on estimation methods is available here: <a
+  href="https://unstats.un.org/unsd/snaama/assets/pdf/methodology.pdf">https://unstats.un.org/unsd/snaama/assets/pdf/methodology.pdf</a></p>
+
+  <p>The MVA data are nowcasted by UNIDO to enhance a timely analysis of
+  manufacturing trends.</p>
 IMPUTATION: >-
-  <p><strong>Treatment of missing values:</strong></p>
+  <p>&#x2022; At country level</p>
 
-  <ul>
-    <li><strong><em>At country level:</em></strong></li>
-  </ul>
+  <p>Providing all the elements of energy balance, underlying the IEA CO<sub>2
+  </sub>emissions estimations has often required estimations. Estimations have
+  been generally made after consultation with national statistical offices,
+  energy companies, utilities and national energy experts.</p>
 
   <p>Boudt, Todorov, Upadhyaya (2009): Nowcasting manufacturing value added for
   cross-country comparison; Statistical Journal of IAOS</p>
 
-  <ul>
-    <li><strong><em>At regional and global levels:</em></strong></li>
-  </ul>
+  <p>&#x2022; At regional and global levels</p>
+
+  <p>In the compilation of the IEA energy balances which are the underlying for
+  estimating the CO<sub>2</sub> emissions and in addition to estimates at a
+  country level, adjustments addressing differences in definitions alongside
+  estimations for informal and/or confidential trade, production or stock
+  changes of energy products are sometimes required to complete major
+  aggregates, when key statistics are missing. Such estimations and adjustments
+  implemented by IEA have been generally made after consultation with national
+  statistical offices, energy companies, utilities and national energy
+  experts.</p>
 
   <p>No imputation is provided if values are missing for the entire country or
   the region. It can only be projected from the data reported for previous
   years.</p>
 REG_AGG: >-
-  <h2>Regional aggregates:</h2>
-
-  <p>Regional aggregates are derived from the total number of available
-  countries in a country group.</p>
+  <p>Regional aggregates are calculated by summing both the numerator and
+  denominator over the group of relevant countries.</p>
 DOC_METHOD: >-
-  <h2>Methods and guidance available to countries for the compilation of the
-  data at the national level:</h2>
-
   <p>It is important that energy data collection and emissions calculations are
-  consistent with international standards. CO2 emissions need to be estimated
-  based on energy data and on internationally agreed methodologies. Energy data
-  are collected at a country level, based on internationally agreed standards
-  (UN International Recommendations on Energy Statistics). The IEA collects from
-  countries energy data, according to internationally agreed energy statistics
-  definitions. Then, the IEA estimates CO2 emissions based on country data and
-  on the IPCC Guidelines for GHG inventories, producing internationally
-  comparable CO2 emissions data for over 150 countries and regions. For energy
-  data: the IEA sends standardised energy questionnaires (by fuel) to its
-  Members and more globally to countries willing to provide data (e.g. all EU -
-  jointly with Eurostat- most UNECE countries, and a few others submit these
-  questionnaires). Questionnaires are available at: <a
-  href="http://www.iea.org/statistics/resources/questionnaires/annual/">http://www.iea.org/statistics/resources/questionnaires/annual/</a>.
-  For other countries, national data are processed to a consistent format.
-  Therefore, the IEA is able to provide key energy statistics. More detail on
-  methods and sources is available at: <a
-  href="http://wds.iea.org/wds/pdf/WORLDBAL_Documentation.pdf">http://wds.iea.org/wds/pdf/WORLDBAL_Documentation.pdf</a>.</p>
+  consistent with international standards. CO<sub>2</sub> emissions need to be
+  estimated based on energy data and on internationally agreed methodologies.
+  Energy data are collected at a country level, based on internationally agreed
+  standards (UN International Recommendations on Energy Statistics (IRES)). The
+  IEA collects the energy data from countries, according to internationally
+  agreed energy statistics definitions and estimates CO<sub>2</sub> emissions
+  based on the 2006 IPCC Guidelines for National GHG Inventories&#x2019;
+  producing internationally comparable CO<sub>2</sub> emissions data for over
+  150 countries and regions.</p>
 
-  <p>To estimate CO2 emissions, the internationally agreed reference is the 2006
-  IPCC Guidelines on GHG Inventories: <a
-  href="http://www.ipcc-nggip.iges.or.jp/public/2006gl/">http://www.ipcc-nggip.iges.or.jp/public/2006gl/</a>.
-  For the underlying energy data, the reference is the UN International
-  Recommendations on Energy Statistics: <a
-  href="https://unstats.un.org/unsd/energy/ires/">https://unstats.un.org/unsd/energy/ires/</a>.
-  More information on methodologies from the IEA is available at: <a
-  href="http://wds.iea.org/wds/pdf/Worldco2_Documentation.pdf">http://wds.iea.org/wds/pdf/Worldco2_Documentation.pdf</a>.
+  <p>The IEA collects energy data through standardised fuels specific
+  questionnaires shared with OECD Member countries and more selected economies.
+  These questionnaires are available at: </p>
+
+  <p><a
+  href="https://www.iea.org/areas-of-work/data-and-statistics/questionnaires">iea.org/areas-of-work/data-and-statistics/questionnaires</a>.</p>
+
+  <p>The IEA energy balances for all other countries are based on national
+  energy data of heterogeneous nature, converted and adapted to fit the IEA
+  format and methodology based on IRES recommendations.</p>
+
+  <p>More detail on methods and sources is available at: <a
+  href="http://wds.iea.org/wds/pdf/WORLDBAL_Documentation.pdf">wds.iea.org/wds/pdf/WORLDBAL_Documentation.pdf</a>.</p>
+
+  <p>For the underlying energy data, the reference is the UN International
+  Recommendations on Energy Statistics, available at: <a
+  href="https://unstats.un.org/unsd/energy/ires/">unstats.un.org/unsd/energy/ires/.</a>.
   </p>
-QUALITY_ASSURE: >-
-  <h2>Quality assurance:</h2>
 
+  <p>To estimate CO<sub>2</sub> emissions, the internationally agreed reference
+  is the 2006 IPCC Guidelines on National GHG Inventories available at: <a
+  href="https://www.ipcc-nggip.iges.or.jp/public/2006gl/index.html">ipcc-nggip.iges.or.jp/public/2006gl/</a>.
+  </p>
+QUALITY_MGMNT: >-
+  <p>The IEA, in co-operation with the Statistical Office of the European
+  Communities (Eurostat), has published an Energy Statistics Manual. This Manual
+  helps the energy statisticians have a better grasp of definitions, units and
+  methodologies. Moreover, IEA has established a quality management framework
+  based on the internationally recognized guidelines recommended by IRES to
+  ensure quality of statistical products. </p>
+QUALITY_ASSURE: >-
   <p>The IEA has extensive data quality checks on the energy data submissions
   (around 30 statisticians working on it), and iterates with countries on data
-  issues and how to address them. <a
-  href="http://www.iea.org/statistics/resources/questionnaires/annual/">http://www.iea.org/statistics/resources/questionnaires/annual/</a>.
-  The IEA also works in cooperation with the IPCC and the UNFCCC to ensure the
-  highest consistency between international methodologies and methodologies
+  issues and how to address them. </p>
+
+  <p>The IEA also works in cooperation with the IPCC and the UNFCCC to ensure
+  the highest consistency between international methodologies and methodologies
   adopted at the IEA; the IEA validates energy data submitted to the UNFCCC by
   countries within their inventories. The IEA convenes international workshops
   among partner Agencies working on energy data to ensure consistency between
@@ -284,52 +390,96 @@ QUALITY_ASSURE: >-
   Energy Statistics Development Group meeting to discuss energy statistics
   developments with its Members, and cooperates with partners worldwide to
   ensure coherence of data and methods.</p>
+
+  <p><a href="https://unstats.un.org/unsd/unsystem/Documents/QAF-UNIDO.pdf">The
+  UNIDO Quality Assurance Framework</a> is followed to ensure that the
+  statistical activities of UNIDO are relevant and the data compiled and
+  disseminated are accurate, complete within the defined scope and coverage,
+  timely, comparable in terms of internationally recommended methods and
+  classification standards and internally coherent to variables included in the
+  datasets. While these generally accepted, broad dimensions of quality of
+  statistical data may be defined in each NSO&apos;s own quality assurance
+  framework, UNIDO makes maximum effort that data produced from the statistical
+  operation undertaken with the UNIDO technical cooperation are accurate,
+  internationally comparable and coherent.</p>
+QUALITY_ASSMNT: ''
 COVERAGE: >-
-  <h1>Data availability</h1>
+  <p>Data availability:</p>
 
-  <h2>Description:</h2>
+  <p>Data are available for more than 140 countries.</p>
 
-  <p>Data are available for more than 130 countries.</p>
-
-  <h2>Time series:</h2>
+  <p>Time series:</p>
 
   <p>Data for this indicator are available as of 2000 in the UN Global SDG
   Database, but longer time series are available in the IEA database (IEA
-  CO<sub>2</sub> Emissions from Fuel Combustion) and the UNIDO MVA database.</p>
+  CO<sub>2</sub> emissions from fuel combustion) and the UNIDO MVA database.</p>
 
-  <h2>Disaggregation:</h2>
+  <p>Disaggregation:</p>
 
   <p>Data can be presented for national totals, for the manufacturing sector,
   and by industrial subsector.</p>
 COMPARABILITY: >-
-  <h2>Sources of discrepancies:</h2>
+  <p>Sources of discrepancies:</p>
 
-  <p>Difference may arise 1) if the country has not submitted energy consumption
-  data adequately dis-aggregated by sector or by energy sources 2) due to
-  conversion of value data into USD.</p>
-OTHER_DOC: >-
-  <h1>References</h1>
+  <p>The IEA CO<sub>2</sub> emissions from fuel combustion, used for calculating
+  these indicators, is a global database obtained following harmonised
+  definitions and comparable methodologies across countries. However, it does
+  not represent an official source for national GHG inventories submissions by
+  the countries.</p>
 
-  <h2>URL:</h2>
-
-  <p><a href="https://www.iea.org/statistics">https://www.iea.org/statistics</a>
-  <a
-  href="http://wds.iea.org/wds/pdf/Worldco2_Documentation.pdf">http://wds.iea.org/wds/pdf/Worldco2_Documentation.pdf</a></p>
-
-  <p><a href="http://www.unido.org/statistics">www.unido.org/statistics</a></p>
+  <p>Difference may arise due to different sources of official energy data,
+  dissimilarities in the underlying methodologies, adjustments and estimations.
+  More information on these sources of differences is available in the IEA
+  database documentation file available at:</p>
 
   <p><a
-  href="https://unstats.un.org/unsd/snaama/methodology.pdf">https://unstats.un.org/unsd/snaama/methodology.pdf</a></p>
+  href="http://wds.iea.org/wds/pdf/Worldco2_Documentation.pdf">wds.iea.org/wds/pdf/Worldco2_Documentation.pdf</a></p>
 
-  <h2>References:</h2>
+  <p>Additionally, difference may arise if the country has not submitted energy
+  consumption data adequately dis-aggregated by sector or by energy sources
+  and/or due to conversion of value data into USD.</p>
+OTHER_DOC: >-
+  <p><strong>URL:</strong></p>
 
-  <p>International Yearbook of Industrial Statistics; UNIDO</p>
+  <p><a href="https://www.iea.org/statistics">iea.org/statistics</a> </p>
 
-  <p>IEA (2019), <em>CO<sub>2</sub> Emissions from Fuel Combustio</em>n</p>
+  <p><a
+  href="http://wds.iea.org/wds/pdf/Worldco2_Documentation.pdf">wds.iea.org/wds/pdf/Worldco2_Documentation.pdf</a></p>
 
-  <p>System of National Accounts, 2008</p>
+  <p><a href="http://www.unido.org/statistics">unido.org/statistics</a></p>
 
-  <p>IEA<em>, Key world energy statistics</em></p>
+  <p><a
+  href="https://unstats.un.org/unsd/snaama/methodology.pdf">unstats.un.org/unsd/snaama/methodology.pdf</a></p>
+
+  <p><strong>References:</strong></p>
+
+  <p>International Yearbook of Industrial Statistics; UNIDO: </p>
+
+  <p><a
+  href="https://www.unido.org/resources-publications-flagship-publications/international-yearbook-industrial-statistics">unido.org/resources-publications-flagship-publications/international-yearbook-industrial-statistics</a></p>
+
+  <p>IEA (2020), CO2 emissions from fuel combustion:</p>
+
+  <p><a
+  href="https://www.iea.org/reports/co2-emissions-from-fuel-combustion-overview">iea.org/reports/co2-emissions-from-fuel-combustion-overview</a></p>
+
+  <p>System of National Accounts 2008:</p>
+
+  <p><a
+  href="https://unstats.un.org/unsd/nationalaccount/sna2008.asp">unstats.un.org/unsd/nationalaccount/sna2008.asp</a></p>
+
+  <p>The World Bank Development Indicators:</p>
+
+  <p><a
+  href="https://databank.worldbank.org/source/world-development-indicators">databank.worldbank.org/source/world-development-indicators</a></p>
+
+  <p>National Accounts &#x2013; Analysis of Amin Aggregates (AMA):</p>
+
+  <p><a
+  href="https://unstats.un.org/unsd/snaama/">unstats.un.org/unsd/snaama/</a></p>
 
   <p>International Standard Industrial Classification of All Economic Activities
-  2008</p>
+  2008:</p>
+
+  <p><a
+  href="https://unstats.un.org/unsd/iiss/International-Standard-Industrial-Classification-of-all-Economic-Activities-ISIC.ashx">unstats.un.org/unsd/iiss/International-Standard-Industrial-Classification-of-all-Economic-Activities-ISIC.ashx</a></p>

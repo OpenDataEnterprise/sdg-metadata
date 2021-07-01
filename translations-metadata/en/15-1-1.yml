@@ -1,3 +1,4 @@
+SDG_INDICATOR_INFO: ''
 SDG_GOAL: >-
   <p>Goal 15: Protect, restore and promote sustainable use of terrestrial
   ecosystems, sustainably manage forests, combat desertification, and halt and
@@ -8,32 +9,36 @@ SDG_TARGET: >-
   particular forests, wetlands, mountains and drylands, in line with obligations
   under international agreements</p>
 SDG_INDICATOR: '<p>Indicator 15.1.1: Forest area as a proportion of total land area</p>'
-META_LAST_UPDATE: '<p>Last update: March 2020</p>'
-SDG_RELATED_INDICATORS: |-
-  <h1>Related indicators as of February 2020</h1>
-  <p>15.2.1: Progress towards sustainable forest management</p>
-SDG_CUSTODIAN_AGENCIES: |-
-  <h1>Institutional information</h1>
-  <h2>Organization(s):</h2>
-  <p>Food and Agriculture Organization of the United Nations (FAO)</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: <p>February 2021</p>
+SDG_RELATED_INDICATORS: '<p>15.2.1: Progress towards sustainable forest management</p>'
+SDG_CUSTODIAN_AGENCIES: <p>Food and Agriculture Organization of the United Nations (FAO)</p>
+CONTACT: ''
+CONTACT_ORGANISATION: <p>Food and Agriculture Organization of the United Nations (FAO)</p>
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <h1>Concepts and definitions</h1>
-
-  <h2>Definition:</h2>
+  <p><strong>Definition:</strong></p>
 
   <p>Forest area as a proportion of total land area</p>
 
-  <h2>Concepts:</h2>
+  <p><strong>Concepts:</strong></p>
 
-  <p>In order to provide a precise definition of the indicator, it is crucial to
-  provide a definition of &#x201C;Forest&#x201D; and &#x201C;Total Land
-  Area&#x201D;. </p>
+  <p>To provide a precise definition of the indicator, it is crucial to provide
+  a definition of its two components:</p>
 
-  <p>According to the FAO definitions, Forest is defined as: &#x201C;land
-  spanning more than 0.5 hectares with trees higher than 5 meters and a canopy
-  cover of more than 10 percent, or trees able to reach these thresholds in
-  situ. It does not include land that is predominantly under agricultural or
-  urban land use&#x201D;. More specifically:</p>
+  <p>&#x201C;Forest&#x201D; and &#x201C;Land Area&#x201D;. </p>
+
+  <p>According to the FAO, <strong><u>Forest</u></strong> is defined as:
+  &#x201C;land spanning more than 0.5 hectares with trees higher than 5 meters
+  and a canopy cover of more than 10 percent, or trees able to reach these
+  thresholds in situ. It does not include land that is predominantly under
+  agricultural or urban land use&#x201D;. More specifically:</p>
 
   <ul>
     <li>Forest is determined both by the presence of trees and the absence of other predominant land uses. The trees should be able to reach a minimum height of 5 meters.</li>
@@ -41,29 +46,44 @@ STAT_CONC_DEF: >-
     <li>It includes forest roads, firebreaks and other small open areas; forest in national parks, nature reserves and other protected areas such as those of specific environmental, scientific, historical, cultural or spiritual interest.</li>
     <li>It includes windbreaks, shelterbelts and corridors of trees with an area of more than 0.5 hectares and width of more than 20 meters.</li>
     <li>It includes abandoned shifting cultivation land with a regeneration of trees that have, or are expected to reach, a canopy cover of at least 10 percent and tree height of at least 5 meters.</li>
-    <li>It includes areas with mangroves in tidal zones, regardless whether this area is classified as land area or not.</li>
+    <li>It includes areas with mangroves in tidal zones, regardless of whether this area is classified as land area or not.</li>
     <li>It includes rubberwood, cork oak and Christmas tree plantations.</li>
     <li>It includes areas with bamboo and palms provided that land use, height and canopy cover criteria are met.</li>
     <li>It excludes tree stands in agricultural production systems, such as fruit tree plantations, oil palm plantations, olive orchards and agroforestry systems when crops are grown under tree cover. Note: Some agroforestry systems such as the &#x201C;Taungya&#x201D; system where crops are grown only during the first years of the forest rotation should be classified as forest.</li>
   </ul>
 
-  <p>Total land area is the total surface area of a country less the area
-  covered by inland waters, like major rivers and lakes. </p>
+  <p><strong><u>Land area</u></strong> is the country area excluding area under
+  inland waters and coastal waters.</p>
 
-  <p>The indicator is expressed as percent.</p>
+  <ul>
+    <li><strong>Country area</strong>: Area under national sovereignty. It is the sum of land area, inland waters and coastal waters. It excludes the exclusive economic zone.</li>
+    <li><strong>Inland waters</strong>: Areas corresponding to natural or artificial water courses, serving to drain natural or artificial bodies of water, including lakes, reservoirs, rivers, brooks, streams, ponds, inland canals, dams, and other land-locked waters. The banks constitute limits whether the water is present or not.</li>
+    <li><strong>Coastal waters</strong>: Waters located in-between the land territory and the outer limit of the territorial sea. They comprise &apos;&apos;Internal waters&apos;&apos; and &apos;&apos;Territorial sea,&quot; and where applicable, &apos;&apos;Archipelagic waters.&quot; </li>
+  </ul>
+UNIT_MEASURE: <p>The indicator is expressed as percent.</p>
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <h1>Data sources</h1>
+  <p><strong>Forest area:</strong></p>
 
-  <h2>Description:</h2>
+  <p>Data on Forest area are collected by FAO through the Global Forest
+  Resources Assessment (FRA). This assessment has been carried out at regular
+  intervals since 1946, and are now produced every five year. The latest of
+  these assessments, FRA 2020, contains information for 236 countries and
+  territories on about 60 variables related to the extent of forests, their
+  conditions, uses and values for several points in time. </p>
 
-  <p>FAO has been monitoring the world&apos;s forests at 5 to 10 year intervals
-  since 1946. The Global Forest Resources Assessments (FRA) are now produced
-  every five year. The latest of these assessments, FRA 2020, contains
-  information for 236 countries and territories on about 60 variables related to
-  the extent of forests, their conditions, uses and values for several points in
-  time. </p>
+  <p><strong>Land area:</strong></p>
+
+  <p>Data on land area are collected from FAO members through the annual FAO
+  Questionnaire on Land Use, Irrigation and Agricultural Practices. Missing data
+  may be sourced from national statistical yearbooks and other official
+  government data portals. Supplemental information for further gap filling may
+  be derived from national and international sectoral studies and reports, as
+  well as from land cover statistical information compiled by FAO and
+  disseminated in FAOSTAT.</p>
 COLL_METHOD: >-
-  <h2>Collection process:</h2>
+  <p><strong>Forest area:</strong></p>
 
   <p>Officially nominated national correspondents and their teams prepare the
   country reports for the assessment. Some prepare more than one report as they
@@ -76,34 +96,81 @@ COLL_METHOD: >-
   through an on-line platform following a standard format, which includes the
   original data and reference sources and descriptions of how these have been
   used to estimate the forest area for different points in time. The on-line
-  platform was used for all data entry, review and quality control.</p>
-FREQ_COLL: >-
-  <h1>Calendar</h1>
+  platform is used for all data entry, review and quality control.</p>
 
-  <h2>Data collection:</h2>
+  <p><strong>Land area:</strong></p>
+
+  <p>The Land Use, Irrigation and Agricultural Practices FAO Questionnaire, <a
+  href="http://www.fao.org/economic/ess/ess-home/questionnaires/en/">http://www.fao.org/economic/ess/ess-home/questionnaires/en/</a>,
+  is sent annually to 205 countries and territories reaching out the National
+  Focal Points in National Institutions, typically National Statistical Offices,
+  Ministries of Agriculture or other relevant Agencies. The questionnaire is
+  sent in Excel format together with accompanying cover letter explaining FAO
+  mandate and scope of the data collection. </p>
+
+  <p>Data returned in questionnaire are checked against previous reports and for
+  consistency with the other land categories reported in questionnaire.
+  Depending on questionnaire completeness and in case of non-reporting, Land
+  area data may be derived by subtracting the Inland waters area and the Coastal
+  waters area from the Country area. Missing Land area data are also imputed by
+  carry-forward of the latest value officially reported by the country. </p>
+
+  <p> </p>
+FREQ_COLL: >-
+  <p><strong>Forest area:</strong></p>
 
   <p>Data collection process for FRA 2020 was launched in 2018 and data
-  collection took place in 2018-2019 </p>
+  collection took place in 2018-2019. Data collection for the next FRA is
+  expected to start in 2022. </p>
+
+  <p><strong>Land area:</strong></p>
+
+  <p>The FAO Land Use, Irrigation and Agricultural Practices questionnaire is
+  part of the joint dispatch of three questionnaires on agri-environmental
+  statistics. Questionnaires are dispatched annually on 4th October with
+  deadline after 4 weeks; first and second follow-ups are sent within 5 and 10
+  weeks respectively from the dispatch date. </p>
 REL_CAL_POLICY: >-
-  <h2>Data release:</h2>
+  <p><strong>Forest area:</strong></p>
 
-  <p>Data with updated time series and including year 2020 will be released June
-  2020. The possibilities of a more frequent reporting on forest area and other
-  key indicators are currently being evaluated.</p>
+  <p>Data with updated time series and including year 2020 was released July
+  2020. Next release of a complete FRA dataset is scheduled for 2025. The
+  possibilities of a more frequent reporting on forest area and other key
+  indicators are currently being evaluated, and some countries may provide
+  updates on forest area before 2025. </p>
+
+  <p><strong>Land area:</strong></p>
+
+  <p>Data release in year 2021 is planned for 30 June 2021.</p>
 DATA_SOURCE: >-
-  <h1>Data providers</h1>
+  <p><strong>Forest area:</strong></p>
 
-  <p>The data are provided by the countries through a global network of
-  officially nominated national correspondents. For the countries and
-  territories which do not have a national correspondent, a report is prepared
-  by FAO using previously reported information, literature search, remote
-  sensing or their combination.</p>
-COMPILING_ORG: |-
-  <h1>Data compilers</h1>
-  <p>FAO</p>
+  <p>Data on forest area are provided by the countries and reported to FAO
+  through a global network of officially nominated national correspondents. For
+  the countries and territories which do not have a national correspondent, a
+  desk study is prepared by FAO using previously reported information,
+  literature search, remote sensing or their combination.</p>
+
+  <p><strong>Land area:</strong></p>
+
+  <p>Data are provided by the National Focal Points in National Institutions,
+  typically National Statistical Offices, Ministries of Agriculture or other
+  relevant Agencies. Records of National Focal Points is maintained up to date
+  through the questionnaire cover where countries are requested to confirm the
+  focal point contact detail (e.g. Name, Title, Administration and Office, Email
+  and Web site address) as well as through official communications from
+  countries to FAO, or information provided to FAO during meetings, conferences
+  or commissions. </p>
+COMPILING_ORG: <p>FAO</p>
+INST_MANDATE: >-
+  <p>Article 1 of FAO&#x2019;s constitution specifies that, &#x201C;The
+  Organization shall collect, analyze, interpret, and disseminate information
+  related to nutrition, food and agriculture.&#x201D; In this regard, FAO
+  collects national level data from member countries, which it then standardizes
+  and disseminates through corporate statistical databases. FAO is the custodian
+  UN agency for 21 SDG indicators, including 15.1.1.</p>
+OTHER_METHOD: ''
 RATIONALE: >-
-  <h2>Rationale:</h2>
-
   <p>Forests fulfil a number of functions that are vital for humanity, including
   the provision of goods (wood and non-wood forest products) and services such
   as habitats for biodiversity, carbon sequestration, coastal protection and
@@ -124,34 +191,36 @@ RATIONALE: >-
   sustainably managed.</p>
 
   <p>The indicator was included among the indicators for the Millennium
-  Development Goals (MDG) (indicator 7.1 &#x201C;Proportion of land covered by
-  forest&#x201D;).</p>
-REC_USE_LIM: >-
-  <h2>Comments and limitations:</h2>
+  Development Goals (MDG indicator</p>
 
+  <p>7.1 &#x201C;Proportion of land covered by forest&#x201D;).</p>
+REC_USE_LIM: >-
   <p>Assessment of forest area is carried out at infrequent intervals in many
   countries. Although the improved access to remote sensing data can help some
   countries to update their forest area estimates more frequently, estimation of
-  forest area using remote sensing techniques for has certain challenges. In
-  particular they relate to the assessment of land use (remote sensing primarily
-  assesses land cover), and gradual changes, such as forest regrowth, that can
-  require several years to become detectable. In addition, forest area with low
-  canopy cover density (e.g. 10-30%) are still difficult to detect at large
-  scale with affordable remote sensing techniques.</p>
-DATA_COMP: >-
-  <h1>Methodology</h1>
-
-  <h2>Computation method:</h2>
-
-  <p>Forest area (reference year) / Land area (2015) * 100</p>
-
-  <p>This indicator can be aggregated to global or regional level by adding all
-  country values globally or in a specific region.</p>
+  forest area using remote sensing techniques has certain challenges. In
+  particular the assessment of forest area relates to land use, while remote
+  sensing primarily assesses land cover. Furthermore, gradual changes, such as
+  forest regrowth, require several years to become detectable in satellite
+  imagery. In addition, forest areas with low canopy cover density (e.g. 10-30%)
+  are still difficult to detect at large scale with affordable remote sensing
+  techniques.</p>
+DATA_COMP: <p>Forest area (reference year) / Land area (reference year) * 100</p>
+DATA_VALIDATION: >-
+  <p>All data submitted by countries to FRA, including the FAO estimates made in
+  case of desk studies, are available at the FRA on-line platform (<a
+  href="https://fra-data.fao.org/">https://fra-data.fao.org/</a>). The platform
+  also includes the calculated indicator for 15.1.1. A request for validation
+  was sent to the Head of Forestry of each country before finalization and
+  publishing of data.</p>
+ADJUSTMENT: >-
+  <p>When FAOSTAT land area data indicate variations in land area that are
+  inconsistent and do not reflect real changes but are the effect of changes in
+  assessment methodology or countries not having revised historical data points,
+  inconsistent data points are imputed by FAO.</p>
 IMPUTATION: >-
-  <h2>Treatment of missing values:</h2>
-
   <ul>
-    <li><strong><em>At country level:</em></strong></li>
+    <li>At country level</li>
   </ul>
 
   <p>For countries and territories where no information was provided to FAO for
@@ -160,58 +229,87 @@ IMPUTATION: >-
   from previous assessments, literature search, remote sensing or a combination
   of these data sources. </p>
 
+  <p>For countries/territories not included in FAOSTAT, land area data is
+  collected from other sources (national Web sites, etc.). In a few cases where
+  land area for a specific reference year is not available in FAOSTAT, land area
+  is imputed by using data for closest available reference year.</p>
+
   <ul>
-    <li><strong><em>At regional and global levels:</em></strong></li>
+    <li>At regional and global levels</li>
   </ul>
 
   <p>See above</p>
 REG_AGG: >-
-  <h2>Regional aggregates:</h2>
-
   <p>Since information is available for all countries and territories, regional
-  and global estimates are produced by aggregating country-level data.</p>
+  and global estimates are produced by aggregating country-level data. </p>
 DOC_METHOD: >-
-  <h2>Methods and guidance available to countries for the compilation of the
-  data at the national level:</h2>
+  <p><strong>Forest area:</strong></p>
 
   <p>Detailed methodology and guidance on how to prepare the country reports
   through an online web platform and to convert national data according to
   national categories and definitions to FAO&#x2019;s global categories and
-  definitions is found in the documents &#x201C;Guidelines and
-  Specifications&#x201D; (<a
-  href="http://www.fao.org/3/I8699EN/i8699en.pdf">www.fao.org/3/I8699EN/i8699en.pdf</a>)
+  definitions is found in the document &#x201C;<em>FRA 2020</em> <em>Guidelines
+  and Specifications</em>&#x201D; (<a
+  href="http://www.fao.org/3/I8699EN/i8699en.pdf"><u>www.fao.org/3/I8699EN/i8699en.pdf</u></a>)
+  .</p>
+
+  <p><strong>Land area:</strong></p>
+
+  <p>Detailed classification and definition are provided in sections
+  &#x201C;<em>Instructions</em>&#x201D; and
+  &#x201C;<em>Definitions</em>&#x201D;, of the FAO Land Use, Irrigation and
+  Agricultural Practices Questionnaire of which a copy is available on the FAO
+  Statistics website, Data Collection subpage (<a
+  href="http://www.fao.org/statistics/data-collection/en/">http://www.fao.org/statistics/data-collection/en/</a>).
   </p>
+
+  <p>Definitions are also provided together with data in the FAOSTAT Land Use
+  domain in section &#x201C;<em>Definitions and Standards</em>&#x201D; (<a
+  href="http://www.fao.org/faostat/en/#data/RL">http://www.fao.org/faostat/en/#data/RL</a>).
+  </p>
+QUALITY_MGMNT: >-
+  <p>FAO is responsible for the quality of the internal statistical processes
+  used to compile the published datasets. The FAO Statistics Quality Assurance
+  Framework (SQAF), available at: <a
+  href="http://www.fao.org/docrep/019/i3664e/i3664e.pdf">http://www.fao.org/docrep/019/i3664e/i3664e.pdf</a>,
+  provides the necessary principles, guidelines and tools to carry out quality
+  assessments. FAO is performing an internal bi-annual survey (FAO Quality
+  Assessment and Planning Survey) designed to gather information on all of
+  FAO&#x2019;s statistical activities, notably to assess the extent to which
+  quality standards are being implemented with a view to increasing compliance
+  with the quality dimensions of SQAF, documenting best practices and prepare
+  quality improvement plans, where necessary. Domain-specific quality assurance
+  activities are carried out systematically (e.g. quality reviews,
+  self-assessments, compliance monitoring).</p>
 QUALITY_ASSURE: >-
-  <h2>Quality assurance:</h2>
+  <p>Data on forest area reported by countries to FAO are subject to a rigorous
+  review process to ensure correct use of definitions and methodology as well as
+  internal consistency. A comparison is made with past assessments and other
+  existing data sources. Regular contacts between national correspondents and
+  FAO staff by e-mail, through the FRA online platform and during
+  regional/sub-regional review workshops form part of this review process.</p>
 
-  <p>Once received, the country reports undergo a rigorous review process to
-  ensure correct use of definitions and methodology as well as internal
-  consistency. A comparison is made with past assessments and other existing
-  data sources. Regular contacts between national correspondents and FAO staff
-  by e-mail and regional/sub-regional review workshops form part of this review
-  process.</p>
-
-  <p>All country reports (including those prepared by FAO) are sent to the
-  respective Head of Forestry for validation before finalization and publishing
-  of data. The data are then aggregated at sub-regional, regional and global
-  levels by the FRA team at FAO.</p>
+  <p>Data on land area are reported by FAO members through the FAO Land Use,
+  Irrigation and Agricultural Practices questionnaire. Collected data are
+  routinely checked for internal consistency (e.g. outliers and significant
+  variation in time series). Observed discrepancies are routinely checked and
+  validated with countries.</p>
+QUALITY_ASSMNT: ''
 COVERAGE: >-
-  <h1>Data availability</h1>
-
-  <h2>Description:</h2>
+  <p>Data availability:</p>
 
   <p>Forest area data are available for all 236 countries and territories
-  included in FRA 2020.</p>
+  included in FRA 2020, and for the following points in time: 1990, 2000, 2010,
+  2015, 2016, 2017, 2018, 2019 and 2020.</p>
 
-  <h2>Time series:</h2>
+  <p>Land area data are updated annually and are available by country and year,
+  covering up to 246 countries and territories for the period 1961-2018.</p>
 
-  <p>1990, 2000, 2010, 2015, 2016, 2017, 2018, 2019, 2020</p>
+  <p>Disaggregation:</p>
 
-  <h2>Disaggregation:</h2>
-
-  <p>No further disaggregation of this indicator</p>
+  <p>No further disaggregation of this indicator.</p>
 COMPARABILITY: >-
-  <h2>Sources of discrepancies:</h2>
+  <p>Sources of discrepancies:</p>
 
   <p>The national figures in the database are reported by the countries
   themselves following standardized format, definitions and reporting years,
@@ -224,14 +322,11 @@ COMPARABILITY: >-
   official land area as held by FAO; and reclassification of data to the classes
   used in FAO&#x2019;s Global Forest Resources Assessments.</p>
 OTHER_DOC: >-
-  <h1>References</h1>
-
-  <h2>URL:</h2>
+  <p><strong>URL:</strong></p>
 
   <p><a
-  href="http://www.fao.org/forest-resources-assessment/en/">http://www.fao.org/forest-resources-assessment/en/</a></p>
+  href="http://www.fao.org/forest-resources-assessment/">http://www.fao.org/forest-resources-assessment/</a></p>
 
-  <h2>References:</h2>
+  <p><a href="http://www.fao.org/faostat">http://www.fao.org/faostat</a></p>
 
-  <p><a
-  href="http://www.fao.org/forest-resources-assessment/current-assessment/en/">http://www.fao.org/forest-resources-assessment/current-assessment/en/</a></p>
+  <p><strong>References:</strong></p>

@@ -1,76 +1,99 @@
+SDG_INDICATOR_INFO: ''
 SDG_GOAL: >-
   <p>Goal: 7. Ensure access to affordable, reliable, sustainable and modern
-  energy for all.</p>
+  energy for all</p>
 SDG_TARGET: >-
   <p>Target: 7.a. By 2030, enhance international cooperation to facilitate
   access to clean energy research and technology, including renewable energy,
   energy efficiency and advanced and cleaner fossil-fuel technology, and promote
-  investment in energy infrastructure and clean energy technology.</p>
+  investment in energy infrastructure and clean energy technology</p>
 SDG_INDICATOR: >-
   <p>Indicator: 7.a.1: International financial flows to developing countries in
   support of clean energy research and development and renewable energy
-  production, including in hybrid systems.</p>
-META_LAST_UPDATE: '<p>Last updated: April 2019</p>'
-SDG_RELATED_INDICATORS: |-
-  <h1>Related indicators</h1>
-  <p>Not applicable.</p>
+  production, including in hybrid systems</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: <p>March 2021</p>
+SDG_RELATED_INDICATORS: <p>Not applicable.</p>
 SDG_CUSTODIAN_AGENCIES: >-
-  <h1>Institutional information</h1>
-
-  <h2>Organization(s):</h2>
-
   <p>Organisation for Economic Co-operation and Development (OECD) and
   International Renewable Energy Agency (IRENA)</p>
+CONTACT: ''
+CONTACT_ORGANISATION: >-
+  <p>Organisation for Economic Co-operation and Development (OECD) and
+  International Renewable Energy Agency (IRENA)</p>
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <h1>Concepts and definitions</h1>
-
-  <h2>Definition:</h2>
+  <p>Definition:</p>
 
   <p>The flows are covered through two complementary sources.</p>
 
-  <p><strong><em>OECD</em></strong>: The flows covered by the OECD are defined
-  as all official loans, grants and equity investments received by countries on
-  the DAC List of ODA Recipients from foreign governments and multilateral
-  agencies, for the purpose of clean energy research and development and
-  renewable energy production, including in hybrid systems extracted from the
-  OECD/DAC Creditor Reporting System (CRS) with the following sector codes:</p>
+  <p>OECD: The flows covered by the OECD are defined as all official loans,
+  grants and equity investments received by countries on the DAC List of ODA
+  Recipients from foreign governments and multilateral agencies, for the purpose
+  of clean energy research and development and renewable energy production,
+  including in hybrid systems extracted from the OECD/DAC Creditor Reporting
+  System (CRS) with the following sector codes:</p>
 
-  <ul>
-    <li>23210 Energy generation, renewable sources &#x2013; multiple technologies - Renewable energy generation programmes that cannot be attributed to one single technology (codes 23220 through 23280 below). Fuelwood/charcoal production should be included under forestry 31261. </li>
-    <li>23220 Hydro-electric power plants - Including energy generating river barges. </li>
-    <li>23230 Solar energy - Including photo-voltaic cells, solar thermal applications and solar heating. </li>
-    <li>23240 Wind energy - Wind energy for water lifting and electric power generation. </li>
-    <li>23250 Marine energy - Including ocean thermal energy conversion, tidal and wave power. </li>
-    <li>23260 Geothermal energy - Use of geothermal energy for generating electric power or directly as heat for agriculture, etc. </li>
-    <li>23270- Biofuel-fired power plants Use of solids and liquids produced from biomass for direct power generation. Also includes biogases from anaerobic fermentation (e.g. landfill gas, sewage sludge gas, fermentation of energy crops and manure) and thermal processes (also known as syngas); waste fired power plants making use of biodegradable municipal waste (household waste and waste from companies and public services that resembles household waste, collected at installations specifically designed for their disposal with recovery of combustible liquids, gases or heat). See code 23360 for non-renewable waste-fired power plants.</li>
-  </ul>
+  <p>&#x2022; 23210 Energy generation, renewable sources &#x2013; multiple
+  technologies - Renewable energy generation programmes that cannot be
+  attributed to one single technology (codes 23220 through 23280 below).
+  Fuelwood/charcoal production should be included under forestry 31261. </p>
+
+  <p>&#x2022; 23220 Hydro-electric power plants - Including energy generating
+  river barges. </p>
+
+  <p>&#x2022; 23230 Solar energy - Including photo-voltaic cells, solar thermal
+  applications and solar heating. </p>
+
+  <p>&#x2022; 23240 Wind energy - Wind energy for water lifting and electric
+  power generation. </p>
+
+  <p>&#x2022; 23250 Marine energy - Including ocean thermal energy conversion,
+  tidal and wave power. </p>
+
+  <p>&#x2022; 23260 Geothermal energy - Use of geothermal energy for generating
+  electric power or directly as heat for agriculture, etc. </p>
+
+  <p>&#x2022; 23270- Biofuel-fired power plants Use of solids and liquids
+  produced from biomass for direct power generation. Also includes biogases from
+  anaerobic fermentation (e.g. landfill gas, sewage sludge gas, fermentation of
+  energy crops and manure) and thermal processes (also known as syngas); waste
+  fired power plants making use of biodegradable municipal waste (household
+  waste and waste from companies and public services that resembles household
+  waste, collected at installations specifically designed for their disposal
+  with recovery of combustible liquids, gases or heat). See code 23360 for
+  non-renewable waste-fired power plants.</p>
 
   <p>Research and development of energy efficiency technologies and measures is
   captured under CRS sector code 23182 on Energy research. The above flows also
   include technical assistance provided to support production, research and
   development as defined above.</p>
 
-  <p><strong><em>IRENA:</em></strong> The flows covered by IRENA are defined as
-  all additional loans, grants and equity investments received by developing
-  countries (defined as countries in developing regions, as listed in the UN M49
-  composition of regions) from all foreign governments, multilateral agencies
-  and additional development finance institutions (including export credits,
-  where available) for the purpose of clean energy research and development and
-  renewable energy production, including in hybrid systems. These additional
-  flows cover the same technologies and other activities (research and
-  development, technical assistance, etc.) as listed above and exclude all flows
-  extracted from the OECD/DAC CRS.</p>
-
-  <h2>Concepts:</h2>
-
+  <p>IRENA: The flows covered by IRENA are defined as all additional loans,
+  grants and equity investments received by developing countries (defined as
+  countries in developing regions, as listed in the UN M49 composition of
+  regions) from all foreign governments, multilateral agencies and additional
+  development finance institutions (including export credits, where available)
+  for the purpose of clean energy research and development and renewable energy
+  production, including in hybrid systems. These additional flows cover the same
+  technologies and other activities (research and development, technical
+  assistance, etc.) as listed above and exclude all flows extracted from the
+  OECD/DAC CRS.</p>
+UNIT_MEASURE: >-
+  <p>Million United States Dollars (USD) at 2018 prices and exchange rates
+  (using donor country deflators and 2018 exchange rate)</p>
+CLASS_SYSTEM: >-
   <p>The definition and classification of renewable technologies complies with
   the UN Standard International Energy Product Classification (SIEC).
   Definitions of other concepts are given above.</p>
+SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <h1>Data sources</h1>
-
-  <h2>Description:</h2>
-
   <p>The OECD/DAC has been collecting data on official and private resource
   flows from 1960 at an aggregate level and 1973 at an activity level through
   the Creditor Reporting System (CRS data are considered complete from 1995 for
@@ -90,30 +113,41 @@ SOURCE_TYPE: >-
   new publicly-funded financial institutions start investing in renewable
   energy, the IRENA database will expand to include these new investors over
   time.</p>
-COLL_METHOD: |-
-  <h2>Collection process:</h2>
-  <p>See above.</p>
-FREQ_COLL: |-
-  <h1>Calendar</h1>
-  <h2>Data collection:</h2>
-  <p>Data for a year is collected during the following year.</p>
+COLL_METHOD: <p>See above. </p>
+FREQ_COLL: <p>Data for a year is collected during the following year.</p>
 REL_CAL_POLICY: >-
-  <h2>Data release:</h2>
-
   <p>OECD DAC data is updated four time a year, with complete and detailed data
   published at year-end (covering the previous year). IRENA investment data is
   available at year-end (covering the previous year).</p>
-DATA_SOURCE: |-
-  <h1>Data providers</h1>
-  <p>See above.</p>
+DATA_SOURCE: <p>See above.</p>
 COMPILING_ORG: >-
-  <h1>Data compilers</h1>
-
   <p>Organisation for Economic Co-operation and Development (OECD) and
   International Renewable Energy Agency (IRENA).</p>
-RATIONALE: >-
-  <h2>Rationale:</h2>
+INST_MANDATE: >-
+  <p>The OECD DAC Mandate states that the overarching objective of the DAC for
+  the period 2018-2022 is to promote development co-operation and other relevant
+  policies so as to contribute to implementation of the 2030 Agenda for
+  Sustainable Development, including sustained, inclusive and sustainable
+  economic growth, poverty eradication, improvement of living standards in
+  developing countries, and to a future in which no country will depend on
+  aid.</p>
 
+  <p>In order to achieve this overarching objective, the Committee shall:</p>
+
+  <p>a) monitor, assess, report, and promote the provision of resources that
+  support sustainable development by collecting and analysing data and
+  information on ODA and other official and private flows, in a transparent
+  way.</p>
+
+  <p>With a mandate from countries around the world, IRENA encourages
+  governments to adopt enabling policies for renewable energy investments,
+  provides practical tools and policy advice to accelerate renewable energy
+  deployment, and facilitates knowledge sharing and technology transfer to
+  provide clean, sustainable energy for the world&#x2019;s growing population.
+  Collecting official statistics (including international public finance flows)
+  is in line with these aims. </p>
+OTHER_METHOD: ''
+RATIONALE: >-
   <p>Total ODA and OOF flows to developing countries quantify the public
   financial effort (excluding export credits) that donors provide to developing
   countries for renewable energies. The additional flows (from the IRENA
@@ -130,8 +164,6 @@ RATIONALE: >-
   a suitable measure of the international support given to developing countries
   to access these technologies.</p>
 REC_USE_LIM: >-
-  <h2>Comments and limitations:</h2>
-
   <p>Data in the Creditor Reporting System are available from 1973. However, the
   data coverage is considered complete since 1995 for commitments at an activity
   level and 2002 for disbursements. At present, flows to clean energy research
@@ -146,10 +178,6 @@ REC_USE_LIM: >-
   reporting and by comparing the data with other independent reporting by
   international development finance agencies.</p>
 DATA_COMP: >-
-  <h1>Methodology</h1>
-
-  <h2>Computation method:</h2>
-
   <p>The OECD flows are calculated by taking the total official flows (ODA and
   OOF) from DAC member countries, multilateral organisations and other providers
   of development assistance to the sectors listed above. The IRENA (additional)
@@ -158,51 +186,43 @@ DATA_COMP: >-
   domestic financial flows; international flows to countries outside developing
   regions; and flows reported by OECD (as described above). The flows are
   commitments measured in current United States Dollars (USD).</p>
+DATA_VALIDATION: >-
+  <p>For OECD, see: <a
+  href="http://www.oecd.org/dac/stats/methodology.htm">http://www.oecd.org/dac/stats/methodology.htm</a></p>
+ADJUSTMENT: <p>Not applicable.</p>
 IMPUTATION: >-
-  <h2>Treatment of missing values:</h2>
-
-  <ul>
-    <li><strong><em>At country level:</em></strong></li>
-  </ul>
+  <p>&#x2022; At country level</p>
 
   <p>Not applicable - there is no imputation of missing values.</p>
 
-  <ul>
-    <li><strong><em>At regional and global levels:</em></strong></li>
-  </ul>
+  <p>&#x2022; At regional and global levels</p>
 
   <p>Not applicable - there is no imputation of missing values to obtain
   regional or global totals. </p>
 REG_AGG: >-
-  <h2>Regional aggregates:</h2>
-
   <p>Regional and global totals are calculated by summing all available data
   from countries.</p>
-DOC_METHOD: >-
-  <h2>Methods and guidance available to countries for the compilation of the
-  data at the national level:</h2>
-
-  <p>Not applicable.</p>
+DOC_METHOD: <p>Not applicable.</p>
 QUALITY_MGMNT: >-
-  <h2>Consultation/validation process with countries for adjustments and
-  estimates:</h2>
-
-  <p>For OECD, see: <a
-  href="http://www.oecd.org/dac/stats/methodology.htm">http://www.oecd.org/dac/stats/methodology.htm</a></p>
+  <p>IRENA validates this indicator for regional, technological, donor, and time
+  aggregations. Any values that are not properly categorised are reviewed at the
+  project level, and manually categorised under the appropriate technology,
+  country, year or instrument type. </p>
 QUALITY_ASSURE: >-
-  <h2>Quality assurance:</h2>
-
   <p>OECD/DAC data are reported by donors according to the same standards and
-  methodologies (see here: <a
-  href="http://www.oecd.org/dac/stats/methodology.htm">http://www.oecd.org/dac/stats/methodology.htm</a>).
-  IRENA data are compiled from national sources following the United Nations
+  methodologies (see here: http://www.oecd.org/dac/stats/methodology.htm). IRENA
+  data are compiled from national sources following the United Nations
   Fundamental Principles of Official Statistics: <a
-  href="https://unstats.un.org/unsd/dnss/gp/fundprinciples.aspx">https://unstats.un.org/unsd/dnss/gp/fundprinciples.aspx</a>.
-  </p>
+  href="https://unstats.un.org/unsd/dnss/gp/fundprinciples.aspx">https://unstats.un.org/unsd/dnss/gp/fundprinciples.aspx</a>.</p>
+QUALITY_ASSMNT: >-
+  <p>This indicator is considered in good order when all the international
+  financial flows of the database are correctly allocated to a country, year,
+  technology, instrument type, and any other category respective to the
+  requirements for the Global SDG database, and as required by the UNSD.
+  Furthermore, the flows are in good order when properly deflated to account for
+  inflation and exchange rate changes.</p>
 COVERAGE: >-
-  <h1>Data availability</h1>
-
-  <p><strong>Description:</strong></p>
+  <p>Data availability:</p>
 
   <p>The CRS contains flows to all DAC recipient countries. Global and regional
   figures are based on the sum of ODA and OOF flows to the renewable energy
@@ -211,14 +231,12 @@ COVERAGE: >-
   <p>IRENA currently includes data about renewable energy projects in 29
   developed countries and 104 developing countries (133 countries overall).</p>
 
-  <h2>Time series:</h2>
+  <p>Time series:</p>
 
-  <p><strong><em>OECD</em></strong>: annual data from 1960 onwards (see above).
-  </p>
+  <p>OECD: annual data from 1960 onwards (see above). IRENA: annual data from
+  2000 onwards.</p>
 
-  <p><strong><em>IRENA:</em></strong> annual data from 2000 onwards.</p>
-
-  <h2>Disaggregation:</h2>
+  <p>Disaggregation:</p>
 
   <p>Data in the CRS contain markers which reflect whether a policy objective is
   attained through the activity. Measuring gender equality is included in the
@@ -234,14 +252,12 @@ COVERAGE: >-
   the country and regional level), by financial instrument and by type of
   recipient.</p>
 COMPARABILITY: >-
-  <h2>Sources of discrepancies:</h2>
+  <p>Sources of discrepancies:</p>
 
   <p>Neither OECD nor IRENA make estimates of these figures. The data all come
   from national sources reported to OECD or, in the case of IRENA, from
   officially published statistics.</p>
 OTHER_DOC: >-
-  <h1>References</h1>
-
   <p>CRS: See all links here: <a
   href="http://www.oecd.org/dac/stats/methodology.htm">http://www.oecd.org/dac/stats/methodology.htm</a>
   </p>

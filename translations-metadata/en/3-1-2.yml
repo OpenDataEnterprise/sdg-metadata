@@ -1,56 +1,58 @@
-SDG_GOAL: '<p>Goal 3: Ensure healthy lives and promote well-being for all at all ages</p>'
+SDG_INDICATOR_INFO: ''
+SDG_GOAL: >-
+  <p>Goal 3: Ensure healthy lives and promote well-being for all at all ages
+  </p>
 SDG_TARGET: >-
   <p>Target 3.1: By 2030, reduce the global maternal mortality ratio to less
-  than 70 per 100,000 live births</p>
+  than 70 per 100,000 live births </p>
 SDG_INDICATOR: >-
-  <p>Indicator 3.1.2: Proportion of births attended by skilled health
-  personnel</p>
-META_LAST_UPDATE: '<p>Last updated: 18 February 2020</p>'
+  <p>Indicator 3.1.2: Proportion of births attended by skilled health personnel
+  </p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: <p>18 February 2020</p>
+SDG_RELATED_INDICATORS: ''
 SDG_CUSTODIAN_AGENCIES: >-
-  <h1>Institutional information</h1>
-
-  <h2>Organization(s):</h2>
-
+  <p>United Nations Children&#x2019;s Fund (UNICEF) and World Health
+  Organization (WHO) </p>
+CONTACT: ''
+CONTACT_ORGANISATION: >-
   <p>United Nations Children&#x2019;s Fund (UNICEF) and World Health
   Organization (WHO)</p>
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <h1>Concepts and definitions</h1>
-
-  <h2>Definition:</h2>
+  <p><strong>Definition:</strong> </p>
 
   <p>Percentage of births attended by skilled health personnel (generally
   doctors, nurses or midwives) is the percentage of childbirths attended by
-  professional health personnel. According to the revised definition<sup><a
-  href="#footnote-1" id="footnote-ref-1">[1]</a></sup> these are competent
-  maternal and newborn health (MNH) professionals educated, trained and
-  regulated to national and international standards. They are competent to: (i)
-  provide and promote evidence-based, human-rights based, quality,
-  socio-culturally sensitive and dignified care to women and newborns; (ii)
-  facilitate physiological processes during labour and delivery to ensure a
+  professional health personnel. According to the revised definition<sup>1</sup>
+  these are competent maternal and newborn health (MNH) professionals educated,
+  trained and regulated to national and international standards. They are
+  competent to: (i) provide and promote evidence-based, human-rights based,
+  quality, socio-culturally sensitive and dignified care to women and newborns;
+  (ii) facilitate physiological processes during labour and delivery to ensure a
   clean and positive childbirth experience; and (iii) identify and manage or
-  refer women and/or newborns with complications. Traditional birth attendants,
-  even if they receive a short training course, are not included.</p><div
-  class="footnotes"><div><sup class="footnote-number" id="footnote-1">1</sup><p>
-  Definition of skilled health personnel providing care during childbirth: the
-  2018 joint statement by WHO, UNFPA, UNICEF, ICM, ICN, FIGO and IPA available
-  at <a
-  href="https://data.unicef.org/resources/definition-of-skilled-health-personnel-providing-care-during-childbirth/">https://data.unicef.org/resources/definition-of-skilled-health-personnel-providing-care-during-childbirth/</a>
-  <a href="#footnote-ref-1">&#x2191;</a></p></div></div>
+  refer women and/or newborns with complications.Traditional birth attendants,
+  even if they receive a short training course, are not included. </p>
+
+  <p> </p>
+UNIT_MEASURE: ''
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <h1>Data sources</h1>
-
-  <h2>Description:</h2>
-
   <p>National-level household surveys are the main data sources used to collect
   data for skilled health personnel SBA. These surveys include Demographic and
   Health Surveys (DHS), Multiple Indicator Cluster Surveys (MICS), Reproductive
   Health Surveys (RHS) and national surveys based on similar methodologies. The
   surveys are undertaken every 3 to 5 years. For mainly industrialized countries
-  (where the coverage is high), data sources include routine service
-  statistics.</p>
+  (where the coverage is high), data sources include routine service statistics.
+  </p>
 COLL_METHOD: >-
-  <h2>Collection process:</h2>
-
   <p>UNICEF and WHO maintain joint databases on skilled attendance at delivery
   (e.g. doctor, nurse or midwife or any additional qualified category) and both
   collaborate to ensure the consistency of data sources. These surveys include
@@ -58,7 +60,9 @@ COLL_METHOD: >-
   (MICS), Reproductive Health Surveys (RHS) and national surveys based on
   similar methodologies. The surveys are undertaken every 3 to 5 years. For
   mainly industrialized countries (where the coverage is high), data sources
-  include routine service statistics.</p>
+  include routine service statistics. </p>
+
+  <p> </p>
 
   <p>Before acceptance into the joint global databases, UNICEF and WHO undergo a
   country consultation that consists of an updating and verification process
@@ -67,83 +71,66 @@ COLL_METHOD: >-
   health personnel are verified, and so the estimates for some countries may
   include additional categories of trained personnel beyond doctors, nurses, and
   midwives.</p>
+
+  <p> </p>
 FREQ_COLL: >-
-  <h1>Calendar</h1>
-
-  <h2>Data collection:</h2>
-
   <p>As the main source of data is household surveys which are conducted every
   3-5 years, the collection of data are under this schedule. When data comes
-  from administrative source, data can be available on an annual basis.</p>
+  from administrative source, data can be available on an annual basis. </p>
 REL_CAL_POLICY: >-
-  <h2>Data release:</h2>
-
   <p>Estimates are published annually, in May by WHO in World Health Statistics
-  (<a
-  href="http://www.who.int/whosis/whostat/en/">http://www.who.int/whosis/whostat/en/</a>)
-  and by UNICEF in State of the World&#x2019;s Children, and are available at <a
-  href="http://www.data.unicef.org">www.data.unicef.org</a></p>
+  (<a href="http://www.who.int/whosis/whostat/en/"
+  target="_blank"><u>http://www.who.int/whosis/whostat/en/</u></a>) and by
+  UNICEF in State of the World&#x2019;s Children, and are available at <a
+  href="http://www.data.unicef.org/"
+  target="_blank"><u>www.data.unicef.org</u></a> </p>
 DATA_SOURCE: >-
-  <h1>Data providers</h1>
-
   <p>Ministries of Health and National Statistical Offices, either through
   household surveys or routine sources. </p>
 COMPILING_ORG: >-
-  <h1>Data compilers</h1>
-
   <p>United Nations Children&#x2019;s Fund (UNICEF), World Health Organization
-  (WHO)</p>
+  (WHO) </p>
+INST_MANDATE: ''
+OTHER_METHOD: ''
 RATIONALE: >-
-  <h2>Rationale:</h2>
-
   <p>Having a skilled attendant at the time of childbirth is an important
   lifesaving intervention for both women and babies. Not having access to this
   key assistance is detrimental to women&apos;s health because it could cause
   the death of the women or long lasting morbidity, especially in vulnerable
-  settings.</p>
+  settings. </p>
+REC_USE_LIM: ''
 DATA_COMP: >-
-  <h1>Methodology</h1>
-
-  <h2>Computation method:</h2>
-
   <p>The number of women aged 15-49 with a live birth attended by a skilled
   health personnel (e.g. doctors, nurses or midwives) during delivery is
   expressed as a percentage of women aged 15-49 with a live birth in the same
-  period.</p>
+  period. </p>
+DATA_VALIDATION: ''
+ADJUSTMENT: ''
 IMPUTATION: >-
-  <h2>Treatment of missing values:</h2>
-
   <ul>
-    <li><strong><em>At country level:</em></strong></li>
+    <li>At country level </li>
   </ul>
 
   <p>There is no treatment of missing values at country level. If value is
-  missing for a given year, then there is no reporting of that value.</p>
+  missing for a given year, then there is no reporting of that value. </p>
+
+  <p> </p>
 
   <ul>
-    <li><strong><em>At regional and global levels:</em></strong></li>
+    <li>At regional and global levels </li>
   </ul>
 
   <p>Missing values are not imputed for regional and global levels. The latest
   available year within each period is used for the calculation of regional and
   global average. </p>
 REG_AGG: >-
-  <h2>Regional aggregates:</h2>
-
   <p>Regional and global estimates are calculated using weighed averages. Annual
   number of births from United Nations Population Division, World Population
-  Prospects<sup><a href="#footnote-2" id="footnote-ref-2">[2]</a></sup> is used
-  is as a weighing indicator. Regional values are calculated for a reference
-  year, including a range of 4-5 years for each reference year. For example, for
-  2019, the latest year available for the period 2014--2019 was used.</p><div
-  class="footnotes"><div><sup class="footnote-number" id="footnote-2">2</sup><p>
-  United Nations, Department of Economic and Social Affairs, Population
-  Division, World Population Prospects.  <a
-  href="#footnote-ref-2">&#x2191;</a></p></div></div>
+  Prospects<sup>2</sup> is used is as a weighing indicator. Regional values are
+  calculated for a reference year, including a range of 4-5 years for each
+  reference year. For example, for 2019, the latest year available for the
+  period 2014--2019 was used. </p>
 DOC_METHOD: >-
-  <h2>Methods and guidance available to countries for the compilation of the
-  data at the national level:</h2>
-
   <p>UNICEF and WHO maintain a joint databases on skilled attendance at
   childbirth (doctor, nurse or midwife or any additional qualified category) and
   both collaborate to ensure the consistency of data sources. These surveys
@@ -151,7 +138,9 @@ DOC_METHOD: >-
   Surveys (MICS), Reproductive Health Surveys (RHS) and national surveys based
   on similar methodologies. The surveys are undertaken every 3 to 5 years. For
   some countries, for example in high-income regions (where the coverage is
-  high), data sources include routine service statistics.</p>
+  high), data sources include routine service statistics. </p>
+
+  <p> </p>
 
   <p>Before acceptance into the joint global databases, UNICEF and WHO undergo a
   country consultation that consists of an updating and verification process
@@ -159,34 +148,34 @@ DOC_METHOD: >-
   regarding estimates. During this process, the national categories of skilled
   health personnel are verified, and so the estimates for some countries may
   include additional categories of trained personnel beyond doctors, nurses, and
-  midwives.</p>
+  midwives. </p>
+QUALITY_MGMNT: ''
 QUALITY_ASSURE: >-
-  <h2>Quality assurance:</h2>
-
   <p>Data are reported to UNICEF on an annual basis. Values are reviewed and
   assess to make sure that reported indicator complies with standard definition
   and methodology. </p>
+
+  <p> </p>
 
   <p>As part of the country consultation, data are reported by UNICEF country
   office or statistical offices in country to UNICEF-HQ for global compilation.
   At the national levels, country offices are in touch with national authorities
   to compile and provide requested data, and therefore, values reported in
   global database are validated by national authorities. </p>
+QUALITY_ASSMNT: ''
 COVERAGE: >-
-  <h1>Data availability</h1>
+  <p>Data availability: </p>
 
-  <h2>Description:</h2>
-
-  <p>Data are available for over 170 countries.</p>
+  <p>Data are available for over 170 countries. </p>
 
   <p>The lag between the reference year and actual production of data series
-  depends on the availability of the household survey for each country.</p>
+  depends on the availability of the household survey for each country. </p>
 
-  <h2>Time series:</h2>
+  <p>Time series:</p>
 
-  <p>1990-2019</p>
+  <p>1990-2019 </p>
 
-  <h2>Disaggregation:</h2>
+  <p>Disaggregation: </p>
 
   <p>For this indicator, when data are reported from household surveys,
   disaggregation is available for various socio-economic characteristics
@@ -195,38 +184,36 @@ COVERAGE: >-
   from administrative sources, disaggregation is more limited and tend to
   include only residence. </p>
 COMPARABILITY: >-
-  <h2>Sources of discrepancies:</h2>
+  <p><strong>Sources of discrepancies:</strong> </p>
 
   <p>Discrepancies are possible if there are national figures compiled at the
   health facility level. These would differ from the global figures, which are
-  typically based on survey data collected at the household level.</p>
+  typically based on survey data collected at the household level. </p>
 
   <p>In terms of survey data, some survey reports may present a total percentage
   of births attended by a skilled health professional that does not conform to
   the SDG definition (e.g., total includes provider that is not considered
   skilled, such as a community health worker). In that case, the percentage
-  delivered by a physician, nurse, or a midwife are totaled, consulted with the
-  country and included in the global database as the SDG estimate.</p>
+  delivered by a physician, nurse, or a midwife are totalled, consulted with the
+  country and included in the global database as the SDG estimate. </p>
 
   <p>In some countries where the indicator on skilled attendant at birth is not
   actively reported, birth in a health facility (institutional births) is used
   as a proxy indicator. This is frequent countries in the Latin America region
   or in European and Central Asian regions, where the proportion of
-  institutional births is very high. </p>
-
-  <p>Nonetheless, it should be noted that institutional births may underestimate
-  the percentage of births with skilled attendant.</p>
+  institutional births is very high. Nonetheless, it should be noted that
+  institutional births may underestimate the percentage of births with skilled
+  attendant. </p>
 OTHER_DOC: >-
-  <h1>References</h1>
+  <p><strong>URL: </strong><a
+  href="https://data.unicef.org/topic/maternal-health/delivery-care/"
+  target="_blank"><strong><u>https://data.unicef.org/topic/maternal-health/delivery-care/#</u></strong></a><strong>
+  </strong> </p>
 
-  <h2>URL: </h2>
+  <p> </p>
 
-  <p><a
-  href="https://data.unicef.org/topic/maternal-health/delivery-care/">https://data.unicef.org/topic/maternal-health/delivery-care/#</a>
-  </p>
-
-  <h2>References: &#xA0;</h2>
+  <p><strong>References:</strong> </p>
 
   <p>Joint UNICEF/WHO database 2020 of skilled health personnel, based on
-  population-based national household survey data and routine health
-  systems.</p>
+  population-based national household survey data and routine health systems.
+  </p>

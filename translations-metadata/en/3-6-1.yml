@@ -1,47 +1,60 @@
+SDG_INDICATOR_INFO: ''
 SDG_GOAL: '<p>Goal 3: Ensure healthy lives and promote well-being for all at all ages</p>'
 SDG_TARGET: >-
   <p>Target 3.6: By 2020, halve the number of global deaths and injuries from
-  road traffic accidents</p>
-SDG_INDICATOR: '<p>Indicator 3.6.1: Death rate due to road traffic injuries</p>'
-META_LAST_UPDATE: '<p>Last updated: 19 July 2016</p>'
-SDG_RELATED_INDICATORS: |-
-  <h1>Related indicators as of February 2020</h1>
-  <p>3.5, 11.2</p>
-SDG_CUSTODIAN_AGENCIES: |-
-  <h1>Institutional information</h1>
-  <h2>Organization(s):</h2>
-  <p>World Health Organization (WHO)</p>
+  road traffic accidents </p>
+SDG_INDICATOR: '<p>Indicator 3.6.1: Death rate due to road traffic injuries </p>'
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: <p>19 July 2016</p>
+SDG_RELATED_INDICATORS: '<p>3.5, 11.2 </p>'
+SDG_CUSTODIAN_AGENCIES: <p>World Health Organization (WHO) </p>
+CONTACT: ''
+CONTACT_ORGANISATION: <p>World Health Organization (WHO) </p>
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <h1>Concepts and definitions</h1>
+  <p><strong>Definition:</strong> </p>
 
-  <p><strong>Definition:</strong></p>
+  <p> </p>
 
   <p>Death rate due to road traffic injuries as defined as the number of road
-  traffic fatal injury deaths per 100,000 population.</p>
+  traffic fatal injury deaths per 100,000 population. </p>
 
-  <h2>Concepts:</h2>
+  <p> </p>
 
-  <p>Numerator: Number of deaths due to road traffic crashes</p>
+  <p><strong>Concepts:</strong> </p>
+
+  <p> </p>
+
+  <p>Numerator: Number of deaths due to road traffic crashes </p>
+
+  <p> </p>
 
   <p>Absolute figure indicating the number of people who die as a result of a
-  road traffic crash.</p>
+  road traffic crash. </p>
 
-  <p>Denominator: Population (number of people by country)</p>
+  <p> </p>
+
+  <p>Denominator: Population (number of people by country) </p>
+UNIT_MEASURE: ''
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <h1>Data sources</h1>
-
-  <h2>Description:</h2>
-
   <p>For the road traffic deaths we have two sources of data. Data from Global
   Status Report on Road Safety survey and Vital registration or certificate
   deaths data that WHO receive every year from member states (ministries of
-  health).</p>
+  health). </p>
+
+  <p> </p>
 
   <p>For the population, we used data from the United Nations / Department of
-  Economic and Social Affairs/ Population division.</p>
+  Economic and Social Affairs/ Population division. </p>
 COLL_METHOD: >-
-  <h2>Collection process:</h2>
-
   <p>The methodology involved collecting data from a number of different sectors
   and stakeholders in each country is as follows. National Data Coordinators
   (NDCs), who were nominated by their governments, were trained in the project
@@ -57,42 +70,29 @@ COLL_METHOD: >-
   the World Health Organization (WHO). More details are in the Global Status
   Report on Road Safety 2015. A guide to our questionnaire describing age groups
   and other dimensions was provided to countries in order to standardize data
-  collected.</p>
+  collected. </p>
 FREQ_COLL: >-
-  <h1>Calendar</h1>
-
-  <h2>Data collection:</h2>
-
   <p>The next collection of data is planned for 2017, although the data
   collected on fatalities is likely to be 2015 or 2016 (we will ask for the most
   recent country data available). </p>
-REL_CAL_POLICY: |-
-  <h2>Data release:</h2>
-  <p>The new data for this indicator will be published in early 2019.</p>
+REL_CAL_POLICY: <p>The new data for this indicator will be published in early 2019 </p>
 DATA_SOURCE: >-
-  <h1>Data providers</h1>
-
   <p>The road traffic deaths data were provided nationally by mainly three
   ministries, namely, ministry of health, ministry of interior and ministry of
-  transport</p>
+  transport </p>
 COMPILING_ORG: >-
-  <h1>Data compilers</h1>
-
   <p>WHO is the organization responsible for compilation and reporting on this
-  indicator at the global level</p>
+  indicator at the global level </p>
+INST_MANDATE: ''
+OTHER_METHOD: ''
+RATIONALE: ''
 REC_USE_LIM: >-
-  <h2>Comments and limitations:</h2>
-
   <p>There are no vital registration data for all countries to make comparison
   against the data received on the survey. We published only confidence
   intervals for countries that have poor completeness of vital registration
   data. Also we cannot collect road traffic data every year using this
-  methodology outlined in the Global status report.</p>
+  methodology outlined in the Global status report. </p>
 DATA_COMP: >-
-  <h1>Methodology</h1>
-
-  <h2>Computation method:</h2>
-
   <p>Our model is based on the quality of data we received. As a health
   organization, we rely primarily on the submission of vital registration data
   from countries&#x2019; Ministries of Health to WHO (through the official
@@ -101,104 +101,127 @@ DATA_COMP: >-
   the data are, that is, determining if there is good completeness and coverage
   of deaths for all causes. </p>
 
-  <p>We classified the countries on 4 categories or groups namely,</p>
+  <p> </p>
 
-  <p>Group 1: Countries with death registration data (good vital/ death
-  registration data)</p>
+  <p>We classified the countries on 4 categories or groups namely, </p>
 
-  <p>Group 2: Countries with other sources of information on causes of death</p>
+  <p> </p>
 
-  <p>Group 3: Countries with population less than 150 000</p>
+  <p>Group1: Countries with death registration data (good vital/ death
+  registration data) </p>
 
-  <p>Group 4: Countries without eligible death registration data.</p>
+  <p>Group2: Countries with other sources of information on causes of death </p>
+
+  <p>Group3: Countries with population less than 150 000 </p>
+
+  <p>Group4: Countries without eligible death registration data. </p>
+
+  <p> </p>
 
   <p>The Health Information Systems department analyses the quality and the
   completeness of the data. For the road safety model, if the country is
   considered by WHO to have good vital registration (VR) data this means that
-  the country is in group 1, then we don&#x2019;t apply a regression model to
+  the country is in group1, then we don&#x2019;t apply a regression model to
   come up with an estimate (we may, however, project forward if the vital
   registration data are dated). If the country is considered in group 4 then we
   apply a negative binomial regression where N is the total road traffic deaths
   , C is constant term, Xi are a set of explanatory covariates, Pop is the
-  population for the country-year, and ? is the negative binomial error
-  term.</p>
+  population for the country-year, and ? is the negative binomial error term.
+  </p>
+
+  <p> </p>
 
   <p>For the countries from group 2, the regression method described above was
   used to project forward the most recent year for which an estimate of total
-  deaths were available.</p>
+  deaths were available. </p>
+
+  <p> </p>
 
   <p>Finally, the countries from group 3 which have a population less than
   150,000 and did not have eligible death registration data, regression
   estimates were not used. Only the reported death were directly without
-  adjustment.</p>
+  adjustment. </p>
 
-  <p>More details about this estimation process in <em>Global Status Report on
-  Road Safety 2015</em>.</p>
+  <p> </p>
+
+  <p>More details about this estimation process in Global Status Report on Road
+  Safety 2015. </p>
+DATA_VALIDATION: ''
+ADJUSTMENT: ''
 IMPUTATION: >-
-  <h2>Treatment of missing values:</h2>
-
   <ul>
-    <li><strong><em>At country level:</em></strong></li>
+    <li>At country level </li>
   </ul>
 
-  <p>Treatment of missing data was carried out as follows:</p>
+  <p>Treatment of missing data was carried out as follows: </p>
+
+  <p> </p>
 
   <p>1) Identified missing values (or years) in vital registration (VR) data and
   looked for other sources in our case data from the questionnaire/survey
   (reported ) for these years. We then calculated the factor VR/Reported for the
   latest 3 years where VR and Reported data were available and used this factor
-  to adjust Reported data to replace the missing value of VR data.</p>
+  to adjust Reported data to replace the missing value of VR data. </p>
+
+  <p> </p>
 
   <p>2) In the case where there is missing data in VR and Reported data, the
   missing values were imputed with a negative binomial regression of rate for
   each country if the regression converged or was significant. Otherwise we used
-  the average rate of years with data.</p>
+  the average rate of years with data. </p>
+
+  <p> </p>
 
   <ul>
-    <li><strong><em>At regional and global levels:</em></strong></li>
+    <li>At regional and global levels </li>
   </ul>
 
-  <p>Same as the procedure described for 11.2 above</p>
+  <p>Same as the procedure described for 11.2 above </p>
 REG_AGG: >-
-  <h2>Regional aggregates:</h2>
-
   <p>We used the WHO&apos;s regional grouping and the average to calculate the
   rate for each region. This means sum of road traffic deaths for region (i)
-  multiplied by 100,000 and divided by the population in region (i).</p>
+  multiplied by 100,000 and divided by the population in region(i). </p>
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
 COVERAGE: >-
-  <h1>Data availability</h1>
+  <p>Data availability:</p>
 
-  <h2>Description:</h2>
+  <p>We have data for 194 countries. </p>
 
-  <p>We have data for 194 countries.</p>
+  <p>Time series:</p>
 
-  <h2>Time series:</h2>
+  <p>From 2000 to 2013 </p>
 
-  <p>From 2000 to 2013</p>
-
-  <h2>Disaggregation:</h2>
+  <p>Disaggregation:</p>
 
   <p>We disaggregated the data by types of road users, age, sex, income groups
-  and WHO regions</p>
+  and WHO regions </p>
 COMPARABILITY: >-
-  <h2>Sources of discrepancies:</h2>
+  <p>Sources of discrepancies:</p>
 
   <p>WHO&apos;s estimation of road traffic rates are, in many countries,
   different to the official estimates for the reasons described above that
-  relate to our methodology.</p>
+  relate to our methodology. </p>
+
+  <p> </p>
 
   <p>There are also differences in the data used for population between the
   national data and the estimates produced by the United Nations department of
-  population.</p>
+  population. </p>
 OTHER_DOC: >-
-  <h1>References</h1>
+  <p><strong>URL:</strong> </p>
 
-  <h2>URL:</h2>
+  <p> </p>
 
-  <p><a
-  href="http://www.who.int/violence_injury_prevention">http://www.who.int/violence_injury_prevention</a></p>
+  <p>http://www.who.int/violence_injury_prevention </p>
 
-  <h2>References:</h2>
+  <p> </p>
 
-  <p><a
-  href="http://www.who.int/violence_injury_prevention/road_safety_status/2015/en/">http://www.who.int/violence_injury_prevention/road_safety_status/2015/en/</a></p>
+  <p><strong>References:</strong> </p>
+
+  <p> </p>
+
+  <p>http://www.who.int/violence_injury_prevention/road_safety_status/2015/en/
+  </p>

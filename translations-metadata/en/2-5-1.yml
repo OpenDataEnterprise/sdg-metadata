@@ -1,3 +1,4 @@
+SDG_INDICATOR_INFO: ''
 SDG_GOAL: >-
   <p>Goal 2: End hunger, achieve food security and improved nutrition and
   promote sustainable agriculture</p>
@@ -11,20 +12,23 @@ SDG_TARGET: >-
 SDG_INDICATOR: >-
   <p>Indicator 2.5.1: Number of plant and animal genetic resources for food and
   agriculture secured in either medium or long-term conservation facilities</p>
-META_LAST_UPDATE: '<p>Last updated: 01 March 2019</p>'
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: <p>01 March 2019</p>
 SDG_RELATED_INDICATORS: >-
-  <h1>Related indicators as of February 2020</h1>
-
   <p>The component on animal genetic resources has linkages with indicator
   2.5.2.</p>
-SDG_CUSTODIAN_AGENCIES: |-
-  <h1>Institutional information</h1>
-  <h2>Organization(s):</h2>
-  <p>Food and Agriculture Organization of the United Nations (UN FAO)</p>
+SDG_CUSTODIAN_AGENCIES: <p>Food and Agriculture Organization of the United Nations (UN FAO)</p>
+CONTACT: ''
+CONTACT_ORGANISATION: <p>Food and Agriculture Organization of the United Nations (UN FAO)</p>
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <h1>Concepts and definitions</h1>
-
-  <h2>Definition:</h2>
+  <p><strong>Definition:</strong></p>
 
   <p>The conservation of plant and animal genetic resources for food and
   agriculture (GRFA) in medium or long term conservation facilities (<em>ex
@@ -42,7 +46,7 @@ STAT_CONC_DEF: >-
   <p>The two components of the indicator, plant and animal GRFA, are separately
   counted.</p>
 
-  <p><strong><em>Plant genetic resources </em></strong></p>
+  <p><em>Plant genetic resources</em> </p>
 
   <p>The plant component is calculated as the number of accessions of plant
   genetic resources secured in conservation facilities under medium or long term
@@ -59,7 +63,7 @@ STAT_CONC_DEF: >-
   href="http://www.fao.org/docrep/meeting/028/mg538e.pdf">http://www.fao.org/docrep/meeting/028/mg538e.pdf</a>).
   </p>
 
-  <p><strong><em>Animal genetic resources </em></strong></p>
+  <p><em>Animal genetic resources</em> </p>
 
   <p>The animal component is calculated as the number of local breeds (i.e.
   being reported to exist only in one country) stored within a genebank
@@ -67,66 +71,62 @@ STAT_CONC_DEF: >-
   reconstitute the breed in case of extinction (further information on
   &#x201C;sufficient material stored to reconstitute a breed&#x201D; can be
   found in the Guidelines on Cryconservation of Animal Genetic Resources, FAO,
-  2012, accessible at <a
-  href="http://www.fao.org/docrep/016/i3017e/i3017e00.htm">http://www.fao.org/docrep/016/i3017e/i3017e00.htm</a>).
-  The guidelines have been endorsed by the FAO Commission on Genetic Resources
-  for Food and Agriculture at its Thirteenth Regular Session (<a
-  href="http://www.fao.org/docrep/meeting/024/mc192e.pdf">http://www.fao.org/docrep/meeting/024/mc192e.pdf</a>).</p>
+  2012, accessible at http://www.fao.org/docrep/016/i3017e/i3017e00.htm). The
+  guidelines have been endorsed by the FAO Commission on Genetic Resources for
+  Food and Agriculture at its Thirteenth Regular Session
+  (http://www.fao.org/docrep/meeting/024/mc192e.pdf).</p>
 
-  <h2>Concepts:</h2>
+  <p><strong>Concepts:</strong></p>
 
-  <p><strong><em>Plant genetic resources</em></strong></p>
+  <p><em>Plant genetic resources</em></p>
 
-  <p><em>Plant genetic resources for food and agriculture (PGRFA):</em> Any
-  genetic material of plant origin of actual or potential value for food and
+  <p>Plant genetic resources for food and agriculture (PGRFA): Any genetic
+  material of plant origin of actual or potential value for food and
   agriculture.</p>
 
-  <p><em>Accession:</em> An accession is defined as a sample of seeds, planting
-  materials or plants representing either a wild population, a landrace, a
-  breeding line or an improved cultivar, which is conserved in a genebank. Each
-  accession should be distinct and, in terms of genetic integrity, as close as
-  possible to the sample provided originally.</p>
+  <p>Accession: An accession is defined as a sample of seeds, planting materials
+  or plants representing either a wild population, a landrace, a breeding line
+  or an improved cultivar, which is conserved in a genebank. Each accession
+  should be distinct and, in terms of genetic integrity, as close as possible to
+  the sample provided originally.</p>
 
-  <p><em>Base collection:</em> A base collection is defined as a set of unique
-  accessions to be preserved for a medium to long-term period.</p>
+  <p>Base collection: A base collection is defined as a set of unique accessions
+  to be preserved for a medium to long-term period.</p>
 
-  <p><em>Active collection:</em> An active collection is defined as a set of
-  distinct accessions that is used for regeneration, multiplication,
-  distribution, characterization and evaluation. Active collections are
-  maintained in short to medium-term storage and usually duplicated in a base
-  collection. </p>
+  <p>Active collection: An active collection is defined as a set of distinct
+  accessions that is used for regeneration, multiplication, distribution,
+  characterization and evaluation. Active collections are maintained in short to
+  medium-term storage and usually duplicated in a base collection. </p>
 
-  <p><em>Medium or long term conservation facilities:</em> Biological diversity
-  is often conserved <em>ex situ</em>, outside its natural habitat, in
-  facilities called genebanks. In the case of plant genetic resources, genebanks
-  conserve base collections under medium or long term storage conditions, in the
-  form of seeds in cold rooms, plants in the field and tissues <em>in vitro</em>
-  and/or cryoconserved. </p>
+  <p>Medium or long term conservation facilities: Biological diversity is often
+  conserved <em>ex situ</em>, outside its natural habitat, in facilities called
+  genebanks. In the case of plant genetic resources, genebanks conserve base
+  collections under medium or long term storage conditions, in the form of seeds
+  in cold rooms, plants in the field and tissues <em>in vitro</em> and/or
+  cryoconserved. </p>
 
-  <p><strong><em>Animal genetic resources</em></strong></p>
+  <p><em>Animal genetic resources</em></p>
 
-  <p><em>Breed:</em> A breed is either a sub-specific group of domestic
-  livestock with definable and identifiable external characteristics that enable
-  it to be separated by visual appraisal from other similarly defined groups
-  within the same species, or a group for which geographical and/or cultural
-  separation from phenotypically similar groups has led to acceptance of its
-  separate identity. </p>
+  <p>Breed: A breed is either a sub-specific group of domestic livestock with
+  definable and identifiable external characteristics that enable it to be
+  separated by visual appraisal from other similarly defined groups within the
+  same species, or a group for which geographical and/or cultural separation
+  from phenotypically similar groups has led to acceptance of its separate
+  identity. </p>
 
-  <p><em>Medium or long term conservation facilities:</em> Biological diversity
-  is often conserved <em>ex situ</em>, outside its natural habitat, in
-  facilities called genebanks. In the case of domestic animal diversity, <em>ex
-  situ</em> conservation includes both the maintenance of live animals (<em>in
-  vivo</em>) and cryoconservation. </p>
+  <p>Medium or long term conservation facilities: Biological diversity is often
+  conserved <em>ex situ</em>, outside its natural habitat, in facilities called
+  genebanks. In the case of domestic animal diversity, <em>ex situ</em>
+  conservation includes both the maintenance of live animals (<em>in vivo</em>)
+  and cryoconservation. </p>
 
-  <p><em>Cryoconservation</em> is the collection and deep-freezing of semen,
-  ova, embryos or tissues for potential future use in breeding or regenerating
-  animals.</p>
+  <p>Cryoconservation is the collection and deep-freezing of semen, ova, embryos
+  or tissues for potential future use in breeding or regenerating animals.</p>
+UNIT_MEASURE: ''
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <h1>Data sources</h1>
-
-  <h2>Description:</h2>
-
-  <p><strong><em>Plant genetic resources</em></strong></p>
+  <p><em>Plant genetic resources</em></p>
 
   <p>Data are sourced from officially appointed National Focal Points (NFP) (see
   <a
@@ -151,17 +151,14 @@ SOURCE_TYPE: >-
   assessments of the state of the world&#x2019;s plant genetic resources for
   food and agriculture. </p>
 
-  <p><strong><em>Animal genetic resources</em></strong></p>
+  <p><em>Animal genetic resources</em></p>
 
   <p>National Coordinators for Management of Animal Genetic Resources, nominated
   by their respective government, provide data to the Domestic Animal Diversity
-  Information System (DAD-IS) (<a
-  href="http://dad.fao.org">http://dad.fao.org</a>). DAD-IS allows countries the
+  Information System (DAD-IS) (http://dad.fao.org/). DAD-IS allows countries the
   storage of data on animal genetic resources being secured in either medium or
   long term conservation facilities as needed for the indicator.</p>
 COLL_METHOD: >-
-  <h2>Collection process:</h2>
-
   <p>The indicator is related to a monitoring framework endorsed by the FAO
   Commission on Genetic Resources for Food and Agriculture in which the status
   and trends of plant and animal genetic resources are described through
@@ -172,29 +169,22 @@ COLL_METHOD: >-
 
   <p>Sessions of the intergovernmental technical working groups on plant and on
   animal genetic resources for food and agriculture allow for formal
-  consultation processes.</p>
+  consultation processes. </p>
 FREQ_COLL: >-
-  <h1>Calendar</h1>
-
-  <h2>Data collection:</h2>
-
-  <p><strong><em>Plant genetic resources </em></strong></p>
+  <p><em>Plant genetic resources </em></p>
 
   <p>Data collection is undertaken on an annual basis in the context of the FAO
   Commission on Genetic resources for Food and Agriculture.</p>
 
-  <p><strong><em>Animal genetic resources </em></strong></p>
+  <p><em>Animal genetic resources</em> </p>
 
   <p>Data in DAD-IS can be updated throughout the whole year. </p>
 REL_CAL_POLICY: |-
-  <h2>Data release:</h2>
-  <p><strong><em>Plant genetic resources </em></strong></p>
+  <p><em>Plant genetic resources </em></p>
   <p>First quarter of the year.</p>
-  <p><strong><em>Animal genetic resources</em></strong></p>
+  <p><em>Animal genetic resources</em></p>
   <p>First quarter of the year.</p>
 DATA_SOURCE: >-
-  <h1>Data providers</h1>
-
   <p>The officially nominated National Focal Points / National Coordinators, and
   managers of regional/international genebanks. For information by country see
   for plant genetic resources <a
@@ -202,12 +192,10 @@ DATA_SOURCE: >-
   and for animal genetic resources <a
   href="http://www.fao.org/dad-is/national-coordinators/en/">http://www.fao.org/dad-is/national-coordinators/en/</a>
   .</p>
-COMPILING_ORG: |-
-  <h1>Data compilers</h1>
-  <p>Food and Agriculture Organization of the United Nations (UN FAO)</p>
+COMPILING_ORG: <p>Food and Agriculture Organization of the United Nations (UN FAO)</p>
+INST_MANDATE: ''
+OTHER_METHOD: ''
 RATIONALE: >-
-  <p><strong>Rationale:</strong></p>
-
   <p>Genetic resources for food and agriculture provide the building blocks of
   food security and, directly or indirectly, support the livelihoods of every
   person on earth. As the conservation and accessibility to these resources are
@@ -240,7 +228,7 @@ RATIONALE: >-
   order to avoid duplicate counting at the national level, primarily base
   collections should be reported. An active collection could be reported, only
   when, in the absence of a base collection, it also serves the function of the
-  base collection. Another example that needs to be monitored both while
+  base collection.Another example that needs to be monitored both while
   reporting and interpreting the results include the grouping or splitting of
   accessions, as in both cases the variation in the accounted number does not
   reflect a variation in the genetic diversity conserved and secured. Therefore,
@@ -250,9 +238,7 @@ RATIONALE: >-
   when this does not reflect a real loss or gain in the genetic diversity
   conserved and secured.</p>
 REC_USE_LIM: >-
-  <h2>Comments and limitations:</h2>
-
-  <p><strong><em>Plant genetic resources</em></strong></p>
+  <p><em>Plant genetic resources</em></p>
 
   <p>Broadly, two issues are of concern in using the &#x201C;number of
   accessions&#x201D; as an indicator of diversity in <em>ex situ</em>
@@ -273,16 +259,12 @@ REC_USE_LIM: >-
   implementation of the Global Plan of Action for PGRFA under the FAO Commission
   on Genetic Resources for Food and Agriculture. </p>
 
-  <p><strong><em>Animal genetic resources</em></strong></p>
+  <p><em>Animal genetic resources</em></p>
 
   <p>Information on cryoconserved material in the Domestic Animal Diversity
   Information System DAD-IS needs to be updated on a regular base.</p>
 DATA_COMP: >-
-  <h1>Methodology</h1>
-
-  <h2>Computation method:</h2>
-
-  <p><strong><em>Plant genetic resources</em></strong></p>
+  <p><em>Plant genetic resources</em></p>
 
   <p>The plant component of the indicator is calculated as the total number of
   unique accessions of plant genetic resources secured in medium to long term
@@ -290,21 +272,21 @@ DATA_COMP: >-
   collections, and unique accessions stored in medium term conservation
   facilities, as active collections, only when these accessions are considered
   to become part of the national base collections. Base collections may include
-  both seed, field, cryo-preserved or in vitro collections depending on the
-  species conserved and the available facilities in the country.</p>
+  both seed, field, cryo-preserved or <em>in vitro</em> collections depending on
+  the species conserved and the available facilities in the country.</p>
 
-  <p><strong><em>Animal genetic resources</em></strong></p>
+  <p><em>Animal genetic resources</em></p>
 
   <p>For the animal component the indicator is calculated as the number of local
   breeds with enough genetic material stored within genebank collections
   allowing to reconstitute the breed in case of extinction (based on the
   Guidelines on Cryconservation of animal genetic resources, FAO, 2012, <a
   href="http://www.fao.org/docrep/016/i3017e/i3017e00.htm">http://www.fao.org/docrep/016/i3017e/i3017e00.htm</a>).</p>
+DATA_VALIDATION: ''
+ADJUSTMENT: ''
 IMPUTATION: >-
-  <h2>Treatment of missing values:</h2>
-
   <ul>
-    <li><strong><em>At country level:</em></strong></li>
+    <li>At country level</li>
   </ul>
 
   <p>For plants missing values are treated as such and not replaced by
@@ -316,20 +298,15 @@ IMPUTATION: >-
   &#x201C;unknown&#x201D;. </p>
 
   <ul>
-    <li><strong><em>At regional and global levels:</em></strong></li>
+    <li>At regional and global levels</li>
   </ul>
 
   <p>For both components, plants and animals, missing values are treated as such
   and not replaced by estimates.</p>
 REG_AGG: >-
-  <h2>Regional aggregates:</h2>
-
   <p>For both components, plants and animals, aggregates are the sum of country
   values.</p>
 DOC_METHOD: >-
-  <h2>Methods and guidance available to countries for the compilation of the
-  data at the national level:</h2>
-
   <p>For the plant component of the indicator, officially appointed National
   Focal Points and managers of regional or international genebanks are requested
   to provide the list of accessions conserved in medium or long term
@@ -339,8 +316,8 @@ DOC_METHOD: >-
   href="http://www.fao.org/wiews">http://www.fao.org/wiews</a>). Out of the 12
   passport descriptors which can be used to characterize each accession, four
   are mandatory: (i) the name of the genebank (or <em>holding institute
-  code</em>); (ii) the <em>accession number</em><sup><a href="#footnote-1"
-  id="footnote-ref-1">[1]</a></sup>; (iii) the scientific name of the accession
+  code</em>); (ii) the <em>accession number</em><sup><a href="#footnote-2"
+  id="footnote-ref-2">[1]</a></sup>; (iii) the scientific name of the accession
   (<em>name of taxon</em>, including genus, species and lower taxonomic
   ranking); and (iv) the type of storage. Reporting on the remaining descriptors
   is highly recommended, as it allows the analysis of changes in different types
@@ -361,11 +338,10 @@ DOC_METHOD: >-
   cryconservation programme, as well as the number of the respective male and
   female donors to the Domestic Animal Diversity Information System
   DAD-IS.</p><div class="footnotes"><div><sup class="footnote-number"
-  id="footnote-1">1</sup><p> <a
-  href="#footnote-ref-1">&#x2191;</a></p></div></div>
+  id="footnote-2">1</sup><p> <a
+  href="#footnote-ref-2">&#x2191;</a></p></div></div>
+QUALITY_MGMNT: ''
 QUALITY_ASSURE: >-
-  <h2>Quality assurance:</h2>
-
   <p>FAO. 2012. Cryoconservation of animal genetic resources. FAO Animal
   Production and Health Guidelines No. 12. Rome. (available at <a
   href="http://www.fao.org/docrep/016/i3017e/i3017e00.pdf">http://www.fao.org/docrep/016/i3017e/i3017e00.pdf</a>)</p>
@@ -373,12 +349,11 @@ QUALITY_ASSURE: >-
   <p>FAO 2014. Genebank Standards for Plant Genetic Resources for Food and
   Agriculture. Rome. (<a
   href="http://www.fao.org/3/a-i3704e.pdf">http://www.fao.org/3/a-i3704e.pdf</a>)</p>
+QUALITY_ASSMNT: ''
 COVERAGE: >-
-  <h1>Data availability</h1>
+  <p><strong>Data availability:</strong></p>
 
-  <h2>Description:</h2>
-
-  <p><strong><em>Plant genetic resources</em></strong></p>
+  <p><em>Plant genetic resources</em></p>
 
   <p>The data collected as part of the first monitoring cycle of the
   implementation of the Second Global Plan of Action for PGRFA serve as baseline
@@ -390,7 +365,7 @@ COVERAGE: >-
   coverage of countries and international/regional centres, as well as the
   quality of the information.</p>
 
-  <p><strong><em>Animal genetic resources</em></strong></p>
+  <p><em>Animal genetic resources</em></p>
 
   <p>The analysis of country reports to FAO provided by 128 countries in 2014
   for the preparation of &#x2018;The Second Report on the State of the
@@ -406,32 +381,30 @@ COVERAGE: >-
   results based on DAD-IS data underline the urgent need for countries to report
   information relating to cryconserved material in DAD-IS.</p>
 
-  <h2>Time series:</h2>
+  <p><strong>Time series:</strong></p>
 
-  <p><strong><em>Plant genetic resources</em></strong></p>
+  <p><em>Plant genetic resources</em></p>
 
   <p>Data are available in WIEWS for 2014, 2016, 2017 and 2018. Estimates of the
   status of the indicator before 2014 are made using the <em>acquisition
   date</em> of the accessions reported in 2014.</p>
 
-  <p><strong><em>Animal genetic resources</em></strong></p>
+  <p><em>Animal genetic resources</em></p>
 
   <p>Base line of data are country reports provided in 2014. DAD-IS data are
   available for 2017 and 2018.</p>
 
-  <h2>Disaggregation:</h2>
+  <p><strong>Disaggregation:</strong></p>
 
   <p>For both plant and animal components geographic disaggregation (national,
   regional, global) is made. Grouping by sex, age etc. is not applicable.</p>
 COMPARABILITY: >-
-  <h2>Sources of discrepancies:</h2>
+  <p><strong>Sources of discrepancies:</strong></p>
 
   <p>There are no internationally estimated data. Data on this indicator are all
   produced by countries and regional or international centres. </p>
 OTHER_DOC: >-
-  <h1>References</h1>
-
-  <p><strong><em>Plant genetic resources</em></strong></p>
+  <p><em>Plant genetic resources</em></p>
 
   <p>National Focal Points for the monitoring of the Second Global Plan of
   Action for Plant Genetic Resources for Food and Agriculture and the
@@ -449,16 +422,22 @@ OTHER_DOC: >-
   href="http://www.fao.org/docrep/015/i2624e/i2624e00.htm">http://www.fao.org/docrep/015/i2624e/i2624e00.htm</a></p>
 
   <p>Second Report on the State of the World&#x2019;s Plant Genetic Resources
-  for Food and Agriculture <a
+  for Food and Agriculture</p>
+
+  <p><a
   href="http://www.fao.org/docrep/013/i1500e/i1500e00.htm">http://www.fao.org/docrep/013/i1500e/i1500e00.htm</a></p>
 
   <p>Genebank Standards for Plant Genetic Resources for Food and Agriculture,
-  FAO, 2014 <a
+  FAO, 2014</p>
+
+  <p><a
   href="http://www.fao.org/documents/card/en/c/7b79ee93-0f3c-5f58-9adc-5d4ef063f9c7/">http://www.fao.org/documents/card/en/c/7b79ee93-0f3c-5f58-9adc-5d4ef063f9c7/</a></p>
 
   <p>Targets and Indicators for Plant Genetic Resources for Food and
   Agriculture, In: Report of the Fourteenth Regular Session of the Commission on
-  Genetic Resources for Food and Agriculture, CGRFA-14/13/Report, Appendix C <a
+  Genetic Resources for Food and Agriculture, </p>
+
+  <p>CGRFA-14/13/Report, Appendix C, <a
   href="http://www.fao.org/docrep/meeting/028/mg538e.pdf">http://www.fao.org/docrep/meeting/028/mg538e.pdf</a></p>
 
   <p>Reporting Format for Monitoring the Implementation of the Second Global
@@ -471,25 +450,31 @@ OTHER_DOC: >-
   <p><a
   href="http://www.bioversityinternational.org/fileadmin/user_upload/online_library/publications/pdfs/FAO-Bioversity_multi_crop_passport_descriptors_V_2_Final_rev_1526.pdf">http://www.bioversityinternational.org/fileadmin/user_upload/online_library/publications/pdfs/FAO-Bioversity_multi_crop_passport_descriptors_V_2_Final_rev_1526.pdf</a></p>
 
-  <p><strong><em>Animal genetic resources</em></strong></p>
+  <p><em>Animal genetic resources</em></p>
 
   <p>Preparation of the First Report on the State of the World&apos;s Animal
   Genetic Resources</p>
 
   <p>Guidelines for the Development of Country Reports. Annex 2. Working
   definitions for use in developing country reports and providing supporting
-  data. <a
+  data.</p>
+
+  <p><a
   href="http://www.fao.org/docrep/004/y1100m/y1100m03.htm">http://www.fao.org/docrep/004/y1100m/y1100m03.htm</a></p>
 
   <p>Guidelines on Cryconservation of Animal Genetic Resources, FAO, 2012,
   accessible at <a
   href="http://www.fao.org/docrep/016/i3017e/i3017e00.htm">http://www.fao.org/docrep/016/i3017e/i3017e00.htm</a></p>
 
-  <p>National Coordinator for Management of Animal Genetic Resources: <a
+  <p>National Coordinator for Management of Animal Genetic Resources: </p>
+
+  <p><a
   href="http://dad.fao.org/cgi-bin/EfabisWeb.cgi?sid=-1,contacts">http://dad.fao.org/cgi-bin/EfabisWeb.cgi?sid=-1,contacts</a></p>
 
-  <p>Status of Animal Genetic Resources &#x2013; 2016, CGRFA/WG-AnGR-9/16/Inf.3,
-  <a
+  <p>Status of Animal Genetic Resources &#x2013; 2016,
+  CGRFA/WG-AnGR-9/16/Inf.3,</p>
+
+  <p><a
   href="http://www.fao.org/3/a-mq950e.pdf">http://www.fao.org/3/a-mq950e.pdf</a></p>
 
   <p>Guidelines on In vivo Conservation of Animal Genetic Resources, FAO, 2013,
@@ -497,5 +482,7 @@ OTHER_DOC: >-
   href="http://www.fao.org/docrep/018/i3327e/i3327e.pdf">http://www.fao.org/docrep/018/i3327e/i3327e.pdf</a></p>
 
   <p>The Second Report on the State of the World&#x2019;s Animal Genetic
-  Resources for Food and Agriculture <a
+  Resources for Food and Agriculture</p>
+
+  <p><a
   href="http://www.fao.org/3/a-i4787e.pdf">http://www.fao.org/3/a-i4787e.pdf</a></p>

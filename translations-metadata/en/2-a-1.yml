@@ -1,3 +1,4 @@
+SDG_INDICATOR_INFO: ''
 SDG_GOAL: >-
   <p>Goal 2: End hunger, achieve food security and improved nutrition and
   promote sustainable agriculture</p>
@@ -10,15 +11,27 @@ SDG_TARGET: >-
 SDG_INDICATOR: >-
   <p>Indicator 2.a.1: The agriculture orientation index for government
   expenditures</p>
-META_LAST_UPDATE: '<p>Last updated: March 2020</p>'
-SDG_CUSTODIAN_AGENCIES: |-
-  <h1>Institutional information</h1>
-  <h2><strong><strong>Organization(s):</strong></strong></h2>
-  <p>Food and Agriculture Organization of the United Nations (FAO)</p>
-STAT_CONC_DEF: >-
-  <h1>Concepts and definitions</h1>
+SDG_SERIES_DESCR: >-
+  <p>Primary series: Agriculture orientation index for government
+  expenditures</p>
 
-  <h2><strong><strong>Definition:</strong></strong></h2>
+  <p>Complementary series: Agriculture value added share of GDP (%)</p>
+
+  <p>Complementary series: Agriculture share of Government Expenditure (%). </p>
+META_LAST_UPDATE: <p>March 2021</p>
+SDG_RELATED_INDICATORS: <p>Indicators 17.1.1 and 17.1.2 also apply IMF GFS methodology.</p>
+SDG_CUSTODIAN_AGENCIES: <p>Food and Agriculture Organization of the United Nations (FAO)</p>
+CONTACT: ''
+CONTACT_ORGANISATION: <p>Food and Agriculture Organization of the United Nations (FAO)</p>
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  <p><strong>Definition:</strong></p>
 
   <p>The Agriculture Orientation Index (AOI) for Government Expenditures is
   defined as the Agriculture share of Government Expenditure, divided by the
@@ -30,7 +43,7 @@ STAT_CONC_DEF: >-
   Government (COFOG), and Agriculture value added share of GDP according to the
   System of National Accounts (SNA).</p>
 
-  <h2><strong><strong>Concepts:</strong></strong></h2>
+  <p><strong>Concepts:</strong></p>
 
   <p>Agriculture refers to the agriculture, forestry, fishing and hunting
   sector, or Division A of ISIC Rev 4 (equal to Division A+B of ISIC Rev 3.2).
@@ -39,7 +52,10 @@ STAT_CONC_DEF: >-
   <p>Government Expenditure are all expense and acquisition of non-financial
   assets associated with supporting a particular sector, as defined in the
   Government Finance Statistics Manual (GFSM) 2014 developed by the
-  International Monetary Fund (IMF). </p>
+  International Monetary Fund (IMF). NOTE: Transactions in assets and
+  liabilities, such as loans by general government units (disbursement and
+  repayment), are excluded when compiling COFOG data for GFS reporting
+  purposes.</p>
 
   <p>Government Expenditure are classified according to the Classification of
   the Functions of Government (COFOG), a classification developed by the
@@ -48,68 +64,95 @@ STAT_CONC_DEF: >-
 
   <p>Agriculture value-added and GDP are based on the System of National
   Accounts (SNA). </p>
+UNIT_MEASURE: |-
+  <p>Ratio</p>
+  <p>See 4.c. Method of computation, below.</p>
+CLASS_SYSTEM: >-
+  <p>The Classification of the Functions of Government (COFOG) is a detailed
+  classification of the functions, or socioeconomic objectives, that general
+  government units aim to achieve through various kinds of expenditure.
+  Functions are classified using a three level scheme, consistent with the
+  International Standard Industrial Classification of All Economic Activities
+  (ISIC), Rev.4. In particular, the scheme includes: </p>
+
+  <ol>
+    <li>10 first-level, or two digit, categories, referred to as divisions, including Economic Affairs (04) and Environmental Protection (05); </li>
+    <li>2) within each division, 2 or more 3-digit three-digit categories, referred to as groups, such as Agriculture, Forestry, Fishing, and Hunting (042) and Protection of Biodiversity and Landscapes (054); and </li>
+    <li>3) within each group, one or more four-digit categories, referred to as classes, such as Agriculture (0421), Forestry (0422) and Fishing and hunting (0423). </li>
+  </ol>
+
+  <p>The International Monetary Fund (IMF) questionnaire on Governmen Finance
+  Statistics (GFS) collects data on the first two levels. The FAO questionnaire
+  aims at collecting information on classes, as well as a breakdown of the
+  related expenditure in recurrent and capital expenditures. The three
+  classification levels and the contents of each class are described in the GFSM
+  2014, accessible at https://www.imf.org/external/np/sta/gfsm/. </p>
+
+  <p>FAOSTAT geographic classification is used to aggregate indicators across
+  country groups (<a
+  href="http://www.fao.org/faostat/en/#definitions">http://www.fao.org/faostat/en/#definitions</a>).</p>
+SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <h1>Data sources</h1>
+  <p>Data on government expenditures is collected from countries through an
+  annual questionnaire administered by FAO. These data are not affected by
+  sampling error, given that countries typically compile the questionnaires
+  administered by FAO on the basis of their financial and accounting systems,
+  using administrative information on government expenditures based on the
+  availability and comprehensiveness of source data. For some countries that do
+  not report directly data to FAO, information is obtained either from the IMF
+  GFS database; however in this cases information is not disaggregated of the
+  basis of COFOG 042; or from official national governmental websites. </p>
 
-  <h2><strong><strong>Description:</strong></strong></h2>
-
-  <p>Data on government expenditures is collected from countries using an annual
-  questionnaire administered by FAO. Since countries typically compile
-  government expenditure data based on their financial systems, and is
-  administrative data covering the entirely of government expenditures,
-  particularly at the central government level, there is no sampling issue and
-  no possibility of sampling error. For some countries that do not report such
-  data to FAO, data may be obtained from the IMF GFS database (which includes
-  similar data but covering more sectors, and with less disaggregation of COFOG
-  042) or from official national governmental websites. </p>
-
-  <p>Data on agriculture value-added and GDP are based on the system of national
-  accounts, which is an analytical framework that compiles national data from a
-  mix of survey, census and administrative (e.g. tax) sources. This data is
-  obtained from the UN Statistics Division, which provides national accounts
-  estimates for 220 countries and territories.</p>
+  <p>Data on agriculture value-added and GDP are retrieved from the system of
+  national accounts. THs is normally an analytical framework that includes
+  national data from a mix of survey, census and administrative (e.g. tax)
+  sources. This data is sourced from the UN Statistics Division, which provides
+  national accounts estimates for 220 countries and territories.</p>
 COLL_METHOD: >-
-  <h2><strong><strong>Collection process:</strong></strong></h2>
-
   <p>Data for the denominator are annually collected from countries using the
   FAO questionnaire on Government Expenditure on Agriculture (GEA), developed in
   collaboration with the IMF. Data from countries may be supplemented, for
-  missing countries, with data collected by the IMF, or published on official
-  national governmental websites. The official counterpart(s) at country level
-  are, depending on the country, from the national statistics office, the
-  ministry of finance (or other central planning agency), or the ministry of
-  agriculture. Validation and consultation were conducted through various FAO
-  commissions and committees, including its two agricultural statistics
-  commissions in Africa and the Asia and Pacific, its Committee on Agriculture
-  and Livestock Statistics in Latin America and the Caribbean, and its Committee
-  on Agriculture.</p>
+  countries with missing information, with data collected by the IMF, or
+  published on official national governmental websites. The official
+  counterpart(s) at country level are, depending on the country, from the
+  national statistics office, the ministry of finance (or other central planning
+  agency), or the ministry of agriculture. Validation and consultation were
+  conducted through various FAO commissions and committees, including its two
+  agricultural statistics commissions in Africa and the Asia and Pacific, its
+  Committee on Agriculture and Livestock Statistics in Latin America and the
+  Caribbean, and its Committee on Agriculture. </p>
 FREQ_COLL: >-
-  <h1>Calendar</h1>
-
-  <h2><strong><strong>Data collection:</strong></strong></h2>
-
-  <p>The 2019 data collection of Government Expenditure on Agriculture will
-  start in May 2020.. Due to time required to collect, compile and publish
-  national data, very few countries will be able to provide 2019 reference year
-  data for the FAO Spring 2020 data collection cycle.</p>
+  <p>The 2020 reference year data collection cycle for Government Expenditure on
+  Agriculture (GEA) will start in March/April 2021. Due to time required to
+  collect, compile and publish national data, countries may experience delays in
+  reporting timely data. </p>
 REL_CAL_POLICY: >-
-  <h2><strong><strong>Data release:</strong></strong></h2>
-
   <p>As this data is largely compiled annually, the next release for this
-  indicator is planned for November 2020, covering data up to reference year
-  2019 (for the countries for which data collection, compilation, release is
-  more timely).</p>
-DATA_SOURCE: >-
-  <h1>Data providers</h1>
+  indicator is planned for November2021, covering data up to reference year 2020
+  (for the countries for which data collection, compilation, release is more
+  timely).</p>
 
+  <p> </p>
+DATA_SOURCE: >-
   <p>Ministry of Finance, Central Planning Agency, National Statistics Office,
   and/or Ministry of Agriculture</p>
-COMPILING_ORG: |-
-  <h1>Data compilers</h1>
-  <p>Food and Agriculture Organization of the UN (FAO)</p>
+COMPILING_ORG: <p>Food and Agriculture Organization of the UN (FAO)</p>
+INST_MANDATE: >-
+  <p>Article I of the FAO Constitution requires the Organization to
+  &quot;collect, analyse, interpret and disseminate information relating to
+  nutrition, food and agriculture.&quot;
+  (http://www.fao.org/docrep/x5584e/x5584e00.htm). Member countries reaffirmed
+  this mandate in 2000. Within the FAO&apos;s statistical program of work,
+  member countries endorsed the development of an investment statistics domain,
+  including ongoing work on government expenditure on agriculture, during
+  meetings of three statutory bodies: the Asia and Pacific Commission on
+  Agricultural Statistics (APCAS) held in Vietnam in February 2014; the African
+  Commission on Agricultural Statistics (AFCAS) held in Morocco in December
+  2013; and the IICA working group on agricultural and livestock statistics for
+  Latin America and the Caribbean, held in Trinidad and Tobago in June 2013.
+  </p>
+OTHER_METHOD: ''
 RATIONALE: >-
-  <h2><strong><strong>Rationale:</strong></strong></h2>
-
   <p>An Agriculture Orientation Index (AOI) greater than 1 reflects a higher
   orientation towards the agriculture sector, which receives a higher share of
   government spending relative to its contribution to economic value-added. An
@@ -161,112 +204,2272 @@ RATIONALE: >-
 
   <p>The AOI index takes into account a country&#x2019;s economic size,
   Agriculture&#x2019;s contribution to GDP, and the total amount of Government
-  Expenditure. As such, it allows for the setting of a universal and achievable
-  target. Nonetheless, it is useful to interpret the AOI in combination with its
+  Expenditure. While the indicator does not allow setting of a universal and
+  achievable target, it is useful to interpret the AOI in combination with its
   numerator and denominator separately: the Agriculture share of Government
   Expenditure and the Agriculture value-added Share of GDP</p>
 REC_USE_LIM: >-
-  <h2><strong><strong>Comments and limitations:</strong></strong></h2>
+  <p>Since the numerator of this data is based on financial and accounting
+  systems and administrative sources, there is no confidence interval or
+  standard error associated with government expenditure data. For the
+  denominator, national accounts data typically do not provide any standard
+  error or confidence interval information.</p>
 
-  <p>Since the numerator of this data is based on administrative sources, there
-  is no confidence interval or standard error associated with government
-  expenditure data. For the denominator, national accounts data typically do not
-  provide any standard error or confidence interval information.</p>
+  <p>The key limitation with this indicator is that Consolidated General
+  Government expenditure &#x2013; the best measure for cross-country comparisons
+  &#x2013; is not available for all reporting countries. While most advanced
+  economies &#x2013; and many emerging market economies &#x2013; do report these
+  data, many smaller and/or low income economies either do not have significant
+  fiscal interventions in agriculture at the state/provincial and
+  local/municipal levels; or do not have adequate source data to compile
+  meaningful general government estimates for each subsector, as relevant. Given
+  that in several countries, significant intervention in agriculture is
+  implemented by sub-national governments, the Indicator 2.a.1 is calculated
+  using the highest level of government available for the reporting country. For
+  some countries, such as India, where the general government sector is defined
+  for fiscal policy purposes as budgetary central government plus state
+  government, the Indicator will take this into account.</p>
 
-  <p>The key limitation with this indicator is that it takes into account only
-  central government expenditure. To the extent that some countries may have
-  heavier intervention in agriculture by sub-national governments, this will not
-  be taken into account.</p>
+  <p>Annex I lists the reporting countries, their M49 code, the latest year for
+  which data are available and the level of government for which data has been
+  reported. The level of government notation used is as follows: GG:
+  Consolidated General Government; CG Consolidated Central Government (excluding
+  Social Security Funds): CGI: Consolidated Central Government (including Social
+  Security Funds); BA: Budgetary Central Government.</p>
 DATA_COMP: >-
-  <h1>Methodology</h1>
-
-  <h2><strong><strong>Computation method:</strong></strong></h2>
-
-  <p>AOI = Agriculture Share of Government Expenditures/Agriculture Value Added
-  Share of GDP </p>
-
-  <p>Where: </p>
-
-  <p>Agriculture Share of Government Expenditure =</p>
-
-  <p>(Central Government Expenditure on Agriculture/Total Central Government
-  Expenditure) * 100</p>
-
-  <p>Agriculture refers to COFOG category 042 (agriculture, forestry, fishing
-  and hunting); and</p>
-
-  <p>Agriculture Value Added Share of GDP =</p>
-
-  <p>(Agriculture Value Added/GDP)* 100</p>
+  <p><img
+  src="data:image/png;base64,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gA81qU+PjnAe277a62b0tPLNorv6GGLqcxER3QqiCM4UgEIfnw1iA8VsUTHY0pFUgF+WwNlTXTsQWYOkpDoV+DDnqHVpeeWyaUCDM7DrgS5E5kQLJbl8dvwwRjdgwZgWYxOfxoJW5ZueFGpiwNdHhcBal19++ahomc54IIDveeONN7788ktei7XTTjtJKNaNZMQxIvvss48urr322i+//DLZvHXXXZeBzZ5YHlYLA0qal9k07zzLGUVVhDJZTUJeUli77747Vwja3n//fUIu9s7gOXifWXggCtMKOdVNN930/PPP/+ijjzDT/B511FFcmTdv3ksvvQQPGKCjjz4aUlyBf65gdjFVwW07nRZu4QQDh+eDtw022IDHLVr2WCIFhb///nv2TBXFttxyy2effRZB4JCdseCZQcAVUZH1V5pgTxO/4Iad5RFDDoD61a9+pSiW6jzjSIEhGYMOsf5jjz328MMP45bOPvtszC6cBIbyx9zlCr5/s802YwH1mWeeCUibOGdrEjzAyTbbbAOT4MPvz372s7POOiui8Pa6eciwuQkG6GDQ4aDz0J0gBX0Vk44I8XUlEPvxj38MYojWLmaLium0QH3nnXfSLmzwZr6mTTpggorF4VdffUXJU045JUtBZnudddap5nKqxoHB9c0339AH9HJvOjOg4dFj0DE5QC+MxACESQNrz+rncTDE6G/8BXwGxXhYoX5JMc7vqe+XJvrFLREABj1/0pwrPD7IFSeX+qVKcztaBNhsRcwa26xGS9zUuomA87rd1EvXuSK5VOwhJJDSdyq6zrr5MwLThoBWhZtywtPWrAnPMgL2o7OsgJ42r5VRLRnyy7INqcL8xoaeymW2jcCkEdAWLdLLfnBz0hj2tKLzuj1V3CyzzbINOxVjCw9hKA+tOxidZa24+dlDQOsaDAFWvlsei5o9Bt3yNCJgPzqN4Jq0ETACRsAIjD0CzuuOvYotoBEwAkbACEwjAvaj0wiuSRsBI2AEjMDYI2A/OvYqtoBGwAgYASMwjQjYj04juCZtBIyAETACY4+A/ejYq9gCGgEjYASMwDQiYD86jeCatBEwAkbACIw9AvajY69iC2gEjIARMALTiID96DSCa9JGwAgYASMw9gjYj469ii2gETACRsAITCMC9qPTCK5JGwEjYASMwNgjYD869iq2gEbACBgBIzCNCNiPTiO4Jm0EjIARMAJjj4D96Nir2AIaASNgBIzANCJgPzqN4Jq0ETACRsAIjD0C9qNjr2ILaASMgBEwAtOIgP3oNIJr0kbACBgBIzD2CNiPjr2KLaARMAJGwAhMIwL2o9MIrkkbASNgBIzA2CNgPzr2KraARsAIGAEjMI0I2I9OI7gmbQSMgBEwAmOPwJT86C233HLhhReOPUYW0AgYASNgBIxAEwL1frRwkPw96aSTgsTzzz9/8MEHG1MjYASMgBEwAkag3o9uv/3277zzTqDz7rvvfv7557hPXeEWBYydETACRsAIGAEjUO9H99prL6ApHGd4VtzqHnvsEdhdddVVhKcc7733ni4++OCDuhJhK6SIaFWS6JYy/KpAjnT5S11rxQgYASNgBIxAXxBoXB/dc8895ThxgUSfOE7cZ8SjCxYsiPPtttvu0UcfpfzNN9+s8itXrlyxYgUXDz300FhAJaLlLhfPOOMMnOUjjzzCOQfE8a99wct8GgEjYASMgBHICDT6UbyjHCfelHMcZ7jVjTbaaNtttxUVvOCiRYs4wdHKU1IMn6oCe++9d84PL126VLWgjIvVORWjDG5V1HwYASNgBIyAEegFAo1+NBwnPg9niV/EfRJr4vNyUrcq5Jo1a1588UXlbC+44IJaFPC4xKMqs3z58l4gZSaNgBEwAkbACFQRaPSjcpwkYHGcWi7V5iO51RYo58+fTzyqnK2OamEoE49GgTvuuMO6MQJGwAgYASPQRwTanh8l7iRqDK9Jdnf16tXhVpukpTzxaDsWIlUt431GfexD5tkIGAEjMJcRaPOjeEQSsPg8AcTKJX8HPvFC8HrqqafGft3aFzVACicdZbzPaC53QctuBIyAEeg1AvN++OGHXgtg5o2AETACRsAIzCICU3ov4Czy7aaNgBEwAkbACHQBAfvRLmjBPBgBI2AEjEBfEbAf7avmzLcRMAJGwAh0AQH70S5owTwYASNgBIxAXxGwH+2r5sy3ETACRsAIdAEB+9EuaME8GAEjYASMQF8RsB/tq+bMtxEwAkbACHQBAfvRLmjBPBgBI2AEjEBfEbAf7avmzLcRMAJGwAh0AQH70S5owTwYASNgBIxAXxGwH+2r5sy3ETACRsAIdAEB+9EuaME8GAEjYASMQF8RsB/tq+bMtxEwAkbACHQBAfvRLmjBPBgBI2AEjEBfEbAf7avmzLcRMAJGwAh0AQH70S5owTwYASNgBIxAXxGwH+2r5sy3ETACRsAIdAEB+9EuaME8GAEjYASMQF8RsB/tq+bMtxEwAkbACHQBAfvRLmjBPBgBI2AEjEBfEbAf7avmzLcRMAJGwAh0AQH70S5owTwYASNgBIxAXxGwH+2r5sy3ETACRsAIdAEB+9EuaME8GAEjYASMQF8RsB/tq+bMtxEwAkbACHQBgXk//PBDF/joLw+fffbZWWedtcUWW1x77bUjlOLggw/ec889ly5dOkWaJ5100ueffw6RRx99dIqkRlL9iSeeeOSRRz7++GOorb/++ttvv/0JJ5yw7bbbPv/888uXL+fioYceesYZZ4ykrWkigsZvu+2211577dtvv0WE+++/v6mh995774EHHlBJytBJ9t1330WLFk0TY2NGlq5yww031Aq1YsUK+kx35L3wwgvfeeedYpSNagh3R0xz0oSA49Gp9o2HHnpIVnKEB04FaptvvvnUaV5zzTUbbbQR7mrqpKZO4cEHH8Qy7rHHHjh1jl122QUf85Of/ATKe+211znnnMNJR1htEhYnetlll6HxG2+8EYbBtqkkwl5yySWUXLZsGcJSmNmD5jQ+hkHggAMO2G+//Sh58cUXq8NwcIW5S6ecKBwyh2aSlLvuCIfwMFi5zOwiYD86JfwJOJ5++mnG9mjtI04Fk3H88cdPibm/VN54443hbbvttsukCFJvueWWqROfKIX77ruPIDvkwqHih+BQdIQhsk+U7EyWZ9qEOySGhm0M/U033VTbOvODlStXMlG48sorZfQpXJjamWS7g21dddVVhHHtjK233noU2GGHHaLYzjvvDIwdFIcJUx5l1SGMrSBClX/1MWYI2I9OSaF33XUXeUhG+2j96JR4+n8rY9C5kGfKeFC4nfmwT+nN+fPnB4PYmjvuuCP+fvLJJzieEco+clKYwtWrV2PHB8ZDt956K2HTaaedlnnA6XZ8ljByxJoI4k5efPHFYnpXLfzuu+/mmZamWaNdQBmJyHQMxlSLgyeNga3o/jRxJGjMQSJeH5280rEFxBx4AjwTa37VBci8kIaHwGq8/vrrWAGuX3311SyoEMied955rAMRqDEOTz31VBbPmLTK82V7QRUiIYy4HLaWTq+77jqMEfaa5G1EdcWqzN133w3x22+/nQIQOfnkk7PAGCn4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RzulDjNjBIyAETACPUPAfrRnCjO7RsAIGAEj0CkE7Ec7pQ4zYwSMgBEwAj1DwH60Zwozu0bACBgBI9ApBOxHO6UOM2MEjIARMAI9Q8B+tGcKM7tGwAgYASPQKQTsRzulDjNjBIyAETACPUPAfrRnCjO7RsAIGAEj0CkE7Ec7pQ4zYwSMgBEwAj1DwH60Zwozu0bACBgBI9ApBOxHO6UOM2MEjIARMAI9Q2DeDz/80DOW5yq7t9xyyyOPPHLxxRfvtddeo8JANFesWLHttttOheaDDz64cuVKKBx66KFnnHHGVEjNbt333nvvggsugIftt9/+2muvnUVmnn/++eXLl7dAOrBAC/PD1H3ttdceeughfkUHQFCu+t7BBx/cBYiG0Q49fPXq1Z9//jmFr7zyyl122aWpFn346aef/vjjjymw/vrrI++555678cYb8/eJJ5644YYbckXu7rHHHosWLcoXr7vuuqeeeipf2WKLLQDtgAMOGIZVl+kvAo5H+6G7zz77jEE+cl7fffddTMYUnShcYVCOOeYY2daRMzmTBIECa0uL22233Uy2W20Lj3XOOee0QDqwQAv/A+viPq+66ir6xu233/7oo4+eeuqp77zzzrfffiuaXOwCRAMVhAg40UsuuUQMb7755rVVGFwXXnjhfffdt++++yIshfF/ICAnyoEj3G+//ThhFksB5p0gw8QR+pngeeedR0WuUEbFOMcBx1xkIMMu0FME7Ef7objbbruNQQ6vmlmP6iDkuv/++0dCTUY2x8pM8BW49Ov4+uuvYbgLE4IqpAWSAwu0IN9el0gUV7F06VL5EgVeW2+9tQh+8sknHYGoRUBi7hdffJFwkLkRUuDYwi8Wta6//nrCUISVmBRjrBUdYL311uPWDjvswK8mW4S20KeVglpUpBitc/eVV17p1xAwtxNFwH50oojNQnnms0QDhx12GG2P1o+OUBhsazY9JEjJGHfBG01URmX2Rpg8nygDUZ5sgeKbpmNggUnXpb9ttNFGuTp+KPIWH374IV62CxA1CRj5m4ULF7bjT86W8YXjzClfAtAiqy+osycmrwtlgMr06TzVTAZYTboPuGIvELAf7YGa7rnnHia2TbNpBMAWnHnmmQR/J5100t133825pslEhEf+5cCrYVlIQ6kMt1g34pyjmFDz99JLL9UtSvKXirrCb4DFda5A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"></p>
 
   <p>Agriculture refers to the Division A of ISIC Rev 4 (agriculture, forestry,
   fishing and hunting), equal to Division A+B of ISIC Rev 3.2.</p>
+DATA_VALIDATION: >-
+  <p>Countries are asked to validate and update historical questionnaire data
+  that pre-populates their questionnaire. FAO validates data against historical
+  series, as well as data submitted to IMF and from country&apos;s websites.</p>
+ADJUSTMENT: >-
+  <p>FAO revises data only when historical revisions or missing historical data
+  are provided by countries, the IMF or when they become available through the
+  national authorities&#x2019; websites. For example, prefilled questionnaires
+  are sent out with reported data for n-2 through n-5, which countries are asked
+  to review, revise where needed, and - to the extent possible &#x2013; fill-in
+  missing information. Conversion of values into millions is done as well. </p>
 IMPUTATION: >-
-  <h2><strong><strong>Treatment of missing values:</strong></strong></h2>
+  <h5><strong>At country level</strong></h5>
 
-  <ul>
-    <li><strong><em>At country level:</em></strong></li>
-  </ul>
+  <p>Missing values of -2019 government expenditure in agriculture were
+  forecasted using trends in GDP and 3 to 5 year moving averages of the share of
+  agriculture in total expenditure. Forecasted values are employed to compute
+  regional and global aggregates, but not presented at the national level.</p>
 
-  <p>The missing values of 2018 government expenditure in agriculture were
-  imputed from the ones of 2017 data submitted from countries. </p>
+  <h5><strong>At regional and global levels</strong></h5>
 
-  <ul>
-    <li><strong><em>At regional and global levels:</em></strong></li>
-  </ul>
-
-  <p>Regional and global aggregates of 2018 are based on mixed data of normal
-  data from countries for which data are available and imputed data for
-  countries for which data are not available. For the other period from 2001 to
-  2017, the regional and global aggregates are based on those of countries for
-  which data are available. This may result in users interpreting these
-  aggregates as pertaining to all countries in the region, which is the
-  equivalent of treating countries with missing data as if they were the same as
-  those for which data are available.</p>
+  <p>Regional and global aggregates of 2019 were based on a mixture of data
+  directly reported by countries (to FAO or IMF) and forecasts of missing
+  values. For the 2001-2018 period, regional and global aggregates are computed
+  on the basis of based on available data countries and interpolations of
+  missing.</p>
 REG_AGG: >-
-  <h2><strong><strong>Regional aggregates:</strong></strong></h2>
-
   <p>Global and regional estimates are compiled by first separately summing
   across countries the four individual components of the index: government
   expenditure on agriculture, total government expenditure, agriculture
   value-added, and GDP. These are added only for those countries in a region (or
-  globally) for which all components are available, and the index then
+  globally) for which all components are available, and the index is then
   calculated for this larger region.</p>
+DOC_METHOD: >-
+  <p>Countries are requested to reference the IMF&apos;s Government Finance
+  Statistics Methodology (GFSM 2014), particularly Chapter 6 - Annex:
+  Classification of the Functions of Government and Chapter 2 &#x2013;
+  Institutional Units and Sectors, available at
+  https://www.imf.org/external/np/sta/gfsm.</p>
+QUALITY_MGMNT: >-
+  <p>Comparisons of key aggregates reported in both the FAO GEA and IMF GFS
+  questionnaires are periodically conducted in order to ensure
+  consistency.<br></p>
+QUALITY_ASSURE: >-
+  <p>The FAO Statistics Quality Assurance Framework is available at:
+  http://www.fao.org/docrep/019/i3664e/i3664e.pdf</p>
+QUALITY_ASSMNT: >-
+  <p>The quality of the data may vary considerably among countries, as not all
+  of them apply the COFOG classification. In such cases, FAO seeks to validate
+  reported aggregates against fiscal data published by national
+  authorities&apos; websites. Since 2012, the FAO Statistics Division also
+  fields a detailed annual questionnaire on Government Expenditure on
+  Agriculture that is pre-populated with key major aggregates reported to the
+  IMF or identified by FAO. Where reported details diverge significantly from
+  the pre-populated aggregates, queries are sent to national counterparts, to
+  ensure the methodological quality, objectivity and reliability of the data
+  submitted by countries.</p>
 COVERAGE: >-
-  <h1>Data availability</h1>
+  <p><strong>Data availability:</strong></p>
 
-  <h2><strong><strong>Description:</strong></strong></h2>
+  <p>Data are reported for the highest level of government available
+  (Consolidated general government, consolidated central government or budgetary
+  central government) and are available for about 100 countries on a regular
+  basis. In some cases (for example, India and Pakistan), data may reflect the
+  general government sector as per national norm. That is, budgetary central
+  government combined with state government. </p>
 
-  <p>Data are available for about 100 countries on a regular basis. </p>
+  <p><strong>Time series:</strong></p>
 
-  <h2><strong><strong>Time series:</strong></strong></h2>
+  <p>From 2001 to 2019</p>
 
-  <p>From 2001 to 2018</p>
+  <p><strong>Disaggregation:</strong></p>
 
-  <h2><strong><strong>Disaggregation:</strong></strong></h2>
-
-  <p>Since this indicator is based on national accounts data and total central
+  <p>Since this indicator is based on national accounts data and total
   government expenditures, it does not allow for disaggregation by demographic
   characteristics or geographic location.</p>
 COMPARABILITY: >-
-  <h2><strong><strong>Sources of discrepancies:</strong></strong></h2>
+  <p><strong>Sources of discrepancies:</strong></p>
 
-  <p>Since FAO does not alter government expenditure data reported by countries,
-  and uses the national accounts estimates published by the UN Statistics
-  Division (where some national data may be imputed), there should be no
-  difference between data reported by FAO and national figures.</p>
-OTHER_DOC: >-
-  <h1>References</h1>
-
-  <h2><strong><strong>URL:</strong></strong></h2>
-
-  <p><a href="www.fao.org">www.fao.org</a></p>
-
-  <h2>References<strong><strong>:</strong></strong></h2>
-
-  <p>FAOSTAT domain of Government Expenditure on Agriculture <a
-  href="http://www.fao.org/faostat/en/%23data/IG%20">http://www.fao.org/faostat/en/#data/IG</a>
-  </p>
-
-  <p>IMF Government Finance Statistics Manual 2014 <br><a
-  href="https://www.imf.org/external/np/sta/gfsm/">https://www.imf.org/external/np/sta/gfsm/</a></p>
+  <p>When in-country compilation errors are identified and FAO has modified
+  government expenditure data reported by countries, or where errors are found
+  in comparison with the IMF GFS COFOG data or fiscal data published on national
+  authorities&apos; websites after querying to national respondents, there may
+  be some difference between data reported by FAO and unrevised national
+  figures.</p>
+OTHER_DOC: |-
+  <p><strong>URL:</strong></p>
+  <p>www.fao.org</p>
+  <p><strong>References:</strong></p>
+  <ul>
+    <li>FAOSTAT domain of Government Expenditure on Agriculture http://www.fao.org/faostat/en/#data/IG ;</li>
+    <li>IMF Government Finance Statistics Manual 2014 <br>https://www.imf.org/external/np/sta/gfsm/.</li>
+  </ul>
+  <table>
+    <tbody>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>51</p>
+        </td>
+        <td>
+          <p>Armenia</p>
+        </td>
+        <td>
+          <p>GG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>4</p>
+        </td>
+        <td>
+          <p>Afghanistan</p>
+        </td>
+        <td>
+          <p>GG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>8</p>
+        </td>
+        <td>
+          <p>Albania</p>
+        </td>
+        <td>
+          <p>GG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2009</p>
+        </td>
+        <td>
+          <p>12</p>
+        </td>
+        <td>
+          <p>Algeria</p>
+        </td>
+        <td>
+          <p>BA</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>24</p>
+        </td>
+        <td>
+          <p>Angola</p>
+        </td>
+        <td>
+          <p>GG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>28</p>
+        </td>
+        <td>
+          <p>Antigua and Barbuda</p>
+        </td>
+        <td>
+          <p>BA</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>32</p>
+        </td>
+        <td>
+          <p>Argentina</p>
+        </td>
+        <td>
+          <p>CG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>36</p>
+        </td>
+        <td>
+          <p>Australia</p>
+        </td>
+        <td>
+          <p>GG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>40</p>
+        </td>
+        <td>
+          <p>Austria</p>
+        </td>
+        <td>
+          <p>GG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>44</p>
+        </td>
+        <td>
+          <p>Bahamas</p>
+        </td>
+        <td>
+          <p>BA</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>48</p>
+        </td>
+        <td>
+          <p>Bahrain</p>
+        </td>
+        <td>
+          <p>BA</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>50</p>
+        </td>
+        <td>
+          <p>Bangladesh</p>
+        </td>
+        <td>
+          <p>BA</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>64</p>
+        </td>
+        <td>
+          <p>Bhutan</p>
+        </td>
+        <td>
+          <p>BA</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>72</p>
+        </td>
+        <td>
+          <p>Botswana</p>
+        </td>
+        <td>
+          <p>BA</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>76</p>
+        </td>
+        <td>
+          <p>Brazil</p>
+        </td>
+        <td>
+          <p>GG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>90</p>
+        </td>
+        <td>
+          <p>Solomon Islands</p>
+        </td>
+        <td>
+          <p>BA</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>100</p>
+        </td>
+        <td>
+          <p>Bulgaria</p>
+        </td>
+        <td>
+          <p>GG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>104</p>
+        </td>
+        <td>
+          <p>Myanmar</p>
+        </td>
+        <td>
+          <p>GG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>108</p>
+        </td>
+        <td>
+          <p>Burundi</p>
+        </td>
+        <td>
+          <p>BA</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>124</p>
+        </td>
+        <td>
+          <p>Canada</p>
+        </td>
+        <td>
+          <p>GG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>132</p>
+        </td>
+        <td>
+          <p>Cabo Verde</p>
+        </td>
+        <td>
+          <p>CG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2010</p>
+        </td>
+        <td>
+          <p>140</p>
+        </td>
+        <td>
+          <p>Central African Republic</p>
+        </td>
+        <td>
+          <p>BA</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>144</p>
+        </td>
+        <td>
+          <p>Sri Lanka</p>
+        </td>
+        <td>
+          <p>BA</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>152</p>
+        </td>
+        <td>
+          <p>Chile</p>
+        </td>
+        <td>
+          <p>GG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>156</p>
+        </td>
+        <td>
+          <p>China, mainland</p>
+        </td>
+        <td>
+          <p>GG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>170</p>
+        </td>
+        <td>
+          <p>Colombia</p>
+        </td>
+        <td>
+          <p>GG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2012</p>
+        </td>
+        <td>
+          <p>178</p>
+        </td>
+        <td>
+          <p>Congo</p>
+        </td>
+        <td>
+          <p>BA</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>184</p>
+        </td>
+        <td>
+          <p>Cook Islands</p>
+        </td>
+        <td>
+          <p>BA</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>188</p>
+        </td>
+        <td>
+          <p>Costa Rica</p>
+        </td>
+        <td>
+          <p>GG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>192</p>
+        </td>
+        <td>
+          <p>Cuba</p>
+        </td>
+        <td>
+          <p>CG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>196</p>
+        </td>
+        <td>
+          <p>Cyprus</p>
+        </td>
+        <td>
+          <p>GG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>31</p>
+        </td>
+        <td>
+          <p>Azerbaijan</p>
+        </td>
+        <td>
+          <p>GG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>208</p>
+        </td>
+        <td>
+          <p>Denmark</p>
+        </td>
+        <td>
+          <p>GG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>214</p>
+        </td>
+        <td>
+          <p>Dominican Republic</p>
+        </td>
+        <td>
+          <p>BA</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>112</p>
+        </td>
+        <td>
+          <p>Belarus</p>
+        </td>
+        <td>
+          <p>GG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>218</p>
+        </td>
+        <td>
+          <p>Ecuador</p>
+        </td>
+        <td>
+          <p>BA</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>818</p>
+        </td>
+        <td>
+          <p>Egypt</p>
+        </td>
+        <td>
+          <p>GG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>222</p>
+        </td>
+        <td>
+          <p>El Salvador</p>
+        </td>
+        <td>
+          <p>GG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2009</p>
+        </td>
+        <td>
+          <p>226</p>
+        </td>
+        <td>
+          <p>Equatorial Guinea</p>
+        </td>
+        <td>
+          <p>BA</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>233</p>
+        </td>
+        <td>
+          <p>Estonia</p>
+        </td>
+        <td>
+          <p>GG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>242</p>
+        </td>
+        <td>
+          <p>Fiji</p>
+        </td>
+        <td>
+          <p>BA</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>246</p>
+        </td>
+        <td>
+          <p>Finland</p>
+        </td>
+        <td>
+          <p>GG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>250</p>
+        </td>
+        <td>
+          <p>France</p>
+        </td>
+        <td>
+          <p>GG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>268</p>
+        </td>
+        <td>
+          <p>Georgia</p>
+        </td>
+        <td>
+          <p>CG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>276</p>
+        </td>
+        <td>
+          <p>Germany</p>
+        </td>
+        <td>
+          <p>GG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>288</p>
+        </td>
+        <td>
+          <p>Ghana</p>
+        </td>
+        <td>
+          <p>BA</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>300</p>
+        </td>
+        <td>
+          <p>Greece</p>
+        </td>
+        <td>
+          <p>GG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>308</p>
+        </td>
+        <td>
+          <p>Grenada</p>
+        </td>
+        <td>
+          <p>CG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>320</p>
+        </td>
+        <td>
+          <p>Guatemala</p>
+        </td>
+        <td>
+          <p>CG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>324</p>
+        </td>
+        <td>
+          <p>Guinea</p>
+        </td>
+        <td>
+          <p>BA</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>328</p>
+        </td>
+        <td>
+          <p>Guyana</p>
+        </td>
+        <td>
+          <p>BA</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>348</p>
+        </td>
+        <td>
+          <p>Hungary</p>
+        </td>
+        <td>
+          <p>GG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>191</p>
+        </td>
+        <td>
+          <p>Croatia</p>
+        </td>
+        <td>
+          <p>GG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>352</p>
+        </td>
+        <td>
+          <p>Iceland</p>
+        </td>
+        <td>
+          <p>GG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>356</p>
+        </td>
+        <td>
+          <p>India</p>
+        </td>
+        <td>
+          <p>GG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>360</p>
+        </td>
+        <td>
+          <p>Indonesia</p>
+        </td>
+        <td>
+          <p>CG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2009</p>
+        </td>
+        <td>
+          <p>364</p>
+        </td>
+        <td>
+          <p>Iran (Islamic Republic of)</p>
+        </td>
+        <td>
+          <p>CG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>372</p>
+        </td>
+        <td>
+          <p>Ireland</p>
+        </td>
+        <td>
+          <p>GG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>376</p>
+        </td>
+        <td>
+          <p>Israel</p>
+        </td>
+        <td>
+          <p>GG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>380</p>
+        </td>
+        <td>
+          <p>Italy</p>
+        </td>
+        <td>
+          <p>GG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2018</p>
+        </td>
+        <td>
+          <p>384</p>
+        </td>
+        <td>
+          <p>C&#xF4;te d&apos;Ivoire</p>
+        </td>
+        <td>
+          <p>BA</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>398</p>
+        </td>
+        <td>
+          <p>Kazakhstan</p>
+        </td>
+        <td>
+          <p>GG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>388</p>
+        </td>
+        <td>
+          <p>Jamaica</p>
+        </td>
+        <td>
+          <p>BA</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>392</p>
+        </td>
+        <td>
+          <p>Japan</p>
+        </td>
+        <td>
+          <p>GG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>400</p>
+        </td>
+        <td>
+          <p>Jordan</p>
+        </td>
+        <td>
+          <p>BA</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2018</p>
+        </td>
+        <td>
+          <p>417</p>
+        </td>
+        <td>
+          <p>Kyrgyzstan</p>
+        </td>
+        <td>
+          <p>GG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>404</p>
+        </td>
+        <td>
+          <p>Kenya</p>
+        </td>
+        <td>
+          <p>BA</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>410</p>
+        </td>
+        <td>
+          <p>Republic of Korea</p>
+        </td>
+        <td>
+          <p>CG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>414</p>
+        </td>
+        <td>
+          <p>Kuwait</p>
+        </td>
+        <td>
+          <p>CG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>428</p>
+        </td>
+        <td>
+          <p>Latvia</p>
+        </td>
+        <td>
+          <p>GG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>422</p>
+        </td>
+        <td>
+          <p>Lebanon</p>
+        </td>
+        <td>
+          <p>BA</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>426</p>
+        </td>
+        <td>
+          <p>Lesotho</p>
+        </td>
+        <td>
+          <p>BA</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2012</p>
+        </td>
+        <td>
+          <p>430</p>
+        </td>
+        <td>
+          <p>Liberia</p>
+        </td>
+        <td>
+          <p>CG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2018</p>
+        </td>
+        <td>
+          <p>440</p>
+        </td>
+        <td>
+          <p>Lithuania</p>
+        </td>
+        <td>
+          <p>GG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2018</p>
+        </td>
+        <td>
+          <p>584</p>
+        </td>
+        <td>
+          <p>Marshall Islands</p>
+        </td>
+        <td>
+          <p>BA</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>450</p>
+        </td>
+        <td>
+          <p>Madagascar</p>
+        </td>
+        <td>
+          <p>BA</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>454</p>
+        </td>
+        <td>
+          <p>Malawi</p>
+        </td>
+        <td>
+          <p>BA</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>458</p>
+        </td>
+        <td>
+          <p>Malaysia</p>
+        </td>
+        <td>
+          <p>BA</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>462</p>
+        </td>
+        <td>
+          <p>Maldives</p>
+        </td>
+        <td>
+          <p>CG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>466</p>
+        </td>
+        <td>
+          <p>Mali</p>
+        </td>
+        <td>
+          <p>BA</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>470</p>
+        </td>
+        <td>
+          <p>Malta</p>
+        </td>
+        <td>
+          <p>GG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>480</p>
+        </td>
+        <td>
+          <p>Mauritius</p>
+        </td>
+        <td>
+          <p>GG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>484</p>
+        </td>
+        <td>
+          <p>Mexico</p>
+        </td>
+        <td>
+          <p>CG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2018</p>
+        </td>
+        <td>
+          <p>496</p>
+        </td>
+        <td>
+          <p>Mongolia</p>
+        </td>
+        <td>
+          <p>GG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>508</p>
+        </td>
+        <td>
+          <p>Mozambique</p>
+        </td>
+        <td>
+          <p>BA</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2018</p>
+        </td>
+        <td>
+          <p>583</p>
+        </td>
+        <td>
+          <p>Micronesia (Fed. States of)</p>
+        </td>
+        <td>
+          <p>BA</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>498</p>
+        </td>
+        <td>
+          <p>Republic of Moldova</p>
+        </td>
+        <td>
+          <p>GG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>516</p>
+        </td>
+        <td>
+          <p>Namibia</p>
+        </td>
+        <td>
+          <p>BA</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>524</p>
+        </td>
+        <td>
+          <p>Nepal</p>
+        </td>
+        <td>
+          <p>BA</p>
+        </td>
+      </tr>
+      <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>528</p>
+        </td>
+        <td>
+          <p>Netherlands</p>
+        </td>
+        <td>
+          <p>GG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2012</p>
+        </td>
+        <td>
+          <p>548</p>
+        </td>
+        <td>
+          <p>Vanuatu</p>
+        </td>
+        <td>
+          <p>GG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>554</p>
+        </td>
+        <td>
+          <p>New Zealand</p>
+        </td>
+        <td>
+          <p>CGINCL</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2016</p>
+        </td>
+        <td>
+          <p>562</p>
+        </td>
+        <td>
+          <p>Niger</p>
+        </td>
+        <td>
+          <p>BA</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2018</p>
+        </td>
+        <td>
+          <p>566</p>
+        </td>
+        <td>
+          <p>Nigeria</p>
+        </td>
+        <td>
+          <p>GG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>578</p>
+        </td>
+        <td>
+          <p>Norway</p>
+        </td>
+        <td>
+          <p>GG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>586</p>
+        </td>
+        <td>
+          <p>Pakistan</p>
+        </td>
+        <td>
+          <p>GG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>591</p>
+        </td>
+        <td>
+          <p>Panama</p>
+        </td>
+        <td>
+          <p>BA</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>203</p>
+        </td>
+        <td>
+          <p>Czechia</p>
+        </td>
+        <td>
+          <p>GG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>598</p>
+        </td>
+        <td>
+          <p>Papua New Guinea</p>
+        </td>
+        <td>
+          <p>BA</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2018</p>
+        </td>
+        <td>
+          <p>600</p>
+        </td>
+        <td>
+          <p>Paraguay</p>
+        </td>
+        <td>
+          <p>GG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>604</p>
+        </td>
+        <td>
+          <p>Peru</p>
+        </td>
+        <td>
+          <p>GG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>608</p>
+        </td>
+        <td>
+          <p>Philippines</p>
+        </td>
+        <td>
+          <p>BA</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>616</p>
+        </td>
+        <td>
+          <p>Poland</p>
+        </td>
+        <td>
+          <p>GG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>620</p>
+        </td>
+        <td>
+          <p>Portugal</p>
+        </td>
+        <td>
+          <p>GG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2015</p>
+        </td>
+        <td>
+          <p>624</p>
+        </td>
+        <td>
+          <p>Guinea-Bissau</p>
+        </td>
+        <td>
+          <p>BA</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>626</p>
+        </td>
+        <td>
+          <p>Timor-Leste</p>
+        </td>
+        <td>
+          <p>GG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2005</p>
+        </td>
+        <td>
+          <p>634</p>
+        </td>
+        <td>
+          <p>Qatar</p>
+        </td>
+        <td>
+          <p>BA</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2011</p>
+        </td>
+        <td>
+          <p>716</p>
+        </td>
+        <td>
+          <p>Zimbabwe</p>
+        </td>
+        <td>
+          <p>BA</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>642</p>
+        </td>
+        <td>
+          <p>Romania</p>
+        </td>
+        <td>
+          <p>GG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>646</p>
+        </td>
+        <td>
+          <p>Rwanda</p>
+        </td>
+        <td>
+          <p>GG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2018</p>
+        </td>
+        <td>
+          <p>643</p>
+        </td>
+        <td>
+          <p>Russian Federation</p>
+        </td>
+        <td>
+          <p>GG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>659</p>
+        </td>
+        <td>
+          <p>Saint Kitts and Nevis</p>
+        </td>
+        <td>
+          <p>BA</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>662</p>
+        </td>
+        <td>
+          <p>Saint Lucia</p>
+        </td>
+        <td>
+          <p>BA</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>670</p>
+        </td>
+        <td>
+          <p>Saint Vincent &amp; Grenadines</p>
+        </td>
+        <td>
+          <p>BA</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>678</p>
+        </td>
+        <td>
+          <p>Sao Tome and Principe</p>
+        </td>
+        <td>
+          <p>BA</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2018</p>
+        </td>
+        <td>
+          <p>690</p>
+        </td>
+        <td>
+          <p>Seychelles</p>
+        </td>
+        <td>
+          <p>GG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2018</p>
+        </td>
+        <td>
+          <p>694</p>
+        </td>
+        <td>
+          <p>Sierra Leone</p>
+        </td>
+        <td>
+          <p>BA</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2018</p>
+        </td>
+        <td>
+          <p>703</p>
+        </td>
+        <td>
+          <p>Slovakia</p>
+        </td>
+        <td>
+          <p>GG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>702</p>
+        </td>
+        <td>
+          <p>Singapore</p>
+        </td>
+        <td>
+          <p>GG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>706</p>
+        </td>
+        <td>
+          <p>Somalia</p>
+        </td>
+        <td>
+          <p>CG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2018</p>
+        </td>
+        <td>
+          <p>710</p>
+        </td>
+        <td>
+          <p>South Africa</p>
+        </td>
+        <td>
+          <p>GG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>724</p>
+        </td>
+        <td>
+          <p>Spain</p>
+        </td>
+        <td>
+          <p>GG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>748</p>
+        </td>
+        <td>
+          <p>Eswatini</p>
+        </td>
+        <td>
+          <p>BA</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>752</p>
+        </td>
+        <td>
+          <p>Sweden</p>
+        </td>
+        <td>
+          <p>GG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>756</p>
+        </td>
+        <td>
+          <p>Switzerland</p>
+        </td>
+        <td>
+          <p>GG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>834</p>
+        </td>
+        <td>
+          <p>United Republic of Tanzania</p>
+        </td>
+        <td>
+          <p>BA</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>764</p>
+        </td>
+        <td>
+          <p>Thailand</p>
+        </td>
+        <td>
+          <p>GG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>768</p>
+        </td>
+        <td>
+          <p>Togo</p>
+        </td>
+        <td>
+          <p>GG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2018</p>
+        </td>
+        <td>
+          <p>780</p>
+        </td>
+        <td>
+          <p>Trinidad and Tobago</p>
+        </td>
+        <td>
+          <p>CGINCL</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>512</p>
+        </td>
+        <td>
+          <p>Oman</p>
+        </td>
+        <td>
+          <p>GG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2012</p>
+        </td>
+        <td>
+          <p>788</p>
+        </td>
+        <td>
+          <p>Tunisia</p>
+        </td>
+        <td>
+          <p>BA</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>792</p>
+        </td>
+        <td>
+          <p>Turkey</p>
+        </td>
+        <td>
+          <p>GG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2018</p>
+        </td>
+        <td>
+          <p>784</p>
+        </td>
+        <td>
+          <p>United Arab Emirates</p>
+        </td>
+        <td>
+          <p>CG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>800</p>
+        </td>
+        <td>
+          <p>Uganda</p>
+        </td>
+        <td>
+          <p>GG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>826</p>
+        </td>
+        <td>
+          <p>United Kingdom </p>
+        </td>
+        <td>
+          <p>GG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>804</p>
+        </td>
+        <td>
+          <p>Ukraine</p>
+        </td>
+        <td>
+          <p>GG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>840</p>
+        </td>
+        <td>
+          <p>United States of America</p>
+        </td>
+        <td>
+          <p>GG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2018</p>
+        </td>
+        <td>
+          <p>854</p>
+        </td>
+        <td>
+          <p>Burkina Faso</p>
+        </td>
+        <td>
+          <p>BA</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>860</p>
+        </td>
+        <td>
+          <p>Uzbekistan</p>
+        </td>
+        <td>
+          <p>GG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2014</p>
+        </td>
+        <td>
+          <p>704</p>
+        </td>
+        <td>
+          <p>Viet Nam</p>
+        </td>
+        <td>
+          <p>GG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>231</p>
+        </td>
+        <td>
+          <p>Ethiopia</p>
+        </td>
+        <td>
+          <p>BA</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>882</p>
+        </td>
+        <td>
+          <p>Samoa</p>
+        </td>
+        <td>
+          <p>BA</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2014</p>
+        </td>
+        <td>
+          <p>887</p>
+        </td>
+        <td>
+          <p>Yemen</p>
+        </td>
+        <td>
+          <p>GG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>180</p>
+        </td>
+        <td>
+          <p>Dem. Rep. of the Congo</p>
+        </td>
+        <td>
+          <p>BA</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>894</p>
+        </td>
+        <td>
+          <p>Zambia</p>
+        </td>
+        <td>
+          <p>BA</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>56</p>
+        </td>
+        <td>
+          <p>Belgium</p>
+        </td>
+        <td>
+          <p>GG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>442</p>
+        </td>
+        <td>
+          <p>Luxembourg</p>
+        </td>
+        <td>
+          <p>GG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2012</p>
+        </td>
+        <td>
+          <p>688</p>
+        </td>
+        <td>
+          <p>Serbia</p>
+        </td>
+        <td>
+          <p>GG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2015</p>
+        </td>
+        <td>
+          <p>499</p>
+        </td>
+        <td>
+          <p>Montenegro</p>
+        </td>
+        <td>
+          <p>BA</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>412</p>
+        </td>
+        <td>
+          <p>Kosovo</p>
+        </td>
+        <td>
+          <p>GG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2018</p>
+        </td>
+        <td>
+          <p>729</p>
+        </td>
+        <td>
+          <p>Sudan</p>
+        </td>
+        <td>
+          <p>CG</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2019</p>
+        </td>
+        <td>
+          <p>275</p>
+        </td>
+        <td>
+          <p>State of Palestine</p>
+        </td>
+        <td>
+          <p>CG</p>
+        </td>
+      </tr>
+    </tbody>
+  </table>

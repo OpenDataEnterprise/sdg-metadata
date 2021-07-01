@@ -1,0 +1,144 @@
+SDG_INDICATOR_INFO: ''
+SDG_GOAL: >-
+  <p>Goal 4: Ensure inclusive and equitable quality education and promote
+  lifelong learning opportunities for all</p>
+SDG_TARGET: >-
+  <p>Target 4.3: By 2030, ensure equal access for all women and men to
+  affordable and quality technical, vocational and tertiary education, including
+  university</p>
+SDG_INDICATOR: >-
+  <p>Indicator 4.3.1: Participation rate of youth and adults in formal and
+  non-formal education and training in the previous 12 months, by sex</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: <p>March 2020</p>
+SDG_RELATED_INDICATORS: '<p>1.4, 4.4, 4.5, 5.b, 8.5, 9.2</p>'
+SDG_CUSTODIAN_AGENCIES: <p>UNESCO Institute for Statistics (UNESCO-UIS)</p>
+CONTACT: ''
+CONTACT_ORGANISATION: <p>UNESCO Institute for Statistics (UNESCO-UIS)</p>
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  <p><strong>Definition:</strong></p>
+
+  <p>The percentage of youth and adults in a given age range (e.g. 15-24 years,
+  25-64 years, etc.) participating in formal or non-formal education or training
+  in a given time period (e.g. last 12 months).</p>
+
+  <p><strong>Concepts:</strong></p>
+
+  <p>Formal education and training is defined as education provided by the
+  system of schools, colleges, universities and other formal educational
+  institutions that normally constitutes a continuous &#x2018;ladder&#x2019; of
+  full-time education for children and young people, generally beginning at the
+  age of 5 to 7 and continuing to up to 20 or 25 years old. In some countries,
+  the upper parts of this &#x2018;ladder&#x2019; are organized programmes of
+  joint part-time employment and part-time participation in the regular school
+  and university system.</p>
+
+  <p>Non-formal education and training is defined as any organized and sustained
+  learning activities that do not correspond exactly to the above definition of
+  formal education. Non-formal education may therefore take place both within
+  and outside educational institutions and cater to people of all ages.
+  Depending on national contexts, it may cover educational programmes to impart
+  adult literacy, life-skills, work-skills, and general culture.</p>
+UNIT_MEASURE: ''
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  <p>Administrative data from schools and other places of education and training
+  or household survey data on participants in formal and non-formal education
+  and training by single year of age; population censuses and surveys for
+  population estimates by single year of age (if using administrative data on
+  enrolment). </p>
+COLL_METHOD: >-
+  <p>Data are collected from the respective organizations responsible for each
+  survey. </p>
+FREQ_COLL: <p>Various depending on survey and country.</p>
+REL_CAL_POLICY: <p>Various depending on survey and country.</p>
+DATA_SOURCE: <p>Ministries of Education and /or National Statistical Offices.</p>
+COMPILING_ORG: <p>UNESCO Institute for Statistics</p>
+INST_MANDATE: ''
+OTHER_METHOD: ''
+RATIONALE: >-
+  <p>To show the level of participation of youth and adults in education and
+  training of all types. A high value indicates a large share of the population
+  in the relevant age group is participating in formal and non-formal education
+  and training.</p>
+REC_USE_LIM: >-
+  <p>Formal and non-formal education and training can be offered in a variety of
+  settings including schools and universities, workplace environments and others
+  and can have a variety of durations. Administrative data often capture only
+  provision in formal settings such as schools and universities. Participation
+  rates do not capture the intensity or quality of the provision nor the
+  outcomes of the education and training on offer.</p>
+DATA_COMP: >-
+  <p>The number of people in selected age groups participating in formal or
+  non-formal education or training is expressed as a percentage of the
+  population of the same age.</p>
+
+  <p>PRAGi = EAGi</p>
+
+  <p>PAGi</p>
+
+  <p>where:</p>
+
+  <p>PRAGi = participation rate of the population in age group i in formal and
+  non-formal education and training</p>
+
+  <p>EAGi = enrolment of the population in age group i in formal and non-formal
+  education and training</p>
+
+  <p>PAGi = population in age group i</p>
+
+  <p>i = 15-24, 15 and above, 25-64 etc.</p>
+DATA_VALIDATION: ''
+ADJUSTMENT: ''
+IMPUTATION: |-
+  <p>&#x2022; At country level:</p>
+  <p>None by data compiler.</p>
+  <p>&#x2022; At regional and global levels:</p>
+  <p>None by data compiler.</p>
+REG_AGG: >-
+  <p>Regional and global aggregates are not currently available for this
+  indicator.</p>
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: >-
+  <p>Data availability:</p>
+
+  <p>99 countries with at least one data point for the period 2010-2018.</p>
+
+  <p>Time series:</p>
+
+  <p>1994-2018 in UIS database; 2000-2018 in SDG global database.</p>
+
+  <p>Disaggregation:</p>
+
+  <p>By age and sex from administrative sources, and by age, sex, location and
+  income from household surveys.</p>
+COMPARABILITY: |-
+  <p><strong>Sources of discrepancies:</strong></p>
+  <p>None.</p>
+OTHER_DOC: >-
+  <p><strong>URL:</strong></p>
+
+  <p>http://www.uis.unesco.org/Pages/default.aspx</p>
+
+  <p><strong>References:</strong></p>
+
+  <p>European Adult Education Survey (AES):
+  http://www.eui.eu/Research/Library/ResearchGuides/Economics/Statistics/DataPortal/AES.aspx
+  </p>
+
+  <p>European Continuing Vocational Training Survey:
+  http://ec.europa.eu/eurostat/cache/metadata/en/trng_cvts_esms.htm </p>
+
+  <p>European Labour Force Survey:
+  http://ec.europa.eu/eurostat/cache/metadata/en/trng_lfs_4w0_esms.htm</p>

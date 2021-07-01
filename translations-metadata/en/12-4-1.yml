@@ -1,3 +1,4 @@
+SDG_INDICATOR_INFO: ''
 SDG_GOAL: '<p>Goal 12: Ensure sustainable consumption and production patterns</p>'
 SDG_TARGET: >-
   <p>Target 12.4: By 2020, achieve the environmentally sound management of
@@ -10,16 +11,21 @@ SDG_INDICATOR: >-
   environmental agreements on hazardous waste, and other chemicals that meet
   their commitments and obligations in transmitting information as required by
   each relevant agreement</p>
-META_LAST_UPDATE: '<p>Last updated: 11 July 2017</p>'
-SDG_RELATED_INDICATORS: |-
-  <h1>Related indicators</h1>
-  <p>Indicators 12.4.2, 12.5.1, 3.9.1, 3.9.2 and 3.9.3.</p>
-SDG_CUSTODIAN_AGENCIES: |-
-  <h1>Institutional information</h1>
-  <h2>Organization(s):</h2>
-  <p>UN Environment (United Nations Environment Programme)</p>
+SDG_SERIES_DESCR: <p>N/A </p>
+META_LAST_UPDATE: <p>3 February 2021</p>
+SDG_RELATED_INDICATORS: '<p>Indicators 12.4.2, 12.5.1, 3.9.1, 3.9.2 and 3.9.3.</p>'
+SDG_CUSTODIAN_AGENCIES: <p>United Nations Environment Programme (UNEP)</p>
+CONTACT: ''
+CONTACT_ORGANISATION: <p>United Nations Environment Programme (UNEP)</p>
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <h2>Definition:</h2>
+  <p>Definitions:</p>
 
   <p>The indicator refers to the number of parties (=countries that have
   ratified, accepted, approved or accessed), to the following Multilateral
@@ -38,22 +44,22 @@ STAT_CONC_DEF: >-
 
   <p>The information required is as follows:</p>
 
-  <p>Basel Convention<sup><a href="#footnote-2"
-  id="footnote-ref-2">[2]</a></sup>:</p>
+  <p><strong><u>Basel Convention<sup><a href="#footnote-2"
+  id="footnote-ref-2">[1]</a></sup>:</u></strong></p>
 
   <ol>
     <li>Designation of the Focal Point and one or more Competent Authorities;</li>
     <li>Submission of the annual national reports.</li>
   </ol>
 
-  <p>Rotterdam Convention:</p>
+  <p><strong><u>Rotterdam Convention:</u></strong></p>
 
   <ol>
     <li>Designation of the Designated National Authority(-ies) and Official contact points;</li>
     <li>Submission of the import responses. </li>
   </ol>
 
-  <p>Stockholm Convention:</p>
+  <p><strong><u>Stockholm Convention:</u></strong></p>
 
   <ol>
     <li>Designation of the Stockholm Convention official contact points and national focal points;</li>
@@ -62,39 +68,40 @@ STAT_CONC_DEF: >-
     <li>Submission of the national reports.</li>
   </ol>
 
-  <p>Montreal Protocol:</p>
+  <p><strong><u>Montreal Protocol:</u></strong></p>
 
   <ol>
-    <li>Compliance with reporting requirements for production and consumption of ozone-depleting substances under (Article 7 of) the Montreal Protocol;</li>
-    <li>Submission of information on Licensing systems under (Article 4B of) the Montreal Protocol.</li>
+    <li>Compliance with annual reporting requirements for production and consumption of controlled substances under Article 7 of the Montreal Protocol;</li>
+    <li>Submission of information on Licensing systems under (Article 4B of) the Montreal Protocol</li>
+    <li>For each party, a percentage value is assigned to indicate how much of the required information has been submitted.</li>
   </ol>
 
-  <p>Minamata Convention:</p>
+  <p><strong><u>Minamata Convention:</u></strong></p>
 
   <ol>
     <li>Designation of a national focal point for exchange of information under Article 17 of the Convention;</li>
     <li>Submission of national reports as required under Article 21 of the Minamata Convention.</li>
   </ol>
 
-  <h2>Concepts:</h2>
+  <p>Concepts:</p>
 
-  <p><strong><em>Parties:</em></strong> Countries that have ratified, accepted,
-  approved or accessed a convention.</p>
+  <p>Parties: countries that have ratified, accepted, approved or accessed a
+  convention.</p>
 
-  <p><strong><em>Information:</em></strong> Parties to the Basel Convention have
-  an obligation to present an annual national report as provided for by Article
-  13, paragraph 3 in order to enable monitoring of the implementation of the
-  Basel Convention by its Parties. The reports are to contain, inter alia,
-  Information regarding transboundary movements of hazardous wastes or other
-  wastes in which Parties have been involved, including the amount of hazardous
-  wastes and other wastes exported, their category, characteristics,
-  destination, any transit country and disposal method as stated on the response
-  to notification, the amount of hazardous wastes and other wastes imported
-  their category, characteristics, origin, and disposal methods; information on
-  accidents occurring during the transboundary movement and disposal of
-  hazardous wastes and other wastes and on the measures undertaken to deal with
-  them; information on disposal options operated within the area of their
-  national jurisdiction; and other information as per reporting format.</p>
+  <p>Information: Parties to the Basel Convention have an obligation to present
+  an annual national report as provided for by Article 13, paragraph 3 in order
+  to enable monitoring of the implementation of the Basel Convention by its
+  Parties. The reports are to contain, inter alia, Information regarding
+  transboundary movements of hazardous wastes or other wastes in which Parties
+  have been involved, including the amount of hazardous wastes and other wastes
+  exported, their category, characteristics, destination, any transit country
+  and disposal method as stated on the response to notification, the amount of
+  hazardous wastes and other wastes imported their category, characteristics,
+  origin, and disposal methods; information on accidents occurring during the
+  transboundary movement and disposal of hazardous wastes and other wastes and
+  on the measures undertaken to deal with them; information on disposal options
+  operated within the area of their national jurisdiction; and other information
+  as per reporting format.</p>
 
   <p>Import responses under the Rotterdam Convention are the decisions provided
   by Parties indicating whether or not they will consent to import the chemicals
@@ -121,39 +128,95 @@ STAT_CONC_DEF: >-
   transmit the updated plan to the Conference of the Parties within two years of
   the entry into force of the amendment for it, consistent with paragraph 1 (b)
   of the Convention (according to paragraph 7 of the annex to decision SC-1/12).
-  </p><div class="footnotes"><div><sup class="footnote-number"
-  id="footnote-2">2</sup><p><sup> </sup> The parameters presented below are
+  </p>
+
+  <p>The Minamata Convention requires, under its article 17, paragraph 4, that
+  each Party designates a National Focal Point for the exchange of information
+  under it, including with regard to the consent of importing Parties under
+  Article 3. </p>
+
+  <p>Pursuant to Article 21 of the Minamata Convention on Mercury, each party to
+  the Convention shall report to the Conference of the Parties on the measures
+  it has taken to implement the provisions of the Convention, on the
+  effectiveness of such measures and on possible challenges in meeting the
+  objectives of the Convention. In decision MC-1/8 on the Timing and format of
+  reporting by the Parties, the Conference of the Parties at its first meeting
+  (2017) agreed on the full format of reporting and decided that each Party
+  shall report every four years using the full format and report every two years
+  on four questions marked by an asterisk in the full format. The Conference of
+  the Parties further decided on the following timing with regards to the short
+  and full reporting: 31 December 2019 as the deadline for first biennial short
+  report; 31 December 2021 as the deadline for first full report.</p>
+
+  <p>The Montreal Protocol requires, under its Article 7, that each Party
+  provides to the Secretariat for each controlled substance statistical data on
+  its annual production, amounts used for feedstocks, amounts destroyed by
+  technologies approved by the Parties, imports from and exports to Parties and
+  non-Parties respectively and amount of the controlled substance listed in
+  Annex E used for quarantine and pre-shipment applications, for the year during
+  which provisions concerning those substances entered into force for that Party
+  and for each year thereafter. Each Party shall also provide to the Secretariat
+  statistical data on its annual emissions of HFC-23 per facility. The
+  calculation of control levels is provided in Article 3 of the Protocol. This
+  reporting enables monitoring of the implementation of the Protocol, and
+  compliance with the control measures under the protocol.</p>
+
+  <p>Additionally, under Article 4B, each party is required to establish and
+  implement a system for licensing the import and export of new, used, recycled
+  and reclaimed controlled substances. Each Party is required, within three
+  months of the date of introducing its licensing system, to report to the
+  Secretariat on the establishment and operation of that system. </p><div
+  class="footnotes"><div><sup class="footnote-number"
+  id="footnote-2">1</sup><p><sup> </sup> The parameters presented below are
   based on the obligations of the Parties to transmit information to the
-  Secretariat, whatever its national circumstances.  Other information that only
+  Secretariat, whatever its national circumstances. Other information that only
   needs to be communicated to the Secretariat based on national circumstances,
-  such  as a possible national definitions of hazardous wastes, possible article
+  such as a possible national definitions of hazardous wastes, possible article
   11 agreements under the Basel Convention, or a possible exemptions under the
   Stockholm Convention would not be included, either because the Secretariat is
   not in a position to assess whether the obligation to transmit information has
   materialized itself, or because Parties have the right not to make use of a
   right. <a href="#footnote-ref-2">&#x2191;</a></p></div></div>
+UNIT_MEASURE: >-
+  <p>For the <strong>Basel, Rotterdam and Stockholm Conventions</strong> the
+  units of measurements are the transmission of information, such as the number
+  of country contacts designated, number of national reports, national
+  implementation plans and import responses. For each party, a percentage value
+  is assigned to indicate how much of the required information has been
+  submitted.</p>
+
+  <p>For the Minamata Convention the units of measurement are the number of
+  designated national focal points and the number of national reports received.
+  For each party, a percentage value is assigned to indicate how much of the
+  required information has been submitted.</p>
+
+  <p>For the Montreal Protocol the units of measurement are the number of
+  parties that comply with their reporting obligations with regard to production
+  and consumption of controlled substances (Article 7) and submission of
+  information on licensing systems (Article 4B). </p>
+
+  <p>For each party, a percentage value is assigned to indicate how much of the
+  required information has been submitted.</p>
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: |-
-  <h1>Data sources</h1>
   <p><strong>Description:</strong></p>
   <ol>
     <li>Basel Convention: national focal points, electronic reporting system for annual national reports;</li>
-    <li>Rotterdam Convention: official contact points, PIC circular for import responses;</li>
+    <li>Rotterdam Convention: official contact points and designated national authorities, PIC circular for import responses;</li>
     <li>Stockholm Convention: official contact points; electronic reporting system for national reports every four years, National Implementation Plans;</li>
     <li>Montreal Protocol: national focal points;</li>
     <li>Minamata Convention: national focal points.</li>
   </ol>
 COLL_METHOD: >-
-  <h2>Collection process:</h2>
-
   <p>Data is collected by the Secretariat of the Basel, Rotterdam and Stockholm
-  Conventions from Focal Points for the Basel Conventions, Official contact
-  points for the Rotterdam Convention, official contact points for the Stockholm
-  Convention, by the Ozone Secretariat from national focal points for the
-  Montreal Protocol, and by the Secretariat of the Minamata Convention from
-  national focal points for the Minamata Convention. </p>
+  Conventions from Focal Points for the Basel Conventions, official contact
+  points and designated national authorities for the Rotterdam Convention,
+  official contact points for the Stockholm Convention, by the Ozone Secretariat
+  from national focal points for the Montreal Protocol, and by the Secretariat
+  of the Minamata Convention from national focal points for the Minamata
+  Convention. </p>
 FREQ_COLL: |-
-  <h1>Calendar</h1>
-  <h2>Data collection:</h2>
   <ol>
     <li>First reporting cycle: 2017;</li>
     <li>Second reporting cycle: 2020;</li>
@@ -161,7 +224,6 @@ FREQ_COLL: |-
     <li>Fourth reporting cycle: 2030.</li>
   </ol>
 REL_CAL_POLICY: |-
-  <h2>Data release:</h2>
   <ol>
     <li>First reporting cycle: 2010-2014;</li>
     <li>Second reporting cycle: 2015-2019;</li>
@@ -169,24 +231,135 @@ REL_CAL_POLICY: |-
     <li>Fourth reporting cycle: 2025-2029.</li>
   </ol>
 DATA_SOURCE: |-
-  <h1>Data providers</h1>
   <ol>
-    <li>Focal Points and Competent Authorities for the Basel Conventions (185 Parties);</li>
-    <li>Designated National Authorities and Official contact points for the Rotterdam Convention (180 Parties);</li>
-    <li>Official contact points and national focal points for Stockholm Convention (156 Parties);</li>
-    <li>Focal points for Montreal Protocol (197 Parties);</li>
-    <li>Focal points for information exchange and national focal points for the Minamata Convention (currently 35 Parties).</li>
+    <li>Focal Points and Competent Authorities for the Basel Conventions (188 Parties);</li>
+    <li>Designated National Authorities and Official contact points for the Rotterdam Convention (164 Parties);</li>
+    <li>Official contact points and national focal points for Stockholm Convention (184 Parties);</li>
+    <li>Focal points for Montreal Protocol (198 Parties);</li>
+    <li>Focal points for information exchange and national focal points for the Minamata Convention (currently 127 Parties).</li>
   </ol>
 COMPILING_ORG: |-
-  <h1>Data compilers</h1>
   <ol>
     <li>Secretariat of the Basel, Rotterdam and Stockholm Conventions; </li>
-    <li>Ozone Secretariat;</li>
+    <li>Secretariat for the Montreal Protocol on Substances that Deplete the Ozone Layer (Ozone Secretariat);</li>
     <li>Secretariat of the Minamata Convention.</li>
   </ol>
-RATIONALE: >-
-  <h2>Rationale:</h2>
+INST_MANDATE: >-
+  <p><strong>Basel Convention</strong>: Pursuant to article 5 of the Basel
+  Convention, Parties are required to designate or establish one or more
+  competent authorities and one focal point to facilitate the implementation of
+  the Convention. Parties also have an obligation to inform the Secretariat of
+  any changes regarding designations made by them. The Conference of the Parties
+  has adopted a standard form for notification of designation of contacts
+  (decision BC-11/21), which Parties are requested to use to transmit
+  information to the Secretariat including modifications . </p>
 
+  <p>A list of competent authorities and focal points to the Basel Convention is
+  maintained and regularly updated on the Convention website: <a
+  href="http://www.basel.int/Countries/CountryContacts/tabid/1342/Default.aspx">http://www.basel.int/Countries/CountryContacts/tabid/1342/Default.aspx</a>.</p>
+
+  <p>In order to enable monitoring of the implementation of the Basel Convention
+  by its Parties and to present reports on this matter to the Conference of
+  Parties on a regular basis, the Convention establishes a mechanism for Parties
+  to transmit information about implementation of the Convention. According to
+  Article 13, the Parties, consistent with national laws and regulations, shall
+  transmit, through the Secretariat, to the Conference of the Parties
+  established under Article 15, before the end of each calendar year<strong><u>,
+  a report</u></strong> on the previous calendar year.</p>
+
+  <p>Article 13 mandates the Secretariat to receive and disseminate this and
+  other types of information.</p>
+
+  <p><strong>Rotterdam Convention:</strong> Pursuant to Article 4 of the
+  Rotterdam Convention, each Party is required to designate one or more national
+  authorities that shall be authorized to act on its behalf in the performance
+  of the administrative functions required by the Convention. The Secretariat
+  also communicates with an Official Contact Point (OCP) of a Party on official
+  issues. Here too the Conference of the Parties has adopted a standard form for
+  notification of designation of contacts (decision RC-6/13), which Parties are
+  requested to use to transmit information to the Secretariat. A contacts
+  database is available on the Rotterdam Convention website at
+  http://www.pic.int/Countries/CountryContacts/tabid/3282/language/en-US/Default.aspx</p>
+
+  <p>Article 10 of the Convention sets out the obligations of Parties with
+  respect to the future import of chemicals listed in Annex III. Parties have an
+  ongoing obligation to submit to the Secretariat, as soon as possible and in
+  any event no later than nine months after the date of dispatch of a decision
+  guidance document, their <strong><u>import response</u></strong> <sup><a
+  href="#footnote-3" id="footnote-ref-3">[2]</a></sup>(whether a final or
+  interim response) concerning the future import of the chemical. If a Party
+  modifies its response, it has an obligation to immediately submit the revised
+  response to the Secretariat.</p>
+
+  <p> </p>
+
+  <p>Article 14 in addition to other relevant Articles gives the mandate to the
+  Secretariat to facilitate the information exchange. The Secretariat maintains
+  various databases of information on the Convention website based on
+  transmissions from Parties e.g. country profiles, database of import
+  responses, national legislation collection.</p>
+
+  <p> </p>
+
+  <p><strong>Stockholm Convention:</strong> Pursuant to Article 9 of the
+  Stockholm Convention, each Party shall designate a national focal point for
+  the exchange of the information referred to in paragraph 1 of article 9.
+  Pursuant to decision <a
+  href="http://chm.pops.int/Portals/0/download.aspx?d=UNEP-POPS-COP.2-SC-2-16.English.PDF">SC-2/16</a>
+  of the second meeting of the Conference of the Parties of the Stockholm
+  Convention, Parties are invited to nominate Official Contact Points. A revised
+  harmonised form for notification of designation of contacts has also been
+  adopted by the Conference of the Parties to the Stockholm Convention for
+  notification of contacts, including modifications (decision SC-6/26). The
+  Secretariat also maintains for this Convention a database of country contacts
+  at http://chm.pops.int/Countries/CountryContacts/tabid/304/Default.aspx</p>
+
+  <p>Parties to the Stockholm Convention are required to develop, endeavour to
+  implement, update and review as appropriate, a plan explaining how they are
+  going to implement the obligations under the Convention (Article 7)
+  (&#x201C;national implementation plans&#x201D;). The plans are made available
+  on the Convention website. </p>
+
+  <p>Furthermore Article 9 specifies that the Parties facilitate or undertake
+  the exchange of information relevant to the reduction or elimination of the
+  production, use and release of persistent organic pollutants and alternatives
+  to them directly and or through the Secretariat. </p>
+
+  <p>A national report contains information on the measures taken by a Party in
+  implementing the Stockholm Convention. The information provided in the
+  national reports is one of the main references to be used for the evaluation
+  of the effectiveness of the Convention in accordance with its Article 16. The
+  Conference of the Parties (COP) decided at its first meeting that
+  <strong><u>national reports</u></strong> shall be submitted every four years.
+  The Official Contact Point has the authority to submit a national report to
+  the Secretariat.</p>
+
+  <p>Parties requested the Secretariat of the Minamata Convention to facilitate
+  cooperation in the exchange of information referred to Article 17, including
+  with respect to the designation of national focal points, pursuant to
+  paragraph 3 of Article 17 of the Minamata Convention. Article 24 of the
+  Convention further includes in the functions of the Secretariat, <em>inter
+  alia</em>, to assist Parties in the exchange of information related to the
+  implementation of the Convention, and to prepare and make to the Parties
+  period reports based on information received pursuant to Article 21.</p>
+
+  <p>Under the Montreal Protocol, the role of the Secretariat is stipulated in
+  Article 12 of the Protocol including the obligation to receive, data provided
+  pursuant to Article 7. Additionally, under Article 4B, each Party is required,
+  within three months of the date of introducing its licensing system, to report
+  to the Secretariat on the establishment and operation of that system. </p>
+
+  <p>Compliance of the Parties with their reporting obligations is considered by
+  an Implementation Committee established under the Protocol&#x2019;s
+  Non-Compliance Procedure and is determined by the Meeting of the Parties based
+  on the Committee&#x2019;s recommendations (<a
+  href="https://ozone.unep.org/list-of-implementation-committee-recommendations">https://ozone.unep.org/list-of-implementation-committee-recommendations</a>).
+  </p><div class="footnotes"><div><sup class="footnote-number"
+  id="footnote-3">2</sup><p> The import response may consist of an interim
+  response that is not necessarily a decision see for example Article
+  10(4)(b)(ii)-(iv) <a href="#footnote-ref-3">&#x2191;</a></p></div></div>
+OTHER_METHOD: ''
+RATIONALE: >-
   <p>The proposed indicator is process-oriented, focusing on compliance with the
   obligations that contribute to the overall target of achieving the
   environmentally sound management of chemicals and all wastes throughout their
@@ -199,8 +372,6 @@ RATIONALE: >-
   implementation of MEAs progress will be made to reduce release to air, water
   and soil and well as presence of hazardous chemicals in products. </p>
 REC_USE_LIM: >-
-  <h2>Comments and limitations:</h2>
-
   <p>The transmission of information as required by the five Conventions follows
   a different timing. This is the reason why the reporting to this indicator has
   been scheduled for 5-year cycles, which would allow capturing the compliance
@@ -212,10 +383,6 @@ REC_USE_LIM: >-
   reporting would be required prior to 2030. Thus, the Minamata Convention is
   included here, but the reporting is subject to further decisions on this.</p>
 DATA_COMP: >-
-  <h1>Methodology</h1>
-
-  <h2>Computation method:</h2>
-
   <p>In the following methodology, reporting is to take place in 2017 for the
   period 2010-2014, in 2020 for the period 2015-2019, in 2025 for the period
   2020-2024 and in 2030 for the period 2025-2029. Reporting parameters include
@@ -225,37 +392,37 @@ DATA_COMP: >-
   Conventions&#x2019; Secretariat, and is calculated as follows (and
   communicated by the Secretariats):</p>
 
-  <p>Basel Convention:</p>
+  <p><strong><u>Basel Convention:</u></strong></p>
 
   <ol>
     <li>Designation of the Focal Point and one or more Competent Authorities (1 point);</li>
     <li>Submission of the annual national reports during the reporting period (1 point per report).</li>
   </ol>
 
-  <p>Rotterdam Convention:</p>
+  <p><strong><u>Rotterdam Convention:</u></strong></p>
 
   <ol>
     <li>Designation of the Designated National Authority(-ies) and Official contact point (1 point);</li>
     <li>Submission of the import responses during the reporting period (0,2 point per import response).</li>
   </ol>
 
-  <p>Stockholm Convention:</p>
+  <p><strong><u>Stockholm Convention:</u></strong></p>
 
   <ol>
-    <li>Designation of the Stockholm Convention official contact point and national focal point (1 points);</li>
-    <li>Submission of the national implementation plan (1 points);</li>
-    <li>Submission of the revised national implementation plan(s) addressing the amendments adopted by the Conference of the Parties within the reporting period (1 point per revised and updated plan)<sup><sup><a href="#footnote-3" id="footnote-ref-3">[3]</a></sup></sup>;</li>
+    <li>Designation of the Stockholm Convention official contact point and national focal point (1 point);</li>
+    <li>Submission of the national implementation plan (1 point);</li>
+    <li>Submission of the revised national implementation plan(s) addressing the amendments adopted by the Conference of the Parties within the reporting period (1 point per revised and updated plan)<sup><sup><a href="#footnote-4" id="footnote-ref-4">[3]</a></sup></sup>;</li>
   </ol>
 
-  <p>Montreal Protocol:</p>
+  <p><strong><u>Montreal Protocol:</u></strong></p>
 
   <ol>
-    <li>Compliance with reporting requirements for production and consumption of ozone-depleting substances under (Article 7 of) the Montreal Protocol (15 points);</li>
+    <li>Compliance with annual reporting requirements for production and consumption of controlled substances under Article 7 of the Montreal Protocol (15 points per report);</li>
     <li>Submission of information on Licensing systems under (Article 4B of) the Montreal Protocol (5 points).</li>
   </ol>
 
-  <p>Minamata Convention<sup><a href="#footnote-4"
-  id="footnote-ref-4">[4]</a></sup>:</p>
+  <p><strong><u>Minamata Convention<sup><a href="#footnote-5"
+  id="footnote-ref-5">[4]</a></sup>:</u></strong></p>
 
   <ol>
     <li>Designation of a national focal point (Article 17) (5 points);</li>
@@ -263,55 +430,226 @@ DATA_COMP: >-
   </ol>
 
   <p><img
-  src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAvwAAAD2CAMAAACdgqPyAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAMAUExURf////f39wAAAKWlpdbWzlJKUt7e3ikpKZSUlCEZIRAQCO/v7zo6OnN7e3Nza721va2trVpSWubm5kI6QsW9xWtjYwAICEJKQjExMRAZEK21rYyMhJScnMXFzlpaYxlS5hkZ5oyEGRlStRkZtb1Svb1SEIRSvYRSEL0Zvb0ZEIQZvYQZEIR7e8WM3kpS5koZ5oyESr2EGUpStUoZtb1S771SQoRS74RSQr0Z770ZQoQZ74QZQqXmre+93rWEe+9ape9aQu8Zpe8ZQu+cpe+cQkpaGe9ac+9aEO8Zc+8ZEO+cc++cEDpaexBae72ESkoxexlSQu/epe/eQntajO/ec+/eEKXF5koQGYzmWozmEIy1Woy1EMXmrb3mWr3mEL21Wr21EKXv5lrO5lLOWhDO5lKEWlqE5lLOEBCE5lKEEFrOrRnOWhDOrRmEWlqErRnOEBCErRmEEBkQaxkIMUoxGYzme4zmMUoZQhlaEIy1e4y1MRk6EKWc3qV73nsQlHsQa0oQa73me73mMb21e721McXv5sVSlO9S78UZlO8Z7++M78VSa8UZa1rv5lLOexDv5lKEe1ql5lLOMRCl5lKEMVrvrRnOexDvrRmEe1qlrRnOMRClrRmEMRkQjHvO5lLvWjHO5lKlWnuE5lLvEDGE5lKlEHvOrRnvWjHOrRmlWnuErRnvEDGErRmlEBkxa6VSlO9SzqUZlO8Zzu+MzqVSa6UZa72EnHsxlMWMtXsxa0oQjHvv5lLvezHv5lKle3ul5lLvMTGl5lKlMXvvrRnvezHvrRmle3ulrRnvMTGlrRmlMRkxjFpahBAhOpyMte//Ou//vYRaY+/mzsXF5hAxQs69pXOMe72lnCkhCFI6QikhQlpaQqW9vdbF7yEICJR7nEJaQhkIAPfm9+be90JaUt7mzt7v91pjUpyttda9zikhIXNzhFpjWjo6St7v3ub//+/v95SUnFpKUqWllHN7hCkZKRAACHN7a/f3/wAIAL3Fvf/376Wtpff37yEpIQAAALeiBQIAAAEAdFJOU////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wBT9wclAAAACXBIWXMAACHVAAAh1QEEnLSdAAA4qUlEQVR4Xu1djW7ivBKNXHCXNSEJxcRpEp6g7/8ilaqttqpWoj8rVy1USIg2Krpn7PDTFkrZD7hL1ycQHMdxQjI+Ho/tiefg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg8N8gcu4Wt3z1pZT21xAN7eDw1ZGU4v4a/Ug9Pwdvl1/qYm7rL1+Ox/dzW1teBiyb29r2csbO5rbc8qeLz0pxf40iuipD85B1UYb2AL1xVIZ2gBv2XIZ2gZCFZcjhvyBbLPwv0a8yNA8Z75HwF/q2DO0AnOVlaBdwwr8ZfFss/L2oWobmsVfCL9QOmZ875t9DLGF+sZj57/dJ+PVOhd8x//4hXab2LGL+xl7p/Ltl/qAM7QJO+DeDtZi/s1dqz9fV+QdO+DeCpQ1ep/OvA6fz7yO+ss7/B8zfwze/7tsNAs9fbEDkDzawEJ9k/jKv/won/JvB19X5X5Yy/3V4saRf++w89LiOZ4Is4nGpzJ9p/4M/v4j5RXB8HORzB7341QGVrv8MJ/ybwVfW+ZcIP1eMyTL8GhXNfC9g45nwPyTDUvg7S46xWCT8KSPomZxyzeSoDANByv+wKPx2wr8RLGH+JXb+fVJ7empRJzXQShKmIN89o4TYtRDmnwUZ93J2SYJsY0Tt6RhBhCSTJkIsVF0WC3+SpYppOpXNrTVAuF/QJrZ+sbsCPy+zLIve5EImvybGRMzDMf9msJ7Ov1/M3ylDbyDZo4b08BMJ5Qdr4eVnMrpNuScymXvPTKME+LeRTIXXTZJHP5KZ50VM9jyeRpE8LvOZxyKdP2UKDYjvOFV+gsMGvSKTgSf8jPvRbcj9Gov9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"></p>
+  src="data:image/png;base64,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"></p>
 
-  <p><em>Transmission Rate = ((a<sub>cs </sub>+ b<sub>cs</sub> + c<sub>cs</sub>
-  + d<sub>cs</sub> + e<sub>cs</sub>)/N. of Conventions) * 100</em></p>
+  <p><img
+  src="data:image/png;base64,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"></p>
 
   <p>The final indicator will be a number expressed as percent, where 100% is
   the maximum degree of compliance with the reporting obligations of the MEAs to
   which a Country is a Party, and 0% the least degree of compliance with those
   obligations.</p><div class="footnotes"><div><sup class="footnote-number"
-  id="footnote-3">3</sup><p><u> </u>Applicable to Parties bound by the
-  amendments to the Stockholm Convention.  Parties that are not bound by the
-  amendments will by default receive one point for each such amendment.  <a
-  href="#footnote-ref-3">&#x2191;</a></p></div><div><sup class="footnote-number"
-  id="footnote-4">4</sup><p> Please note that at the moment data is not
+  id="footnote-4">3</sup><p><u> Applicable to Parties bound by the amendments to
+  the Stockholm Convention. Parties that are not bound by the amendments will by
+  default receive one point for each such amendment.</u> <a
+  href="#footnote-ref-4">&#x2191;</a></p></div><div><sup class="footnote-number"
+  id="footnote-5">4</sup><p> <u>Please note that at the moment data is not
   available for the Minamata Convention. The timing of submission of reporting
-  is not yet decided.   <a href="#footnote-ref-4">&#x2191;</a></p></div></div>
-IMPUTATION: |-
-  <h2>Treatment of missing values:</h2>
-  <ul>
-    <li><strong><em>At country level:</em></strong></li>
-  </ul>
-  <p>Missing values are not imputed. </p>
-  <ul>
-    <li><strong><em>At regional and global levels:</em></strong></li>
-  </ul>
-  <p>Missing values are not imputed.</p>
-REG_AGG: >-
-  <h2>Regional aggregates:</h2>
+  is not yet decided.</u> Information on the timing of submission of reporting
+  has been included under chapter 2.a. <a
+  href="#footnote-ref-5">&#x2191;</a></p></div></div>
+DATA_VALIDATION: >-
+  <p>All the information mentioned below on the Basel, Rotterdam and Stockholm
+  Conventions is submitted through the officially designated country contacts.
+  </p>
 
-  <p>For the aggregation methods, please see: </p>
+  <p>The databases of country contracts for the Basel, Rotterdam and Stockholm
+  Conventions: <a
+  href="http://www.basel.int/Countries/CountryContacts/tabid/1342/Default.aspx">http://www.basel.int/Countries/CountryContacts/tabid/1342/Default.aspx</a></p>
 
   <p><a
-  href="http://pre-uneplive.unep.org/media/docs/graphs/aggregation_methods.pdf">http://pre-uneplive.unep.org/media/docs/graphs/aggregation_methods.pdf</a></p>
-COVERAGE: >-
-  <h1>Data availability</h1>
+  href="http://www.pic.int/Countries/CountryContacts/tabid/3282/language/en-US/Default.aspx">http://www.pic.int/Countries/CountryContacts/tabid/3282/language/en-US/Default.aspx</a></p>
 
-  <h2>Description:</h2>
+  <p><a
+  href="http://chm.pops.int/Countries/CountryContacts/tabid/304/Default.aspx">http://chm.pops.int/Countries/CountryContacts/tabid/304/Default.aspx</a>
+  </p>
+
+  <p>National annual reports under the Basel Convention:
+  http://www.basel.int/Countries/NationalReporting/NationalReports/BC2018Reports/tabid/8202/Default.aspx</p>
+
+  <p>The PIC Circular which contains import responses under the Rotterdam
+  Convention which is updated every six months:
+  http://www.pic.int/Implementation/PICCircular/tabid/1168/language/en-US/Default.aspx
+  Please also see country profiles webpage which contains various relevant
+  information:
+  http://www.pic.int/Countries/CountryProfiles/tabid/1087/language/en-US/Default.aspx</p>
+
+  <p>National reports under the Stockholm Convention: <a
+  href="http://chm.pops.int/Countries/Reporting/NationalReports/tabid/3668/Default.aspx">http://chm.pops.int/Countries/Reporting/NationalReports/tabid/3668/Default.aspx</a></p>
+
+  <p>Transmission of the National Implementation Plans under the Stockholm
+  Convention : <a
+  href="http://chm.pops.int/Implementation/NationalImplementationPlans/NIPTransmission/tabid/253/Default.aspx">http://chm.pops.int/Implementation/NationalImplementationPlans/NIPTransmission/tabid/253/Default.aspx</a></p>
+
+  <p>For the Minamata Convention, a list of designated national focal points is
+  available at <a
+  href="https://www.mercuryconvention.org/Countries/Parties/Notifications/tabid/3826/language/en-US/Default.aspx">https://www.mercuryconvention.org/Countries/Parties/Notifications/tabid/3826/language/en-US/Default.aspx</a>.
+  National reports submitted by the Parties to the Minamata Convention for the
+  first reporting cycle are available at <a
+  href="https://www.mercuryconvention.org/Countries/Parties/Reporting/Firstnationalshortreport2019/tabid/8635/language/en-US/Default.aspx">https://www.mercuryconvention.org/Countries/Parties/Reporting/Firstnationalshortreport2019/tabid/8635/language/en-US/Default.aspx</a></p>
+
+  <p>Under the Montreal Protocol, the Secretariat does not carry out any
+  validation, other than simple completeness and consistency checks which are
+  communicated back to the reporting party. There is no consultation with
+  countries on the national data submitted to the SDGs Indicators Database. </p>
+ADJUSTMENT: ''
+IMPUTATION: |-
+  <p>&#x2022; At country level:</p>
+  <p>Missing values are not imputed. </p>
+  <p>&#x2022; At regional and global levels:</p>
+  <p>Missing values are not imputed.</p>
+REG_AGG: >-
+  <p>The data will be aggregated at the sub-regional, regional and global
+  levels. For the aggregation methods, please see: </p>
+
+  <p><a
+  href="http://wesr.unep.org/media/docs/graphs/aggregation_methods.pdf">http://wesr.unep.org/media/docs/graphs/aggregation_methods.pdf</a>.
+  </p>
+DOC_METHOD: >-
+  <p><strong>For the Basel Convention</strong>, information on mandate,
+  frequency, format and procedures for the designation of the focal points and
+  competent authorities:
+  http://www.basel.int/Procedures/FocalPoint/tabid/1325/Default.aspx</p>
+
+  <p><a
+  href="http://www.basel.int/Procedures/CompetentAuthorities/tabid/1324/Default.aspx">http://www.basel.int/Procedures/CompetentAuthorities/tabid/1324/Default.aspx</a></p>
+
+  <p>Format and manual for national reporting for the year 2018 and onwards
+  under the Basel Convention:
+  http://www.basel.int/Countries/NationalReporting/Guidance/tabid/1498/Default.aspx</p>
+
+  <p><strong>For the Rotterdam Convention</strong>, information on mandate,
+  frequency, format and procedures for the designation of the official contact
+  points Designated National Authorities:</p>
+
+  <p><a
+  href="http://www.pic.int/Procedures/OfficialContactPoints/tabid/3285/language/en-US/Default.aspx">http://www.pic.int/Procedures/OfficialContactPoints/tabid/3285/language/en-US/Default.aspx</a>
+  and
+  http://www.pic.int/Procedures/DesignatedNationalAuthorities/tabid/1366/language/en-US/Default.aspx</p>
+
+  <p>Forms and Instructions for Parties on import responses:
+  http://www.pic.int/Procedures/ImportResponses/FormandInstructions/tabid/1165/language/en-US/Default.aspx</p>
+
+  <p><strong>For the Stockholm Convention</strong>, information on mandate,
+  frequency, format and procedures for the designation of the official contact
+  points and national focal points:</p>
+
+  <p><a
+  href="http://chm.pops.int/Procedures/NationalFocalPoint/tabid/3279/Default.aspx">http://chm.pops.int/Procedures/NationalFocalPoint/tabid/3279/Default.aspx</a>
+  and
+  http://chm.pops.int/Procedures/OfficialContactPoint/tabid/3278/Default.aspx</p>
+
+  <p>User manual for the Electronic Reporting System of the Stockholm Convention
+  on Persistent Organic Pollutants (POPs) and Manual for national reports under
+  Article 15 of the Stockholm Convention:</p>
+
+  <p>http://chm.pops.int/Countries/Reporting/Guidance/tabid/3670/Default.aspx</p>
+
+  <p>A set of guidance documents for the development and updating the National
+  Implementation Plans under the Stockholm Convention:
+  http://chm.pops.int/Implementation/NationalImplementationPlans/Guidance/tabid/7730/Default.aspx</p>
+
+  <p>For transmission of notifications of designations of country contacts in
+  accordance with the Basel, Rotterdam and Stockholm Conventions, the revised
+  form has been harmonised and may be used to transmit information on designated
+  contacts in accordance with the provisions of any or all three of the
+  Conventions. This is intended to facilitate transmission of information to the
+  Secretariat while respecting the legal autonomy of each Convention.</p>
+
+  <p>For the Minamata Convention, States or regional economic integration are
+  invited to designate national focal points using the form and the sample
+  letter available at <a
+  href="https://www.mercuryconvention.org/Countries/Parties/FocalPoints/tabid/7708/language/en-US/Default.aspx">https://www.mercuryconvention.org/Countries/Parties/FocalPoints/tabid/7708/language/en-US/Default.aspx</a>
+  Guidance for the submission of national reports is available at
+  https://www.mercuryconvention.org/Countries/Parties/Reporting/tabid/8189/language/en-US/Default.aspx</p>
+
+  <p>The Montreal protocol does not provide any guidance to countries for the
+  compilation of the data at the national level. However, the parties adopted
+  data reporting forms to guide the parties on the information to be reported to
+  the Secretariat. Additionally, under the institutions of the protocol,
+  developing countries get technical and financial assistance, part of which
+  includes training manuals and other resources and guidance on compilation
+  reporting of data - <a
+  href="https://www.unenvironment.org/ozonaction/resources">https://www.unenvironment.org/ozonaction/resources</a>.</p>
+QUALITY_MGMNT: >-
+  <p>The BRS Secretariat reviews the national reports for completeness and
+  correctness and communicates with Parties with a view of addressing identified
+  gaps, when possible.</p>
+
+  <p>Under the Committee administering the Mechanism for Promoting
+  Implementation and Compliance (ICC), which is a subsidiary body of the Basel
+  Convention, there is a standing area of work on the national reporting which
+  aims at improving timely and complete national reporting under paragraph 3 of
+  Article 13 of the Convention. Activities in the biennium 2020-2021 include,
+  inter alia, classifying and, as appropriate, publishing information on
+  Parties&#x2019; compliance with their annual national reporting obligations
+  for 2016 and 2017 based on the assumptions, criteria and categories adopted by
+  the Conference of the Parties at its thirteenth meeting and the targets
+  adopted by the Conference of the Parties at its fourteenth meeting; developing
+  recommendations on the revision of targets referred to in paragraph 13 of
+  decision BC-14/15 for the reports due for 2018 and subsequent years; and with
+  a view to increasing the completeness and timeliness of national reporting
+  under paragraph 3 of Article 13, exploring how individual Parties can
+  integrate national reporting needs under the Basel Convention into the United
+  Nations Development Assistance Framework.</p>
+
+  <p>The Minamata Secretariat has a system in place to (i) review the
+  completeness and correctness of the reports received; and (ii) to inform
+  Parties about the outcomes of such review before the reports are published on
+  the Minamata Convention website.</p>
+
+  <p>The Secretariat for the Montreal Protocol uses an online reporting system
+  with a database for collecting and managing the reported information. The
+  system includes a variety of checks and validation rules to ensure
+  completeness and consistency of the reported information.</p>
+QUALITY_ASSURE: >-
+  <p>For the Basel and Stockholm Conventions the Electronic Reporting System is
+  the tool to be used by Parties to submit their national reports. </p>
+
+  <p>For guidelines please see the responses for the question 4(h).</p>
+
+  <p>A reporting format for the Minamata Convention on Mercury has been adopted
+  by the first Conference of the Parties for the submission of national reports
+  pursuant to Article 21. The Secretariat drafted guidance for the short reports
+  (4 questions) to assist Parties. At its second meeting, the Conference of the
+  Parties requested the Secretariat to draft guidance on how to fill out the
+  full reporting format (48 questions), which is under preparation. An online
+  reporting tool has been prepared by the Secretariat to assist Parties and
+  facilitate collecting the information for the reports.</p>
+
+  <p>Under the Montreal Protocol, the responsibility for quality assurance of
+  the submitted data and information lies with the parties. </p>
+QUALITY_ASSMNT: >-
+  <p>For the Basel, Rotterdam and Stockholm Conventions, information transmitted
+  by Parties to the Secretariat is made available to the Conference of the
+  Parties for monitoring. </p>
+
+  <p>For the Minamata Convention, the Secretariat can report very high reporting
+  rates: 80% of Parties have submitted complete reports (data is available at <a
+  href="https://www.mercuryconvention.org/Countries/Parties/Reporting/tabid/8189/language/en-US/Default.aspx">https://www.mercuryconvention.org/Countries/Parties/Reporting/tabid/8189/language/en-US/Default.aspx</a>)
+  The Secretariat can also report that 80% of Parties have designated national
+  focal points in a timely and appropriate manner (a list of designations is
+  available at
+  https://www.mercuryconvention.org/Countries/Parties/Notifications/tabid/3826/language/en-US/Default.aspx)</p>
+
+  <p>Under the Montreal Protocol, the responsibility for the overall evaluation
+  of fulfilling quality of the submitted data lies with the parties. </p>
+COVERAGE: >-
+  <p>Data availability:</p>
+
+  <p><strong>Description:</strong></p>
 
   <ol>
-    <li>Basel Conventions: 185 Parties;</li>
-    <li>Rotterdam Convention: 180 Parties;</li>
-    <li>Stockholm Convention: 156 Parties;</li>
-    <li>Focal points for Montreal Protocol: 197 Parties;</li>
-    <li>Minamata Convention: currently 35 Parties.</li>
+    <li>Basel Conventions: 188 Parties;</li>
+    <li>Rotterdam Convention: 164 Parties;</li>
+    <li>Stockholm Convention: 184 Parties;</li>
+    <li>Focal points for Montreal Protocol: 198 Parties;</li>
+    <li>Minamata Convention: currently 127 Parties.</li>
   </ol>
 
-  <h2>Time series:</h2>
+  <p>Time series:</p>
 
-  <p>The reporting on this indicator will follow a 5-year cycle. </p>
+  <p>The reporting on this indicator will follow a 5-year cycle.</p>
 
   <ol>
     <li>First baseline reporting cycle in 2017: data collected from 2010 to 2014;</li>
@@ -320,13 +658,71 @@ COVERAGE: >-
     <li>Fourth reporting cycle in 2030: data collected from 2025 to 2029.</li>
   </ol>
 
-  <h2>Disaggregation:</h2>
+  <p>Disaggregation:</p>
 
-  <p>The indicator is available at country level. It is disaggregated by
-  Convention, in addition to providing the average transmission rate of the five
-  Conventions. </p>
-COMPARABILITY: <h2>Sources of discrepancies:</h2>
-OTHER_DOC: |-
-  <h1>References</h1>
-  <h2>URL:</h2>
-  <h2>References:</h2>
+  <p>The indicator is available at country level. </p>
+
+  <p>It is disaggregated by Convention, in addition to providing the average
+  transmission rate of the five Conventions. </p>
+COMPARABILITY: >-
+  <p>For the BRS Conventions, the data is produced by Parties and then
+  transmitted to the Secretariat which makes it publicly available on the
+  Conventions website.</p>
+
+  <p>For the Minamata Convention, the data reported in this paper is only
+  produced by countries.</p>
+
+  <p>Under the Montreal Protocol, the data and information reported are produced
+  by the Parties. </p>
+OTHER_DOC: >-
+  <p>Relevant links to the Basel, Rotterdam and Stockholm Conventions: </p>
+
+  <p>http://www.brsmeas.org/Implementation/SustainableDevelopmentGoals/Overview/tabid/8490/language/en-US/Default.aspx</p>
+
+  <p>http://www.basel.int/Countries/CountryContacts/tabid/1342/Default.aspx</p>
+
+  <p><a
+  href="http://www.pic.int/Countries/CountryContacts/tabid/3282/language/en-US/Default.aspx">http://www.pic.int/Countries/CountryContacts/tabid/3282/language/en-US/Default.aspx</a></p>
+
+  <p><a
+  href="http://chm.pops.int/Countries/CountryContacts/tabid/304/Default.aspx">http://chm.pops.int/Countries/CountryContacts/tabid/304/Default.aspx</a></p>
+
+  <p>http://www.basel.int/Countries/NationalReporting/NationalReports/BC2018Reports/tabid/8202/Default.aspx</p>
+
+  <p><a
+  href="http://www.pic.int/Implementation/PICCircular/tabid/1168/language/en-US/Default.aspx">http://www.pic.int/Implementation/PICCircular/tabid/1168/language/en-US/Default.aspx</a></p>
+
+  <p>http://www.pic.int/Countries/CountryProfiles/tabid/1087/language/en-US/Default.aspx</p>
+
+  <p><a
+  href="http://chm.pops.int/Countries/Reporting/NationalReports/tabid/3668/Default.aspx">http://chm.pops.int/Countries/Reporting/NationalReports/tabid/3668/Default.aspx</a></p>
+
+  <p><a
+  href="http://chm.pops.int/Implementation/NationalImplementationPlans/NIPTransmission/tabid/253/Default.aspx">http://chm.pops.int/Implementation/NationalImplementationPlans/NIPTransmission/tabid/253/Default.aspx</a></p>
+
+  <p>Relevant links for the Minamata Convention relevant to this indicator: <a
+  href="https://www.mercuryconvention.org/Countries/Parties/Notifications/tabid/3826/language/en-US/Default.aspx">https://www.mercuryconvention.org/Countries/Parties/Notifications/tabid/3826/language/en-US/Default.aspx</a>;
+  <a
+  href="https://www.mercuryconvention.org/Countries/Parties/FocalPoints/tabid/7708/language/en-US/Default.aspx">https://www.mercuryconvention.org/Countries/Parties/FocalPoints/tabid/7708/language/en-US/Default.aspx</a>;
+  https://www.mercuryconvention.org/Countries/Parties/Reporting/tabid/8189/language/en-US/Default.aspx</p>
+
+  <p>For the Montreal Protocol, relevant links can be found on the
+  Secretariat&#x2019;s website at: </p>
+
+  <p><a href="https://ozone.unep.org/">https://ozone.unep.org/</a></p>
+
+  <p><a
+  href="https://ozone.unep.org/treaties">https://ozone.unep.org/treaties</a></p>
+
+  <p><a
+  href="https://ozone.unep.org/countries">https://ozone.unep.org/countries</a></p>
+
+  <p><a
+  href="https://ozone.unep.org/countries/data">https://ozone.unep.org/countries/data</a></p>
+
+  <p>https://ozone.unep.org/countries/data-reporting-tools</p>
+
+  <p><a
+  href="https://ozone.unep.org/additional-reported-information">https://ozone.unep.org/additional-reported-information</a></p>
+
+  <p>https://ozone.unep.org/mixtures-blends-tool.</p>

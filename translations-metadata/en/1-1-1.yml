@@ -1,0 +1,215 @@
+SDG_INDICATOR_INFO: ''
+SDG_GOAL: '<p>Goal 1: End poverty in all its forms everywhere</p>'
+SDG_TARGET: >-
+  <p>Target 1.1: By 2030, eradicate extreme poverty for all people everywhere,
+  currently measured as people living on less than $1.25 a day</p>
+SDG_INDICATOR: >-
+  <p>Indicator 1.1.1: Proportion of the population living below the
+  international poverty line by sex, age, employment status and geographic
+  location (urban/rural)</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: <p>January 2021</p>
+SDG_RELATED_INDICATORS: '<p>1.3.1, 8.2.1, 8.3.1, 8.5.1, 10.4.1</p>'
+SDG_CUSTODIAN_AGENCIES: <p>ILO</p>
+CONTACT: ''
+CONTACT_ORGANISATION: <p>ILO</p>
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  <p><strong>Definition:</strong></p>
+
+  <p>The proportion of the employed population below the international poverty
+  line of US$1.90 per day, also referred to as the working poverty rate, is
+  defined as the share of employed persons living in households with per-capita
+  consumption or income that is below the international poverty line of
+  US$1.90.</p>
+
+  <p><strong>Concepts:</strong></p>
+
+  <p>Employment: All persons of working age who, during a short reference period
+  (one week), were engaged in any activity to produce goods or provide services
+  for pay or profit.</p>
+
+  <p>Poverty Line: Threshold below which individuals in the reference population
+  are considered poor and above which they are considered non-poor. The
+  threshold is generally defined as the per-capita monetary requirements an
+  individual needs to afford the purchase of a basic bundle of goods and
+  services. For the purpose of this indicator, an absolute international poverty
+  line of US$1.90 per day is used.</p>
+
+  <p>Household in poverty: Households are defined as poor if their income or
+  consumption expenditure is below the poverty line taking into account the
+  number of household members and composition (e.g., number of adults and
+  children).</p>
+
+  <p>Working poor: Employed persons living in households that are classified as
+  poor, that is, that have income or consumption levels below the poverty line
+  used for measurement.</p>
+UNIT_MEASURE: <p>Percentage</p>
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  <p>The preferred data source is a household survey with variables that can
+  reliably identify both the poverty status of households and the economic
+  activity of the household&#x2019;s members. Examples include household income
+  and expenditure surveys (HIES), living standards measurement surveys (LSMS)
+  with employment modules, or labour force surveys (LFS) that collect
+  information on household income. Such surveys offer the benefit of allowing
+  the employment status and income (or consumption expenditure) variables to be
+  derived from the same sampled households ideally for the same observation
+  period.</p>
+
+  <p>Employment estimates derived from a household survey other than a labour
+  force survey may, however, not be the most robust due to questionnaire design.
+  Similarly, a labour force survey may not be the best instrument for collecting
+  household income or consumption expenditure data, although an attached income
+  module can be designed to achieve statistically reliable results, including
+  ensuring an overlap in the observation period between household income (or
+  consumption expenditure) and employment status. </p>
+
+  <p>Another possibility is to combine data from a household income and
+  expenditure survey and from a separate labour force survey when the respondent
+  households can be matched and consistency in the long observation period
+  between the surveys can be obtained.</p>
+COLL_METHOD: >-
+  <p> </p>
+
+  <p>The ILO processes national household survey microdatasets in line with
+  internationally-agreed indicator concepts and definitions set forth by the
+  International Conference of Labour Statisticians. </p>
+FREQ_COLL: <p>Continuous</p>
+REL_CAL_POLICY: >-
+  <p>National data are updated weekly on ILOSTAT. Global and regional estimates
+  are updated once per year (in November or December).</p>
+DATA_SOURCE: <p>Mainly National Statistical Offices.</p>
+COMPILING_ORG: <p>ILO</p>
+INST_MANDATE: >-
+  <p>The ILO is the UN focal point for labour statistics. It sets international
+  standards for labour statistics through the International Conference of Labour
+  Statisticians. It also compiles and produces labour statistics with the goal
+  of disseminating internationally-comparable datasets, and provides technical
+  assistance and training to ILO member States to support their efforts to
+  produce high quality labour market data.</p>
+OTHER_METHOD: ''
+RATIONALE: >-
+  <p>In order to eradicate poverty, we must understand the root causes of
+  poverty. </p>
+
+  <p>The working poverty rate reveals the proportion of the employed population
+  living in poverty despite</p>
+
+  <p>being employed, implying that their employment-related incomes are not
+  sufficient to lift</p>
+
+  <p>them and their families out of poverty and ensure decent living conditions.
+  The adequacy of earnings is a fundamental aspect of job quality, and these
+  deficits in job quality could be keeping workers and their families in
+  poverty.</p>
+
+  <p>The proportion of working poor in total employment (that is, the working
+  poverty rate) combines data on household income or consumption with labour
+  force framework variables measured at the individual level and sheds light on
+  the relationship between employment and household poverty.</p>
+REC_USE_LIM: >-
+  <p>At the country level, comparisons over time may be affected by such factors
+  as changes in survey types or data collection methods. The use of PPPs rather
+  than market exchange rates ensures that differences in price levels across
+  countries are taken into account. However, it cannot be categorically asserted
+  that two people in two different countries, living below US$1.90 a day at PPP,
+  face the same degree of deprivation or have the same degree of need.</p>
+
+  <p>Poverty in the context of this indicator is a concept that is applied to
+  households, and not to individuals, based on the assumption that households
+  pool their income. This assumption may not always be true.</p>
+
+  <p>Moreover, the poverty status of a household is a function of the wage and
+  other employment-related income secured by those household members in
+  employment, income derived from asset ownership, plus any other available
+  income such as transfer payments and the number of household members. Whether
+  a worker is counted as working poor therefore depends on his or her own
+  income, the income of other household members and the number of household
+  members who need to be supported. It is thus often valuable to study household
+  structure in relation to working poverty. </p>
+DATA_COMP: >-
+  <p><img
+  src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA0MAAAB5CAIAAAB0q23uAAAAAXNSR0IArs4c6QAAJxhJREFUeF7tnVuoNEe5hnf23gq/Bm+ioBdREFEjQYxRFDwQBA9xi6eoaA5G8JAYMBoNeIhGUeIBPAsGjYKixgvPF54vjEZRQqKgYlRQUC8MahAhGsSLfz/6wkfRPdPT0zOzVs9aT18sZvVUV331VE3X219VfX3KyZMn/8tDAhKQgAQkIAEJSGAPCfz3HtqsyRKQgAQkIAEJSEAC/yagkrMfSEACEpCABCQggX0loJLb15bTbglIQAISkIAEJKCSsw9IQAISkIAEJCCBfSWgktvXltNuCUhAAhKQgAQkoJKzD0hAAhKQgAQkIIF9JaCS29eW024JSEACEpCABCSgkrMPSEACEpCABCQggX0loJLb15bTbglIQAISkIAEJKCSsw9IQAISkIAEJCCBfSWgktvXltNuCUhAAhKQgAQkoJKzD0hAAhKQgAQkIIF9JaCS29eW024JSEACEpCABCSgkrMPSEACEpCABCQggX0loJLb15bTbglIQAISkIAEJKCSsw9IQAISkIAEJCCBfSWgktvXltNuCUhAAhKQgAQkoJKzD0hAAhKQgAQkIIF9JaCS29eW024JSEACEpCABCSgkrMPSEACEpCABCQggX0loJLb15bTbglIQAISkIAEJKCSsw9IQAISkIAEJCCBfSWgktvXltNuCUhAAhKQgAQkoJKzD0hAAhKQgAQkIIF9JaCS29eW024JSEACEpCABCSgkrMPSEACEpCABCQggX0loJLb15bTbglIQAISkIAEJKCSsw9IQAISkIAEJCCBfSWgktvXltNuCUhAAhKQgAQkoJKzD0hAAhKQgAQkIIF9JaCS29eW024JSEACEtgdge9973uvec1rdpe/OUtgWwRUctsiaT4S+DeBd7zjHf/3n4Nh4FCI/PjHP7744otjw6EYMIdCD70VDgXCF7/4xbT7Rz/60UMxoAo9nvwPl/m00j/wgQ/MpM9Ms9+rQuCUkydPykICR4wAQ9rHP/7xZZV67Wtf+/jHP353VWYY+/73v7/rUgbs//Of/3zZZZf94x//+OpXv7q7as48534r4F/55S9/OZ4JWvxd73rXM57xjJe97GUzr2yZl54/B5sP+FfAAwwl0udBcc973vOTn/xkmHz605/+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"></p>
+DATA_VALIDATION: >-
+  <p>The ILO engages in annual consultations with member States through the
+  ILOSTAT questionnaire and related Statistics Reporting System (StaRS).
+  National data providers receive a link to the portal where they can review all
+  national SDG data available on ILOSTAT.</p>
+ADJUSTMENT: >-
+  <p>Through the ILO Harmonized Microdata initiative, the ILO strives to produce
+  internationally comparable labour statistics based on the indicator concepts
+  and definitions adopted by the International Conference of Labour
+  Statisticians.</p>
+IMPUTATION: >-
+  <p>&#x2022; Estimates are produced for countries and years for which no direct
+  working poverty estimates are available based on household survey estimates,
+  but for which total poverty estimates are available in the World Bank&#x2019;s
+  PovcalNet database. This is carried out through a multivariate regression
+  model described in &#x201C;Employment and economic class in the developing
+  world&#x201D; (Kapsos and Bourmpoula, 2013), available at <a
+  href="http://www.ilo.org/wcmsp5/groups/public/---dgreports/---inst/documents/publication/wcms_216451.pdf">http://www.ilo.org/wcmsp5/groups/public/---dgreports/---inst/documents/publication/wcms_216451.pdf</a>.</p>
+
+  <p>&#x2022; Following the step described directly above, missing data at the
+  national level are estimated through a multivariate regression model for the
+  purpose of producing global and regional estimations.</p>
+REG_AGG: >-
+  <p>The ILO produces global and regional estimates of employment by economic
+  class (and thus, of working poverty rates) using the ILO&#x2019;s Employment
+  by Class (EbyC) model. These estimates are part of the ILO Estimates and
+  Projections series, analysed in the ILO&apos;s World Employment and Social
+  Outlook reports. For more information, on the model used to derive these
+  estimates, refer to the ILO paper &#x201C;Employment and economic class in the
+  developing world&#x201D; (Kapsos and Bourmpoula, 2013), available at <a
+  href="http://www.ilo.org/wcmsp5/groups/public/---dgreports/---inst/documents/publication/wcms_216451.pdf">http://www.ilo.org/wcmsp5/groups/public/---dgreports/---inst/documents/publication/wcms_216451.pdf</a>.</p>
+DOC_METHOD: >-
+  <p>National poverty estimates will differ from this SDG indicator. This SDG
+  indicator uses the international poverty line, currently set at US$1.90 at
+  purchasing power parity. For further information, see: Decent Work and the
+  Sustainable Development Goals: A Guidebook on SDG Labour Market Indicators
+  (ILO) <a
+  href="https://www.ilo.org/stat/Publications/WCMS_647109/lang--en/index.htm">https://www.ilo.org/stat/Publications/WCMS_647109/lang--en/index.htm</a>
+  </p>
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: >-
+  <p>Data consistency and quality checks are regularly conducted for validation
+  of the data before dissemination in the ILOSTAT database. </p>
+QUALITY_ASSMNT: ''
+COVERAGE: >-
+  <p>Data availability: Data for this indicator is available for 117 countries
+  and territories. </p>
+
+  <p>Time series: This submission covers data from 2000 to 2019. </p>
+
+  <p>Disaggregation:</p>
+
+  <p>The working poverty rate (proportion of employed persons living in poverty)
+  is disaggregated by sex and age.</p>
+COMPARABILITY: >-
+  <p>National poverty estimates will differ from this SDG indicator. This SDG
+  indicator uses the international poverty line, currently set at US$1.90 at
+  purchasing power parity. For further information, see: Decent Work and the
+  Sustainable Development Goals: A Guidebook on SDG Labour Market Indicators
+  (ILO) <a
+  href="https://www.ilo.org/stat/Publications/WCMS_647109/lang--en/index.htm">https://www.ilo.org/stat/Publications/WCMS_647109/lang--en/index.htm</a>
+  </p>
+OTHER_DOC: >-
+  <ul>
+    <li>Decent Work and the Sustainable Development Goals: A Guidebook on SDG Labour Market Indicators (ILO) <a href="https://www.ilo.org/stat/Publications/WCMS_647109/lang--en/index.htm">https://www.ilo.org/stat/Publications/WCMS_647109/lang--en/index.htm</a> </li>
+    <li>ILOSTAT (<a href="https://ilostat.ilo.org/">https://ilostat.ilo.org/</a>).<ul>
+        <li>ILOSTAT&#x2019;s topic page on working poverty (<a href="https://ilostat.ilo.org/topics/working-poor/">https://ilostat.ilo.org/topics/working-poor/</a>)</li>
+      </ul>
+    </li>
+    <li>Employment and economic class in the developing world (Kapsos and Bourmpoula, 2013) <a href="http://www.ilo.org/wcmsp5/groups/public/---dgreports/---inst/documents/publication/wcms_216451.pdf">http://www.ilo.org/wcmsp5/groups/public/---dgreports/---inst/documents/publication/wcms_216451.pdf</a></li>
+  </ul>
+
+  <p>Decent Work Indicators Manual <a
+  href="http://www.ilo.org/wcmsp5/groups/public/---dgreports/---integration/documents/publication/wcms_229374.pdf">http://www.ilo.org/wcmsp5/groups/public/---dgreports/---integration/documents/publication/wcms_229374.pdf</a>
+  (second version, page 70). </p>

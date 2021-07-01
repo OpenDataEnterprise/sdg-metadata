@@ -1,0 +1,353 @@
+SDG_INDICATOR_INFO: ''
+SDG_GOAL: '<p>Goal 5: Achieve gender equality and empower all women and girls</p>'
+SDG_TARGET: >-
+  <p>Target 5.1: End all forms of discrimination against all women and girls
+  everywhere</p>
+SDG_INDICATOR: >-
+  <p>Indicator 5.1.1: Whether or not legal frameworks are in place to promote,
+  enforce and monitor equality and non&#x2011;discrimination on the basis of
+  sex</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: <p>March 2021</p>
+SDG_RELATED_INDICATORS: >-
+  <p>There are other legal SDGs indicators: </p>
+
+  <p>&#x2022; Indicator 5.a.2, &#x2018;Proportion of countries where the legal
+  framework (including customary law) guarantees women&#x2019;s equal rights to
+  land ownership and/or control&#x2019;; and </p>
+
+  <p>&#x2022; Indicator 5.6.2, &#x2018;Number of countries with laws and
+  regulations that guarantee full and equal access to women and men aged 15
+  years and older to sexual and reproductive health care, information and
+  education&#x2019;. </p>
+
+  <p>To avoid duplication, indicator 5.1.1 does not cover areas of law that are
+  addressed under indicators 5.a.2 and 5.6.2. Indicator 5.1.1 complements these
+  other indicators.</p>
+
+  <p>Legal frameworks that advance gender equality generally relate to all of
+  Goal 5 as well as other Goals since gender equality is central to the
+  achievement of all SDGs.</p>
+SDG_CUSTODIAN_AGENCIES: '<p>UN Women, World Bank Group, OECD Development Centre</p>'
+CONTACT: ''
+CONTACT_ORGANISATION: '<p>UN Women, World Bank Group, OECD Development Centre</p>'
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  <h2>Definitions:</h2>
+
+  <p>Indicator 5.1.1 measures Government efforts to put in place legal
+  frameworks that promote, enforce and monitor gender equality. </p>
+
+  <p>The indicator is based on an assessment of legal frameworks that promote,
+  enforce and monitor gender equality. The assessment is carried out by national
+  counterparts, including National Statistical Offices (NSOs) and/or National
+  Women&#x2019;s Machinery (NWMs), and legal practitioners/researchers on gender
+  equality, using a questionnaire comprising 45 yes/no questions under four
+  areas of law: (i) overarching legal frameworks and public life; (ii) violence
+  against women; (iii) employment and economic benefits; and (iv) marriage and
+  family<sup><a href="#footnote-2" id="footnote-ref-2">[1]</a></sup>. The areas
+  of law and questions are drawn from the international legal and policy
+  framework on gender equality, in particular the Convention on the Elimination
+  of All Forms of Discrimination against Women (CEDAW), which has 189 States
+  parties, and the Beijing Platform for Action. As such, no new internationally
+  agreed standard on equality and non-discrimination on the basis of sex was
+  needed. The primary sources of information relevant for indicator 5.1.1 are
+  legislation and policy/action plans.</p>
+
+  <p>The 45 questions in the questionnaire are:</p>
+
+  <h2>Area 1: Overarching legal frameworks and public life</h2>
+
+  <h2>Promote</h2>
+
+  <ol>
+    <li>If customary law is a valid source of law under the constitution, is it invalid if it violates constitutional provisions on equality or nondiscrimination? </li>
+    <li>If personal law is a valid source of law under the constitution, is it invalid if it violates constitutional provisions on equality or nondiscrimination? </li>
+    <li>Is there a discrimination law that prohibits both direct and indirect discrimination against women? </li>
+    <li>Do women and men enjoy equal rights and access to hold public and political office (legislature, executive, judiciary)? </li>
+    <li>Are there quotas for women (reserved seats) in, or quotas for women in candidate lists for, national parliament?</li>
+    <li>Do women and men have equal rights to confer citizenship to their spouses and their children?</li>
+  </ol>
+
+  <h2>Enforce and monitor </h2>
+
+  <ol>
+    <li>Does the law establish a specialized independent body tasked with receiving complaints of discrimination based on gender (e.g., national human rights institution, women&#x2019;s commission, ombudsperson)? </li>
+    <li>Is legal aid mandated in criminal matters? </li>
+    <li>Is legal aid mandated in civil/family matters?</li>
+    <li>Does a woman&#x2019;s testimony carry the same evidentiary weight in court as a man&#x2019;s? </li>
+    <li>Are there laws that explicitly require the production and/or dissemination of gender statistics?</li>
+    <li>Are there sanctions for noncompliance with mandated candidate list quotas, or incentives for political parties to field women candidates in national parliamentary elections? </li>
+  </ol>
+
+  <h2>Area 2: Violence against women</h2>
+
+  <h2>Promote</h2>
+
+  <ol>
+    <li>Is there legislation on domestic violence that includes physical violence?</li>
+    <li>Is there legislation on domestic violence that includes sexual violence?</li>
+    <li>Is there legislation on domestic violence that includes psychological/emotional violence?</li>
+    <li>Is there legislation on domestic violence that includes financial/economic violence?</li>
+    <li>Have provisions exempting perpetrators from facing charges for rape if the perpetrator marries the victim after the crime been removed, or never existed in legislation? </li>
+    <li>Have provisions reducing penalties in cases of so-called honour crimes been removed, or never existed in legislation?</li>
+    <li>Are laws on rape based on lack of consent, without requiring proof of physical force or penetration? </li>
+    <li>Does legislation explicitly criminalize marital rape or does legislation entitle a woman to file a complaint for rape against her husband or partner?</li>
+    <li>Is there legislation that specifically addresses sexual harassment? </li>
+  </ol>
+
+  <h2>Enforce and monitor</h2>
+
+  <ol>
+    <li>Are there budgetary commitments provided for by government entities for the implementation of legislation addressing violence against women by creating an obligation on government to provide budget or allocation of funding for the implementation of relevant programmes or activities? </li>
+    <li>Are there budgetary commitments provided for by government entities for the implementation of legislation addressing violence against women by allocating a specific budget, funding and/or incentives to support non-governmental organizations for activities to address violence against women? </li>
+    <li>Is there is a national action plan or policy to address violence against women that is overseen by a national mechanism with the mandate to monitor and review implementation? </li>
+  </ol>
+
+  <h2>Area 3: Employment and economic benefits</h2>
+
+  <h2>Promote</h2>
+
+  <ol>
+    <li>Does the law mandate nondiscrimination on the basis of gender in employment?</li>
+    <li>Does the law mandate equal remuneration for work of equal value? </li>
+    <li>Can women work in jobs deemed hazardous, arduous or morally inappropriate in the same way as men?</li>
+    <li>Are women able to work in the same industries as men?</li>
+    <li>Are women able to perform the same tasks as men?</li>
+    <li>Does the law allow women to work the same night hours as men? </li>
+    <li>Does the law provide for maternity or parental leave available to mothers in accordance with the ILO standards? </li>
+    <li>Does the law provide for paid paternity or parental leave available to fathers or partners?</li>
+  </ol>
+
+  <h2>Enforce and monitor</h2>
+
+  <ol>
+    <li>Is there a public entity that can receive complaints on gender discrimination in employment? </li>
+    <li>Is childcare publicly provided or subsidized?</li>
+  </ol>
+
+  <h2>Area 4: Marriage and family</h2>
+
+  <h2>Promote</h2>
+
+  <ol>
+    <li>Is the minimum age of marriage at least 18, with no legal exceptions, for both women and men?</li>
+    <li>Do women and men have equal rights to enter marriage (i.e., consent) and initiate divorce? </li>
+    <li>Do women and men have equal rights to be the legal guardian of their children during and after marriage? </li>
+    <li>Do women and men have equal rights to be recognized as head of household or head of family?</li>
+    <li>Do women and men have equal rights to choose where to live? </li>
+    <li>Do women and men have equal rights to choose a profession?</li>
+    <li>Do women and men have equal rights to obtain an identity card?</li>
+    <li>Do women and men have equal rights to apply for passports? </li>
+    <li>Do women and men have equal rights to own, access and control marital property including upon divorce?</li>
+  </ol>
+
+  <h2>Enforce and monitor </h2>
+
+  <ol>
+    <li>Is marriage under the legal age void or voidable?</li>
+    <li>Are there dedicated and specialized family courts? </li>
+  </ol>
+
+  <h2>Concepts: </h2>
+
+  <p>Article 1 of CEDAW provides a comprehensive definition of discrimination
+  against women covering direct and indirect discrimination and article 2 sets
+  out general obligations for States, in particular on required legal
+  frameworks, to eliminate discrimination against women. Article 1 of CEDAW
+  states: &#x201C;&#x2026; the term &quot;discrimination against women&quot;
+  shall mean any distinction, exclusion or restriction made on the basis of sex
+  which has the effect or purpose of impairing or nullifying the recognition,
+  enjoyment or exercise by women, irrespective of their marital status, on a
+  basis of equality of men and women, of human rights and fundamental freedoms
+  in the political, economic, social, cultural, civil or any other
+  field&#x201D;.</p>
+
+  <p>The term &#x201C;legal frameworks&#x201D; is defined broadly to encompass
+  laws, mechanisms and policies/plans to &#x2018;promote, enforce and
+  monitor&#x2019; gender equality. </p>
+
+  <p>Legal frameworks that &#x201C;promote&#x201D; are those that establish
+  women&#x2019;s equal rights with men and enshrine non-discrimination on the
+  basis of sex. Legal frameworks that &#x201C;enforce and monitor&#x2019; are
+  directed to the realization of equality and non-discrimination and
+  implementation of laws, such as policies/plans, establishment of enforcement
+  and monitoring mechanisms, and allocation of financial resources.</p><div
+  class="footnotes"><div><sup class="footnote-number" id="footnote-2">1</sup><p>
+  The areas of law were agreed at the expert workshop, held on 14 and 15 June
+  2016, to discuss the methodological development of SDG indicator 5.1.1. <a
+  href="#footnote-ref-2">&#x2191;</a></p></div></div>
+UNIT_MEASURE: ''
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  <p>The data for the indicator are derived from an assessment of legal
+  frameworks using primary sources/official government documents, in particular
+  laws, policies/action plans. The assessment is carried out by national
+  counterparts, including National Statistical Offices (NSOs) and/or National
+  Women&#x2019;s Machinery (NWMs), and legal practitioners/researchers on gender
+  equality, using a questionnaire comprising 46 yes/no questions under four
+  areas of law: (i) overarching legal frameworks and public life; (ii) violence
+  against women; (iii) employment and economic benefits; and (iv) marriage and
+  family. The areas of law and questions are drawn from the international legal
+  and policy framework on gender equality, in particular the Convention on the
+  Elimination of All Forms of Discrimination against Women (CEDAW), which has
+  189 States parties, and the Beijing Platform for Action. </p>
+COLL_METHOD: >-
+  <p>Countries are asked to designate a focal point to undertake the
+  coordination at the country level necessary for the collection and validation
+  of the data. Most designated focal points are within the NWMs, a number are
+  within the NSOs and some are within both the NWMs and the NSOs. After
+  verification,<sup><a href="#footnote-3" id="footnote-ref-3">[2]</a></sup> the
+  data with relevant laws, polices and other sources included, is sent to the
+  designated focal points/country counterparts to review and validate. Final
+  answers are arrived at after the process of validation with country
+  counterparts.</p><div class="footnotes"><div><sup class="footnote-number"
+  id="footnote-3">2</sup><p> Verification includes information (eg national
+  legal sources) compiled under World Bank Group and OECD Development Centre
+  procedures by legal practitioners/researchers on gender equality. The World
+  Bank Group&#x2019;s Women, Business and the Law and the OECD Development
+  Centre&#x2019;s Social Institutions and Gender Index are two well-known global
+  databases on national legal frameworks that promote gender equality which have
+  been collecting data in this area for 10 and 9 years respectively. <a
+  href="#footnote-ref-3">&#x2191;</a></p></div></div>
+FREQ_COLL: <p>Data will be compiled every two years starting in 2018.</p>
+REL_CAL_POLICY: <p>First quarter 2019.</p>
+DATA_SOURCE: >-
+  <p>National counterparts, including National Statistical Offices and National
+  Women&#x2019;s Machinery.</p>
+COMPILING_ORG: '<p>The World Bank Group, the OECD Development Centre, UN Women.</p>'
+INST_MANDATE: ''
+OTHER_METHOD: ''
+RATIONALE: >-
+  <p>Equality and non-discrimination on the basis of sex are core principles
+  under the international legal and policy framework, including the Convention
+  on the Elimination of All Forms of Discrimination against Women (CEDAW), which
+  has 189 States parties, and the Beijing Platform for Action. This framework
+  sets out the commitments of States to eliminate discrimination against women
+  and promote gender equality, including in the area of legal frameworks. </p>
+
+  <p>In the Beijing Platform for Action, States pledged to revoke any remaining
+  laws that discriminate on the basis of sex. The five-year review and appraisal
+  of the Beijing Platform for Action (Beijing + 5) established 2005 as the
+  target date for the repeal of laws that discriminate against women. This
+  deadline has come and gone. While there has been progress in reforming laws to
+  promote gender equality, discrimination against women in the law continues in
+  many countries. Even where legal reforms have taken place, gaps in
+  implementation persist.</p>
+
+  <p>Removing discriminatory laws and putting in place legal frameworks that
+  advance gender equality are prerequisites to ending discrimination against
+  women and achieving gender equality (Goal 5, Target 5.1). Indicator 5.1.1 will
+  be crucial in accelerating progress on the implementation of SDG 5 and all
+  other gender-related commitments in the 2030 Agenda for Sustainable
+  Development.</p>
+REC_USE_LIM: >-
+  <p>To avoid duplication, the indicator does not cover areas of law that are
+  addressed under indicator 5.a.2, &#x2018;Proportion of countries where the
+  legal framework (including customary law) guarantees women&#x2019;s equal
+  rights to land ownership and/or control&#x2019;, and indicator 5.6.2,
+  &#x2018;Number of countries with laws and regulations that guarantee full and
+  equal access to women and men aged 15 years and older to sexual and
+  reproductive health care, information and education&#x2019;. Indicator 5.1.1
+  complements these other indicators.</p>
+DATA_COMP: >-
+  <h2>Scoring:</h2>
+
+  <p>The indicator is based on an assessment of legal frameworks that promote,
+  enforce and monitor gender equality using a questionnaire comprising 45 Yes/No
+  questions under four areas of law drawn from the international legal and
+  policy framework on gender equality, in particular, CEDAW and the Beijing
+  Platform for Action. </p>
+
+  <p>The answers to the questions are coded with s<u>imple
+  &#x201C;Yes/No&#x201D;</u> answers with &#x201C;1&#x201D; for
+  &#x201C;Yes&#x201D; and &#x201C;0&#x201D; for &#x201C;No&#x201D;. For
+  questions 1 and 2 only, they may be scored &#x201C;N/A&#x201D; in which case
+  they are not included as part of the overall score calculation for the
+  area.<sup><sup><a href="#footnote-4" id="footnote-ref-4">[3]</a></sup></sup>
+  </p>
+
+  <p><img
+  src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAzYAAAEtCAIAAABVo2JnAAAAAXNSR0IArs4c6QAAd5VJREFUeF7tvU2oZcd19m//ycQmyaRlaAg2IQNJCZ2BnaGUjiZOHIkgLMWQD1sytCPFBmNaGiiNbA9iJCGI6MiGBCkRRMQfASMZQZTY8USy1bM4nohE0tDGRMRqyCA4o6D39/p5/4uVVXvXrn3Oueeee++zB5dz96ldtdZvrVq1dlXtfd759ttvv8OHCZiACZiACZiACZjAIRH4/w5JGMtiAiZgAiZgAiZgAibwfwk4RbMfmIAJmIAJmIAJmMDBEXCKdnAmsUAmYAImYAImYAIm4BTNPmACJmACJmACJmACB0fAKdrBmcQCmYAJmIAJmIAJmIBTNPuACZiACZiACZiACRwcAadoB2cSC2QCJmACJmACJmACTtHsAyZgAiZgAiZgAiZwcAScoh2cSSyQCZiACZiACZiACThFsw+YgAmYgAmYgAmYwMERcIp2cCaxQCZgAiZgAiZgAibgFM0+YAImYAImYAImYAIHR8Ap2sGZxAKZgAmYgAmYgAmYgFM0+4AJmIAJmIAJmIAJHBwBp2gHZxILZAImYAImYAImYAJO0ewDJmACJmACJmACJnBwBNalaM8///wdd9zxne985+D0+N8CPfjgg8h54EKGePBEWtjuRODHHntsUPfdttsXXm09/fTT2+iIWe+9995tajiEa8dRoCwqH5HM2AKLvPHGG0dU/4FXi+Kor2MRggpv6b2HAEQBfFehZp8aHWzfP+n9SC7B0YbWQ2O+k/QDTRkij9p1dzi21hQNO0XkKh8WA9lRq+36TcAETGAnBB555JGbb775xZ8eN954407qdCUmcLIIMKY/88wzd955J73g2WefPVnCnxFpa4qGnRS2HnroIRBcunRJ/56sQPbEE08g8GGacIf59WEqOCnVxYsXsch99903LvOh3cONS94vuQGKyQrHp0t3Jflpquett9666aab5jTaz632UfNsQ81dd91FN+TvUTft+k8EgTfffBM5uVc5EdLuU8jDGabXLXTuk5HbMgETMIGjIOAFgaOg6jpPHAFuVE6czGdN4He+/fbbkzqTRT7++OPMouVbLhaDmRdlgu2FF1547bXXuPDWW2+9cuVKroGl0jD81atXJxcRCJGXL1/WVcyy5smVvI8qX86c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r1Zsz6KdGlNaERM4CgJnPUU7Cqau0wRMwARMwARMwAS2JHCmFzq3ZOfLTcAETMAETMAETOCICDhFOyKwrtYETMAETMAETMAENifgFG1zdr7SBEzABEzABEzABI6IgFO0IwLrak3ABEzABEzABExgcwJO0TZn5ytNwARMwARMwARM4IgIOEU7IrCu1gRMwARMwARMwAQ2J+AUrcdu8KeH5qrgpUfb/5bU5rb1lSZgAiZgAiZgAieWgFO0E2s6C24CJmACJmACJnB6CZyhFI0JrY985CP68XI+HKNNv/nNb/L+dCTh7yc/+cmR3wg/RmndtAmYgAmYgAmYwP4JnJUU7cknn/z2t7/96U9/mh+r/8lPfvK+971v/6zVIvnZl770pQ9+8INI8oEPfOAHP/jBxYsXj0sYt2sCJmACJmACJnCYBM5EisYPcf7TP/0T+ZmSoXe/+92dFI05Lea3dFD48ccf12ftKiPVY95Ltvzyl78cs3EkXnzW72HH5fxCNr+KrX+ZutNVX/va1/iBy49+9KN8fte73nWMyeJheqSlMgETMAETMAETgMCZSNFeeumlG264ISarmLi66aab5sxPMea3dFDmoYce0uf77rtv0GPi8ptvvplsTP8+8cQTXE7+99Zbb912222q6oc//CFlBqt1MRMwARMwARMwgbND4EykaJiTFE1GZeqLhc5f+qVf0r/kTJ/73OfGn7v8zGc+85d/+Ze6lpmwr3/96/r8oQ99iM833njjiOuo2L/89Hjve9/L5+eff56ZNmRDEj4gEl+xUy1m5kaqdRkTMAETMAETMIFTQ+CspGjMXf34xz9mOfLatWuka0qSNKcV2dvejKrk7Bvf+AYtXrhwgb+svTLfxm45hGHejm+/+93vPvvss2STb7755t4Ec0MmYAImYAImYAIHQuBMpGhaWPzUpz7FEuf73//+2P7FmuZdd93FhrC9GYMWWdlkkuxb3/rWLbfcQmamZJFJuOvXr/P0APKQlpGoMV0nqX75l39ZH0goj/dB1L1RckMmYAImYAImYALvfPvtt88UBbbtk6Vpt74OrXKObzXbFS7aZS/aF77wBVXIsualS5fI4Tj/3//936RozPnxtEGsq+6qXddjAiZgAiZgAiZw+AQmZtEee+wxPcx4pAep0h5aaVXgKcuyssn0FSnRkSo7Wfnrr78ekrAIy5KrHmjgvDaoMefHhB/b1HhQVHvUxvfM7V8dt2gCJmACJmACJrBDAsez0MmaHanSDtUYrEovieW1ZCqv92u88sorvJJjy996GhQgF4MA7Uqk733ve7H8yvlf/MVf5CRnkI2ZNhZDmeTjXz/+uQFnX2ICJmACJmACJ5HAxEIns2hkBnrlxBEdLOqxE4tVvKtXrw4+BXlEkpygakkij9QoJwiFRTUBEzABEzCBU0/gGGbReLVETAj5ccVBD2OyzS+5HWTlYiZgAiZgAiZwCgj0UrR4S35sgWq3qemFXlqt0/ay/i9OsumKybOPfexjp4DdPlVg9ZPHP2GrHzDwYQImYAImYAImcLoJzKZoJFusQrKyxmu6SKqUpbE6yV/SsoCi14yN/8rkV7/6VV4t4cXNtV7FFBpZ2ve//32jW4vO5U3ABEzABEzgJBKY3YtGZhaJF9NjPG/Im1TRkG1k5GT6OSMOMjneuTr4xgpmgB5++OG/+Iu/eM973sOEED9/+fu///v5/Rd9gojRf8iA3fQh2Ek0hmU2ARMwARMwARMwAREYelyAKbTY2p8/M532zDPPjG/5J8fixzGVzylFG0/vNjbYsbzaY2NpRy70QwMjlFzGBEzABEzABE40gdUpGjNhly9f5iWrvAc/z64tUlBOVoqVFO3JJ5/kt480XefDBEzABEzABEzABM4sgRUpWkzekJnBiyXFVaucetFGXhJddTkteqHzzLqpFTcBEzABEzCBs0Zg9nGB/GBmfg8+gMi02BOmBwj085eLBy/aoMyHP/zhUpL3ssYZPUDaeSCUpJA0sXN4I9qiIVzABEzABEzABEzgRBCYTdFYlNT7HdhwRkLGimToc+HCBT6zO43t+fkBw7mXbuhFGzzIyVMCUYlSMZ5CiDOf/vSn+Tz+cOiJ4LsfIfUylP7rTvYjiVsxARMwARMwARPYCYHpFI1nNnkIgD1nDPw8EKCdZ9EeaZl+iUjv4Ogf5Hmf//znf/KTn/CLBZFDsOFM+9L4GUpNsHFQxm9nXcLp703ABEzABEzABM4EgYm9aCN6H8WPRFEnb2f9zGc+MyKAy5iACZiACZiACZjAKSaw4Q9AMSV266237pYLy6nvfe97d1unazMBEzABEzABEzCBk0hgkxQt/9LADnVmXxoLrLx3g71rO6zWVZmACZiACZiACZjAiSOw4ULnUej5yU9+kiyN3xvI+96OoqEt6ySD/OIXv8h2Oj3f8LWvfQ2xy+cPfehDW7biy03ABEzABEzABM4ygQNK0U6KGXi+4Vd+5Ve+8pWvIDDTfleuXCG55AMb6T7xiU/wbAQPPXCSb3k84ktf+tLXv/71k6Ka5TQBEzABEzABEzgQApssdB6I6MclBj8qygtEeP4UAZSKkZzxL5/1VpFz585JNl4g4vzsuMzkdk3ABEzABEzgRBNwiraJ+Vjr5HUhH/zgB3UxDzros87rjSTs2OOVJdq358METMAETMAETMAEVhFwirYK1/8r/G//9m980oYzNqXx99d+7df4+73vfY8ZNb19l5+6YsVT6ZoPEzABEzABEzABE1hFwCnaKlz/rzDTZvGW3X/913/ls5Y4mULjM2/r5ScZ9K9/LGETvr7GBEzABEzABM48Aadom7gAP1oa02N8jnSND2RvTz311K//+q/zrIB/LGETuL7GBEzABEzABEzgHe/wE51H5QXsQiN747dNz58/n3/J9Kjac70mYAImYAImYAKniIBn0Y7KmJpR+/73v+/87KgQu14TMAETMAETOL0EPIt2em1rzUzABEzABEzABE4sAc+inVjTWXATMAETMAETMIHTS8Ap2um1rTUzARMwARMwARM4sQScop1Y01lwEzABEzABEzCB00vAKdrpta01MwETMAETMAETOLEEnKKdWNNZcBMwARMwARMwgdNLwCna6bWtNTMBEzABEzABEzixBJyinVjTWXATMAETMAETMIHTS8Ap2um1rTUzARMwARMwARM4sQScop1Y01lwEzABEzABEzCB00vAKdrpta01MwETMAETMAETOLEEnKKdWNNZcBMwARMwARMwgdNLwCna6bWtNTMBEzABEzABEzixBJyinVjTWXATMAETMAETMIHTS8Ap2um1rTUzARMwARMwARM4sQScop1Y01lwEzABEzABEzCB00vAKdrpta01MwETMAETMAETOLEEnKKdWNNZcBMwARMwARMwgdNLwCna6bWtNTMBEzABEzABEzixBJyinVjTWXATMAETMAETMIHTS8Ap2um1rTUzARMwARMwARM4sQScop1Y01lwEzABEzABEzCB00vAKdrpta01MwETMAETMAETOLEEnKKdWNNZcBMwARMwARMwgdNLwCna6bWtNTMBEzABEzABEzixBJyinVjTWXATMAETMAETMIHTS8Ap2um1rTUzARMwARMwARM4sQScop1Y01lwEzABEzABEzCB00vAKdrpta01MwETMAETMAETOLEEnKKdWNNZcBMwARMwARMwgdNLwCna6bWtNTMBEzABEzABEzixBJyinVjTWXATMAETMAETMIHTS8Ap2um1rTUzARMwARMwARM4sQScop1Y01lwEzABEzABEzCB00vAKdrpta01MwETMAETMAETOLEEnKKdWNNZcBMwARMwARMwgR0RePDBB++444433nhjR/XtoJrdpGgodu+99+5AnEOt4umnn8ZyHGi6Nxlp7rHHHttbc/ts6PnnnxfP1m324Et7tuM4WEKDsBxamOiocCK8VP33eCMvrr7P6JFNdsh+JdN85zvfGe8mB1LySCPVkVZ+vACxdUS5Iske+qmSsEkCtH7DDTccL5y29ZqiaewsHUbg+CpfP1nyGNWTkEeR00DjhRdeuHTp0osvvvjEE08co46no2kGjGeeeebOO++E57PPPrtnpeTbN910057bHWnukUceufnmm8HCceONN45c4jImsEjAfrWIyAX2RuDxxx+/9dZbFeX21mg09NprrxFj23YZla5du3blypX9i9RvsaZoFy5c4AJkzZe9/vrr/Ku/cejfixcvHoJK8CWLQhIMsHN53nrrLeoUmaM7jvEm++iUmqz5zTff5PxkP9mDJHgsoeG+++7bQ1trm8DTjjp35B5m7iZyRNojugui6bU1b6nIiLKnpswe/GqQVXtjT0+kPx7IODKoxc6LneI5s8JKM9lHHeU6BpqbZ3nqqaeYhdm5ZbevsKZo3Lsz11cSHf3bnjyuUbZV+7nnnkNsJmaUTu32OIo6dyvhyarNPCftdbzLcCfLhSztOAH71TgrlzxqAro/P7SDOwfyh8O8T3jn22+/XXixYsiM1NWrV7XUwsIQM5NkP/kk3f7y5ctknXfddRdluAlg3H344Yc5qdoeeuihrLAq0VckdrFcCBrWvGhLFzL/qZnGufKTplVhpcCqrb9IxHwVMpw7d04Tb1EeLSINDfnLlEOcFyXJA5yYleHmnkoQRvoKkdScJMPJ/G0uQ9MA4YYjri0zw3MyFEoZJl9FJTqPRtSP+cIuMq4qwXHzWmT+KqNr7VIaDW7AzylauFDUIF+KRjOcEEZiFOyvvPJKqNYWiPoxUJSUxYuv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2Z/92YOQxkKYgAmYgAmYgAkcNwHPoh23Bd7xDjaisRHe+dnxW8ISmIAJmIAJmMDBEPAs2sGYwoKYgAmYgAmYgAmYwP9PwLNo9gUTMAETMAETMAETODgCTtEOziQWyARMwARMwARMwAScotkHTMAETMAETMAETODgCDhFOziTWCATMAETMAETMAETcIpmHzABEzABEzABEzCBgyPgFO3gTGKBTMAETMAETMAETMApmn3ABEzABEzABEzABA6OgFO0gzOJBTIBEzABEzABEzABp2j2ARMwARMwARMwARM4OAJO0Q7OJBbIBEzABEzABEzABJyi2QdMwARMwARMwARM4OAIOEU7OJNYIBMwARMwARMwARNwimYfMAETMAETMAETMIGDI+AU7eBMYoFMwARMwARMwARMwCmafcAETMAETMAETMAEDo6AU7SDM4kFMgETMAETMAETMAGnaPYBEzABEzABEzABEzg4Ak7RDs4kFsgETMAETMAETMAEnKLZB0zABEzABEzABEzg4Ag4RTs4k1ggEzABEzABEzABE3CKZh8wARMwARMwARMwgYMj4BTt4ExigUzABEzABEzABEzAKZp9wARMwARMwARMwAQOjoBTtIMziQUyARMwARMwARMwAado9gETMAETMAETMAETODgCTtEOziQWyARMwARMwARMwAScotkHTMAETMAETMAETODgCDhFOziTWCATMAETMAETMAETcIpmHzABEzABEzABEzCBgyPgFO3gTGKBTMAETMAETMAETMApmn3ABEzABEzABEzABA6OgFO0gzOJBTIBEzABEzABEzABp2j2ARMwARMwgSMn8Pzzzz/55JNH3swZaODBBx/8zne+cwYUtYrvOP4U7emnn77jjjveeOONI7UGPk0rHDS32BCF77333sViIwUee+wxtcuHkfIuc4oJ2A1OsXE7qm1jdwJjJ2r1vz1q2gRJQuV4Ky+88MJ73/veufLkHIPxebxFlTyKmjVs7TBP+vGPf/yRj3xkkOf73ve+a9eureUwWV5wyJ53UtuBVCLrcAzy3KfYSgnGW5xI0bCW1ItjJK0Zb3L/JZH/tddeu3r16osvvnjfffftTQBIvvLKKw899BDtXrlyZW/tuiETMAETOCgC3/zmN996661f//Vfn5OKBO6IBN55zaRT3/72t3cr7Te+8Y2f/OQng3WC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"></p>
+
+  <p>The choice of presenting all four area scores without further aggregation
+  is the result of adopting the posture that high values in one area in a given
+  country need not compensate in any way the country having low values in some
+  other area, and that a comprehensive examination of the value of those four
+  numbers for each country is potentially more informative than trying to
+  summarize all four numbers into a single index.</p><div
+  class="footnotes"><div><sup class="footnote-number" id="footnote-4">3</sup><p>
+  For questions 1 and 2, the methodology does not attribute a score (positive or
+  negative) to the existence of customary or personal law, but does score
+  whether they are subject to constitutional principles of equality or
+  nondiscrimination. Therefore, in countries where customary or personal law
+  does not apply, these questions are scored as &#x201C;N/A&#x201D; and are not
+  included as part of the overall score calculation for the area
+  &#x2018;overarching legal frameworks and public life&#x2019;. <a
+  href="#footnote-ref-4">&#x2191;</a></p></div></div>
+DATA_VALIDATION: ''
+ADJUSTMENT: ''
+IMPUTATION: |-
+  <p>&#x2022; At country level: Not imputed.</p>
+  <p>&#x2022; At regional and global levels: Not imputed.</p>
+REG_AGG: >-
+  <p>The regional and global aggregate calculations will be the unweighted
+  average of the scores of each country in that region (or globally), per area
+  of law.</p>
+DOC_METHOD: >-
+  <p>&#x2022; Methodology used by countries for the compilation of the data at
+  the national level: The questionnaires provided to countries include guidance,
+  definitions and instructions. </p>
+
+  <p>&#x2022; International recommendations and guidelines: The areas of law and
+  questions are drawn from the international legal and policy framework on
+  gender equality, in particular the Convention on the Elimination of All Forms
+  of Discrimination against Women (CEDAW), which has 189 States parties,
+  (http://www.ohchr.org/EN/HRBodies/CEDAW/Pages/CEDAWIndex.aspx), and the
+  Beijing Platform for Action
+  (http://www.unwomen.org/en/how-we-work/intergovernmental-support/world-conferences-on-women).
+  The attached Methodological Note sets out the international standards
+  supporting the areas of law and questions and also attaches the background
+  paper for the expert workshop which provides a useful summary of the
+  international legal and policy framework on equality and non-discrimination on
+  the basis of sex and the relevance for SDG indicator 5.1.1.</p>
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: >-
+  <p>The assessment of laws is initially carried out by national counterparts,
+  and legal practitioners and researchers on gender equality. The data is
+  checked and verified by the World Bank Group, OECD Development Centre, and UN
+  Women. The data is then sent to the designated focal points/country
+  counterparts to review and validate. Please refer to section 3 above on Data
+  source type and data collection method for more details. </p>
+QUALITY_ASSMNT: ''
+COVERAGE: >-
+  <p>Data availability:</p>
+
+  <p>Pilot data collection and validation was carried out for 14 countries.</p>
+
+  <p>Time series:</p>
+
+  <p>Disaggregation: </p>
+
+  <p>Four areas of law: (i) overarching legal frameworks and public life; (ii)
+  violence against women; (iii) employment and economic benefits; and (iv)
+  marriage and family.</p>
+COMPARABILITY: >-
+  <p>Sources of discrepancies:</p>
+
+  <p>There should be no discrepancies. Data is collected through validated
+  surveys.</p>
+OTHER_DOC: >-
+  <p>World Bank Group: http://wbl.worldbank.org/.</p>
+
+  <p>OECD Development Centre: <a
+  href="http://www.genderindex.org/">http://www.genderindex.org/</a>.</p>
+
+  <p>UN Women: https://data.unwomen.org/data-portal/sdg.</p>

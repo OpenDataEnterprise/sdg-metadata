@@ -1,0 +1,398 @@
+SDG_INDICATOR_INFO: ''
+SDG_GOAL: >-
+  <p>Goal 6: Ensure availability and sustainable management of water and
+  sanitation for all</p>
+SDG_TARGET: >-
+  <p>Target: 6.3 By 2030, improve water quality by reducing pollution,
+  eliminating dumping and minimizing release of hazardous chemicals and
+  materials, halving the proportion of untreated wastewater and substantially
+  increasing recycling and safe reuse globally.</p>
+SDG_INDICATOR: >-
+  <p>Indicator: 6.3.2 Proportion of bodies of water with good ambient water
+  quality</p>
+SDG_SERIES_DESCR: <p>Not applicable</p>
+META_LAST_UPDATE: <p>2 February 2021</p>
+SDG_RELATED_INDICATORS: '<p>Indicators 6.3.1, 6.6.1, 14.1.1</p>'
+SDG_CUSTODIAN_AGENCIES: <p>United Nations Environment Programme (UNEP)</p>
+CONTACT: ''
+CONTACT_ORGANISATION: <p>United Nations Environment Programme (UNEP)</p>
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  <p><strong>Definition:</strong></p>
+
+  <p>The indicator is defined as the proportion of water bodies in the country
+  that have good ambient water quality. Ambient water quality refers to natural,
+  untreated water in rivers, lakes and groundwaters and represents a combination
+  of natural influences together with the impacts of all anthropogenic
+  activities. The indicator relies on water quality data derived from in situ
+  measurements and the analysis of samples collected from surface and
+  groundwaters. Water quality is assessed by means of core physical and chemical
+  parameters that reflect natural water quality related to climatological and
+  geological factors, together with major impacts on water quality. The
+  continuous monitoring of all surface and groundwaters is economically
+  unfeasible and not required to sufficiently characterize the status of ambient
+  water quality in a country. Therefore, countries select river, lake and
+  groundwater bodies that are representative and significant for the assessment
+  and management of water quality to monitor and report on indicator 6.3.2. The
+  quality status of individual water bodies is classified based on the
+  compliance of the available water quality monitoring data for the core
+  parameters with target values defined by the country. The indicator is
+  computed as the proportion of the number of water bodies classified as having
+  good quality (i.e. with at least 80 % compliance) to the total number of
+  assessed water bodies, expressed as a percentage. </p>
+
+  <p><strong>Concepts:</strong></p>
+
+  <p>The concepts and definitions used in the methodology have been based on
+  existing international frameworks and glossaries (WMO 2012) unless where
+  indicated otherwise below.</p>
+
+  <p><strong>Aquifer: </strong>Geological formation capable of storing,
+  transmitting and yielding exploitable quantities of water. </p>
+
+  <p><strong>Classification of water quality: </strong>If at least 80% of the
+  monitoring values for prescribed parameters in a water body comply with their
+  respective target values, the water body is classified as having a
+  &#x201C;good&#x201D; water quality status<strong>. </strong>Each water body is
+  classified as being of &#x201C;good&#x201D; or &#x201C;not good&#x201D;
+  status.<em> </em></p>
+
+  <p><strong>Groundwater</strong>: Subsurface water occupying the saturated
+  zone. </p>
+
+  <p><strong>Groundwater body</strong>: A distinct volume of groundwater within
+  an aquifer or aquifers (EU 2000). Groundwater bodies that cross river basin
+  district (RBD) boundaries should be divided at the boundary with each separate
+  portion of the groundwater body being reported separately along with its
+  respective RBD. </p>
+
+  <p><strong>Lake:</strong> Inland body of standing surface water of significant
+  extent. </p>
+
+  <p><strong>Non-point-source pollution:</strong> Pollution of water bodies from
+  dispersed sources such as fertilizers, chemicals and pesticides used in
+  agricultural activities.</p>
+
+  <p><strong>Parameter: </strong>Water quality variable or characteristic of
+  water quality, also called a determinand.</p>
+
+  <p><strong>Point source pollution</strong>: Pollution with a precisely located
+  origin.</p>
+
+  <p><strong>Pollution (of water)</strong>: Introduction into water of any
+  undesirable substance which renders the water unfit for its intended use.</p>
+
+  <p><strong>Pollutant</strong>: Substance which disrupts and interferes with
+  the equilibrium of a water system and impairs the suitability of using the
+  water for a desired purpose. </p>
+
+  <p><strong>Reservoir: </strong>Body of water, either natural or man-made, used
+  for storage, regulation and control of water resources.</p>
+
+  <p><strong>River: </strong>Large stream which serves as the natural drainage
+  for a basin.</p>
+
+  <p><strong>River basin: </strong>Geographical area having a common outlet for
+  its surface runoff.</p>
+
+  <p><strong>River basin district: </strong>Area of land, made up of one or more
+  neighbouring river basins together with their associated groundwaters (EU,
+  2000).</p>
+
+  <p><strong>River water body</strong>: A coherent section of a river that is
+  discrete (does not overlap with another water body) and is significant rather
+  than arbitrarily designated. </p>
+
+  <p><strong>Stream: </strong>Flowing body of water in a natural surface
+  channel.</p>
+
+  <p><strong>Surface water: </strong>Water which flows over, or lies on, the
+  ground surface. Note: Indicator 6.3.2 does not include the monitoring of water
+  quality in wetlands under monitoring level 1.</p>
+
+  <p><strong>Target value</strong>: A value (or range) for any given water
+  quality parameter that indicates the threshold for a designated water quality,
+  such as good water quality rather than acceptable water quality.</p>
+
+  <p><strong>Toxic substance</strong>: Chemical substance which can disturb the
+  physiological functions of humans, animals and plants.</p>
+
+  <p><strong>Transboundary waters: </strong>Surface or ground waters which mark,
+  cross or are located on boundaries between two or more States; wherever
+  transboundary waters flow directly into the sea, these transboundary waters
+  end at a straight line across their respective mouths between points on the
+  low-water line of the banks (UNECE, 1992).</p>
+
+  <p><strong>Water quality index: </strong>The measured water quality results
+  for all parameters combined into a numeric value for each monitoring location.
+  These scores are then aggregated over the time of the assessment period. The
+  index score can range between zero (worst) to 100 (best).</p>
+UNIT_MEASURE: >-
+  <p>The<strong> proportion</strong> of the number of bodies of water with good
+  water quality to the total number of assessed water bodies in percent. To
+  classify whether a water body is of &#x201C;good ambient water quality&#x201D;
+  or not, a threshold is applied where 80 per cent or more of monitoring values
+  meet their target values. This is then applied in turn to the Reporting Basin
+  District, and then to the national level to generate the national indicator
+  score.</p>
+CLASS_SYSTEM: >-
+  <p>The indicator has been developed in close collaboration with member states
+  in a proof of concept phase. There are no international standards.</p>
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  <p>The recommended sources of data are water quality monitoring data derived
+  from in situ measurements and the analysis of samples collected from surface
+  and groundwaters in national or sub-national ambient water quality monitoring
+  programmes implemented by governmental authorities. Additional water quality
+  monitoring data from research or citizen-science monitoring programmes can be
+  used to supplement the available authoritative monitoring data, provided they
+  are authorised by the national reporting agency.</p>
+
+  <p>The number of monitoring locations required to determine the quality status
+  of a water body depends on the type and size of the water body, but a minimum
+  of one monitoring location per water body is required. The minimum data
+  requirements for calculating this indicator are measurements for all of the
+  recommended or alternative core parameters appropriate to the type of water
+  body as defined in the methodology. </p>
+
+  <p>Measurements should be taken routinely, at prescribed intervals, or the
+  same time of year each year, from the same locations. Even if new monitoring
+  stations are introduced, data should continue to be collected from the
+  original locations. This ensures that results are comparable between reports,
+  thereby enabling trends to be established over time. The monitoring data
+  needed for the indicator computation may be collected by different monitoring
+  programmes involving different agencies and organizations. It is therefore
+  important to establish and maintain centralized data repositories at the
+  national level that collate the data from the various stakeholders, ensuring
+  compatibility in reporting units between all agencies submitting data. Data
+  should be compiled for each core parameter at each sampling location in order
+  to calculate the indicator.</p>
+COLL_METHOD: >-
+  <p>The data is collected by UNEP and its Global Environment Monitoring System
+  for Water (GEMS/Water) through electronic reporting in the global water
+  quality information system GEMStat. At the national level, data reports are
+  provided by the GEMS/Water National Focal Points or any other official
+  counterpart appointed by the respective government. GEMS/Water offers
+  consultation and support in selecting and compiling the required monitoring
+  data, defining suitable river basin districts and delineating water bodies, as
+  well as computing the indicator, upon request through its helpdesk. Data
+  reported by the countries are checked for consistency with respect to the
+  monitoring parameters, target values and spatial units and compared with
+  monitoring data available in GEMStat, if applicable. </p>
+FREQ_COLL: |-
+  <ol>
+    <li>First reporting cycle: 2017;</li>
+    <li>Second reporting cycle: 2020;</li>
+    <li>Third reporting cycle: 2023.</li>
+    <li>Fourth reporting cycle: 2026</li>
+    <li>Fifth reporting cycle: 2029</li>
+  </ol>
+REL_CAL_POLICY: |-
+  <ol>
+    <li>First reporting cycle: 2018;</li>
+    <li>Second reporting cycle: 2021;</li>
+    <li>Third reporting cycle: 2024</li>
+    <li>Fourth reporting cycle: 2027.</li>
+    <li>Fifth reporting cycle: 2030</li>
+  </ol>
+DATA_SOURCE: |-
+  <ol>
+    <li>GEMS/Water National Focal Points in relevant Ministries, Water Authorities, National Statistical Offices etc. or their nominated representative.</li>
+  </ol>
+COMPILING_ORG: |-
+  <ol>
+    <li>UNEP</li>
+    <li>UNEP GEMS/Water Data Centre, International Centre for Water Resources and Global Change (ICWRGC), German Federal Institute of Hydrology (BfG)</li>
+  </ol>
+INST_MANDATE: >-
+  <p>Identification of UNEP as custodian agency for SDG indicator 6.3.2 by
+  Inter-agency and Expert Group on SDG Indicators. GEMS/Water is the mechanism
+  within UNEP supporting countries on all aspects around ambient freshwater
+  quality.</p>
+OTHER_METHOD: ''
+RATIONALE: >-
+  <p>Good ambient water quality is essential for protecting aquatic ecosystems
+  and the services they provide, including: the preservation of biodiversity;
+  the protection of human health during recreational use and through the
+  provision of drinking water; the support of human nutrition through the
+  provision of fish and water for irrigation; the enabling of a variety of
+  economic activities; and the strengthening of the resilience of people against
+  water-related disasters. Good ambient water quality is therefore closely
+  linked to the achievement of many other Sustainable Development Goals.</p>
+
+  <p>Target 6.3 aims at improving water quality and indicator 6.3.2 provides a
+  mechanism for determining whether, and to which extent, water quality
+  management measures are contributing to the improvement of water quality over
+  time. The indicator is also directly linked to indicator 6.3.1 on wastewater
+  treatment because inadequate wastewater treatment leads to degradation in
+  quality of the waters receiving the wastewater effluents. It directly informs
+  progress towards target 6.3 and is strongly linked to target 6.6 on
+  water-related ecosystems, as well as target 14.1 on marine pollution (coastal
+  eutrophication).</p>
+
+  <p>The methodology recognises that countries have different capacity levels to
+  monitor water quality, with many developed countries operating extensive and
+  complex programmes that collect and report data to existing reporting
+  frameworks beyond the scope of this methodology. For these countries it is
+  recognised that this methodology will not contribute to improving their water
+  quality; however it must be sufficiently flexible to capture data from
+  existing monitoring frameworks without burdening countries with additional
+  reporting obligations. Conversely, many of the least developed countries
+  currently do not monitor water quality or operate very limited monitoring
+  programmes. The methodology must therefore allow these countries to contribute
+  to the global indicator, according to their national capacity and available
+  resources. </p>
+
+  <p>The development of the methodology builds on best practice for water
+  quality monitoring promoted by the UN Environment GEMS/Water programme since
+  1978 together with testing by several pilot countries during the Integrated
+  Monitoring Initiative Proof of Concept phase of 2016, and external review by
+  experts and international organizations. This led to revision of the original
+  methodology, which was then further tested through the 2017 global data drive.
+  The feedback received has contributed to the present refined methodology.</p>
+REC_USE_LIM: >-
+  <p>The monitoring and reporting of SDG Indicator 6.3.2 requires considerable
+  national financial and human capacities to regularly measure water quality
+  parameters at sufficient spatial and temporal resolutions, and to consistently
+  collect, quality-assure and process the monitoring data to compute the
+  indicator. Substantial investments in monitoring and data management
+  infrastructures, as well as targeted capacity development in water quality
+  monitoring programme design and operation, will be required in many countries
+  to enhance national capacities to regularly and consistently report on the
+  indicator. </p>
+
+  <p>Recognizing the differences in monitoring and data processing capacities
+  among countries, the indicator methodology offers a progressive monitoring
+  approach allowing countries to start with reporting based on their existing
+  capacity and progressively enhance the data coverage and indicator
+  significance with increasing capacity.</p>
+
+  <p>Level 1 monitoring includes a set of general, easily measurable,
+  physico-chemical water quality parameters that can indicate water quality
+  degradation. They can be used to assess the quality status of water bodies,
+  facilitating global comparability and maintaining a balance between the
+  significance of the indicator and the monitoring requirements for each
+  country. </p>
+
+  <p>Level 2 monitoring allows countries with enhanced capacities to include
+  additional water quality parameters, such as toxic substances and biological
+  monitoring, as well as more sophisticated quality classification schemes to
+  assess and report on the quality of their water bodies more accurately.</p>
+DATA_COMP: >-
+  <p><strong>Computation Method:</strong></p>
+
+  <p>The indicator is computed by first classifying all assessed water bodies
+  based on the compliance of the monitoring data collected for selected
+  parameters at monitoring locations within the water body with
+  parameter-specific target values: </p>
+
+  <p><img
+  src="data:image/png;base64,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"></p>
+
+  <p>A threshold value of 80% compliance is defined to classify water bodies as
+  &#x201C;good&#x201D; quality. Thus, a body of water is classified as having a
+  good quality status if at least 80% of all monitoring data from all monitoring
+  stations within the water body comply with the respective targets.</p>
+
+  <p>In a second step, the classification results are used to compute the
+  indicator as the proportion of the number of water bodies classified as having
+  a good quality status to the total number of classified water bodies expressed
+  in percentage:</p>
+
+  <p><img
+  src="data:image/png;base64,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"></p>
+DATA_VALIDATION: >-
+  <p>The UNEP SDG6 Helpdesk assists countries in ensuring the quality of their
+  submission during its preparation. </p>
+
+  <p>Following the Initial submission the Helpdesk undertakes several checks on
+  the data and calrifies any irregularities with the country technical focal
+  point until both sides agree to finalize the report.</p>
+
+  <p>The data is then submitted to the UNEP SDG focal point, who collates all
+  indicators data for which UNEP is the Custodian Agency, where a further
+  quality check is undertaken, prior to submission to the SDG Global
+  Database</p>
+ADJUSTMENT: >-
+  <p>In case national definitions such as water quality target values change,
+  countries can retroactively adjust previous submissions.</p>
+IMPUTATION: |-
+  <p>&#x2022; At country level</p>
+  <p>Missing values are not imputed.</p>
+  <p>&#x2022; At regional and global levels</p>
+  <p>Missing values are not imputed.</p>
+REG_AGG: >-
+  <p>The data will be aggregated at the sub-regional, regional and global
+  levels. For the aggregation methods, please see:</p>
+
+  <p><a
+  href="https://wesr.unep.org/media/docs/graphs/aggregation_methods.pdf">https://wesr.unep.org/media/docs/graphs/aggregation_methods.pdf</a>.
+  </p>
+DOC_METHOD: >-
+  <p>6.3.2 Online Support Platform with official methodology, technical
+  materials, case studies and presentations to guide the reporting process
+  available under: <a
+  href="https://communities.unep.org/display/sdg632">https://communities.unep.org/display/sdg632</a></p>
+
+  <p>SDG 6.3.2 Helpdesk reachable via: <a
+  href="mailto:sdg632@un.org">sdg632@un.org</a> (Q&amp;A, arranging of
+  individual support calls, indicator calculation services etc.)</p>
+
+  <p>Various capacity development activities around the indicator: online
+  webinars, country visits, workshops</p>
+QUALITY_MGMNT: >-
+  <p>The GEMS/Water Data Centre is hosted by the Federal Institute of Hydrology,
+  a government entity of the Federal Republic of Germany and complies with the
+  government&#x2019;s quality management, assurance, and assessment
+  procedures.</p>
+QUALITY_ASSURE: <p> See 4.i </p>
+QUALITY_ASSMNT: <p> See 4.i.</p>
+COVERAGE: >-
+  <p>Data availability:</p>
+
+  <p>An initial baseline data collection has been conducted in 2017 with 48
+  country data submissions as of February 2018.</p>
+
+  <p>Time series:</p>
+
+  <p>Second reporting cycle 2020: 89 submissions as of February 2021. </p>
+
+  <p>Disaggregation:</p>
+
+  <p>Depending on the level of detail provided by countries in their
+  submissions, the indicator can be disaggregated by water body type (river,
+  lake, groundwater) and river basin district. This disaggregated data can
+  support informed decision-making at the national and sub-national scale to
+  monitor and improve water quality management measures.</p>
+COMPARABILITY: |-
+  <p>Sources of discrepancies:</p>
+  <p>Not applicable as no internationally estimated data is used to impute. </p>
+OTHER_DOC: >-
+  <p><strong>URL:
+  http://www.sdg6monitoring.org/indicators/target-63/indicators632/</strong></p>
+
+  <p><strong>References:</strong></p>
+
+  <p>EU (European Parliament, Council of the European Union) 2000. Water
+  Framework Directive (WFD) 2000/60/EC of the European Parliament and of the
+  Council of 23 October 2000 establishing a framework for Community action in
+  the field of water policy, Official Journal L327, 1&#x2013;72. Available at:
+  <a
+  href="http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32000L0060"><u>http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32000L0060</u></a></p>
+
+  <p>UNECE 1992 Convention on the Protection and Use of Transboundary
+  Watercourses and International Lakes. Available at: <a
+  href="http://www.unece.org/fileadmin/DAM/env/water/pdf/watercon.pdf"
+  target="_blank">http://www.unece.org/fileadmin/DAM/env/water/pdf/watercon.pdf</a></p>
+
+  <p>WMO 2012 <em>International Glossary of Hydrology. </em>No. 385 World
+  Meteorological Organization and United Nations Educational, Scientific and
+  Cultural Organization. Available at: <a
+  href="http://library.wmo.int/pmb_ged/wmo_385-2012.pdf"><u>http://library.wmo.int/pmb_ged/wmo_385-2012.pdf</u></a><em>
+  </em></p>

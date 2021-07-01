@@ -1,161 +1,185 @@
-SDG_GOAL: '<p>Goal 3: Ensure healthy lives and promote well-being for all at all ages</p>'
+SDG_INDICATOR_INFO: ''
+SDG_GOAL: >-
+  <p>Goal 3: Ensure healthy lives and promote well-being for all at all ages
+  </p>
 SDG_TARGET: >-
   <p>Target 3.4: By 2030, reduce by one third premature mortality from
   non-communicable diseases through prevention and treatment and promote mental
-  health and well-being</p>
-SDG_INDICATOR: '<p>Indicator 3.4.2: Suicide mortality rate</p>'
-META_LAST_UPDATE: '<p>Last updated: 10 February 2017</p>'
-SDG_CUSTODIAN_AGENCIES: |-
-  <h1>Institutional information</h1>
-  <h2>Organization(s):</h2>
-  <p>World Health Organization (WHO)</p>
+  health and well-being </p>
+SDG_INDICATOR: '<p>Indicator 3.4.2: Suicide mortality rate </p>'
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: <p>10 February 2017</p>
+SDG_RELATED_INDICATORS: ''
+SDG_CUSTODIAN_AGENCIES: <p>World Health Organization (WHO) </p>
+CONTACT: ''
+CONTACT_ORGANISATION: |-
+  <p> </p>
+  <p>World Health Organization (WHO) </p>
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <h1>Concepts and definitions</h1>
+  <p>Definitions: </p>
 
-  <p><strong>Definition:</strong></p>
+  <p>The Suicide mortality rate as defined as the number of suicide deaths in a
+  year, divided by the population, and multiplied by 100 000. </p>
 
-  <p>The suicide mortality rate as defined as the number of suicide deaths in a
-  year, divided by the population, and multiplied by 100 000.</p>
+  <p>Concepts:</p>
+UNIT_MEASURE: ''
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <h1>Data sources</h1>
-
-  <h2>Description:</h2>
-
-  <p>The preferred data source is death registration systems with complete
+  <p> The preferred data source is death registration systems with complete
   coverage and medical certification of cause of death, coded using the
   international classification of diseases (ICD). The ICD-10 codes for suicide
   are: X60-X84, Y87.0. Other possible data sources include household surveys
   with verbal autopsy, sample or sentinel registration systems, special studies
-  and surveillance systems.</p>
+  and surveillance systems. </p>
 COLL_METHOD: >-
-  <h2>Collection process:</h2>
-
   <p>WHO conducts a formal country consultation process before releasing its
-  cause-of-death estimates.</p>
+  cause-of-death estimates. </p>
 FREQ_COLL: >-
-  <h1>Calendar</h1>
-
-  <h2>Data collection:</h2>
-
   <p>WHO sends an e-mail two times per year requesting tabulated death
   registration data (including all causes of death) from Member States.
   Countries submit annual cause-of-death statistics to WHO on an ongoing basis.
-  (From NA to NA)</p>
-REL_CAL_POLICY: |-
-  <h2>Data release:</h2>
-  <p>End of 2016</p>
-DATA_SOURCE: |-
-  <h1>Data providers</h1>
-  <p>National statistics offices and/or ministries of health.</p>
-COMPILING_ORG: |-
-  <h1>Data compilers</h1>
-  <p>WHO</p>
+  (From NA to NA) </p>
+REL_CAL_POLICY: <p>End of 2016 </p>
+DATA_SOURCE: <p> National statistics offices and/or ministries of health. </p>
+COMPILING_ORG: <p> WHO </p>
+INST_MANDATE: ''
+OTHER_METHOD: ''
 RATIONALE: >-
-  <h2>Rationale:</h2>
-
   <p>Mental disorders occur in all regions and cultures of the world. The most
   prevalent of these disorders are depression and anxiety, which are estimated
   to affect nearly 1 in 10 people. At its worst, depression can lead to suicide.
   In 2012, there were over 800,000 estimated suicide deaths worldwide. Suicide
   was the second leading cause of deaths among young adults aged 15&#x2013;29
-  years, after road traffic injuries.</p>
+  years, after road traffic injuries. </p>
 REC_USE_LIM: >-
-  <h2><strong>Comments and limitations</strong>:</h2>
-
-  <p>The complete recording of suicide deaths in death-registration systems
+  <p> The complete recording of suicide deaths in death-registration systems
   requires good linkages with coronial and police systems, but can be seriously
   impeded by stigma, social and legal considerations, and delays in determining
   cause of death. Less than one half of WHO Member States have well-functioning
-  death-registration systems that record causes of death.</p>
+  death-registration systems that record causes of death. </p>
 DATA_COMP: >-
-  <h1>Methodology</h1>
-
-  <h2>Computation method:</h2>
-
   <p>Suicide mortality rate (per 100,000 population) = (Number of suicide deaths
-  in a year x 100,000) / Mid-year population for the same calendar year</p>
+  in a year x 100,000) / Mid-year population for the same calendar year </p>
+
+  <p> </p>
 
   <p>The methods used for the analysis of causes of death depend on the type of
-  data available from countries:</p>
+  data available from countries: </p>
+
+  <p> </p>
 
   <p>For countries with a high-quality vital registration system including
   information on cause of death, the vital registration that member states
   submit to the WHO Mortality Database were used, with adjustments where
-  necessary, e.g. for under-reporting of deaths.</p>
+  necessary, e.g. for under-reporting of deaths. </p>
+
+  <p> </p>
 
   <p>For countries without high-quality death registration data, cause of death
   estimates are calculated using other data, including household surveys with
   verbal autopsy, sample or sentinel registration systems, special studies and
-  surveillance systems. In most cases, these data sources are combined in a
-  modelling framework.</p>
+  </p>
+DATA_VALIDATION: ''
+ADJUSTMENT: ''
 IMPUTATION: >-
-  <h2>Treatment of missing values:</h2>
-
   <ul>
-    <li><strong><em>At country level:</em></strong></li>
+    <li>At country level: </li>
   </ul>
+
+  <p> </p>
 
   <p>For countries with high-quality cause-of-death statistics,
   interpolation/extrapolation was done for missing country-years; for countries
   with only low-quality or no data on causes of death, modelling was used.
-  Complete methodology may be found here:</p>
+  Complete methodology may be found here: </p>
 
   <p>WHO methods and data sources for global causes of death, 2000&#x2013;2015
   (<a
-  href="http://www.who.int/healthinfo/global_burden_disease/GlobalCOD_method_2000_2015.pdf">http://www.who.int/healthinfo/global_burden_disease/GlobalCOD_method_2000_2015.pdf</a>)</p>
+  href="http://www.who.int/healthinfo/global_burden_disease/GlobalCOD_method_2000_2015.pdf"
+  target="_blank"><u>http://www.who.int/healthinfo/global_burden_disease/GlobalCOD_method_2000_2015.pdf</u></a>
+  ) </p>
+
+  <p> </p>
+
+  <p> </p>
 
   <ul>
-    <li><strong><em>At regional and global levels:</em></strong></li>
+    <li>At regional and global levels </li>
   </ul>
 
-  <p>NA</p>
+  <p> </p>
+
+  <p>NA </p>
 REG_AGG: >-
-  <h2>Regional aggregates:</h2>
-
-  <p>Country estimates of number of deaths by cause are summed to obtain
-  regional and global aggregates.</p>
+  <p> Country estimates of number of deaths by cause are summed to obtain
+  regional and global aggregates. </p>
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
 COVERAGE: >-
-  <h1>Data availability</h1>
-
-  <h2>Description:</h2>
+  <p>Data availability:</p>
 
   <p>Around 70 countries currently provide WHO with regular high-quality data on
   mortality by age, sex and causes of death, and another 40 countries submit
   data of lower quality. However, comprehensive cause-of-death estimates are
   calculated by WHO systematically for all of its Member States (with a certain
-  population threshold) every 3 years.</p>
+  population threshold) every 3 years. </p>
 
-  <h2>Disaggregation:</h2>
+  <p>Time series:</p>
 
-  <p>Sex, age group</p>
+  <p>Disaggregation: </p>
+
+  <p>Sex, age group </p>
 COMPARABILITY: >-
-  <h2>Sources of discrepancies:</h2>
+  <p>Sources of discrepancies:</p>
 
   <p>In countries with high quality vital registration systems, point estimates
   sometimes differ primarily for two reasons: 1) WHO redistributes deaths with
   ill-defined cause of death (i.e. injuries of unknown intent, ICD codes Y10-Y34
-  and Y872) to suicide; and 2) WHO corrects for incomplete death
-  registration.</p>
+  and Y872) to suicide; and 2) WHO corrects for incomplete death registration.
+  </p>
 OTHER_DOC: >-
-  <h1>References</h1>
+  <p><strong>URL:</strong> </p>
 
-  <h2>URL:</h2>
+  <p> </p>
 
-  <p><a href="http://www.who.int/gho/en/">http://www.who.int/gho/en/</a></p>
+  <p>http://www.who.int/gho/en/ </p>
 
-  <h2>References:</h2>
+  <p> </p>
 
-  <p>WHO indicator definition (<a
-  href="http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=4664">http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=4664</a>)</p>
+  <p><strong>References:</strong> </p>
+
+  <p> </p>
+
+  <p>WHO indicator definition
+  (http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=4664)
+  </p>
+
+  <p> </p>
 
   <p>WHO methods and data sources for global causes of death, 2000&#x2013;2015
   </p>
 
   <p>(<a
-  href="http://www.who.int/healthinfo/global_burden_disease/GlobalCOD_method_2000_2015.pdf">http://www.who.int/healthinfo/global_burden_disease/GlobalCOD_method_2000_2015.pdf</a>)</p>
+  href="http://www.who.int/healthinfo/global_burden_disease/GlobalCOD_method_2000_2015.pdf"
+  target="_blank"><u>http://www.who.int/healthinfo/global_burden_disease/GlobalCOD_method_2000_2015.pdf</u></a>
+  ) </p>
+
+  <p> </p>
 
   <p>World Health Assembly Resolution WHA66.8 (2013): Comprehensive mental
   health action plan 2013&#x2013;2020, including Appendix 1: Indicators for
   Measuring Progress Towards Defined Targets of the Comprehensive Mental Health
-  Action Plan 2013-2020 (<a
-  href="http://apps.who.int/gb/ebwha/pdf_files/WHA66/A66_R8-en.pdf?ua=1">http://apps.who.int/gb/ebwha/pdf_files/WHA66/A66_R8-en.pdf?ua=1</a>)</p>
+  Action Plan 2013-2020
+  (http://apps.who.int/gb/ebwha/pdf_files/WHA66/A66_R8-en.pdf?ua=1) </p>
+
+  <p> </p>

@@ -1,0 +1,213 @@
+SDG_GOAL: |
+  Goal 5: Achieve gender equality and empower all women and girls
+SDG_TARGET: >
+  Target 5.4: Recognize and value unpaid care and domestic work through the
+  provision of public services, infrastructure and social protection policies
+  and the promotion of shared responsibility within the household and the family
+  as nationally appropriate
+SDG_INDICATOR: >-
+  Indicator 5.4.1: Proportion of time spent on unpaid domestic and care work, by
+  sex, age and location
+SDG_SERIES_DESCR: >-
+  5.4.1 Proportion of time spent on unpaid domestic and care work, by sex, age
+  and location
+META_LAST_UPDATE: 22/01/2020
+SDG_RELATED_INDICATORS: N.A.
+SDG_CUSTODIAN_AGENCIES: UN Statistics Division (UNSD)
+CONTACT_ORGANISATION: UN Statistics Division (UNSD)
+CONTACT_NAME: N.A.
+ORGANISATION_UNIT: N.A.
+CONTACT_FUNCT: N.A.
+CONTACT_PHONE: N.A.
+CONTACT_MAIL: N.A.
+CONTACT_EMAIL: N.A.
+STAT_CONC_DEF: "Definition:\nThis indicator is defined as the proportion of time spent in a day on unpaid domestic and care work by men and women. Unpaid domestic and care work refers to activities related to the provision of services for own final use by household members, or by family members living in other households. These activities are listed in ICATUS 2016 under the major divisions “3. Unpaid domestic services for household and family members” and “4. Unpaid caregiving services for household and family members”.  \n\nConcepts:\nUnpaid domestic and care work refers to activities including food preparation, dishwashing, cleaning and upkeep of the dwelling, laundry, ironing, gardening, caring for pets, shopping, installation, servicing and repair of personal and household goods, childcare, and care of the sick, elderly or disabled household and family members, among others. These activities are listed in ICATUS 2016 under the major divisions “3. Unpaid domestic services for household and family members” and “4. Unpaid caregiving services for household and family members”.\n\nConcepts and definitions for this indicator are based on the following international standards:\n\tSystem of National Accounts 2008 (SNA 2008)\n\tThe Resolution concerning statistics of work, employment and labour underutilization, adopted by the International Conference of Labour Statisticians (ICLS) at its 19th Session in 2013\n\tInternational Classification of Activities for Time Use Statistics 2016 (ICATUS 2016)\n\nRelevant specific concepts are presented below:\n\tAn activity is said to be productive or to fall within the “general production boundary” if it satisfies the third-person criterion (the activity can be delegated to another person and yield the same desired results).\n\tProductive activities can be further classified based on the ILO framework for work statistics (included in the 19th ICLS resolution) into:\na)\tOwn-use production work (activities to produce goods and services for own final use; the intended destination of the output is mainly for final use of the producer in the form of capital formation, or final consumption by household members or by family members living in other households; in the case of agricultural, fishing, hunting or gathering goods intended mainly for own consumption, a part or surplus may nevertheless be sold or bartered)\nb)\tEmployment (activities to produce goods or provide services for pay or profit)\nc)\tUnpaid trainee work (any unpaid activity to produce goods or provide services for others, in order to acquire workplace experience or skills in a trade or profession)\nd)\tVolunteer work (any unpaid, non-compulsory activity to produce goods or provide services for others)\ne)\tOther forms of work\nThe own-use production work can be differentiated based on whether goods or services are produced.\n\nIndicator 5.4.1 only considers the own-use production work of services, or in other words, the activities related to unpaid domestic services and unpaid caregiving services undertaken by households for their own use. These activities are listed in ICATUS 2016 under the major divisions “3. Unpaid domestic services for household and family members” and “4. Unpaid caregiving services for household and family members”.\n"
+UNIT_MEASURE: Percent
+CLASS_SYSTEM: >-
+  As much as possible, statistics compiled by UNSD are based on the
+  International Classification of Activities for Time Use Statistics 2016
+  (ICATUS 2016), which classifies activities undertaken by persons during the
+  survey period. ICATUS 2016 was adopted by the United Nations Statistical
+  Commission for use as an international statistical classification at its 48th
+  session, 7-10 March 2017.
+SOURCE_TYPE: >-
+  Data Sources
+
+
+  Description:
+
+  Most data on time use are collected through dedicated time use surveys or from
+  time-use modules integrated in multi-purpose household surveys, conducted at
+  national level.
+
+
+  Data on time-use can be collected through a 24-hour diary (light diary) or
+  stylized questionnaire. With diaries, respondents are asked to report on what
+  activity they were performing when they started the day, what activity
+  followed, and the time that activity began and ended (in most of the cases
+  based on fixed intervals), and so forth through the 24 hours of the day.
+  Stylized time-use questions ask respondents to recall the amount of time they
+  allocated to a certain activity over a specified period, such as a day or a
+  week. Often, stylized time-use questions are attached as a module to a
+  multipurpose household survey. The 24-hour diary method yields better results
+  than the stylized method but is a more expensive mode of data collection.
+COLL_METHOD: "Collection process:\nThe official counterparts at the country level are the national statistical offices. Data are compiled and validated. If there are inconsistencies or issues with the data, UNSD consults the focal point in the national statistical office. The data for SDG 5.4.1 are, as much as possible, in line with relevant international standards, or properly footnoted. International standards include:\n\tGuide to Producing Statistics on Time-Use: Measuring Paid und Unpaid Work\n\tThe International Classification of Activities for Time Use Statistics 2016 (ICATUS 2016)\n\tSystem of National Accounts 2008 (SNA 2008)\n\tResolution concerning statistics of work, employment and labour underutilization"
+FREQ_COLL: >-
+  Calendar
+
+
+  Data collection:
+
+  Once national time use data become available, they are added to the UNSD
+  database. 
+REL_CAL_POLICY: |-
+  Data release:
+  June 2019
+DATA_SOURCE: National Statistical Offices
+COMPILING_ORG: United Nations Statistics Division
+INST_MANDATE: N.A.
+RATIONALE: N.A.
+REC_USE_LIM: "Comments and limitations:\nTime use statistics have been used for: (1) provide a measure of quality of life or general wellbeing of individuals and households; (2) offer a more comprehensive measurement of all forms of work, including unpaid household service work; (3) produce data relevant for monitoring gender equality and the empowerment of women and girls and are essential inputs for the policy and political dialogue on gender equality.\n\nInternational comparability of time-use statistics is limited by a number of factors, including: \na)\tDiary versus stylized time-use survey. Data on time-use can be collected through a 24-hour diary (light diary) or stylized questionnaire. With diaries, respondents are asked to report on what activity they were performing when they started the day, what activity followed, and the time that activity began and ended, and so forth through the 24 hours of the day. Stylized time-use questions ask respondents to recall the amount of time they allocated to a certain activity over a specified period, such as a day or week. Often, stylized time-use questions are attached as a module to a multipurpose household survey. The 24-hour diary method yields better results than the stylized method but is a more expensive mode of data collection. Data obtained from these two different data collection methods are usually not comparable, and even data collected with different stylized questions might not be comparable given that the level of details asked about activities performed might differ from one instrument to another, thus impacting the total time spent on a given activity.  \nb)\tTime-use activity classification. Regional and national classifications of time-use activities may differ from ICATUS 2016, resulting in data that are not comparable across countries. \nc)\tTime-use data presented refer to the “main activity” only. Any “secondary activity” performed simultaneously with the main activity is not reflected in the average times shown. For instance, a woman may be cooking and looking after a child simultaneously. For countries reporting cooking as the main activity, time spent caring for children is not accounted for and reflected in the statistics. This may affect international comparability of data on time spent caring for children; it may also underestimate the time women spend on this activity. \nd)\tDifferent target age population used by countries and age groups used also make time use data difficult to compare across countries."
+DATA_COMP: >-
+  Computation Method:
+
+  Data presented for this indicator are expressed as a proportion of time in a
+  day. Weekly data is averaged over seven days of the week to obtain the daily
+  average time. 
+
+
+  Proportion of time spent on unpaid domestic and care work is calculated by
+  dividing the daily average number of hours spent on unpaid domestic and care
+  work by 24 hours. 
+
+
+  Proportion of time spent on unpaid domestic and care work (Indicator 5.4.1) is
+  calculated as:
+
+
+  Formula 1…(url)
+
+  Formula 2…(url)
+
+
+  If data on time spent are weekly, data are averaged over seven days of the
+  week to obtain daily time spent.
+
+
+  Average number of hours spent on unpaid domestic and care work derives from
+  time use statistics that is collected through stand-alone time-use surveys or
+  a time-use module in multi-purpose household surveys. Data on time-use may be
+  summarized and presented as either (1) average time spent for participants (in
+  a given activity) only or (2) average time spent for all population of a
+  certain age (total relevant population). In the former type of averages, the
+  total time spent by the individuals who performed an activity is divided by
+  the number of persons who performed it (participants). In the latter type of
+  averages, the total time is divided by the total relevant population (or a
+  sub-group thereof), regardless of whether people performed the activity or
+  not. 
+
+
+  SDG indicator 5.4.1 is calculated based on the average number of hours spent
+  on unpaid domestic and unpaid care work for the total relevant population.
+  This type of measures can be used to compare groups and assess changes over
+  time. Differences among groups or over time may be due to a difference (or
+  change) in the proportion of those participating in the specific activity or a
+  difference (or change) in the amount of time spent by participants, or both. 
+DATA_VALIDATION: >-
+  Consultation/validation process with countries for adjustments and estimates
+
+  Most of the data are provided and validated by national statistical offices.
+  In some cases, data have been obtained from publicly available national
+  databases and publications. UNSD communicates with countries if there are
+  inconsistencies or possible errors in the data.
+ADJUSTMENT: N.A.
+IMPUTATION: "Treatment of missing values:\n\n•\tAt country level\nUNSD does not produce estimates for missing values\n•\tAt regional and global levels\nNo imputation is done"
+REG_AGG: >-
+  Regional aggregates:
+
+  The number of countries conducting such surveys is insufficient to allow the
+  computation of regional aggregates. Furthermore, limited comparability across
+  national data hampers the computation of regional aggregates.
+DOC_METHOD: >-
+  Methods and guidance available to countries for the compilation of the data at
+  the national level:
+
+  International Classification of Activities for Time Use Statistics 2016:
+  https://unstats.un.org/unsd/demographic-social/time-use/icatus-2016/
+
+  Guide to Producing Statistics on Time-Use: Measuring Paid und Unpaid Work:
+  https://unstats.un.org/unsd/publication/SeriesF/SeriesF_93E.pdf
+
+  System of National Accounts 2008 (SNA 2008):
+  https://unstats.un.org/unsd/nationalaccount/sna2008.asp
+
+  The Resolution concerning statistics of work, employment and labour
+  underutilization:
+
+  http://www.ilo.org/global/statistics-and-databases/standards-and-guidelines/resolutions-adopted-by-international-conferences-of-labour-statisticians/WCMS_230304/lang--en/index.htm
+QUALITY_MGMNT: N.A.
+QUALITY_ASSURE: >-
+  Quality assurance
+
+  UNSD has been reviewing in detail the survey methodology followed to collect
+  time use data and the classification of activities used by countries, to
+  assess the level of comparability across countries and over time in a given
+  country. 
+QUALITY_ASSMNT: N.A.
+COVERAGE: >-
+  Data Availability
+
+  Description:
+
+  91 countries with data between 2000 and 2018
+
+  By Year:
+
+  From 2000 – 2004: 41 countries
+
+  From 2005 – 2009: 38 countries
+
+  From 2010: 65 countries
+
+  By Region (2000 – 2018)
+
+  Africa: 16 countries
+
+  Americas: 19 countries
+
+  Asia: 21 countries
+
+  Europe: 32 countries
+
+  Oceania: 3 countries
+
+  Time series:
+
+  From 2000 to 2018
+
+
+  Disaggregation:
+
+  This indicator should be disaggregated by the following dimensions: sex, age
+  and location.
+
+  The categories for disaggregation, by dimension, are as follows: 
+
+  Sex: female/male;
+
+  Age: the recommended age groups are: 15+, 15-24, 25-44, 45-54, 55-64 and 65+
+
+  Location: urban/rural (following national definitions given the lack of
+  international definition)
+
+
+  These categories have been recommended by the Inter-Agency and Expert Group on
+  Gender Statistics (IAEG-GS) during its 11th meeting in Rome, Italy on 30-31
+  October 2017.
+
+
+  Available data are currently disaggregated by sex, age and location.
+COMPARABILITY: |
+  Sources of discrepancies:
+  Do not apply
+OTHER_DOC: "URL:\nhttp://unstats.un.org/unsd/gender/default.html\n\nReferences:\n\tGuide to Producing Statistics on Time-Use: Measuring Paid and Unpaid Work (https://unstats.un.org/unsd/publication/SeriesF/SeriesF_93E.pdf)\n\tInternational Classification of Activities for Time Use Statistics 2016 (https://unstats.un.org/unsd/demographic-social/time-use/icatus-2016/)\n\tMinimum Set of Gender Indicators (http://genderstats.un.org) "

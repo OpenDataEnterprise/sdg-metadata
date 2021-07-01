@@ -1,66 +1,97 @@
-SDG_GOAL: '<p>Goal 3: Ensure healthy lives and promote well-being for all at all ages</p>'
+SDG_INDICATOR_INFO: ''
+SDG_GOAL: >-
+  <p>Goal 3: Ensure healthy lives and promote well-being for all at all ages
+  </p>
 SDG_TARGET: >-
   <p>Target 3.c: Substantially increase health financing and the recruitment,
-  development, training and retention of the health workforce in developing
-  countries, especially in least developed countries and small island developing
-  States</p>
-SDG_INDICATOR: '<p>Indicator 3.c.1: Health worker density and distribution</p>'
-META_LAST_UPDATE: '<p>Last updated: 13 February 2020</p>'
-SDG_CUSTODIAN_AGENCIES: |-
-  <h1>Institutional information</h1>
-  <h2>Organization(s):</h2>
+  development, training and </p>
+
+  <p>retention of the health workforce in developing countries, especially in
+  least developed countries and </p>
+
+  <p>small island developing States </p>
+SDG_INDICATOR: '<p>Indicator 3.c.1: Health worker density and distribution </p>'
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: <p>March 2021</p>
+SDG_RELATED_INDICATORS: ''
+SDG_CUSTODIAN_AGENCIES: <p>World Health Organization (WHO)</p>
+CONTACT: ''
+CONTACT_ORGANISATION: |-
   <p>World Health Organization (WHO)</p>
+  <p> </p>
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <h1>Concepts and definitions</h1>
+  <p><strong><u>Health worker densities by occupation</u> </strong></p>
 
-  <h2>Health worker densities by occupation:</h2>
+  <p><strong> </strong></p>
 
-  <p><strong>Definition:</strong></p>
+  <p><strong>Definition: </strong></p>
 
-  <p><strong><em>Density of medical doctors:</em> </strong>The density of
-  medical doctors is defined as the number of medical doctors, including
-  generalists and specialist medical practitioners per 10,000 population in the
-  given national and/or subnational area. The International Standard
-  Classification of Occupations (ISCO) unit group codes included in this
-  category are 221, 2211 and 2212 of ISCO-08.<br></p>
+  <p><strong>Density of medical doctors: </strong>The density of medical doctors
+  is defined as the number of medical doctors, including generalists and
+  specialist medical practitioners per 10,000 population in the given national
+  and/or subnational area. The International Standard Classification of
+  Occupations (ISCO) unit group codes included in this category are 221, 2211
+  and 2212 of ISCO-08. <br> </p>
 
-  <p><strong><em>Density of nursing and midwifery
-  personnel</em></strong><em>:</em> The density of nursing and midwifery
-  personnel is defined as the number of nursing and midwifery personnel per
-  10,000 population in the given national and/or subnational area. The ISCO-08
-  codes included in this category are 2221, 2222, 3221 and 3222.<br></p>
+  <p><strong>Density of nursing and midwifery personnel</strong>: The density of
+  nursing and midwifery personnel is defined as the number of nursing and
+  midwifery personnel per 10,000 population in the given national and/or
+  subnational area. The ISCO-08 codes included in this category are 2221, 2222,
+  3221 and 3222. <br> </p>
 
-  <p><strong><em>Density of dentists</em></strong><em>:</em> The density of
-  dentists is defined as the number of dentists per 10,000 population in the
-  given national and/or subnational area. The ISCO-08 codes included in this
-  category are 2261.<br></p>
+  <p><strong>Density of dentists</strong>: The density of dentists is defined as
+  the number of dentists per 10,000 population in the given national and/or
+  subnational area. The ISCO-08 codes included in this category are 2261. <br>
+  </p>
 
-  <p><strong><em>Density of pharmacists:</em></strong> The density of
-  pharmacists is defined as the number of pharmacists per 10,000 population in
-  the given national and/or subnational area. The ISCO-08 codes included in this
-  category are 2262.</p>
+  <p><strong>Density of pharmacists:</strong> The density of pharmacists is
+  defined as the number of pharmacists per 10,000 population in the given
+  national and/or subnational area. The ISCO-08 codes included in this category
+  are 2262. </p>
 
-  <p><strong>Health worker distribution by sex</strong></p>
+  <p> </p>
 
-  <p><strong><em>Percentage of male medical doctors</em></strong>:<strong>
-  </strong>Male doctors as percentage of all medical doctors at national level.
-  The ISCO-08 codes included in this category are 221, 2211 and 2212.</p>
+  <p><strong><u>Health worker distribution by sex</u> </strong></p>
 
-  <p><strong><em>Percentage of female medical
-  doctors</em></strong><em>:</em><strong> </strong>Female doctors as percentage
-  of all medical doctors at national level. The ISCO-08 codes included in this
-  category are 221, 2211 and 2212.</p>
+  <p> </p>
 
-  <p><strong><em>Percentage of male nursing personnel:</em></strong> Male
-  nursing personnel as percentage of all nursing personnel at national level.
-  The ISCO-08 codes included in this category are 2221 and 3221.</p>
+  <p><strong>Percentage of male medical doctors</strong>:<strong> </strong>Male
+  doctors as percentage of all medical doctors at national level. The ISCO-08
+  codes included in this category are 221, 2211 and 2212. </p>
 
-  <p><strong><em>Percentage of female nursing personnel:</em></strong> Female
-  nursing personnel as percentage of all nursing personnel at national level.
-  The ISCO-08 codes included in this category are 2221 and 3221.</p>
+  <p> </p>
+
+  <p><strong>Percentage of female medical doctors</strong>:<strong>
+  </strong>Female doctors as percentage of all medical doctors at national
+  level. The ISCO-08 codes included in this category are 221, 2211 and 2212.
+  </p>
+
+  <p> </p>
+
+  <p><strong>Percentage of male nursing personnel:</strong> Male nursing
+  personnel as percentage of all nursing personnel at national level. The
+  ISCO-08 codes included in this category are 2221 and 3221. </p>
+
+  <p> </p>
+
+  <p><strong>Percentage of female nursing personnel:</strong> Female nursing
+  personnel as percentage of all nursing personnel at national level. The
+  ISCO-08 codes included in this category are 2221 and 3221. </p>
+UNIT_MEASURE: >-
+  <p>Health worker densities by occupation: Data is represented as Per 10,000
+  population</p>
+
+  <p>Health worker distribution by sex: Data is presented in percentage</p>
+CLASS_SYSTEM: <p>International Standard Classification of Occupations (ISCO-08)</p>
+SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <h1>Data sources</h1>
-
   <p>In response to WHA69.19, an online National Health Workforce Accounts
   (NHWA) data platform was developed to facilitate national reporting. In
   addition to the reporting, the platform also serves as an analytical tool at
@@ -70,32 +101,27 @@ SOURCE_TYPE: >-
   platform, additional sources such as the National Census, Labour Force Surveys
   and key administrative national and regional sources are also employed. Most
   of the data from administrative sources are derived from published national
-  health sector reviews and/or official country reports to WHO offices.
-  Countries with missing data for the year 2016 (baseline value for reporting of
-  the WHO 13th Global Programme of Work) were estimated from a linear model of
-  density time trend based on at least five data points including one reported
-  density in the period 2011-2013.</p>
-FREQ_COLL: |-
-  <h1>Calendar</h1>
-  <h2><strong>Data collection:</strong></h2>
-  <p>Ongoing process</p>
-REL_CAL_POLICY: |-
-  <h2><strong>Data release:</strong> </h2>
-  <p>First quarter of 2020</p>
-DATA_SOURCE: |-
-  <h1>Data providers</h1>
-  <p> NHWA focal point at national level</p>
-COMPILING_ORG: |-
-  <h1>Data compilers</h1>
-  <p>WHO</p>
+  health sector reviews and/or official country reports to WHO offices. </p>
+COLL_METHOD: ''
+FREQ_COLL: <p>Ongoing process</p>
+REL_CAL_POLICY: <p>First quarter of 2021</p>
+DATA_SOURCE: <p> NHWA focal point at national level </p>
+COMPILING_ORG: <p>WHO </p>
+INST_MANDATE: >-
+  <p>WHA69.19 urges Member States to share a core set of data to WHO, to
+  increase the evidence base on health workforce statistics globally.</p>
+OTHER_METHOD: ''
+RATIONALE: >-
+  <p>For detailed metadata and definitions, refer to the National Health
+  Workforce Accounts (NHWA) Handbook (<a
+  href="https://www.who.int/hrh/statistics/nhwa/en/">https://www.who.int/hrh/statistics/nhwa/en/</a>
+  )</p>
 REC_USE_LIM: >-
-  <h2><strong>Comments and limitations:</strong></h2>
-
   <p>Data on health workers tend to be more complete for the public health
   sector and may underestimate the active workforce in the private, military,
   nongovernmental organization and faith-based health sectors. In many cases,
   information maintained at the national regulatory bodies and professional
-  councils are not updated.</p>
+  councils are not updated. </p>
 
   <p> </p>
 
@@ -105,34 +131,40 @@ REC_USE_LIM: >-
   periodicity, quality and completeness of the original data. Densities are
   calculated using national population estimates from the United Nations
   Population Division&apos;s World Population Prospects database and may vary
-  from densities produced by the country.</p>
+  from densities produced by the country. </p>
 DATA_COMP: >-
-  <h1>Methodology</h1>
+  <p><strong><u>Health worker densities by occupation</u> </strong></p>
 
-  <h2>Computation method:</h2>
-
-  <p><strong>Health worker densities by occupation:</strong></p>
+  <p> </p>
 
   <p>The figures for number of medical doctors (including generalist and
   specialist medical practitioners) depending on the nature of the original data
   source may include practising medical doctors only or all registered medical
-  doctors.</p>
+  doctors. </p>
+
+  <p> </p>
 
   <p>The figures for number of nursing and midwifery include nursing personnel
   and midwifery personnel, whenever available. In many countries, nurses trained
   with midwifery skills are counted and reported as nurses. This makes the
   distinction between nursing personnel and midwifery personnel difficult to
-  draw.</p>
+  draw. </p>
+
+  <p> </p>
 
   <p>The figures for number of dentists include dentists in the given national
   and/or subnational area. Depending on the nature of the original data source
   may include practising (active) only or all registered in the health
-  occupation. The ISCO -08 codes included here are 2261.</p>
+  occupation. The ISCO -08 codes included here are 2261. </p>
+
+  <p> </p>
 
   <p>The figures for number of pharmacists include in the given national and/or
   subnational area. Depending on the nature of the original data source may
   include practising (active) only or all registered in the health occupation.
-  The ISCO -08 codes that relate to this occupation is 2262.</p>
+  The ISCO -08 codes that relate to this occupation is 2262. </p>
+
+  <p> </p>
 
   <p>In general, the denominator data for workforce density (i.e. national
   population estimates) are obtained from the United Nations Population
@@ -142,82 +174,94 @@ DATA_COMP: >-
   estimated from the United Nations Population Division&apos;s World population
   prospects database (2017). </p>
 
-  <p><strong>Health worker distribution by sex:</strong></p>
+  <p> </p>
+
+  <p><strong><u>Health worker distribution by sex</u> </strong></p>
+
+  <p><strong> </strong></p>
 
   <p>The number of male medical doctors as reported by the country is expressed
   as a percentage of total male and female medical doctors reported by the
-  country</p>
+  country<strong> </strong></p>
+
+  <p><strong> </strong></p>
 
   <p>The number of female medical doctors as reported by the country is
   expressed as a percentage of total male and female medical doctors reported by
-  the country</p>
+  the country<strong> </strong></p>
+
+  <p><strong> </strong></p>
 
   <p>The number of male nursing personnel as reported by the country is
   expressed as a percentage of total male and female nursing personnel reported
-  by the country</p>
+  by the country<strong> </strong></p>
+
+  <p><strong> </strong></p>
 
   <p>The number of female nursing personnel as reported by the country is
   expressed as a percentage of total male and female nursing personnel reported
-  by the country.</p>
-REG_AGG: >-
-  <h2>Regional and global aggregates:</h2>
+  by the country<strong> </strong></p>
 
+  <p> </p>
+DATA_VALIDATION: >-
+  <p>The data recorded in the NHWA data platform is validated by country focal
+  points. Data quality checks and country consultation are employed.</p>
+ADJUSTMENT: ''
+IMPUTATION: |-
+  <p>&#x2022; At country level</p>
+  <p>&#x2022; At regional and global levels</p>
+REG_AGG: >-
   <p>The global average density was estimated as the population weighted average
-  of the national densities.</p>
+  of the national densities. </p>
 
   <p>For the regional average density, data for the countries with missing
-  values in the period 2013-2018 were first estimated with neighbouring
+  values, if any in the last 5 years were first estimated with neighbouring
   comparable countries. Then the regional average was also computed as a
   weighted average by pooling these estimated values plus the available national
-  densities.</p>
+  densities. </p>
 
   <p>The population for estimating densities at regional and global level were
-  extracted from the UN Population Division 2017.</p>
+  extracted from the UN Population Division 2017. </p>
+DOC_METHOD: >-
+  <p>Countries are requested to refer to the National Health Workforce Accounts
+  (NHWA) Handbook (<a
+  href="https://www.who.int/hrh/statistics/nhwa/en/">https://www.who.int/hrh/statistics/nhwa/en/</a>
+  ), for guidance on indicators and methodology.</p>
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
 COVERAGE: >-
-  <h1>Data availability</h1>
+  <p>Data availability:</p>
 
-  <h2>Time series:</h2>
+  <p>Time series:</p>
 
-  <p>Data available for 2000-2018.</p>
+  <p>Data available for 2000-2018. </p>
 
   <p>Web link to the database: <a
-  href="http://www.who.int/hrh/statistics/hwfstats/en/">http://www.who.int/hrh/statistics/hwfstats/en/</a></p>
+  href="http://www.who.int/hrh/statistics/hwfstats/en/"
+  target="_blank"><u>http://www.who.int/hrh/statistics/hwfstats/en/</u></a> </p>
 
-  <h2>Disaggregation:</h2>
+  <p>Disaggregation:</p>
 
-  <p>National level data</p>
+  <p>National level data </p>
+COMPARABILITY: '<p>Sources of discrepancies:</p>'
 OTHER_DOC: >-
-  <h1>References</h1>
+  <p><strong>URL:</strong> </p>
 
-  <h2>URL:</h2>
+  <p><a href="http://www.who.int/hrh/statistics/hwfstats/en/"
+  target="_blank"><u>http://www.who.int/hrh/statistics/hwfstats/en/</u></a> </p>
 
-  <p><a
-  href="http://www.who.int/hrh/statistics/hwfstats/en/">http://www.who.int/hrh/statistics/hwfstats/en/</a>
-  </p>
+  <p> </p>
 
-  <h2>References:</h2>
+  <p><strong>References:</strong> </p>
 
-  <p>Sixty-ninth World Health Assembly Agenda Item 16.1. Global strategy on
-  human resources for health: workforce 2030 (2016), available from (<a
-  href="http://apps.who.int/gb/ebwha/pdf_files/WHA69/A69_R19-en.pdf">http://apps.who.int/gb/ebwha/pdf_files/WHA69/A69_R19-en.pdf</a>)</p>
+  <ul>
+    <li>Sixty-ninth World Health Assembly Agenda Item 16.1. Global strategy on human resources for health: workforce 2030 (2016), available from (<a href="http://apps.who.int/gb/ebwha/pdf_files/WHA69/A69_R19-en.pdf" target="_blank"><u>http://apps.who.int/gb/ebwha/pdf_files/WHA69/A69_R19-en.pdf</u></a>) </li>
+    <li>WHO (2014). Global strategy on human resources for health: Workforce 2030 (<a href="http://who.int/hrh/resources/pub_globstrathrh-2030/en/" target="_blank"><u>http://who.int/hrh/resources/pub_globstrathrh-2030/en/</u></a>) </li>
+    <li>&quot;WHO Global Health Workforce Statistics.&quot; World Health Organization, n.d. Web. Feb. 2018. (<a href="http://www.who.int/hrh/statistics/hwfstats/en/" target="_blank"><u>http://www.who.int/hrh/statistics/hwfstats/en/</u></a>) </li>
+    <li>&quot;WHO Global Health Workforce Statistics.&quot; World Health Organization, n.d. Web. Feb. 2018. (<a href="http://apps.who.int/gho/data/node.main.A1444?lang=en&amp;showonly=HWF" target="_blank"><u>http://apps.who.int/gho/data/node.main.A1444?lang=en&amp;showonly=HWF</u></a>) </li>
+    <li>WHO, National Health Workforce Accounts: A Handbook, n.d. Wed. Feb. 2018. (<a href="http://www.who.int/hrh/statistics/nhwa/en/" target="_blank"><u>http://www.who.int/hrh/statistics/nhwa/en/</u></a>) </li>
+    <li>WHO 13<sup>th</sup> Global Programme of Work (https://www.who.int/about/what-we-do/gpw-thirteen-consultation/en/) </li>
+  </ul>
 
-  <p>WHO (2014). Global strategy on human resources for health: Workforce 2030
-  (<a
-  href="http://who.int/hrh/resources/pub_globstrathrh-2030/en/">http://who.int/hrh/resources/pub_globstrathrh-2030/en/</a>)
-  </p>
-
-  <p>&quot;WHO Global Health Workforce Statistics.&quot; World Health
-  Organization, n.d. Web. Feb. 2018. (<a
-  href="http://www.who.int/hrh/statistics/hwfstats/en/">http://www.who.int/hrh/statistics/hwfstats/en/</a>)</p>
-
-  <p>&quot;WHO Global Health Workforce Statistics.&quot; World Health
-  Organization, n.d. Web. Feb. 2018. (<a
-  href="http://apps.who.int/gho/data/node.main.A1444?lang=en&amp;showonly=HWF">http://apps.who.int/gho/data/node.main.A1444?lang=en&amp;showonly=HWF</a>)</p>
-
-  <p>WHO, National Health Workforce Accounts: A Handbook, n.d. Wed. Feb. 2018.
-  (<a
-  href="http://www.who.int/hrh/statistics/nhwa/en/">http://www.who.int/hrh/statistics/nhwa/en/</a>)
-  </p>
-
-  <p>WHO 13<sup>th</sup> Global Programme of Work (<a
-  href="https://www.who.int/about/what-we-do/gpw-thirteen-consultation/en/">https://www.who.int/about/what-we-do/gpw-thirteen-consultation/en/</a>)</p>
+  <p> </p>

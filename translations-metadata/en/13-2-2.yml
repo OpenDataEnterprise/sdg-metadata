@@ -1,0 +1,161 @@
+SDG_INDICATOR_INFO: ''
+SDG_GOAL: >-
+  <p>Goal 13: Take urgent action to combat climate change and its impacts<sup><a
+  href="#footnote-2" id="footnote-ref-2">[1]</a></sup> </p><div
+  class="footnotes"><div><sup class="footnote-number" id="footnote-2">1</sup><p>
+  Acknowledging that the United Nations Framework Convention on Climate Change
+  is the primary international, intergovernmental forum for negotiating the
+  global response to climate change. <a
+  href="#footnote-ref-2">&#x2191;</a></p></div></div>
+SDG_TARGET: >-
+  <p>Target: 13.2 Integrate climate change measures into national policies,
+  strategies and planning</p>
+SDG_INDICATOR: '<p>Indicator: 13.2.2 Total greenhouse gas emissions per year</p>'
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: <p>March 2021</p>
+SDG_RELATED_INDICATORS: ''
+SDG_CUSTODIAN_AGENCIES: <p>UN Climate Change (UNFCCC Secretariat)</p>
+CONTACT: ''
+CONTACT_ORGANISATION: <p>UN Climate Change (UNFCCC Secretariat)</p>
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  <p>Definition, rationale and concepts:</p>
+
+  <p>The ultimate objective of the Climate Change Convention (UNFCCC) is to
+  achieve the stabilization of greenhouse gas concentrations in the atmosphere
+  at a level that would prevent dangerous anthropogenic interference with the
+  climate system. Estimating the levels of greenhouse gas (GHG) emissions and
+  removals is an important element of the efforts to achieve this objective.</p>
+
+  <p>In accordance with Articles 4 and 12 of the Climate Change Convention and
+  the relevant decisions of the Conference of the Parties, countries that are
+  Parties to the Convention submit national GHG inventories to the Climate
+  Change secretariat. These submissions are made in accordance with the
+  reporting requirements adopted under the Convention, such as the revised
+  &#x201C;Guidelines for the preparation of national communications by Parties
+  included in Annex I to the Convention, Part I: UNFCCC reporting guidelines on
+  annual greenhouse gas inventories&#x201D; (decision 24/CP.19) for Annex I
+  Parties and &#x201C;Guidelines for the preparation of national communications
+  for non-Annex I Parties&#x201D; (decision 17/CP.8). The inventory data are
+  provided in the annual GHG inventory submissions by Annex I Parties and in the
+  national communications and biennial update reports by non-Annex I
+  Parties.</p>
+
+  <p>The Paris Agreement adopted in 2015 marks the latest step in the evolution
+  of the UN climate change regime and builds on the work undertaken under the
+  Convention. Its central aim is to strengthen the global response to the threat
+  of climate change by keeping a global temperature rise this century well below
+  2 degrees Celsius above pre-industrial levels and to pursue efforts to limit
+  the temperature increase even further to 1.5 degrees Celsius. The Agreement
+  also aims to strengthen the ability of countries to deal with the impacts of
+  climate change.</p>
+UNIT_MEASURE: <p>Mt CO<sub>2</sub>-equivalent</p>
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  <p>&#x2022; Annual GHG inventory submissions from Annex I Parties</p>
+
+  <p>&#x2022; National communications (NC) and/or Biennial update reports (BUR)
+  from non-Annex I Parties</p>
+COLL_METHOD: >-
+  <p>&#x2022; Annex I GHG inventories are submitted through the CRF Reporter
+  application. Information are automatically imported in the UNFCCC Data
+  Warehouse.</p>
+
+  <p>&#x2022; Information for non-Annex I Parties are manually extracted from
+  their NC and/or BUR and stored in the UNFCCC Data Warehouse using Excel import
+  sheets.</p>
+
+  <p> </p>
+FREQ_COLL: <p>See above</p>
+REL_CAL_POLICY: >-
+  <p> The UNFCCC reporting guidelines on annual inventories for Annex I Parties
+  require each Annex I Party to provide its annual GHG inventory by 15 April
+  each year.</p>
+
+  <p>The national communications (NCs) of non-Annex I Parties are usually
+  submitted every four years; the biennial update reports (BURs) every two
+  years.</p>
+DATA_SOURCE: <p>Parties to the UNFCCC</p>
+COMPILING_ORG: <p>UN Climate Change (UNFCCC secretariat)</p>
+INST_MANDATE: |-
+  <ul>
+    <li>Reporting requirements for Annex I Parties &#x2013; <a href="https://unfccc.int/process-andmeetings/transparency-and-reporting/reporting-and-review-under-the-convention/greenhousegas-inventories-annex-i-parties/reporting-requirements">https://unfccc.int/process-andmeetings/transparency-and-reporting/reporting-and-review-under-the-convention/greenhousegas-inventories-annex-i-parties/reporting-requirements</a></li>
+    <li>Reporting requirements for non-Annex I Parties &#x2013; <a href="https://unfccc.int/process-andmeetings/transparency-and-reporting/support-for-developing-countries/guidelines-andmanuals-for-the-preparation-of-non-annex-i-national-reports-and-international#eq-5">https://unfccc.int/process-andmeetings/transparency-and-reporting/support-for-developing-countries/guidelines-andmanuals-for-the-preparation-of-non-annex-i-national-reports-and-international#eq-5</a></li>
+  </ul>
+OTHER_METHOD: ''
+RATIONALE: <p>See 2a.</p>
+REC_USE_LIM: >-
+  <p>Data is limited to Parties that submit their GHG inventories. As the
+  reporting requirements for non-Annex I Parties are not as rigid as those for
+  Annex I Parties, information for these Parties are available usually only for
+  selected years.</p>
+
+  <p>The annual timing of submission of updated inventory reports is very close
+  to publication date of annual SDG progress reports.</p>
+DATA_COMP: >-
+  <p>Total GHG emissions are calculated as the sum of emissions of direct GHGs:
+  carbon dioxide (CO2), methane (CH4), nitrous oxide (N2O), perfluorocarbons
+  (PFCs), hydrofluorocarbons (HFCs), sulphur hexafluoride (SF6) and nitrogen
+  trifluoride (NF3), measured in units of CO2-equivalent, by using a common
+  weighting factor, the so-called Global Warming Potentials (GWP). In accordance
+  with the latest reporting guidelines for Annex I Parties under the UNFCCC, the
+  GWP values to be used are those for the 100-year time horizon listed in Table
+  2.14 of the IPCC Fourth Assessment Report
+  (https://www.ipcc.ch/report/ar4/wg1/). However, non-Annex I Parties should use
+  the GWP provided in the IPCC Second Assessment Report
+  (https://www.ipcc.ch/report/ipcc-second-assessment-full-report/) based on the
+  effects of GHGs over a 100-year time.</p>
+DATA_VALIDATION: ''
+ADJUSTMENT: ''
+IMPUTATION: |-
+  <p>&#x2022; At country level</p>
+  <p>Availability of data depends only on what is received from Parties.</p>
+  <p>&#x2022; At regional and global levels</p>
+  <p>n/a</p>
+REG_AGG: <p>n/a</p>
+DOC_METHOD: |-
+  <ul>
+    <li>Reporting requirements for Annex I Parties &#x2013; <a href="https://unfccc.int/process-and-meetings/transparency-and-reporting/reporting-and-review-under-the-convention/greenhouse-gas-inventories-annex-i-parties/reporting-requirements">https://unfccc.int/process-and-meetings/transparency-and-reporting/reporting-and-review-under-the-convention/greenhouse-gas-inventories-annex-i-parties/reporting-requirements</a></li>
+    <li>Reporting requirements for non-Annex I Parties &#x2013; <a href="https://unfccc.int/process-and-meetings/transparency-and-reporting/support-for-developing-countries/guidelines-and-manuals-for-the-preparation-of-non-annex-i-national-reports-and-international#eq-5">https://unfccc.int/process-and-meetings/transparency-and-reporting/support-for-developing-countries/guidelines-and-manuals-for-the-preparation-of-non-annex-i-national-reports-and-international#eq-5</a></li>
+    <li>2006 IPCC Guidelines for National Greenhouse Gas Inventories &#x2013; https://www.ipcc-nggip.iges.or.jp/public/2006gl/</li>
+    <li>Revised 1996 IPCC Guidelines for National Greenhouse Gas Inventories &#x2013; https://www.ipcc-nggip.iges.or.jp/public/gl/invs1.html</li>
+  </ul>
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: >-
+  <p>Data availability:</p>
+
+  <p>Based on national inventory reports submitted to the UNFCCC secretariat,
+  total greenhouse gas (GHG) emissions in Gt CO2 eq of developed countries (43
+  Annex I Parties under UNFCCC) from 1990 onwards and developing countries (153
+  non-Annex I Parties under UNFCCC) from 2000 onwards. Annex I Parties submit
+  their GHG inventories annually (submission deadline is 15 April), whereas
+  non-Annex I Parties submit their national communications/biennial update
+  reports only periodically.</p>
+
+  <p>Time series:</p>
+
+  <p>Data for Annex I Parties are available from the base year (usually 1990) up
+  to two years before the inventory is due. Data available for non-Annex I
+  Parties are usually only for selected years.</p>
+
+  <p>Disaggregation:</p>
+
+  <p>Data is disaggregated by Annex I and Non-Annex I Parties to the UNFCCC</p>
+COMPARABILITY: |-
+  <p>Sources of discrepancies:</p>
+  <p>n/a</p>
+OTHER_DOC: |-
+  <ul>
+    <li><a href="http://unfccc.int/resource/docs/2013/cop19/eng/10a03.pdf#page=2" target="_blank">UNFCCC reporting guidelines on annual inventories for Parties included in Annex I to the Convention</a></li>
+    <li><a href="https://unfccc.int/sites/default/files/resource/docs/cop8/07a02.pdf">Guidelines for the preparation of national communications from Parties not included in Annex I to the Convention</a></li>
+    <li><a href="https://unfccc.int/process-and-meetings/transparency-and-reporting/greenhouse-gas-data/ghg-data-unfccc/ghg-data-from-unfccc">Greenhouse gas data interface</a></li>
+  </ul>

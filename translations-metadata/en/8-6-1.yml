@@ -1,119 +1,107 @@
+SDG_INDICATOR_INFO: ''
 SDG_GOAL: >-
   <p>Goal 8: Promote sustained, inclusive and sustainable economic growth, full
-  and productive employment and decent work for all</p>
+  and productive employment and decent work for all </p>
 SDG_TARGET: >-
   <p>Target 8.6: By 2020, substantially reduce the proportion of youth not in
   employment, education or training</p>
 SDG_INDICATOR: >-
   <p>Indicator 8.6.1: Proportion of youth (aged 15-24 years) not in education,
-  employment or training</p>
-META_LAST_UPDATE: '<p>Last updated: March 2020</p>'
-SDG_RELATED_INDICATORS: <h1>Related indicators</h1>
-SDG_CUSTODIAN_AGENCIES: |-
-  <h1>Institutional information</h1>
-  <h2>Organization(s):</h2>
-  <p>ILO</p>
+  employment or training </p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: <p>January 2021</p>
+SDG_RELATED_INDICATORS: <p>Related indicators as of February 2020 </p>
+SDG_CUSTODIAN_AGENCIES: <p>ILO</p>
+CONTACT: ''
+CONTACT_ORGANISATION: <p>ILO</p>
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <h1>Concepts and definitions</h1>
-
-  <h2>Definition:</h2>
+  <p>Definition: </p>
 
   <p>This indicator conveys the proportion of youth (aged 15-24 years) not in
   education, employment or training (also known as &quot;the youth NEET
-  rate&quot;).</p>
+  rate&quot;). </p>
 
-  <h2>Concepts:</h2>
+  <p>Concepts: </p>
 
   <p>For the purposes of this indicator, youth is defined as all persons between
-  the ages of 15 and 24 (inclusive).</p>
+  the ages of 15 and 24 (inclusive). According to the International Standard
+  Classification of Education (ISCED), education is defined as organized and
+  sustained communication designed to bring about learning. Formal education is
+  defined in ISCED as education that is institutionalized, intentional, and
+  planned through public organizations and recognized private bodies and, in
+  their totality, make up the formal education system of a country. </p>
 
-  <p>According to the International Standard Classification of Education
-  (ISCED), education is defined as organized and sustained communication
-  designed to bring about learning. Formal education is defined in ISCED as
-  education that is institutionalized, intentional, and planned through public
-  organizations and recognized private bodies and, in their totality, make up
-  the formal education system of a country. Non-formal education, like formal
-  education is defined in ISCED as education that is institutionalized,
-  intentional and planned by an education provider but is considered an
-  addition, alternative and/or a complement to formal education. It may be short
-  in duration and/or low in intensity and it is typically provided in the form
-  of short courses, workshops or seminars. Informal learning is defined in ISCED
-  as forms of learning that are intentional or deliberate, but not
-  institutionalized. It is thus less organized and less structured than either
-  formal or non-formal education. Informal learning may include learning
-  activities that occur in the family, in the work place, in the local
-  community, and in daily life, on a self-directed, family-directed or
-  socially-directed basis. For the purposes of this indicator, persons will be
-  considered in education if they are in formal or non-formal education, as
-  described above, but excluding informal learning.</p>
+  <p>Non-formal education, like formal education is defined in ISCED as
+  education that is institutionalized, intentional and planned by an education
+  provider but is considered an addition, alternative and/or a complement to
+  formal education. It may be short in duration and/or low in intensity and it
+  is typically provided in the form of short courses, workshops or seminars.
+  Informal learning is defined in ISCED as forms of learning that are
+  intentional or deliberate, but not institutionalized. It is thus less
+  organized and less structured than either formal or non-formal education.
+  Informal learning may include learning activities that occur in the family, in
+  the work place, in the local community, and in daily life, on a self-directed,
+  family-directed or socially-directed basis. For the purposes of this
+  indicator, persons will be considered in education if they are in formal or
+  non-formal education, as described above, but excluding informal learning.
+  </p>
 
   <p>Employment is defined as all persons of working age who, during a short
   reference period (one week), were engaged in any activity to produce goods or
-  provide services for pay or profit.</p>
+  provide services for pay or profit. </p>
 
-  <p>For the purposes of this indicator, persons are considered to be in
-  training if they are in a non-academic learning activity through which they
-  acquire specific skills intended for vocational or technical jobs. Vocational
-  training prepares trainees for jobs that are based on manual or practical
-  activities, and for skilled operative jobs, both blue and white collar related
-  to a specific trade, occupation or vocation. Technical training on the other
-  hand imparts learning that can be applied in intermediate-level jobs, in
-  particular those of technicians and middle managers. </p>
+  <p>For the purpose of this indicator, persons are considered to be in training
+  if they are in a non-academic learning activity through which they acquire
+  specific skills intended for vocational or technical jobs. </p>
+
+  <p>Vocational training prepares trainees for jobs that are based on manual or
+  practical activities, and for skilled operative jobs, both blue and white
+  collar related to a specific trade, occupation or vocation. Technical training
+  on the other hand imparts learning that can be applied in intermediate-level
+  jobs, in particular those of technicians and middle managers. </p>
+UNIT_MEASURE: <p>Percentage</p>
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <h1>Data sources</h1>
-
-  <h2>Description:</h2>
-
   <p>The preferred official national data source for this indicator is a
   household-based labour force survey. </p>
 
   <p>In the absence of a labour force survey, a population census and/or other
-  type of household surveys with an appropriate employment module may be used to
+  type of household survey with an appropriate employment module may be used to
   obtain the required data. </p>
 COLL_METHOD: >-
-  <h2>Collection process:</h2>
-
-  <p>The ILO Department of Statistics sends out its annual questionnaire to all
+  <p>The ILO Department of Statistics processes national household survey
+  microdatasets in line with internationally-agreed indicator concepts and
+  definitions set forth by the International Conference of Labour Statisticians.
+  For data that could not be obtained through this processing or directly from
+  government websites, the ILO sends out an annual ILOSTAT questionnaire to all
   relevant agencies within each country (national statistical office, labour
-  ministry, etc.) requesting the latest annual data available and any revisions
-  on numerous labour market topics and indicators, including many SDG
-  indicators. Indicator 8.6.1 is calculated from statistics submitted to the ILO
-  via this questionnaire as well as through special agreements with regional and
-  national statistical offices or through the processing of microdata sets of
-  national labour force surveys.</p>
-FREQ_COLL: >-
-  <h1>Calendar</h1>
-
-  <h2>Data collection:</h2>
-
-  <p>The ILO sends out its annual ILOSTAT questionnaire on labour statistics,
-  usually in the 2nd quarter, with a view to receiving the requested statistics
-  by the 3rd quarter or the end of the year at the latest. Data received in
-  batch from regional and national statistical offices and data obtained through
-  the processing of microdata sets of national household surveys by the ILO
-  Department of Statistics are continuously updated in ILOSTAT (as they become
-  available to the ILO Department of Statistics).</p>
-REL_CAL_POLICY: >-
-  <h2>Data release:</h2>
-
-  <p>The ILOSTAT database is continuously updated to reflect statistics compiled
-  and processed every week. In general, statistics for EUROSTAT and OECD
-  countries are available around the 2nd or 3rd quarter of the year following
-  the year of reference, whereas they are usually available around the 3rd or
-  4th quarter of the year following the year of reference for the other
-  countries.</p>
+  ministry, etc.) requesting the latest annual data and any revisions on
+  numerous labour market topics and indicators, including many SDG indicators.
+  </p>
+FREQ_COLL: <p>Continuous</p>
+REL_CAL_POLICY: <p>Continuous</p>
 DATA_SOURCE: >-
-  <h1>Data providers</h1>
-
   <p>Mainly national statistical offices, and in some cases labour ministries or
   other related agencies, at the country-level. In some cases, regional or
-  international statistical offices can also act as data providers.</p>
-COMPILING_ORG: |-
-  <h1>Data compilers</h1>
-  <p>ILO</p>
+  international statistical offices can also act as data providers. </p>
+COMPILING_ORG: <p>ILO </p>
+INST_MANDATE: >-
+  <p> The ILO is the UN focal point for labour statistics. It sets international
+  standards for labour statistics through the International Conference of Labour
+  Statisticians. It also compiles and produces labour statistics with the goal
+  of disseminating internationally-comparable datasets, and provides technical
+  assistance and training to ILO member States to support their efforts to
+  produce high quality labour market data.</p>
+OTHER_METHOD: ''
 RATIONALE: >-
-  <h2>Rationale:</h2>
-
   <p>The share of youth not in employment, education or training (youth NEET
   rate) provides a measure of youth who are outside the educational system, not
   in training and not in employment, and thus serves as a broader measure of
@@ -123,10 +111,8 @@ RATIONALE: >-
   NEET is also a better measure of the current universe of potential youth
   labour market entrants as compared with the youth inactivity rate, as the
   latter includes those youth who are outside the labour force and are in
-  education, and thus are furthering their skills and qualifications.</p>
+  education, and thus are furthering their skills and qualifications. </p>
 REC_USE_LIM: >-
-  <h2>Comments and limitations:</h2>
-
   <p>The calculation of this indicator requires to have reliable information on
   both the labour market status and the participation in education or training
   of young persons. The quality of such information is heavily dependent on the
@@ -137,34 +123,28 @@ REC_USE_LIM: >-
   misinterpreting it, it is important to bear in mind that it is composed of two
   different sub-groups (unemployed youth not in education or training and youth
   outside the labour force not in education or training). The prevalence and
-  composition of each sub-group would have policy implications, and thus, should
-  also be considered when analysing the NEET rate.</p>
+  composition of each sub-group would have policy implications, and thus should
+  also be considered when analysing the NEET rate. </p>
 DATA_COMP: >-
-  <h1>Methodology</h1>
-
-  <h2>Computation method:</h2>
-
-  <p>Youth NEET rate =</p>
-
-  <p>(Youth &#x2013; (Youth in employment + Youth not in employment but in
-  education or training))/Youth) x 100</p>
+  <p><img
+  src="data:image/png;base64,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iETcZ779a//+/c1SVTaP8k/8S2UuV5i5VfZIJTnLK+UnHtT2Lw5hICv2sYkS/3IuQY9HE4ysW37QBEzABEzABEzABMYhsGhubq78eZxLvE+lZ55SnyENF84T04HaF08YAPuokoBODgrlcZwqnC1OY+VLAbh9pORgfG0nIsGuXbvw1fC9eDYUxx2mGElDyKZcZP7ONz/ht6l0jhogfRAM1+3mm29m15TkIU3dBn88Wh31H7LK4fBl1HhfVzOTOrYh/7j6JMb75KQqecPUkV38V155ZVwjhIcSEBCVswLEDb+Wsws0Z8zENvSSpilvYqc0ARMwARMwARMwgYEQ6OanDkRoi2ECJmACJmACJmACJrDgCXRe91/wRFxBEzABEzABEzABEzCBIRCwnzqEVrAMJmACJmACJmACJmACKQH7qdYJEzABEzABEzABEzCBIRKwnzrEVrFMJmACJmACJmACJmAC9lOtAyZgAiZgAiZgAiZgAkMkYD91iK1imUzABEzABEzABEzABOynWgdMwARMwARMwARMwASGSMB+6hBbxTKZgAmYgAmYgAmYgAnYT7UOmIAJmIAJmIAJmIAJDJGA/dQhtoplMgETMAETMAETMAETONi/m/r444+/+OKL6MGKFStuuumm3hXik08+ef755996663169cfddRRveffNcPzzjtPj2zevHkI8nSVvyT9Lbfc8t5775HytttuO/vss0secZrZEghNtnbt2nPOOWe2wsz30oNNO//886+99tr5Xp1m+SdtwGdIz51ihvCHXPR9992HeBdeeOEJJ5wwZDl7lG3G86m4TbrWrFkTakX/zG/2WOc4K+z4pZdeyp0TTzyx9yLefPPNW2+99d///recVExqqO/OnTtV3Kuvvprf7F2SkCHu6ZFHHnn00UeXO6k0zerVqycnUu85P/jgg1SQbO2klrCNNXDjxo3hkaCW8c2SDEdIQ5OdfvrpPHjGGWeM8PhEH5l3+o9N460bJieddNJEyQwh84ka8KSCGG06xY4dO6ZT8UF1iinXfTqEu5aCJUQB9u7d2+nB3g3IHXfcgbty5513Tk0VO9V3Eoln7Kfec889qhWeXKje8uXL+RtX4+abb55EnZM8P//880kMkMyk8t6zZMkSpmnlFGJSNRgzioRJI3wpOVW4y1OYSUKSTz/9tHwAoxYfffSRJJxH16GH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"></p>
 
   <p>It is important to note here that youth simultaneously in employment and
   education or training should not be double counted when subtracted from the
-  total number of youth.</p>
-
-  <p>The formula can also be expressed as:</p>
-
-  <p>Youth NEET rate =</p>
-
-  <p>((Unemployed youth + Youth outside the labour force) &#x2013; (Unemployed
-  youth in education or training + Youth outside the labour force in education
-  or training)) Youth x 100</p>
+  total number of youth. The formula can also be expressed as:</p>
+DATA_VALIDATION: >-
+  <p>The ILO engages in annual consultations with member States through the
+  ILOSTAT questionnaire and related Statistics Reporting System (StaRS).
+  National data providers receive a link to the portal where they can review all
+  national SDG data available on ILOSTAT.</p>
+ADJUSTMENT: >-
+  <p>Through the ILO Harmonized Microdata initiative, the ILO strives to produce
+  internationally comparable labour statistics based on the indicator concepts
+  and definitions adopted by the International Conference of Labour
+  Statisticians.</p>
 IMPUTATION: >-
-  <h2>Treatment of missing values:</h2>
-
   <ul>
-    <li><strong><em>At country level:</em></strong></li>
+    <li>At country level </li>
   </ul>
 
   <p>Multivariate regression and cross-validation techniques are used to impute
@@ -174,16 +154,16 @@ IMPUTATION: >-
   calculate the global and regional estimates; they are not used for
   international reporting on the SDG indicators by the ILO. </p>
 
-  <p>For further information on the estimates, please refer to the the ILO
-  modelled estimates methodological overview, available at <a
-  href="https://www.ilo.org/ilostat-files/Documents/TEM.pdf">https://www.ilo.org/ilostat-files/Documents/TEM.pdf</a>.</p>
+  <p> </p>
+
+  <p>For further information on the estimates, please refer to the ILO modelled
+  estimates methodological overview, available at
+  https://ilostat.ilo.org/resources/concepts-and-definitions/ilo-modelled-estimates/</p>
 
   <ul>
-    <li><strong><em>At regional and global levels:</em></strong></li>
+    <li>At regional and global levels </li>
   </ul>
 REG_AGG: >-
-  <h2>Regional aggregates:</h2>
-
   <p>The NEET aggregates are derived from the ILO modelled estimates that are
   used to produce global and regional estimates of, amongst others, rates of
   youth not in employment. These models use multivariate regression and
@@ -195,88 +175,74 @@ REG_AGG: >-
   level of aggregation, the ratio between the two is used to produce the NEET
   rate for each regional grouping and the global level. Notice that this direct
   aggregation method can be used due to the imputation of missing observations.
-  For further information on the estimates, please refer to the the ILO modelled
-  estimates methodological overview, available at <a
-  href="https://www.ilo.org/ilostat-files/Documents/TEM.pdf">https://www.ilo.org/ilostat-files/Documents/TEM.pdf</a>.</p>
+  For further information on the estimates, please refer to the ILO modelled
+  estimates methodological overview, available at
+  https://ilostat.ilo.org/resources/concepts-and-definitions/ilo-modelled-estimates/.
+  </p>
 DOC_METHOD: >-
-  <h2>Methods and guidance available to countries for the compilation of the
-  data at the national level:</h2>
-
   <p>In order to calculate this indicator, reliable data are needed on both the
   labour market situation and the participation in the educational system of the
   youth. These data are collected at the national level mainly through labour
   force surveys (or other types of household surveys with an employment module).
   For the methodology of each national household survey, one must refer to the
   most comprehensive survey report or to the methodological publications of the
-  national statistical office in question.</p>
+  national statistical office in question. </p>
 
   <ul>
-    <li>ILO Guidebook - Decent Work and the Sustainable Development Goals: A Guidebook on SDG Labour Market Indicators (<a href="https://www.ilo.org/stat/Publications/WCMS_647109/lang--en/index.htm">https://www.ilo.org/stat/Publications/WCMS_647109/lang--en/index.htm</a> )</li>
-    <li>ILO Manual &#x2013; Decent Work Indicators, Concepts and Definitions &#x2013; Chapter 1, Employment opportunities <a href="http://www.ilo.org/integration/resources/pubs/WCMS_229374/lang--en/index.htm">http://www.ilo.org/integration/resources/pubs/WCMS_229374/lang--en/index.htm</a> (second version, page 38)</li>
-    <li>Resolution concerning statistics of work, employment and labour underutilization: <a href="http://www.ilo.org/global/statistics-and-databases/standards-and-guidelines/resolutions-adoptedby-international-conferences-of-labour-statisticians/WCMS_230304/lang--en/index.htm">http://www.ilo.org/global/statistics-and-databases/standards-and-guidelines/resolutions-adoptedby-international-conferences-of-labour-statisticians/WCMS_230304/lang--en/index.htm</a> </li>
-    <li>International Standard Classification of Education 2011 (ISCED-2011) <a href="http://www.uis.unesco.org/Education/Pages/international-standard-classification-of-education.aspx">http://www.uis.unesco.org/Education/Pages/international-standard-classification-of-education.aspx</a> </li>
-    <li>ILOSTAT (<a href="https://ilostat.ilo.org/">https://ilostat.ilo.org/</a>).</li>
-    <li>ILOSTAT&#x2019;s Indicator Descriptions &#x2013; Youth NEET rate (<a href="https://ilostat.ilo.org/resources/methods/description-youth-neet/">https://ilostat.ilo.org/resources/methods/description-youth-neet/</a>).</li>
+    <li>ILO Guidebook - Decent Work and the Sustainable Development Goals: A Guidebook on SDG Labour Market Indicators (<a href="https://www.ilo.org/stat/Publications/WCMS_647109/lang--en/index.htm" target="_blank"><u>https://www.ilo.org/stat/Publications/WCMS_647109/lang--en/index.htm</u></a> ) </li>
+    <li>ILO Manual &#x2013; Decent Work Indicators, Concepts and Definitions &#x2013; Chapter 1, Employment opportunities <a href="http://www.ilo.org/integration/resources/pubs/WCMS_229374/lang--en/index.htm" target="_blank"><u>http://www.ilo.org/integration/resources/pubs/WCMS_229374/lang--en/index.htm</u></a> (second version, page 38) </li>
+    <li>Resolution concerning statistics of work, employment and labour underutilization <a href="http://www.ilo.org/global/statistics-and-databases/standards-and-guidelines/resolutions-adoptedby-international-conferences-of-labour-statisticians/WCMS_230304/lang--en/index.htm" target="_blank"><u>http://www.ilo.org/global/statistics-and-databases/standards-and-guidelines/resolutions-adoptedby-international-conferences-of-labour-statisticians/WCMS_230304/lang--en/index.htm</u></a> </li>
   </ul>
+
+  <p>International Standard Classification of Education 2011 (ISCED-2011) <a
+  href="http://www.uis.unesco.org/Education/Pages/international-standard-classification-of-education.aspx"
+  target="_blank"><u>http://www.uis.unesco.org/Education/Pages/international-standard-classification-of-education.aspx</u></a>
+  </p>
+
+  <ul>
+    <li>ILOSTAT (<a href="https://ilostat.ilo.org/" target="_blank">https://ilostat.ilo.org/</a>). </li>
+    <li>ILOSTAT&#x2019;s Indicator Descriptions &#x2013; Youth NEET rate (<a href="https://ilostat.ilo.org/resources/methods/description-youth-neet/" target="_blank">https://ilostat.ilo.org/resources/methods/description-youth-neet/</a>). </li>
+  </ul>
+QUALITY_MGMNT: ''
 QUALITY_ASSURE: >-
-  <p><strong>Quality assurance:</strong></p>
-
-  <p>Data consistency and quality checks regularly conducted for validation of
-  the data before dissemination in the ILOSTAT database.</p>
-
-  <p>In many cases, data are obtained through ILO processing of microdata sets
-  of national household surveys. Data are also reported by national statistical
-  offices or other relevant national agencies to the ILO Department of
-  Statistics through its annual ILOSTAT questionnaire on labour statistics. The
-  primary source of the data as well as the repository where applicable are
-  indicated in the relevant metadata and/or footnotes in ILOSTAT and in the SDG
-  Indicators Global Database.</p>
+  <p>Data consistency and quality checks are regularly conducted for validation
+  of the data before dissemination in the ILOSTAT database. </p>
+QUALITY_ASSMNT: ''
 COVERAGE: >-
-  <h1>Data availability</h1>
+  <p>Data availability: Data for this indicator is available for 157 countries
+  and territories.</p>
 
-  <h2>Description:</h2>
+  <p>Time series: </p>
 
-  <h2>Time series:</h2>
+  <p>Country data for this indicator is available as of 2000 in the SDG
+  Indicators Global Database, but longer time series are available in ILOSTAT.
+  Regional data in this submission covers a period of 2005 to 2019.</p>
 
-  <p>Data for this indicator is available as of 2000 in the SDG Indicators
-  Global Database, but longer time series are available in ILOSTAT.</p>
-
-  <h2>Disaggregation:</h2>
+  <p>Disaggregation:</p>
 
   <p>No disaggregation is specifically required for this indicator, although
   having it disaggregated by sex is desirable, as is disaggregation by detailed
-  age groups within the youth age band</p>
-COMPARABILITY: <h2>Sources of discrepancies:</h2>
+  age groups within the youth age band. </p>
+
+  <p> </p>
+COMPARABILITY: >-
+  <p>A number of factors can limit the comparability of statistics on the youth
+  NEET rate between countries or over time. When differing from international
+  standards, the operational criteria used to define employment and the
+  participation in education or training will naturally affect the comparability
+  of the resulting statistics, as will the coverage of the source of statistics
+  (geographical coverage, population coverage, age coverage, etc.).</p>
 OTHER_DOC: >-
-  <h1>References</h1>
-
-  <p>ILO Guidebook - Decent Work and the Sustainable Development Goals: A
-  Guidebook on SDG Labour Market Indicators (<a
-  href="https://www.ilo.org/stat/Publications/WCMS_647109/lang--en/index.htm">https://www.ilo.org/stat/Publications/WCMS_647109/lang--en/index.htm</a>
-  )</p>
-
-  <p>Decent Work Indicators Manual: <a
-  href="http://www.ilo.org/wcmsp5/groups/public/---dgreports/---stat/documents/publication/wcms_223121.pdf">http://www.ilo.org/wcmsp5/groups/public/---dgreports/---stat/documents/publication/wcms_223121.pdf</a>
-  </p>
-
-  <p>Resolution concerning statistics of work, employment and labour
-  underutilization, adopted by the 19<sup>th</sup> ICLS in 2013: <a
-  href="http://www.ilo.org/global/statistics-and-databases/standards-and-guidelines/resolutions-adoptedby-international-conferences-of-labour-statisticians/WCMS_230304/lang--en/index.htm">http://www.ilo.org/global/statistics-and-databases/standards-and-guidelines/resolutions-adoptedby-international-conferences-of-labour-statisticians/WCMS_230304/lang--en/index.htm</a>
-  </p>
-
-  <p>International Standard Classification of Education (ISCED) developed by
-  UNESCO: <a
-  href="http://www.uis.unesco.org/Education/Pages/international-standard-classification-of-education.aspx">http://www.uis.unesco.org/Education/Pages/international-standard-classification-of-education.aspx</a>
-  </p>
-
-  <p>What does NEETs mean and why is the concept so easily misinterpreted? (ILO,
-  W4Y, Technical brief n&#xB0;1): <a
-  href="http://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/documents/publication/wcms_343153.pdf">http://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/documents/publication/wcms_343153.pdf</a>
-  </p>
-
-  <p>ILOSTAT (<a
-  href="https://ilostat.ilo.org/">https://ilostat.ilo.org/</a>).</p>
+  <ul>
+    <li>ILO Guidebook - Decent Work and the Sustainable Development Goals: A Guidebook on SDG Labour Market Indicators (<a href="https://www.ilo.org/stat/Publications/WCMS_647109/lang--en/index.htm" target="_blank"><u>https://www.ilo.org/stat/Publications/WCMS_647109/lang--en/index.htm</u></a> ) </li>
+    <li>Decent Work Indicators Manual: <a href="http://www.ilo.org/wcmsp5/groups/public/---dgreports/---stat/documents/publication/wcms_223121.pdf" target="_blank"><u>http://www.ilo.org/wcmsp5/groups/public/---dgreports/---stat/documents/publication/wcms_223121.pdf</u></a> </li>
+    <li>Resolution concerning statistics of work, employment and labour underutilization, adopted by the 19<sup>th</sup> ICLS in 2013: <a href="http://www.ilo.org/global/statistics-and-databases/standards-and-guidelines/resolutions-adoptedby-international-conferences-of-labour-statisticians/WCMS_230304/lang--en/index.htm" target="_blank"><u>http://www.ilo.org/global/statistics-and-databases/standards-and-guidelines/resolutions-adoptedby-international-conferences-of-labour-statisticians/WCMS_230304/lang--en/index.htm</u></a> </li>
+    <li>International Standard Classification of Education (ISCED) developed by UNESCO: <a href="http://www.uis.unesco.org/Education/Pages/international-standard-classification-of-education.aspx" target="_blank"><u>http://www.uis.unesco.org/Education/Pages/international-standard-classification-of-education.aspx</u></a> </li>
+    <li>What does NEETs mean and why is the concept so easily misinterpreted? (ILO, W4Y, Technical brief n&#xB0;1): <a href="http://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/documents/publication/wcms_343153.pdf" target="_blank"><u>http://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/documents/publication/wcms_343153.pdf</u></a> </li>
+    <li>ILOSTAT (<a href="https://ilostat.ilo.org/" target="_blank"><u>https://ilostat.ilo.org/</u></a>). </li>
+  </ul>
 
   <p>ILOSTAT&#x2019;s Indicator Descriptions &#x2013; Youth NEET rate (<a
-  href="https://ilostat.ilo.org/resources/methods/description-youth-neet/">https://ilostat.ilo.org/resources/methods/description-youth-neet/</a>).
+  href="https://ilostat.ilo.org/resources/methods/description-youth-neet/"
+  target="_blank"><u>https://ilostat.ilo.org/resources/methods/description-youth-neet/</u></a>).
   </p>

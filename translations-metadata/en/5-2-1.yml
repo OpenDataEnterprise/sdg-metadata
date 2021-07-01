@@ -1,0 +1,410 @@
+SDG_INDICATOR_INFO: ''
+SDG_GOAL: '<p>Goal 5: Achieve gender equality and empower all women and girls</p>'
+SDG_TARGET: >-
+  <p>Target 5.2: Eliminate all forms of violence against all women and girls in
+  the public and private spheres, including trafficking and sexual and other
+  types of exploitation</p>
+SDG_INDICATOR: >-
+  <p>Indicator 5.2.1: Proportion of ever-partnered women and girls aged 15 years
+  and older subjected to physical, sexual or psychological violence by a current
+  or former intimate partner in the previous 12 months, by form of violence and
+  by age</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: <p>March 2020</p>
+SDG_RELATED_INDICATORS: >-
+  <p>5.2.2: Proportion of women and girls aged 15 years and older subjected to
+  sexual violence by persons other than an intimate partner in the previous 12
+  months, by age and place of occurrence</p>
+
+  <p>11.7.2: Proportion of persons victim of physical or sexual harassment, by
+  sex, age, disability status and pace of occurrence, in the previous 12
+  months</p>
+
+  <p>16.1.3: Proportion of population subjected to physical, psychological or
+  sexual violence in the previous 12 months</p>
+
+  <p>16.2.3: Proportion of young women and men aged 18-29 years who experienced
+  sexual violence by age 18</p>
+SDG_CUSTODIAN_AGENCIES: >-
+  <p>United Nations Children&apos;s Fund (UNICEF)</p>
+
+  <p>United Nations Entity for Gender Equality and the Empowerment of Women (UN
+  Women)</p>
+
+  <p>United Nations Office on Drugs and Crime (UNODC)</p>
+
+  <p>United Nations Population Fund (UNFPA)</p>
+
+  <p>United Nations Statistics Division (UNSD)</p>
+
+  <p>World Health Organization (WHO)</p>
+CONTACT: ''
+CONTACT_ORGANISATION: >-
+  <p>United Nations Children&apos;s Fund (UNICEF)</p>
+
+  <p>United Nations Entity for Gender Equality and the Empowerment of Women (UN
+  Women)</p>
+
+  <p>United Nations Office on Drugs and Crime (UNODC)</p>
+
+  <p>United Nations Population Fund (UNFPA)</p>
+
+  <p>United Nations Statistics Division (UNSD)</p>
+
+  <p>World Health Organization (WHO)</p>
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  <p><strong>Definition:</strong></p>
+
+  <p>This indicator measures the percentage of ever-partnered women and girls
+  aged 15 years and older who have experienced physical, sexual or psychological
+  violence by a current or former intimate partner, in the previous 12 months.
+  Definition of violence against women and girls and of the forms of violence
+  specified under this indicator are presented in the next section
+  (Concepts).</p>
+
+  <p><u>NOTE: Due to constraints related to feasibility (as noted in the
+  Feasibility section below), this indicator currently globally reports only on
+  the percentage of ever-partnered women and girls aged </u><em><u>15 to
+  49</u></em><u> who have experienced </u><em><u>physical and/or
+  sexual</u></em><u> partner violence.</u></p>
+
+  <p><strong>Concepts:</strong></p>
+
+  <p>According to the UN Declaration on the Elimination of Violence against
+  Women (1993), violence against women is &#x201C;Any act of gender-based
+  violence that results in, or is likely to result in, physical, sexual or
+  psychological harm or suffering to women, including threats of such acts,
+  coercion or arbitrary deprivation of liberty, whether occurring in public or
+  in private life. Violence against women shall be understood to encompass, but
+  not be limited to, the following: Physical, sexual and psychological violence
+  occurring in the family [&#x2026;]&#x201D;. See here for full definition:
+  http://www.un.org/documents/ga/res/48/a48r104.htm </p>
+
+  <p>Intimate partner violence against women includes any abuse perpetrated by a
+  current or former partner within the context of marriage, cohabitation or any
+  other formal or informal union.</p>
+
+  <p>The <u>different forms of violence</u> included in the indicator are
+  defined as follows: </p>
+
+  <p>1. Physical violence consists of acts aimed at physically hurting the
+  victim and include, but are not limited to acts like pushing, grabbing,
+  twisting the arm, pulling hair, slapping, kicking, biting or hitting with a
+  fist or object, trying to strangle or suffocate, burning or scalding on
+  purpose, or threatening or attacking with some sort of weapon, gun or knife.
+  </p>
+
+  <p>2. Sexual violence is defined as any sort of harmful or unwanted sexual
+  behavior that is imposed on someone, whether by use of force, intimidation or
+  coercion. It includes acts of abusive sexual contact, forced engagement in
+  sexual acts, attempted or completed sexual acts without consent, non-contact
+  acts such as being forced to watch or participate in pornography, etc. In
+  intimate partner relationships, sexual violence is commonly defined as: being
+  physically forced to have sexual intercourse, having sexual intercourse out of
+  fear for what the partner might do or through coercion, and/or being forced to
+  so something sexual that the woman considers humiliating or degrading.</p>
+
+  <p>3. Psychological violence consists of any act intended to induce fear or
+  emotional distress caused by a person&#x2019;s behaviour or act. It includes a
+  range of behaviors that encompass acts of emotional abuse such as being
+  frequently humiliated in public, intimidated or having things you care for
+  destroyed, etc. These often coexist with acts of physical and sexual violence
+  by intimate partners. In addition, surveys often measure controlling
+  behaviours (e.g., being kept from seeing family or friends, or from seeking
+  health care without permission). </p>
+
+  <p>For a more detailed definition of physical, sexual and psychological
+  violence against women see <em>Guidelines for Producing Statistics on Violence
+  against Women- Statistical Surveys</em> (UN, 2014) and the <em>International
+  Classification of Crime for Statistical Purposes</em> ICCS (UNODC, 2015).</p>
+UNIT_MEASURE: ''
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  <p>The SDG 5.2.1 Indicator Database comprises namely data from
+  population-based household surveys implementing an internationally
+  standardised methodology. A significant proportion of data are gathered
+  through the inclusion of a Domestic Violence Module in the DHS. In addition,
+  some data come from dedicated surveys on violence against women in countries
+  that have implemented, for example, WHO&#x2019;s violence against women survey
+  methodology. Where available, other dedicated surveys are included if the data
+  are deemed comparable. All sources date from 2005 onwards.</p>
+COLL_METHOD: >-
+  <p>Data are collated by the Inter-Agency Working Group on Violence against
+  Women Data from data published by National Statistics Offices or other
+  relevant national entities. For efficiency, some data are collated using
+  existing data compiling online platforms (e.g., DHS StatCompiler). For a few
+  countries, data are recalculated for harmonization regarding age group (15 to
+  49) and type of intimate partner violence (any form of physical and/or sexual
+  partner violence). </p>
+FREQ_COLL: <p>NA</p>
+REL_CAL_POLICY: <p>NA</p>
+DATA_SOURCE: >-
+  <p>National Statistical Offices (in most cases) or line ministries/other
+  government agencies that have conducted national surveys on violence against
+  women and girls.</p>
+COMPILING_ORG: >-
+  <p>Data are compiled and reviewed by the Interagency Working Group on Violence
+  against Women Data (UN Women, UNICEF, UNSD, WHO, UNFPA, UNODC).</p>
+INST_MANDATE: ''
+OTHER_METHOD: ''
+RATIONALE: >-
+  <p>Intimate partner violence is the most common form of violence that women
+  and girls face globally. Given prevailing social norms that sanction male
+  dominance over women, violence between intimate partners is often perceived as
+  an ordinary/normal element of relationships, particularly in the context of
+  marriage or other unions. Violence against women and girls is an extreme
+  manifestation of gender inequality.</p>
+
+  <p>Prevalence data are required to measure the magnitude of the problem;
+  understand the various forms of violence and their consequences; identify
+  groups at high risk; explore the barriers to seeking help; and ensure that the
+  appropriate responses are being provided. These data are the starting point
+  for informing laws, policies, and developing effective responses and
+  programmes. They also allow countries to monitor change over time and
+  optimally target resources to maximise the effectiveness of interventions
+  (especially in resource-constrained settings).</p>
+REC_USE_LIM: >-
+  <p><u>Comparability:</u></p>
+
+  <p>The availability of comparable data remains a challenge in this area as
+  many data collection efforts have relied on different survey methodologies,
+  used different definitions of partner or spousal violence and of the different
+  forms of violence and different survey question formulations, used diverse age
+  groups, or used different denominators, as well as the quality of interviewer
+  training. Willingness to discuss experiences of violence and understanding of
+  relevant concepts may also differ according to how the survey is implemented,
+  and the cultural context and this can affect reported prevalence levels.</p>
+
+  <p><u>Regularity of data production:</u></p>
+
+  <p>Since 2005, only about 40 countries have conducted more than one survey on
+  violence against women. Obtaining data on violence against women is a costly
+  and time-consuming exercise, whether they are obtained through stand-alone
+  dedicated surveys or through modules in other surveys. Demographic and Health
+  Surveys (DHS) are conducted every 5 years or so and dedicated surveys, if
+  repeated, are conducted usually with less periodicity than this. Monitoring
+  this indicator with certain periodicity may be a challenge if sustained
+  capacities are not built and financial resources are not available.</p>
+
+  <p><u>Feasibility:</u></p>
+
+  <p>This indicator calls for global reporting on three types of intimate
+  partner violence: physical, sexual, and psychological. While there is global
+  consensus on how physical and sexual intimate partner violence are generally
+  defined and measured, psychological partner violence&#x2014;which may be
+  conceptualised differently across cultures and in different contexts&#x2014;is
+  still a Tear III sub-indicator. Since it is not yet feasible to report on
+  psychological partner violence, this indicator currently reports on
+  <em>physical and/or sexual intimate partner violence </em>only. Efforts are
+  underway by custodian agencies to develop a global standard for measuring and
+  reporting on psychological intimate partner violence. This will enable
+  reporting on the three stipulated types of partner violence in the future.
+  </p>
+
+  <p>Similarly, this indicator calls for global reporting of violence
+  experienced by ever-partnered women aged 15 years and above. However, a
+  majority of data come from DHS, which typically sample only women aged 15-49,
+  and there is a lack of consistency in the age range of sample populations
+  across other country surveys. For those surveys that interview a sample of
+  women from a different age group, the prevalence for the 15-49 age group is
+  often published or can be calculated from available data. The global indicator
+  therefore currently reports violence experienced by ever-partnered women and
+  girls 15-49 years of age. Efforts are underway by custodian agencies to
+  address this issue and to better understand and measure partner violence
+  against women aged 50 and above. </p>
+DATA_COMP: >-
+  <p>This indicator calls for breakdown by form of violence and by age group.
+  Countries are encouraged to compute prevalence data for each form of violence
+  as detailed below to assist comparability at the regional and global
+  levels:</p>
+
+  <p><u>1. Physical violence: </u></p>
+
+  <p>Number of ever-partnered women and girls (aged 15 years and above) who
+  experience physical violence by a current or former intimate partner in the
+  previous 12 months divided by the number of ever-partnered women and girls
+  (aged 15 years and above) in the population multiplied by 100 </p>
+
+  <p><u>2. Sexual violence: </u></p>
+
+  <p>Number of ever-partnered women and girls (aged 15 years and above) who
+  experience sexual violence by a current or former intimate partner in the
+  previous 12 months divided by the number of ever-partnered women and girls
+  (aged 15 years and above) in the population multiplied by 100 </p>
+
+  <p><u>3. Psychological violence: </u></p>
+
+  <p>Number of ever-partnered women and girls (aged 15 years and above) who
+  experience psychological violence by a current or former intimate partner in
+  the previous 12 months divided by the number of ever-partnered women and girls
+  (aged 15 years and above) multiplied by 100 </p>
+
+  <p><u>4. Any form of physical and/or sexual violence: </u></p>
+
+  <p>Number of ever-partnered women and girls (aged 15 years and above) who
+  experience physical and/or sexual violence by a current or former intimate
+  partner in the previous 12 months divided by the number of ever-partnered
+  women and girls (aged 15 years and above) multiplied by 100</p>
+
+  <p><u>5. Any form of physical, sexual and/or psychological violence:</u></p>
+
+  <p>Number of ever-partnered women and girls (aged 15 years and above) who
+  experience physical, sexual and/or psychological violence by a current or
+  former intimate partner in the previous 12 months divided by the number of
+  ever-partnered women and girls (aged 15 years and above) multiplied by 100</p>
+
+  <p><u>NOTE: To assist comparability at the regional and global level,
+  countries are encouraged to </u><em><u>additionally</u></em><u> compute the
+  above figures for ever-partnered </u><em><u>women aged 15 to 49</u></em><u>.
+  Regional and global reporting on this indicator currently only includes data
+  computed by countries for #4 above (i.e., </u><em><u>any form of physical
+  and/or sexual partner violence</u></em><u>, and for the 15-49 age group). For
+  further details, see Feasibility section above. </u></p>
+DATA_VALIDATION: ''
+ADJUSTMENT: ''
+IMPUTATION: >-
+  <p>&#x2022; At country level</p>
+
+  <p>When data for a country are entirely missing, no country-level estimate is
+  published. </p>
+
+  <p>&#x2022; At regional and global levels</p>
+
+  <p>No imputations are made in cases where country data are not available.
+  Where regional and global figures are presented, clear notes on data
+  limitations are provided. The number of countries included in the average is
+  clearly indicated. </p>
+REG_AGG: >-
+  <p>Global aggregates are weighted averages of all the countries that make up
+  the world. Regional aggregates are weighted averages of all the countries
+  within the region. Weights used are the population of women and girls aged 15
+  to 49 from the most recent UN population prospects. Where data are not
+  available for all countries in any given region, regional aggregates may still
+  be calculated. The number of countries included in the average is clearly
+  indicated.</p>
+
+  <p>It should be noted that regional and global figures should be interpreted
+  with caution, as they do not necessarily represent with accuracy the region or
+  world as a whole, especially for regions where population coverage is below 50
+  per cent. </p>
+
+  <p>Custodian agencies, in consultation with Member States, are currently in
+  the process of producing up-to-date global, regional and country estimates,
+  enhancing the quality and accuracy of 5.2.1 reporting and addressing the
+  comparability challenges outlined above. New regional and global estimates are
+  expected to become available in mid-2020.</p>
+DOC_METHOD: >-
+  <p>Countries gather data on intimate partner violence through (1) specialized
+  national prevalence surveys dedicated to measuring violence against women, (2)
+  violence against women modules that are added to international/national
+  household surveys, such as the DHS; and (3) victimization surveys</p>
+
+  <p>Although administrative data from health, police, courts, justice and
+  social services, among other services used by survivors of violence, can
+  provide information on violence against women and girls, these do not provide
+  prevalence data, but rather incidence data or service use (i.e., number of
+  cases received in/reported to these services). Many abused women do not report
+  violence and those who do, tend to be the most serious cases. Therefore,
+  administrative data are not recommended to be used as a data source for this
+  indicator. </p>
+
+  <p>For more information on recommended practices in production of violence
+  against women statistics see: <em>UN Guidelines for Producing Statistics on
+  Violence against Women- Statistical Surveys</em> (UN, 2014). </p>
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: >-
+  <p>The Interagency Working Group on Violence against Women Data, which
+  comprises all custodian agencies for this SDG indicator, thoroughly reviews
+  all country data, including its primary source when deemed necessary, to
+  assess quality and comparability based on exclusion/inclusion criteria agreed
+  upon a priori. These criteria refer to, inter-alia, survey population
+  coverage, operational definitions, methodology, and time period. All data
+  points have been discussed and a consensual decision made for every data point
+  included/excluded from the current SDG Indicators Database. </p>
+
+  <p>Starting in 2020, a country consultation and validation process of data
+  compiled by custodian agencies for this indicator will be undertaken,
+  including with identified SDG indicators focal points and other relevant
+  ministries. </p>
+QUALITY_ASSMNT: ''
+COVERAGE: >-
+  <p>Data availability:</p>
+
+  <p>Since 2015, 139 countries had conducted violence against women national
+  prevalence surveys or have included a module on violence against women in a
+  DHS or other national household survey. However, not all these data are
+  comparable and in many cases they are not collected on a regular basis.</p>
+
+  <p>Time series:</p>
+
+  <p>Time series are available for some countries. Global time series with
+  comparable data not yet available. </p>
+
+  <p>Disaggregation:</p>
+
+  <p>In addition to form of violence and age, income/wealth, education,
+  ethnicity (including indigenous status), disability status,
+  marital/partnership status, relationship with the perpetrator (i.e.
+  current/former partner), geographic location and frequency of violence are
+  suggested as desired variables for disaggregation for this indicator. Though
+  disaggregated data by these variables is not yet feasible to report on at
+  regional and global levels, countries are encouraged to report these levels of
+  disaggregation in their national reports; and&#x2014;whenever
+  possible&#x2014;include these data for the age group 15 to 49.</p>
+COMPARABILITY: >-
+  <p>Sources of discrepancies:</p>
+
+  <p>In most cases, only figures published by countries are used. However, in a
+  small number of countries data may be recalculated to enhance comparability.
+  Recalculation is done primarily to reflect the 15 to 49 preponderant age
+  group, or to reflect the aggregate of physical and/or sexual intimate partner
+  violence, for countries where this information is gathered but not published
+  as such. Calculations are done using survey datasets made public by countries
+  or using raw data available in published survey reports.</p>
+OTHER_DOC: >-
+  <p><strong>URL:</strong></p>
+
+  <p>http://evaw-global-database.unwomen.org/en</p>
+
+  <p>data.unicef.org</p>
+
+  <p>http://unstats.un.org/unsd/gender/default.html</p>
+
+  <p><strong>References:</strong></p>
+
+  <p>1. United Nations, 2014. Guidelines for Producing Statistics on Violence
+  against Women- Statistical Surveys. </p>
+
+  <p>2. United Nations, 2015. The World&#x2019;s Women 2015, Trends and
+  Statistics. </p>
+
+  <p>3. World Health Organization, Department of Reproductive Health and
+  Research, London School of Hygiene and Tropical Medicine, South African
+  Medical Research Council, 2013. Global and regional estimates of violence
+  against women: prevalence and health effects of intimate partner violence and
+  non-partner sexual violence. </p>
+
+  <p>4. UN Women. 2016. Global Database on Violence against Women. Available at:
+  <a
+  href="http://evaw-global-database.unwomen.org/en">http://evaw-global-database.unwomen.org/en</a></p>
+
+  <p>5. UNICEF Data portal: <a
+  href="http://data.unicef.org/child-protection/violence.html">http://data.unicef.org/child-protection/violence.html</a></p>
+
+  <p>6. UNSD Portal on the minimum set of gender indicators:
+  https://genderstats.un.org/#/home </p>
+
+  <p>7. UNSD dedicated portal for data and metadata on violence against women:
+  <a
+  href="http://unstats.un.org/unsd/gender/vaw/">http://unstats.un.org/unsd/gender/vaw/</a></p>
+
+  <p>8.UNODC, 2015. International Classification of Crime for Statistical
+  Purposes. </p>

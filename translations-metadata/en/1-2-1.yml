@@ -1,3 +1,4 @@
+SDG_INDICATOR_INFO: ''
 SDG_GOAL: '<p>Goal 1: End poverty in all its forms everywhere</p>'
 SDG_TARGET: >-
   <p>Target: 1.2 By 2030, reduce at least by half the proportion of men, women
@@ -11,6 +12,9 @@ SDG_CUSTODIAN_AGENCIES: |-
   <h1>Institutional information</h1>
   <h2>Organization(s):</h2>
   <p>World Bank</p>
+CONTACT: ''
+ORGANISATION_UNIT: ''
+IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
   <h1>Concepts and definitions</h1>
 
@@ -35,6 +39,7 @@ STAT_CONC_DEF: >-
   typically higher in urban areas than in rural areas. Some countries may have
   separate urban and rural poverty lines to represent different purchasing
   powers.</p>
+SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
   <h1>Data sources</h1>
 
@@ -66,8 +71,7 @@ COLL_METHOD: >-
   World Bank. The data in World Development Indicators (WDI) are updated
   quarterly following the WDI database<sup><a href="#footnote-1"
   id="footnote-ref-1">[1]</a></sup> updating schedule. </p><div
-  class="footnotes"><div><sup class="footnote-number" id="footnote-1">1</sup><p>
-  <a
+  class="footnotes"><div><sup>1</sup><p> <a
   href="http://data.worldbank.org/products/wdi">http://data.worldbank.org/products/wdi</a> 
   <a href="#footnote-ref-1">&#x2191;</a></p></div></div>
 FREQ_COLL: >-
@@ -86,6 +90,7 @@ DATA_SOURCE: |-
 COMPILING_ORG: |-
   <h1>Data compilers</h1>
   <p>World Bank &#x2013; Global Poverty Working Group</p>
+OTHER_METHOD: ''
 RATIONALE: >-
   <h2>Rationale:</h2>
 
@@ -200,10 +205,10 @@ REC_USE_LIM: >-
 
   <p>Lastly, these income/consumption based poverty indicators do not fully
   reflect the other dimensions of poverty such as inequality, vulnerability, and
-  lack of voice and power of the poor.</p><div class="footnotes"><div><sup
-  class="footnote-number" id="footnote-2">2</sup><p> For a discussion on reasons
-  consumption is preferred, check: Deaton, Angus (2003). &#x201C;Household
-  Surveys, Consumption, and the Measurement of Poverty&#x201D;. Economic Systems
+  lack of voice and power of the poor.</p><div
+  class="footnotes"><div><sup>2</sup><p> For a discussion on reasons consumption
+  is preferred, check: Deaton, Angus (2003). &#x201C;Household Surveys,
+  Consumption, and the Measurement of Poverty&#x201D;. Economic Systems
   Research, Vol. 15, No. 2, June 2003 <a
   href="#footnote-ref-2">&#x2191;</a></p></div></div>
 DATA_COMP: >-
@@ -218,14 +223,13 @@ DATA_COMP: >-
   <p><img
   src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANAAAABVCAMAAAAPB5otAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAIiUExURf///9jY2GhoaGVlZfb29vj4+JeXl29vb+Hh4eXl5Y6OjlZWVsXFxf7+/qqqqtPT06WlpYmJiYaGhvr6+np6euLi4r29vbq6utvb22dnZ83NzXl5ea2trcvLy/z8/H5+fo+Pj42Njf39/ZGRkd/f37m5uVhYWK+vr+bm5nx8fOPj43Jyctzc3Orq6tXV1czMzOvr697e3vX19ba2trKysvDw8LOzs93d3e7u7pubm/Pz80tLS6CgoGpqaufn5/v7+1paWmxsbHh4eG5ubvT09IeHh5+fn7y8vOzs7FtbW66urmBgYHBwcM/Pz7S0tIiIiGlpafHx8dfX11RUVHd3d+3t7U5OTkpKSnt7e/f392FhYe/v73V1dZycnFVVVb+/v52dnU9PT01NTaysrPn5+ZOTk8jIyFJSUr6+vqioqKGhoejo6NDQ0NnZ2WNjY319fdbW1mRkZMTExODg4PLy8pmZmVdXV7GxsWtra8fHx4GBgXFxccLCwri4uNra2oKCglxcXFBQUExMTLCwsHZ2dpWVlenp6YqKipSUlNLS0paWlpCQkNHR0crKyqKiosPDw5qamqmpqYyMjJKSkqenp7e3t7u7u11dXaurq4uLi1FRUX9/f6ampuTk5G1tbZiYmMHBwaOjo4ODg4SEhJ6ennR0dMnJyc7OzoWFhbW1taSkpMbGxl9fX2JiYllZWWZmZl5eXoCAgNTU1HNzc8DAwAAAAIN00TUAAAC2dFJOU/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8Aiua9cAAAAAlwSFlzAAAh1QAAIdUBBJy0nQAABQFJREFUeF7tm12SoyAQxz0BV+Gx+xa8UOUbt+AqfQ2uuH+gTRA3iZnVmQnrr6ZiNAZo+hPMTBcXFxcX/yWU0jTFxHr6+bALMhmjZwNgjXOTJz0bABFK1uvJCBg7eehoHBxNEgZyIfY80Ue7UBefrcUFOj1osxhMWn09FI7QyA/Afo44uKPznU0h/Yx5eZ9lcVmqA2Fhuc0RbdFPToCDYCb5hNnM7VZc2nCeNVIg71BmHd+DubVp57nNp2zTfJ5Axk8xsJyQwO8aQg+zaUWQEwVyZrJBzMEulLlrKEee0No0hdMEYmQ6Ds5ZPT+QRkOQYG6Nms+rFyjbWjwlwjYaghuF+XuquFL90owcKCnKgdGHCaufpi7o3egsXNGNdyizYhKeDzM9G0EjQu9GZ1FTHOeOkVt3CoTb359sXruRUnrG4Z3Ezm6XrjlZWPqOO1GkrSd/J3Cj2H9JfLlkvdTzfbDBSuQllIjdrnZNsizhrSEUzDz30Y1KM/xCHtrMntkRYcQb2edBDiGE/fupmN0cuh5s8SvT1OVbxZPLMWsN6ht995j9uTVheji1t7OWnPR8uUNp7hZ4JVdxyG3BjqAI6pyJxKV4+45xMbpibm6ZT+0X6IUFjnuTHWfDMaspMlpyphcLUjuXsd9BGYkxzdniyOakQakdBkXv5N4kTJPqIp5jqJfIa8+rCS7w87HcsbOLvnOhEvbq31NkVaVOU5HPamw1MMhVlRzD2vnZQqY6cDPrJ3t7fkKcRfJqGiH3QSs2NOi1ylqxGhNEB2cRZ/M+pNVgyA4aKe9usEPGzJgH8dhpr5WEv43mNvhUjyK3XdCSRQt1AGrVhXJBsd2mT5Vv0RB7w1kltGifrfOxzJ2CjKHtLRpiox2rx2inLeX6E0hlhnHwErQktwiHjZtEs4JCF23rwr/6EIhOMKxVkEb90sR0LHSmKuDiQ3zree0Db4DFRjnmVODXE/4CLov9Bs6792CRE7EFNyAh1lMFV6V+T5AAbWkD1liuHAAbGEZ+k5vEYuoBZPOo8NqIYLqRss01JFjyUF1wUJ91WKri4UDR1KDQC72GKasRr89uurGEggiBHmuIUvbaJSYVegcqTdWRqlVVP7Dq9w16Id9fv2G297TEkKcAFY2e7yKv2h+XLJzK8JsmNw7UYD2mlEtSwjheloksL/JdDFnLRqPXTlD4yeN5Il+C4d1p2D2rVsihIlBBSsXwFPM89sAVYg5X727Nod553K7EnCabhye9A/XwzeC5DdR/5eXnAd4Jjb9lcS/A8gIV0n2O6DsfO1BAhoMb6+khwHm857T4GKWVdX6lVn8D43Nykcc++z6cM2Cwt4Krc6BV9DueHC2TP3RrLodArAqWQq4r4VC9nWmAeWsuF7Zfrh3+QnnyiDbrGZKSa/FhKXZOoWRmOnRPhsuqxixFZ5o3HNjZhvrYo6+z/gVG9Y3WWPNJKSA7jutsi4l5Iq0WgOfyaAX1sZgzfecnGE1Brt/G+nSG+mFMJh5ZjfwGvrB//Kvh1ROjAUCGPbNCuLgYGxa2bMnyKHGBk43kbLTfuLlwLpqDeJTqh3UNRKMk1+XnMMNoaNKNrHE0tOyYDFPPLTsMAwUFYWOFhvEhiFIS68u9+IuLYxltb04OfQ7143B881Hub4XFGFP/b2QMDbEtwH3K05uhGEND5J33Pv/efRCTu0EmubFqha/8RPri4oOZpj/j7qrHyOjIaQAAAABJRU5ErkJggg=="></p>
 
-  <p>Where <em>I</em> (.) is an indicator function that takes on a value of 1 if
-  the bracketed expression is true, and 0 otherwise. If individual consumption
-  or income <em>y<sub>i</sub> </em>is less than the national poverty line <em>z
-  </em>(for example, in absolute terms the line could be the price of a
-  consumption bundle or in relative terms a percentage of the income
-  distribution), then <em>I</em> (.) is equal to 1 and the individual is counted
-  as poor. <em>N<sub>p</sub></em> is the total, urban or rural number of poor.
-  <em>N</em> is the total, urban or rural population. </p>
+  <p>Where is an indicator function that takes on a value of 1 if the bracketed
+  expression is true, and 0 otherwise. If individual consumption or income is
+  less than the national poverty line (for example, in absolute terms the line
+  could be the price of a consumption bundle or in relative terms a percentage
+  of the income distribution), then is equal to 1 and the individual is counted
+  as poor. is the total, urban or rural number of poor. is the total, urban or
+  rural population. </p>
 
   <p>Consumption or income data are gathered from nationally representative
   household surveys, which contain detailed responses to questions regarding
@@ -248,7 +252,7 @@ IMPUTATION: >-
   <h2>Treatment of missing values:</h2>
 
   <ul>
-    <li><strong><em>At country level:</em></strong></li>
+    <li>At country level:</li>
   </ul>
 
   <p>Missing values in consumption of particular items are counted as zero. This
@@ -257,7 +261,7 @@ IMPUTATION: >-
   expenditure is zero. </p>
 
   <ul>
-    <li><strong><em>At regional and global levels:</em></strong></li>
+    <li>At regional and global levels:</li>
   </ul>
 
   <p>Because national poverty lines are country-specific, there is no
@@ -293,7 +297,7 @@ COMPARABILITY: >-
   national poverty rates cannot be compared across countries or with the
   $1.90-a-day poverty rate.</p>
 OTHER_DOC: >-
-  <h1><u> </u>References</h1>
+  <h1> References</h1>
 
   <h2>URL:</h2>
 

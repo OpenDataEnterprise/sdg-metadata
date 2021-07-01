@@ -1,0 +1,363 @@
+SDG_INDICATOR_INFO: ''
+SDG_GOAL: >-
+  <p>Goal 15: Protect, restore and promote sustainable use of terrestrial
+  ecosystems, sustainably manage forests, combat desertification, and halt and
+  reverse land degradation and halt biodiversity loss </p>
+SDG_TARGET: >-
+  <p>Target 15.8: By 2020, introduce measures to prevent the introduction and
+  significantly reduce the impact of invasive alien species on land and water
+  ecosystems and control or eradicate the priority species </p>
+SDG_INDICATOR: >-
+  <p>Indicator 15.8.1: Proportion of countries adopting relevant national
+  legislation and adequately resourcing the prevention or control of invasive
+  alien species </p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: <p>13 February 2018</p>
+SDG_RELATED_INDICATORS: <p>NA.</p>
+SDG_CUSTODIAN_AGENCIES: |-
+  <p>International Union for Conservation of Nature (IUCN) </p>
+  <h1></h1>
+CONTACT: ''
+CONTACT_ORGANISATION: <p>International Union for Conservation of Nature (IUCN) </p>
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  <p><strong>Definition:</strong></p>
+
+  <p>This indicator aims to quantify trends in: </p>
+
+  <p>Part A: Commitment by countries to relevant multinational agreements,
+  specifically:</p>
+
+  <p>(1) National adoption of invasive alien species-relevant international
+  policy. </p>
+
+  <p>(2) Percentage of countries with </p>
+
+  <p>(a) national strategies for preventing and controlling invasive alien
+  species; and </p>
+
+  <p>(b) national legislation and policy relevant to invasive alien species.</p>
+
+  <p>Part B: The translation of policy arrangements into action by countries to
+  implement policy and actively prevent and control invasive alien species IAS
+  and the resourcing of this action, specifically:</p>
+
+  <p>(3) National allocation of resources towards the prevention or control of
+  invasive alien species.</p>
+
+  <p><strong>Concepts:</strong></p>
+
+  <p>An &#x201C;Alien&#x201D; species is described as one which has been
+  introduced outside its natural distribution range because of intentional or
+  accidental dispersion by human activity. An alien species which has become
+  established in a natural or semi-natural ecosystem or habitat, is an agent of
+  change, and threatens native biological diversity is known as an
+  &#x201C;Invasive alien species&#x201D; (Convention on Biological Diversity
+  2016).</p>
+
+  <p>The introduction of an alien species can be intentional or unintentional
+  /accidental. Alien species have been introduced intentionally for forestry,
+  ornamental purposes, for aquaculture/mariculture, hunting, fisheries etc.
+  Examples of unintentional or accidental introductions include: alien species
+  that have escaped from gardens, aquaculture containment facilities, forestry,
+  horticulture; pets and aquarium species that are released in the wild;
+  transport contaminants and stowaways including in ballast water or as hull
+  fouling organisms, and seeds carried in soil, equipment, vehicles etc.</p>
+
+  <p>Mechanisms of impact of invasive species include competition, predation,
+  hybridisation, and disease transmission, parasitism, herbivory and trampling
+  and rooting. The outcomes of these impacts lead to biodiversity loss, habitat
+  degradation, and loss of ecosystem services.</p>
+
+  <p><strong>Comments and limitations:</strong></p>
+
+  <p>The adoption of legislation does not necessarily indicate the existence of
+  regulations or policy to implement the legislation or how successful such
+  implementation has been on the ground. There remains a need for further
+  indicator development to make this link clearer. Legislation does not
+  necessarily capture all efforts against invasive alien species that are
+  happening at the national level.</p>
+
+  <p>Allocation of resources to facilitate the implementation of IAS management
+  action is difficult to measure, particularly in a way that is comparable
+  across countries. Proxies used to measure allocation of resources included-
+  allocation of a budget line to invasive species management activities
+  (including prevention, rapid response and active management); appointed staff
+  to carry out any IAS related activities; active programmes/ projects etc.</p>
+UNIT_MEASURE: ''
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  <p><strong>Data sources and data collection:</strong></p>
+
+  <p>Four datasets were updated/developed for the measurement of this
+  indicator.</p>
+
+  <p>Part A (1) Countries&#x2019; commitments to global conventions/
+  international agreements relevant to invasive alien species (used for
+  &#x201C;National adoption of invasive alien species-relevant international
+  policy&#x201D;).</p>
+
+  <p>Information sources comprised membership information from the Conventions
+  and the United Nations Information Portal on Multilateral Environmental
+  Agreements (InforMEA; <a
+  href="https://www.informea.org/en"><u>https://www.informea.org/en</u></a>).
+  196 countries were included. The data format is a spreadsheet of countries vs
+  MEAs, with year of membership in each cell.</p>
+
+  <p>Part A (2)(a) National Biodiversity Strategy and Action Plan (NBSAP)
+  targets alignment to Aichi Biodiversity target 9 set out in the Strategic Plan
+  of Biodiversity Conservation 2011-2020 and status of implementation of targets
+  as described in the 5th National reports (used for &#x201C;National strategies
+  for preventing and controlling invasive alien species&#x201D;).</p>
+
+  <p>The information source was the CBD website, which features country profiles
+  (<a
+  href="https://www.cbd.int/countries"><u>https://www.cbd.int/countries</u></a>/
+  ). 196 countries were included. The data format is a spreadsheet of countries
+  vs inclusion of IAS in NBSAP, and Aichi Target 9 alignment.</p>
+
+  <p>Part A (2)(b) National Legislation considered relevant to the prevention of
+  introduction of invasive alien species and control (used for &#x201C;National
+  strategies for preventing and controlling invasive alien species&#x201D;). The
+  data format is a spreadsheet of countries vs inclusion of invasive alien
+  species in legislation, with year of legislation in each cell. Key information
+  sources included ECOLEX (<a
+  href="https://www.ecolex.org/"><u>https://www.ecolex.org/</u></a>), FAOLEX (<a
+  href="http://www.fao.org/faolex/en/"><u>http://www.fao.org/faolex/en/</u></a>)
+  and national government websites with information on Legislation. Country
+  experts were also contacted for clarifications.</p>
+
+  <p>Part B (3) Results of online survey, disseminated to all CBD national focal
+  points, on Policy responses, mandate, legal authority and resourcing to manage
+  the threat of invasive alien species (used for &#x201C;National legislation
+  and policy relevant to invasive alien species&#x201D; and &#x201C;National
+  allocation of resources towards the prevention or control of invasive alien
+  species&#x201D;). 79 countries were included. The data format is a spreadsheet
+  of countries vs each of nine IAS management related themes, for both mandate
+  and legal authority; and with an additional dataset indicating funding
+  received from global funding mechanisms for invasive alien species related
+  projects.</p>
+COLL_METHOD: ''
+FREQ_COLL: >-
+  <p>National agencies producing relevant data include government,
+  non-governmental organizations (NGOs), and academic institutions working
+  jointly and separately. Data are gathered from published and unpublished
+  sources, species experts, scientists, and conservationists through
+  correspondence, workshops, and electronic fora. This indicator was first
+  calculated in 2010 and includes the current 2017 update. Plans include an
+  annual update and make it available for global, regional and national use.</p>
+REL_CAL_POLICY: <p>The next release is planned during May- June 2018.</p>
+DATA_SOURCE: >-
+  <p>Data were collected through survey of relevant national agencies,
+  specifically National Focal Points to the Convention on Biological Diversity
+  (<a
+  href="https://www.cbd.int/information/nfp.shtml"><u>https://www.cbd.int/information/nfp.shtml</u></a>).
+  These are primarily national Ministries of Environment or similar
+  agencies.</p>
+COMPILING_ORG: >-
+  <p>International Union for Conservation of Nature (IUCN) Species Survival
+  Commission (SSC) Invasive Species Specialist Group (ISSG)</p>
+INST_MANDATE: ''
+OTHER_METHOD: ''
+RATIONALE: >-
+  <p>Aichi Biodiversity Target 9 states &#x201C;<em>By 2020, invasive alien
+  species and pathways are identified and prioritized, priority species are
+  controlled or eradicated, and measures are in place to manage pathways to
+  prevent their introduction and establishment</em>&#x201D;.</p>
+
+  <p>Under Part A, sub-indicator (1), the larger the number of invasive alien
+  species -relevant international policies, the greater the level of global
+  commitment to controlling invasive alien species. The more international
+  agreements a country is party to, the more strongly committed the country is
+  to control invasive alien species. </p>
+
+  <p>Under Part A, sub-indicator (2)(a), effective national policy and
+  legislation underpins effective national strategies and action for preventing
+  and controlling invasive alien species. </p>
+
+  <p>Measurement of Part A, sub-indicators (1) and (2)(a) was first undertaken
+  in 2010, and published in Butchart et al. (2010), CBD (2014), McGeoch et al.
+  (2010), and Tittensor et al. (2014). Sub-indicator (2) indicators have now
+  also been added to include (b) national commitment (mandate and legal
+  authority) to key invasive alien species related themes. </p>
+
+  <p>Under Part B, the indicator now also addresses (3) resourcing by national
+  governments for the prevention and control of invasive alien species, as
+  identified by the Sustainable Development Goals indicator 15.8.1
+  (&#x201C;Proportion of countries adopting relevant national legislation and
+  adequately resourcing the prevention or control of invasive alien
+  species&#x201D;). Adequate resourcing is vital to ensure implementation and
+  effective delivery of targets set.</p>
+REC_USE_LIM: ''
+DATA_COMP: >-
+  <p>This indicator is calculated from data derived from four annually updated
+  datasets.</p>
+
+  <p>Part A (1) Countries&#x2019; commitments to global conventions/
+  international agreements relevant to invasive alien species. </p>
+
+  <p>Ten Multinational Environmental Agreements (MEAs) were used to quantify the
+  trend of countries commitment to global conventions that were relevant to
+  invasive alien species issues. The year of Accession and Ratification were
+  noted. The ten MEAs are:</p>
+
+  <ul>
+    <li>Convention on Biological Diversity (CBD)</li>
+    <li>OIE- World Organization for Animal Health</li>
+    <li>The <em>Convention on International Trade in Endangered Species</em> of Wild Fauna and Flora (<em>CITES</em>) </li>
+    <li>International Plant Protection Convention (<em>IPPC</em>)</li>
+    <li>The <em>Ramsar</em> Convention on Wetlands of International Importance</li>
+    <li>The Convention on Migratory <em>Species of Wild Animals</em></li>
+    <li>The <em>Cartagena Protocol</em> on Biosafety</li>
+    <li>The International Convention for the Control and Management of Ships&apos; Ballast Water and Sediments (BWM) </li>
+    <li>WTO Sanitary and Phytosanitary or <em>SPS</em> measure</li>
+    <li>World Heritage Convention (WHC)</li>
+  </ul>
+
+  <p>Part A (2)(a) National Legislation considered relevant to the prevention of
+  introduction of invasive alien species and control. </p>
+
+  <p>Any National Legislation, Act or regulation that had any relevance to alien
+  and invasive alien species was recorded including annotations of relevant text
+  of the Legislation, key words, and date of enactment. 196 countries were
+  included. Legislation was considered relevant if it applied to alien and
+  invasive alien species rather than solely on weeds, pests and diseases of
+  agriculture. If more than one relevant piece of Legislation was enacted the
+  date of the most recent one was recorded.</p>
+
+  <p>Part A (2)(b) National Biodiversity Strategy and Action Plan (NBSAP)
+  targets alignment to Aichi Biodiversity target 9 set out in the Strategic Plan
+  for Biodiversity 2011-2020.</p>
+
+  <p>Aichi Biodiversity Target 9 is focused on invasive alien species, it states
+  that &#x201C;By 2020, invasive alien species and pathways are identified and
+  prioritized, priority species are controlled or eradicated, and measures are
+  in place to manage pathways to prevent their introduction and
+  establishment&#x201D;. The Aichi Targets are timebound and measurable. The CBD
+  encourages all its member states to revise their NBSAPS and integrate the
+  Aichi Targets into their strategies. The NBSAP of all CBD member were studied
+  and numbers of countries that had integrated the Aichi Biodiversity Target 9
+  into their NBSAP targets was noted </p>
+
+  <p>Part B (3) Results of online survey on Policy responses, mandate, legal
+  authority and resourcing to manage the threat of invasive alien species.</p>
+
+  <p>An online survey was developed and submitted to all CBD nodes and focal
+  points to obtain an insight into the allocation of resources to the management
+  of invasive alien species. Experts from 79 of the 196 countries completed the
+  survey. Considering the difficulty in obtaining information on the level of
+  national investment on invasive alien species issues, proxy indicators were
+  used to measure the allocation of resources by individual countries, such as
+  &#x201C;does the country have a dedicated and staffed program for invasive
+  alien species management&#x201D;, &#x201C;has the country applied for and
+  obtained any funding from global funding mechanisms such as the GEF for
+  projects related to alien and invasive alien species&#x201D;, etc. </p>
+
+  <p>Part A and Part B Indicators were calculated as follows:</p>
+
+  <p>Part A Indicator: Commitment by countries to relevant multinational
+  agreements, and National strategies for preventing and controlling invasive
+  alien species, underpinned by national policy and legislation for effective
+  management of biological invasions. </p>
+
+  <p>The components of this sub-indicator are calculated as, (1) the number of
+  countries demonstrating adoption of invasive alien species-relevant
+  international policy divided by the total number of countries (196 to date)
+  for which data are available; (2) the number of countries with (a) national
+  legislation and policy relevant to Invasive alien species concerns; and (b)
+  national strategies for preventing and controlling invasive alien species,
+  each divided by the total number of countries (196 to date) for which data are
+  available. The first data point for components (1) and (2)(a) of this
+  sub-indicator is 2010; the first data point for component (2)(b) is 2017.</p>
+
+  <p>Part B Indicator: (3) The translation of policy arrangements into action by
+  countries to implement policy and actively prevent and control invasive alien
+  species and the resourcing of this action.</p>
+
+  <p>This sub-indicator is calculated as the number of national respondents to
+  the annual survey on invasive alien species response financing reporting
+  availability of sufficient resources, divided by the total number of countries
+  (79 to date) for which data are available. The first data point for this
+  sub-indicator is 2017.</p>
+DATA_VALIDATION: ''
+ADJUSTMENT: ''
+IMPUTATION: >-
+  <ul>
+    <li>At country level</li>
+  </ul>
+
+  <p>Countries for which no data are available are omitted from the
+  indicator.</p>
+
+  <ul>
+    <li>At regional and global levels</li>
+  </ul>
+
+  <p>NA.</p>
+REG_AGG: >-
+  <p>The indicator is calculated as the simple proportion of countries (for
+  which data are available) that have a given invasive alien species response
+  (treaties, strategy, legislation, financing) in place.</p>
+DOC_METHOD: |-
+  <ul>
+    <li>NA.</li>
+  </ul>
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: |-
+  <ul>
+    <li>NA.</li>
+  </ul>
+QUALITY_ASSMNT: ''
+COVERAGE: >-
+  <p>Data availability:</p>
+
+  <p>On an average data is available for over 90% of the 196 parties to the CBD
+  that are considered for the distinct aspects considered in the development and
+  measurement of this indicator.</p>
+
+  <p>Time series:</p>
+
+  <p>Disaggregation:</p>
+
+  <p>All datasets developed for the measurement of this indicator used the
+  country name as the qualifier. Datasets can be aggregated regionally if
+  desired.</p>
+COMPARABILITY: >-
+  <p>Sources of discrepancies:</p>
+
+  <p>All data sources are national, and so there are no differences between
+  global and national figures.</p>
+OTHER_DOC: >-
+  <p>These metadata are based on <a
+  href="http://www.bipindicators.net/iaslegislationadoption"><u>http://www.bipindicators.net/iaslegislationadoption</u></a>,
+  supplemented by the references listed below.</p>
+
+  <p>BUTCHART, S. H. M. et al. (2010). Global biodiversity: indicators of recent
+  declines. Science 328: 1164&#x2013;1168. Available from <a
+  href="http://www.sciencemag.org/content/328/5982/1164.short"><u>http://www.sciencemag.org/content/328/5982/1164.short</u></a>.
+  </p>
+
+  <p>CBD (2014). Global Biodiversity Outlook 4. Convention on Biological
+  Diversity, Montr&#xE9;al, Canada. Available from <a
+  href="https://www.cbd.int/gbo4/"><u>https://www.cbd.int/gbo4/</u></a>. </p>
+
+  <p>CBD (2016). Glossary of Terms. Convention on Biological Diversity,
+  Montr&#xE9;al, Canada. Available from <a
+  href="https://www.cbd.int/invasive/terms.shtml"><u>https://www.cbd.int/invasive/terms.shtml</u></a>.
+  </p>
+
+  <p>MCGEOCH, M.A., et al. (2010). Global indicators of alien species invasion:
+  threats, biodiversity impacts and responses. Diversity and Distributions 16:
+  95-108.</p>
+
+  <p>TITTENSOR, D. et al. (2014). A mid-term analysis of progress towards
+  international biodiversity targets. Science 346: 241&#x2013;244. Available
+  from <a
+  href="http://www.sciencemag.org/content/346/6206/241.short"><u>http://www.sciencemag.org/content/346/6206/241.short</u></a></p>

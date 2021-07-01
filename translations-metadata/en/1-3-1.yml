@@ -1,0 +1,267 @@
+SDG_INDICATOR_INFO: ''
+SDG_GOAL: <p>Goal 1. End poverty in all its forms everywhere</p>
+SDG_TARGET: >-
+  <p>Target 1.3: Implement nationally appropriate social protection systems and
+  measures for all, including floors, and by 2030 achieve substantial coverage
+  of the poor and the vulnerable.</p>
+SDG_INDICATOR: >-
+  <p>Indicator 1.3.1: Percentage of the population covered by social protection
+  floors/systems disaggregated by sex, and distinguishing children, unemployed,
+  old age, people with disabilities, pregnant women/new-borns, work injury
+  victims, poor and vulnerable</p>
+SDG_SERIES_DESCR: |-
+  <ol>
+    <li>Proportion of population covered by at least one social protection cash benefit</li>
+    <li>Proportion of children covered by social protection benefits</li>
+    <li>Proportion of women giving birth covered by maternity benefits</li>
+    <li>Proportion of persons with disabilities receiving benefits</li>
+    <li>Proportion of unemployed receiving benefits</li>
+    <li>Proportion of workers covered in case of employment injury</li>
+    <li>Proportion of older persons receiving a pension</li>
+    <li>Proportion of vulnerable persons receiving benefits</li>
+    <li>Proportion of poor population receiving social assistance cash benefit</li>
+  </ol>
+META_LAST_UPDATE: <p>January 2021</p>
+SDG_RELATED_INDICATORS: <p>3.8.1; 3.8.2; 1.a.2</p>
+SDG_CUSTODIAN_AGENCIES: <p>International Labour Organization (ILO)</p>
+CONTACT: ''
+CONTACT_ORGANISATION: <p>International Labour Organization (ILO)</p>
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  <h2>Definition:</h2>
+
+  <h2>The indicator reflects the proportion of persons effectively covered by a
+  social protection system, including social protection floors. It also reflects
+  the main components of social protection: child and maternity benefits,
+  support for persons without a job, persons with disabilities, victims of work
+  injuries and older persons. </h2>
+
+  <h2>Effective coverage of social protection is measured by the number of
+  people who are either actively contributing to a social insurance scheme or
+  receiving benefits (contributory or non-contributory).</h2>
+
+  <h2><br>Concepts: </h2>
+
+  <p>Social protection systems include contributory and non-contributory schemes
+  for children, pregnant women with newborns, people in active age, older
+  persons, for victims of work injuries and persons with disabilities. Social
+  protection floors provide at least a basic level in all main contingencies
+  along the life cycle, as defined in the Social Protection Floors
+  Recommendation 2012 (no. 202) referred to in SDG 1.3. </p>
+
+  <p>When assessing coverage and gaps in coverage, distinctions need to be made
+  between coverage by (1) contributory social insurance, (2) universal schemes
+  covering all residents (or all residents in a given category), and (3)
+  means-tested schemes potentially covering all those who pass the required test
+  of income and/or assets.</p>
+UNIT_MEASURE: '<p>Proportion of a population group, %.</p>'
+CLASS_SYSTEM: >-
+  <p>Social protection functions specified under: Convention 102 Social Security
+  (Minimum Standards) Convention, 1952, and Resolution concerning the
+  development of social security statistics, adopted by the Ninth International
+  Conference of Labour Statisticians.</p>
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  <p>The main data source is the <strong>Social Security Inquiry (online
+  questionnaire </strong><a
+  href="https://qpss.ilo.org/"><strong>https://qpss.ilo.org/</strong></a><strong>)</strong>,
+  the ILO&#x2019;s periodic collection of administrative data from national
+  ministries of labour, social security, welfare, finance, and others.</p>
+
+  <p>Since 1950, the ILO&#x2019;s Social Security Inquiry has been the main
+  global source of administrative data on social protection. Secondary data
+  sources include existing global databases of social protection statistics,
+  including those of the World Bank, UNICEF, UNWOMEN, HELPAGE, OECD and the
+  International Social Security Association. </p>
+
+  <p>This forms the <strong>World Social Protection Database</strong>. It
+  provides a unique source of information and serves as the basis for the ILO
+  flagship World Social Protection Report, which periodically presents
+  development trends of social protection systems, including floors, providing
+  data for a wide range of countries (214 countries and territories). </p>
+COLL_METHOD: >-
+  <h2>Obtaining internationally comparable data for global monitoring</h2>
+
+  <p>Data is collected using the SSI questionnaires, which are filled in direct
+  collaboration with government agencies - Ministries of labour, ministries of
+  finance, social protection institutions and others. The collected data
+  collected is revised by the Social Protection Department in order to identify
+  internal inconsistencies between data and indicators, and detect major
+  differences regarding indicators calculated in previous years. When
+  significant discrepancies are detected, the questionnaires are sent back to
+  the countries, including detailed comments, for further revision and
+  adjustments. In many cases direct contact with national counterparts are
+  required, as SSI application lies on a strong coordination with our
+  governmental counterparts. </p>
+FREQ_COLL: <p>April 2021</p>
+REL_CAL_POLICY: <p>December 2021</p>
+DATA_SOURCE: >-
+  <p>National data is provided by national Ministries of Labour, Welfare,
+  Finance, National Statistical Institutions and others, as well as by social
+  security and social protection institutions.</p>
+COMPILING_ORG: <p>International Labour Organization (ILO).</p>
+INST_MANDATE: >-
+  <p>Data compilation on the functioning of social security/social protection
+  systems and monitoring progress are the responsibilities undertaken by the ILO
+  in view of its mandate to assess the compliance with international standards
+  in this field, in particular the conventions and recommendations on social
+  security adopted by the member States of the ILO. </p>
+OTHER_METHOD: ''
+RATIONALE: >-
+  <h2>Rationale and interpretation:</h2>
+
+  <p>Access to at least a basic level of social protection throughout the life
+  cycle is a human right. The principle of universality of social protection
+  evidences the importance of social protection systems in guaranteeing decent
+  living conditions to the whole population, throughout their lives. The
+  proportion of the population covered by social protection systems/floors
+  provides an indication of the extent to which universality is accomplished,
+  and thus, how secure are the population&apos;s living conditions.</p>
+
+  <p>Measurements of <strong>effective coverage</strong> should reflect how in
+  reality legal provisions are implemented. </p>
+
+  <p>It refers to the percentage of people actually receiving benefits of
+  contributory and non-contributory social protection programmes, plus the
+  number of persons actively contributing to social insurance schemes.</p>
+REC_USE_LIM: >-
+  <p>Data is collected through an administrative survey ongoing for decades, the
+  ILO Social Security Inquiry. Whenever countries provide data, the indicator is
+  disaggregated by sex. Indicators disaggregated by country and region are also
+  available.</p>
+DATA_COMP: >-
+  <p>Calculations include separate indicators in order to distinguish effective
+  coverage for children, unemployed persons, older persons and persons with
+  disabilities, mothers with newborns, workers protected in case of work injury,
+  and the poor and the vulnerable. For each case, coverage expressed as a share
+  of the respective population.</p>
+
+  <p>Indicators are obtained as follows:</p>
+
+  <ol>
+    <li>Proportion of population covered by at least one social protection cash benefit: ratio of the population receiving cash benefits under at least one of the contingencies/social protection function (contributory or non-contributory benefit) or actively contributing to at least one social security scheme to the total population.</li>
+    <li>Proportion of children covered by social protection benefits: ratio of children/households receiving child or family cash benefits to the total number of children/households with children.</li>
+    <li>Proportion of women giving birth covered by maternity benefits: ratio of women receiving cash maternity benefits to women giving birth in the same year (estimated based on age-specific fertility rates published in the UN&#x2019;s World Population Prospects or on the number of live births corrected for the share of twin and triplet births).</li>
+    <li>Proportion of persons with disabilities receiving benefits: ratio of persons receiving disability cash benefits to persons with severe disabilities. The latter is calculated as the product of prevalence of disability ratios (published for each country group by the World Health Organization) and each country&#x2019;s population.</li>
+    <li>Proportion of unemployed receiving benefits: ratio of recipients of unemployment cash benefits to the number of unemployed persons.</li>
+    <li>Proportion of workers covered in case of employment injury: ratio of workers protected by injury insurance to total employment or the labour force. </li>
+    <li>Proportion of older persons receiving a pension: ratio of persons above statutory retirement age receiving an old-age pension to persons above statutory retirement age (including contributory and non-contributory).</li>
+    <li>Proportion of vulnerable persons receiving benefits: ratio of social assistance recipients to the total number of vulnerable persons. The latter are calculated by subtracting from total population all people of working age who are contributing to a social insurance scheme or receiving contributory benefits, and all persons above retirement age receiving contributory benefits.</li>
+    <li>Proportion of poor population receiving social assistance cash benefit: ratio of social assistance recipients to the population living below the national poverty line.</li>
+  </ol>
+DATA_VALIDATION: >-
+  <p>Valdiation is organized through the ILO regional and country offices with
+  the Ministry of Labour or another institution that serves as a focal point in
+  the country.</p>
+ADJUSTMENT: <p>Not applicable.</p>
+IMPUTATION: >-
+  <p>&#x2022; At country level</p>
+
+  <p>Indicators for countries with missing values are not part of the
+  reporting.</p>
+
+  <p>&#x2022; At regional and global levels</p>
+
+  <p>For SDG regions with insufficient country coverage, imputations are
+  used.</p>
+REG_AGG: >-
+  <p>Global and regional indicators are weighted averages of national indicators
+  with weights equal to the denominators indicated in section 3.3, a-g. Global
+  and regional estimates are based on econometric models designed to impute
+  missing data in countries for which nationally-reported data are unavailable.
+  The output of the models is a complete set of single-year estimates for seven
+  social protection indicators for 169 countries. The country-level data
+  (reported and imputed) are then aggregated to produce global and regional
+  estimates of the social protection indicators.</p>
+DOC_METHOD: >-
+  <p>The ILO&#x2019;s Social Security Inquiry is used at the national level to
+  compile the data. All the relevant information (questionnaire, technical
+  guide, etc) can be obtained here: <a
+  href="https://www.social-protection.org/gimi/WSPDB.action?id=41">https://www.social-protection.org/gimi/WSPDB.action?id=41</a>
+  </p>
+QUALITY_MGMNT: >-
+  <p>The processes of compilation, analysis and publication of social protection
+  data, including its quality control, are carried out following the
+  methodological framework and standards established by the ILO Department of
+  Statistics, in compliance with the information technology and management
+  standards of the ILO.</p>
+QUALITY_ASSURE: >-
+  <p>The compilation of social protection data is based on the ongoing
+  implementation of SSI at the country level. The cycle of application and
+  processing of data, information and indicators from the SSI is carried out in
+  close coordination with the government offices of the countries concerned,
+  with technical supervision by ILO specialists in the field offices. The
+  information collected at the country level through the SSI is complemented
+  with information from other national sources in order to calculate a set of
+  variables and indicators that make up the World Social Protection Database.
+  Quality control practices include consultations with the government agencies
+  providing the information, comparisons with the values of the variables and
+  indicators obtained in previous years, and application of a set of calculation
+  and verification algorithms. </p>
+QUALITY_ASSMNT: >-
+  <p>The final assessment of the quality of social protection information is
+  carried out by the Public Finance, Actuarial and Statistics Unit of the
+  ILO&apos;s Social Protection Department. This process follows the standard
+  quality criteria established by the ILO Department of Statistics. In case of
+  doubts about the quality of specific data, these values are reviewed with the
+  participation of the national agencies responsible for producing social
+  protection data. If the issues cannot be clarified, the respective information
+  is not published. </p>
+COVERAGE: >-
+  <p>Data availability:</p>
+
+  <p>The Social Security Inquiry/World Social Protection Database includes data
+  on 214 countries and territories. As of March 2017, ILO is processing the
+  Social Security Inquiry data for approximately 70 countries per year. </p>
+
+  <p>An updated pre-filled version of the questionnaire is sent to the countries
+  in April-May. </p>
+
+  <p>Time series: From 2015 (for some series from 2000)</p>
+
+  <p>Disaggregation:</p>
+
+  <p>Whenever data is available, the indicator is disaggregated by sex and age
+  groups.</p>
+COMPARABILITY: >-
+  <p>Sources of discrepancies:</p>
+
+  <h2>Sources of differences between global and national figures</h2>
+
+  <p>Estimations are based on administrative data produced by countries
+  (SSI).</p>
+OTHER_DOC: >-
+  <p>URLs: </p>
+
+  <p><u>ILOSTAT</u></p>
+
+  <p><u>https://ilostat.ilo.org/World Social Protection Data Dashboards</u></p>
+
+  <p><u>https://www.social-protection.org/gimi/WSPDB.action?id=32</u></p>
+
+  <p>Social Security Inquiry (questionnaire):</p>
+
+  <p><a
+  href="https://qpss.ilo.org/"><strong>https://qpss.ilo.org/</strong></a></p>
+
+  <p>Social Security Inquiry. Manual 2018:</p>
+
+  <p><a
+  href="http://www.social-protection.org/gimi/gess/RessourcePDF.action?ressource.ressourceId=53711"><u>http://www.social-protection.org/gimi/gess/RessourcePDF.action?ressource.ressourceId=53711</u></a></p>
+
+  <p>ILO Social Protection Floors Recommendation (n&#xB0;202), 2012</p>
+
+  <p><a
+  href="http://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_INSTRUMENT_ID,P12100_LANG_CODE:3065524"><u>http://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_INSTRUMENT_ID,P12100_LANG_CODE:3065524</u></a></p>
+
+  <p>World Social Protection Report 2017/2019:</p>
+
+  <p><a
+  href="http://www.ilo.org/global/publications/books/WCMS_604882/lang--en/index.htm"><u>http://www.ilo.org/global/publications/books/WCMS_604882/lang--en/index.htm</u></a>
+  </p>

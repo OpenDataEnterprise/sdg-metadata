@@ -1,3 +1,4 @@
+SDG_INDICATOR_INFO: ''
 SDG_GOAL: >-
   <p>Goal 8: Promote sustained, inclusive and sustainable economic growth, full
   and productive employment and decent work for all</p>
@@ -17,6 +18,9 @@ SDG_CUSTODIAN_AGENCIES: |-
   <h1>Institutional information</h1>
   <h2><strong><strong>Organization(s):</strong></strong></h2>
   <p>World Bank (WB)</p>
+CONTACT: ''
+ORGANISATION_UNIT: ''
+IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
   <h1>Concepts and definitions</h1>
 
@@ -43,6 +47,7 @@ STAT_CONC_DEF: >-
   send or receive money. In addition, it includes respondents who report
   receiving wages, government transfers, or payments for agricultural products
   through a mobile phone in the past 12 months.</p>
+SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
   <h1>Data sources</h1>
 
@@ -77,6 +82,7 @@ DATA_SOURCE: |-
 COMPILING_ORG: |-
   <h1>Data compilers</h1>
   <p>World Bank</p>
+OTHER_METHOD: ''
 RATIONALE: >-
   <h2><strong><strong>Rationale:</strong></strong></h2>
 
@@ -146,7 +152,7 @@ COMPARABILITY: >-
   level may measure the access to finance through another member of the
   household which may overestimate financial inclusion.</p>
 OTHER_DOC: >-
-  <h1><u> </u>References</h1>
+  <h1> References</h1>
 
   <h2><strong><strong>URL:</strong></strong></h2>
 

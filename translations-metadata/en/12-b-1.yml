@@ -1,3 +1,4 @@
+SDG_INDICATOR_INFO: ''
 SDG_GOAL: '<p>Goal 12: Ensure sustainable consumption and production patterns</p>'
 SDG_TARGET: >-
   <p>Target: 12.b Develop and implement tools to monitor sustainable development
@@ -6,27 +7,27 @@ SDG_TARGET: >-
 SDG_INDICATOR: >-
   <p>Indicator: 12.b.1 Implementation of standard accounting tools to monitor
   the economic and environmental aspects of tourism sustainability</p>
-META_LAST_UPDATE: '<p>Last updated: 03 June 2020</p>'
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: <p>25 March 2021</p>
 SDG_RELATED_INDICATORS: >-
-  <h1>Related indicators</h1>
-
   <p>8.9.1 Tourism Direct GDP (indicator derived from the TSA).</p>
 
-  <p>15.9.1 Progress towards national targets established in accordance
-  with&#xA0;<a href="https://www.cbd.int/sp/targets/rationale/target-2/">Aichi
-  Biodiversity Target 2</a>&#xA0;of the Strategic Plan for Biodiversity
-  2011-2020</p>
-SDG_CUSTODIAN_AGENCIES: |-
-  <h1>Institutional information</h1>
-  <h2>Organization(s):</h2>
-  <p>World Tourism Organization (UNWTO)</p>
+  <p>15.9.1 Progress towards national targets established in accordance with <a
+  href="https://www.cbd.int/sp/targets/rationale/target-2/">Aichi Biodiversity
+  Target 2</a> of the Strategic Plan for Biodiversity 2011-2020</p>
+SDG_CUSTODIAN_AGENCIES: <p>World Tourism Organization (UNWTO)</p>
+CONTACT: ''
+CONTACT_ORGANISATION: <p>World Tourism Organization (UNWTO)</p>
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <h1>Concepts and definitions</h1>
-
-  <h2>Definition:</h2>
-
-  <p>The indicator &#x201C;Implementation of standard accounting tools to
-  monitor the economic and environmental aspects of tourism
+  <p>Definitions: The indicator &#x201C;Implementation of standard accounting
+  tools to monitor the economic and environmental aspects of tourism
   sustainability&#x201D; relates to the degree of implementation in countries of
   the Tourism Satellite Account (TSA) and the System of Environmental and
   Economic Accounts (SEEA) tables that are to date considered most relevant and
@@ -53,10 +54,8 @@ STAT_CONC_DEF: >-
   href="https://seea.un.org/content/seea-central-framework"><em>System of
   Economic-Environmental Accounting 2012</em></a>.</p>
 
-  <h2>Concepts:</h2>
-
-  <p>The concepts and template presentation tables related to Tourism Satellite
-  Accounts can be found in the <a
+  <p>Concepts: The concepts and template presentation tables related to Tourism
+  Satellite Accounts can be found in the <a
   href="http://unstats.un.org/unsd/tradeserv/tourism/manual.html"
   target="_blank"><em>Tourism Satellite Account: Recommended Methodological
   Framework 2008</em></a> (TSA: RMF 2008) which provides the common conceptual
@@ -77,47 +76,43 @@ STAT_CONC_DEF: >-
   to produce internationally comparable statistics. The UN Statistical
   Commission adopted the SEEA Central Framework at its 43<sup>rd</sup> session
   (28 February &#x2013; 2 March 2012). </p>
+UNIT_MEASURE: <p>Number of Tables / Accounts compiled</p>
+CLASS_SYSTEM: >-
+  <p>Tourism Satellite Account tables and related information can be found here:
+  <a
+  href="https://unstats.un.org/unsd/publication/seriesf/seriesf_80rev1e.pdf">https://unstats.un.org/unsd/publication/seriesf/seriesf_80rev1e.pdf</a></p>
+
+  <p>Information on water use, energy use, air emissions and solid waste SEEA
+  accounts can be found here: https://seea.un.org/</p>
+SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <h1>Data sources</h1>
-
-  <h2>Description:</h2>
-
   <p>The indicator is sourced from countries&#x2019; Tourism Satellite Account
   and Environmental-Economic Accounts.</p>
 COLL_METHOD: >-
-  <h2>Collection process:</h2>
-
-  <p>UNWTO sends a short questionnaire to countries to obtain information on the
-  number of relevant TSA and SEEA tables produced by countries.</p>
+  <p>UNWTO sends a short excel questionnaire to countries to obtain information
+  on the number of relevant TSA and SEEA tables produced by countries.</p>
 FREQ_COLL: >-
-  <h1>Calendar</h1>
-
-  <p><strong>Data collection:</strong></p>
-
   <p>The exercise to collect data on TSA and SEEA tables implementation directly
-  from countries through a UNWTO questionnaire was launched in August 2019 for
-  the data available up to the end of the previous year.</p>
-REL_CAL_POLICY: |-
-  <h2>Data release:</h2>
-  <p>First release will be in February 2020.</p>
+  from countries through an annual UNWTO questionnaire. The questionnaire is
+  sent out to countries in August and data collection is closed in January of
+  the following year.</p>
+REL_CAL_POLICY: >-
+  <p>Release of data coincides with the update of the SDG global database,
+  typically scheduled for February.</p>
 DATA_SOURCE: >-
-  <h1>Data providers</h1>
-
   <p>For the TSA: National Statistics Offices and/or National Tourism
   Administrations.</p>
 
   <p>For the SEEA: National Statistics Offices and/or environment
   ministries.</p>
 COMPILING_ORG: >-
-  <h1>Data compilers</h1>
-
   <p>World Tourism Organization (UNWTO) with input and in coordination with the
   UN Statistics Division especially with respect to the SEEA data.</p>
+INST_MANDATE: ''
+OTHER_METHOD: ''
 RATIONALE: >-
-  <h2>Rationale:</h2>
-
-  <p>The UNWTO Committee on Statistics<sup><sup><a href="#footnote-1"
-  id="footnote-ref-1">[1]</a></sup></sup>, the leading international group in
+  <p>The UNWTO Committee on Statistics<sup><sup><a href="#footnote-2"
+  id="footnote-ref-2">[1]</a></sup></sup>, the leading international group in
   tourism statistics composed of experts from countries and international
   organizations, has since 2016 identified important difficulties with the
   original indicator: </p>
@@ -137,7 +132,7 @@ RATIONALE: >-
   are:</p>
 
   <ol>
-    <li>countries&#x2019; Tourism Satellite Account based on the <a href="http://unstats.un.org/unsd/tradeserv/tourism/manual.html" target="_blank"><em>Tourism Satellite Account: Recommended Methodological Framework 2008</em></a> (TSA: RMF 2008) and </li>
+    <li>countries&#x2019; Tourism Satellite Account based on the <a href="http://unstats.un.org/unsd/tradeserv/tourism/manual.html" target="_blank"><em>Tourism Satellite Account: Recommended Methodological Framework 2008</em></a><u> </u>(TSA: RMF 2008) and </li>
     <li>countries&#x2019; water, energy, GHG emissions and waste accounts based the <a href="https://seea.un.org/content/seea-central-framework"><em>System of Environmental-Economic Accounting (SEEA)</em></a>. </li>
   </ol>
 
@@ -155,13 +150,13 @@ RATIONALE: >-
   href="http://statistics.unwto.org/sf_mst"><em>Statistical Framework for
   Measuring the Sustainability of Tourism (SF-MST)</em></a> currently under
   development as requested by the UN Statistical Commission in its
-  48<sup>th</sup> Session (7-10 March 2017)<sup><a href="#footnote-2"
-  id="footnote-ref-2">[2]</a></sup>. The SF-MST integrates tourism statistics
+  48<sup>th</sup> Session (7-10 March 2017)<sup><a href="#footnote-3"
+  id="footnote-ref-3">[2]</a></sup>. The SF-MST integrates tourism statistics
   with other economic, social and environmental information and provides a
   coherent base for deriving indicators that are relevant for monitoring and
   analysing the sustainability of tourism. Development of SF-MST is also
-  supported by the UNWTO General Assembly<sup><sup><a href="#footnote-3"
-  id="footnote-ref-3">[3]</a></sup></sup>, the highest international body in
+  supported by the UNWTO General Assembly<sup><sup><a href="#footnote-4"
+  id="footnote-ref-4">[3]</a></sup></sup>, the highest international body in
   tourism. </p>
 
   <p>MST is led by the Working Group of Experts on MST, set up jointly by UNWTO
@@ -169,37 +164,33 @@ RATIONALE: >-
   special sub-group on SDG indicators, led by Statistics Austria, which advices
   the UNWTO Committee on Statistics on how to best monitor tourism within the
   SDGs and has been active in the preparation of this metadata.</p><div
-  class="footnotes"><div><sup class="footnote-number" id="footnote-1">1</sup><p>
+  class="footnotes"><div><sup class="footnote-number" id="footnote-2">1</sup><p>
   The Committee is composed of experts in tourism statistics from countries and
   international and supranational organizations such as ILO, WTO, OECD and
   Eurostat. The Committee is a statutory body of UNWTO and reports to the UNWTO
   General Assembly and also to the UN Statistical Commission which officially
-  recognizes it as the group of country experts on tourism statistics.&#xA0;
+  recognizes it as the group of country experts on tourism statistics.
   </p><p>More information on the mandate, composition and activities of the
   Committee can be found at: <a
   href="http://statistics.unwto.org/content/committee-statistics-and-tourism-satellite-account">http://statistics.unwto.org/content/committee-statistics-and-tourism-satellite-account</a>.
-  <a href="#footnote-ref-1">&#x2191;</a></p></div><div><sup
-  class="footnote-number" id="footnote-2">2</sup><p> Decision 48/115 on Tourism
+  <a href="#footnote-ref-2">&#x2191;</a></p></div><div><sup
+  class="footnote-number" id="footnote-3">2</sup><p> Decision 48/115 on Tourism
   Statistics in the Report on the forty-eighth session of the UN Statistical
   Commission: <a
   href="https://unstats.un.org/unsd/statcom/48th-session/documents/Report-on-the-48th-session-of-the-statistical-commission-E.pdf">E/2017/24-E/CN.3/2017/35</a>.
   Decision 50/115 on Environmental-economic accounting of the fiftieth session
   of the UN Statistical Commission: <a
   href="https://unstats.un.org/unsd/statcom/50th-session/documents/Report-on-the-50th-session-of-the-statistical-commission-E.pdf">E/2019/24-E/CN.3/2019/34</a>..
-  <a href="#footnote-ref-2">&#x2191;</a></p></div><div><sup
-  class="footnote-number" id="footnote-3">3</sup><p> <a
+  <a href="#footnote-ref-3">&#x2191;</a></p></div><div><sup
+  class="footnote-number" id="footnote-4">3</sup><p> <a
   href="http://cf.cdn.unwto.org/sites/all/files/pdf/a22_resolutions_en.pdf">http://cf.cdn.unwto.org/sites/all/files/pdf/a22_resolutions_en.pdf</a>
-  <a href="#footnote-ref-3">&#x2191;</a></p></div></div>
+  <a href="#footnote-ref-4">&#x2191;</a></p></div></div>
 REC_USE_LIM: >-
-  <h2>Comments and limitations:</h2>
-
   <p>The indicator in principle does not account for varying degrees of
   consolidation (from experimental to full-fledged) in the implementation of TSA
-  and SEEA which might differ considerably between countries.</p>
+  and SEEA which might differ considerably between countries. </p>
 DATA_COMP: >-
-  <h1>Methodology</h1>
-
-  <h2>Computation method:</h2>
+  <p><strong>Computation Method:</strong></p>
 
   <p>Implementation of standard accounting tools to monitor the economic and
   environmental aspects of tourism sustainability = total number of tables
@@ -218,24 +209,19 @@ DATA_COMP: >-
     <li>SEEA table GHG emissions</li>
     <li>SEEA table solid waste</li>
   </ul>
+DATA_VALIDATION: >-
+  <p>Every year historical data is requested. If there are differences in the
+  newly reported data for the country with respect to the data available
+  previously, countries are consulted. Similarly, if other inconsistencies are
+  found, there is ongoing follow up with countries. </p>
+ADJUSTMENT: ''
 IMPUTATION: |-
-  <h2>Treatment of missing values:</h2>
+  <p>&#x2022; At country level</p>
   <p>n/a</p>
-  <ul>
-    <li><strong><em>At country level:</em></strong></li>
-  </ul>
+  <p>&#x2022; At regional and global levels</p>
   <p>n/a</p>
-  <ul>
-    <li><strong><em>At regional and global levels:</em></strong></li>
-  </ul>
-  <p>n/a</p>
-REG_AGG: |-
-  <h2>Regional aggregates:</h2>
-  <p>n/a</p>
+REG_AGG: <p>n/a</p>
 DOC_METHOD: >-
-  <h2>Methods and guidance available to countries for the compilation of the
-  data at the national level:</h2>
-
   <p>In relation to the TSA, the methodology is described in the <a
   href="https://unstats.un.org/unsd/tradeserv/tourism/manual.html"><em>Tourism
   Satellite Account: Recommended Methodological Framework
@@ -246,54 +232,48 @@ DOC_METHOD: >-
   <p>In relation to the SEEA, the methodology is described in the <a
   href="https://seea.un.org/content/seea-central-framework"><em>System of
   Environmental-Economic Accounting (SEEA) Central Framework</em></a>.</p>
+QUALITY_MGMNT: ''
 QUALITY_ASSURE: >-
-  <h2>Quality assurance:</h2>
-
   <p>Data will be verified by UNWTO and any issues will be resolved through
   written communication with countries. In the case of the availability of TSA
   tables, it would also be possible to cross-validate with the information
   reported to UNWTO on SDG indicator 8.9.1 (Tourism Direct GDP) and the
   indicators collected via UNWTO&#xB4;s annual data collection. The availability
   reported on SEEA tables can also be cross-checked with information available
-  to UNSD.</p>
+  to UNSD. </p>
+QUALITY_ASSMNT: ''
 COVERAGE: >-
-  <h1>Data availability</h1>
-
-  <h2>Description:</h2>
+  <p>Data availability:</p>
 
   <p>While SEEA and TSA tables are currently not compiled everywhere, ALL
   countries are able to provide information on this indicator. Those States
-  where no tables are compiled report a value of zero (0). In the first data
-  collection exercise initiated in 2019, UNWTO received over 100 country
-  responses. These include countries in all regions. The data has already been
-  uploaded on the SDG Global Database. </p>
+  where no tables are compiled report a value of zero (0). There are currently
+  (as of March 2021) data available for over 150 countries,in all regions. The
+  data has already been uploaded on the SDG Global Database. </p>
 
-  <h2>Time series:</h2>
+  <p>Time series:</p>
 
   <p>Data is available from 2008 onwards.</p>
 
-  <h2>Disaggregation:</h2>
+  <p>Disaggregation:</p>
 
   <p>Disaggregation of the different TSA tables and SEEA tables (water flows,
   energy flows, GHG emissions and solid waste), and disaggregation by standard
   (TSA and SEEA), will be possible. </p>
 COMPARABILITY: >-
-  <h2>Sources of discrepancies:</h2>
+  <p>Sources of discrepancies:</p>
 
   <p>Discrepancies might arise from the varying degrees of consolidation in the
   implementation of TSA and SEEA in countries. </p>
 OTHER_DOC: >-
-  <h1>References</h1>
-
-  <h2>URL:</h2>
+  <p><strong>URL:</strong></p>
 
   <p><a
-  href="https://www.unwto.org/methodology">https://www.unwto.org/methodology</a></p>
-
-  <p><a
+  href="https://www.unwto.org/standards/un-standards-for-measuring-tourism">https://www.unwto.org/standards/un-standards-for-measuring-tourism</a>
+  <a
   href="https://seea.un.org/content/seea-central-framework">https://seea.un.org/content/seea-central-framework</a></p>
 
-  <h2>References:</h2>
+  <p><strong>References:</strong></p>
 
   <p>Commission of the European Communities, Organization for Economic
   Cooperation and Development, United Nations and World Tourism Organization

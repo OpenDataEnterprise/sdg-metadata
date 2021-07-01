@@ -1,3 +1,4 @@
+SDG_INDICATOR_INFO: ''
 SDG_GOAL: >-
   <p>Goal 16: Promote peaceful and inclusive societies for sustainable
   development, provide access to justice for all and build effective,
@@ -10,19 +11,23 @@ SDG_TARGET: >-
 SDG_INDICATOR: >-
   <p>Indicator 16.a.1: Existence of independent national human rights
   institutions in compliance with the Paris Principles</p>
-META_LAST_UPDATE: '<p>Last updated: 19 July 2016</p>'
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: <p>19 July 2016</p>
 SDG_RELATED_INDICATORS: |-
-  <h1>Related indicators as of February 2020</h1>
   <p>10.3: Progress towards sustainable forest management</p>
   <p>16.b: Progress towards sustainable forest management</p>
-SDG_CUSTODIAN_AGENCIES: |-
-  <h1>Institutional information</h1>
-  <h2>Organization(s):</h2>
-  <p>United Nations Office of the High Commissioner for Human Rights</p>
+SDG_CUSTODIAN_AGENCIES: <p>United Nations Office of the High Commissioner for Human Rights</p>
+CONTACT: ''
+CONTACT_ORGANISATION: <p>United Nations Office of the High Commissioner for Human Rights</p>
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <h1>Concepts and definitions</h1>
-
-  <h2>Definition:</h2>
+  <p><strong>Definition:</strong></p>
 
   <p>This indicator Existence of independent national human rights institutions
   in compliance with the Paris Principles measures the compliance of existing
@@ -33,7 +38,7 @@ STAT_CONC_DEF: >-
   International Coordinating Committee of National Institutions for the
   Promotion and Protection of Human Rights or ICC).</p>
 
-  <h2>Concepts:</h2>
+  <p><strong>Concepts:</strong></p>
 
   <p>A National Human Rights Institution is an independent administrative body
   set up by a State to promote and protect human rights. NHRIs are State bodies
@@ -81,18 +86,15 @@ STAT_CONC_DEF: >-
   Principles) adopted by General Assembly, Resolution 48/134 of 20 December 1993
   provide the international benchmarks against which NHRIs can be accredited by
   the GANHRI.</p>
+UNIT_MEASURE: ''
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <h1>Data sources</h1>
-
-  <h2>Description:</h2>
-
   <p>The main source of data on the indicator is administrative records of the
   Sub- Committee on Accreditation reports of the GANHRI. OHCHR compiles the data
   into a global directory of NHRI status accreditation updated every six months,
   after the Sub-committee on Accreditation submits its report.</p>
 COLL_METHOD: >-
-  <h2>Collection process:</h2>
-
   <p>An international survey is sent to national human rights institution, which
   fill it in and send it back to the international mechanism. The latter also
   use complementary information, if available, received from civil society
@@ -107,7 +109,7 @@ COLL_METHOD: >-
   <p>1) Guarantee of tenure for members of the National Human Rights Institution
   decision-making body; </p>
 
-  <p>2) Full-time members of a National Human Rights Institution; </p>
+  <p>2) full-time members of a National Human Rights Institution; </p>
 
   <p>3) Guarantee of functional immunity; </p>
 
@@ -132,35 +134,26 @@ COLL_METHOD: >-
 
   <p>Based on the information received, the process of accreditation is
   conducted through peer review by the Sub-Committee on Accreditation (SCA) of
-  GANHRI.</p>
-FREQ_COLL: |-
-  <h1>Calendar</h1>
-  <p><strong>Data collection:</strong></p>
-  <p>From November 2016</p>
-REL_CAL_POLICY: |-
-  <h2>Data release:</h2>
-  <p>December 2016 </p>
+  GANHRI. </p>
+FREQ_COLL: <p>From November 2016</p>
+REL_CAL_POLICY: <p>December 2016 </p>
 DATA_SOURCE: >-
-  <h1>Data providers</h1>
-
-  <h2>Name:</h2>
+  <p><strong>Name:</strong></p>
 
   <p>National human rights institution</p>
 
-  <h2>Description:</h2>
+  <p><strong>Description:</strong></p>
 
-  <p>National human rights institution (e.g., national human rights commissions,
+  <p>National human rights institution (e.g. national human rights commissions,
   human rights ombudsman institutions, hybrid institutions, consultative and
   advisory bodies, institutes and centers and multiple institutions)</p>
 COMPILING_ORG: >-
-  <h1>Data compilers</h1>
-
   <p>United Nations Office of the High Commissioner for Human Rights (OHCHR) and
   the Sub-Committee on Accreditation (SCA) of the Global Alliance of National
-  Human Rights Institutions (GANHRI)</p>
+  Human Rights Institutions (GANHRI).</p>
+INST_MANDATE: ''
+OTHER_METHOD: ''
 RATIONALE: >-
-  <h2>Rationale:</h2>
-
   <p>This indicator measures the global continual efforts of countries in
   setting up independent national institutions, through international
   cooperation, to promote inclusive, peaceful and accountable societies. The
@@ -182,8 +175,6 @@ RATIONALE: >-
   legitimate, relevant and effective in promoting human rights at the national
   level.</p>
 REC_USE_LIM: >-
-  <h2>Comments and limitations:</h2>
-
   <p>The important and constructive role of national institutions for the
   promotion and protection of human rights has been acknowledged in different
   United Nations instruments and resolutions, including the Final Document and
@@ -208,16 +199,14 @@ REC_USE_LIM: >-
   10, E/C.12/1998/25; and CRC General Comment 2, CRC/GC/2002/2). A compilation
   of various recommendations and concluding observations relevant to NHRIs
   emanating from the international human rights mechanisms in the United Nations
-  is available at: <a
-  href="http://www.universalhumanrightsindex.org">http://www.universalhumanrightsindex.org</a>.
-  </p>
+  is available at: http://www.universalhumanrightsindex.org/. </p>
 
   <p>The GANHRI is an international association of NHRIs which promotes and
   strengthens NHRIs to be in accordance with the Paris Principles and provides
   leadership in the promotion and protection of human rights (ICC Statute, Art.
   5). Decisions on the classifications of NHRIs are based on their submitted
   documents such as: 1) copy of legislation or other instrument by which it is
-  established and empowered in its official or published format (e.g., statute,
+  established and empowered in its official or published format (e.g. statute,
   and /or constitutional provisions, and/or presidential decree, 2) outline of
   organizational structure including details of staff and annual budget, 3) copy
   of recent published annual report; 4) detailed statement showing how it
@@ -236,32 +225,27 @@ REC_USE_LIM: >-
   bodies) represent a valuable source of information on how NHRIs carry out
   their mandate in reference to international human rights instruments.</p>
 DATA_COMP: >-
-  <h1>Methodology</h1>
-
-  <h2>Computation method:</h2>
-
   <p>In terms of method of computation, the indicator is computed as the
   accreditation classification, namely A, B or C of the NHRI.</p>
+DATA_VALIDATION: ''
+ADJUSTMENT: ''
 IMPUTATION: >-
-  <h2>Treatment of missing values:</h2>
-
-  <ul>
-    <li><strong><em>At country level:</em></strong></li>
-  </ul>
+  <p>&#x2022; At country level</p>
 
   <p>All country data are available and there is no Treatment of missing
   values.</p>
 
-  <ul>
-    <li><strong><em>At regional and global levels:</em></strong></li>
-  </ul>
+  <p>&#x2022; At regional and global levels</p>
 
   <p>All country data are available and there is no Treatment of missing
   values.</p>
+REG_AGG: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
 COVERAGE: >-
-  <h1>Data availability</h1>
-
-  <h2>Description:</h2>
+  <p>Data availability:</p>
 
   <p>196 countries</p>
 
@@ -273,17 +257,17 @@ COVERAGE: >-
 
   <p>Europe, North America, Australia, New Zealand and Japan &#x2013; 53</p>
 
-  <h2>Time series:</h2>
+  <p>Time series:</p>
 
   <p>From 2000 to 2015</p>
 
-  <h2>Disaggregation:</h2>
+  <p>Disaggregation:</p>
 
   <p>While disaggregation of information is not applicable for this indicator,
   it may be desirable to highlight the type of NHRI, whether Ombudsman, human
   rights commission, advisory body, research-based institute, etc.</p>
 COMPARABILITY: >-
-  <h2>Sources of discrepancies:</h2>
+  <p>Sources of discrepancies:</p>
 
   <p>The country counterpart has the possibility to appeal the decision on the
   level of compliance with the Paris Principles received from the international
@@ -291,25 +275,16 @@ COMPARABILITY: >-
   rights institutions (all members of the international bureau) and 2 regional
   networks of national human rights institutions.</p>
 OTHER_DOC: >-
-  <h1>References</h1>
-
   <p><strong>URL:</strong></p>
 
-  <p><a
-  href="http://www.ohchr.org/EN/Issues/Indicators/Pages/HRIndicatorsIndex.aspx">http://www.ohchr.org/EN/Issues/Indicators/Pages/HRIndicatorsIndex.aspx</a></p>
+  <p>http://www.ohchr.org/EN/Issues/Indicators/Pages/HRIndicatorsIndex.aspx</p>
 
-  <h2>References:</h2>
+  <p><strong>References:</strong></p>
 
-  <p><a
-  href="http://www.ohchr.org/Documents/Issues/HRIndicators/Metadata_16.a.1_3_March2016.pdf">http://www.ohchr.org/Documents/Issues/HRIndicators/Metadata_16.a.1_3_March2016.pdf</a></p>
+  <p>http://www.ohchr.org/Documents/Issues/HRIndicators/Metadata_16.a.1_3_March2016.pdf</p>
 
-  <p><a
-  href="http://nhri.ohchr.org/EN/Pages/default.aspx%20">http://nhri.ohchr.org/EN/Pages/default.aspx</a>
-  </p>
+  <p>http://nhri.ohchr.org/EN/Pages/default.aspx </p>
 
-  <p><a
-  href="http://ohchr.org/EN/Countries/NHRI/Pages/NHRIMain.aspx%20">http://ohchr.org/EN/Countries/NHRI/Pages/NHRIMain.aspx</a>
-  </p>
+  <p>http://ohchr.org/EN/Countries/NHRI/Pages/NHRIMain.aspx </p>
 
-  <p><a
-  href="http://www.ohchr.org/EN/ProfessionalInterest/Pages/StatusOfNationalInstitutions.aspx">http://www.ohchr.org/EN/ProfessionalInterest/Pages/StatusOfNationalInstitutions.aspx</a></p>
+  <p>http://www.ohchr.org/EN/ProfessionalInterest/Pages/StatusOfNationalInstitutions.aspx</p>

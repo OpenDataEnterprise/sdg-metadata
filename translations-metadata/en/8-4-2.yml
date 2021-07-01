@@ -1,33 +1,32 @@
-SDG_GOAL: >-
-  <p>Goal 8: Promote sustained, inclusive and sustainable economic growth, full
-  and productive employment and decent work for all</p>
+SDG_INDICATOR_INFO: ''
+SDG_GOAL: '<p>Goal 12: Ensure sustainable consumption and production patterns </p>'
 SDG_TARGET: >-
-  <p>Target 8.4: Improve progressively, through 2030, global resource efficiency
-  in consumption and production and endeavour to decouple economic growth from
-  environmental degradation, in accordance with the 10-Year Framework of
-  Programmes on Sustainable Consumption and Production, with developed countries
-  taking the lead</p>
+  <p>Target 12.2: By 2030, achieve the sustainable management and efficient use
+  of natural resources</p>
 SDG_INDICATOR: >-
-  <p>Indicator 8.4.2: Domestic material consumption, domestic material
+  <p>Indicator 12.2.2: Domestic material consumption, domestic material
   consumption per capita, and domestic material consumption per GDP</p>
-META_LAST_UPDATE: '<p>Last updated: 12 February 2018</p>'
-SDG_RELATED_INDICATORS: |-
-  <h1>Related indicators</h1>
-  <p>Indicator 12.2.2</p>
-SDG_CUSTODIAN_AGENCIES: |-
-  <h1>Institutional information</h1>
-  <h2>Organization(s):</h2>
-  <p>United Nations Environment Programme (UNEP)</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: <p>4 February 2021</p>
+SDG_RELATED_INDICATORS: <p>Indicator 8.4.2</p>
+SDG_CUSTODIAN_AGENCIES: <p>United Nations Environment Programme (UNEP)</p>
+CONTACT: ''
+CONTACT_ORGANISATION: <p>United Nations Environment Programme (UNEP)</p>
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <h1>Concepts and definitions</h1>
-
-  <h2>Definition:</h2>
+  <p>Definitions:</p>
 
   <p>Domestic Material Consumption (DMC) is a standard material flow accounting
   (MFA) indicator and reports the apparent consumption of materials in a
   national economy. </p>
 
-  <h2>Concepts:</h2>
+  <p>Concepts:</p>
 
   <p>Domestic Material Consumption (DMC) and MF need to be looked at in
   combination as they cover the two aspects of the economy, production and
@@ -37,11 +36,13 @@ STAT_CONC_DEF: >-
   large primary production sector for export or a very low DMC because it has
   outsourced most of the material intensive industrial process to other
   countries. The material footprint corrects for both phenomena. </p>
+UNIT_MEASURE: |-
+  <p>Tonnes</p>
+  <p>kilograms per constant United States dollar</p>
+  <p>Tonnes per capita</p>
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <h1>Data sources</h1>
-
-  <h2>Description:</h2>
-
   <p>The global material flows database is based on country material flow
   accounts from the European Union and Japan and estimated data for the rest of
   the world. Estimated data is produced on the bases of data available from
@@ -49,26 +50,15 @@ SOURCE_TYPE: >-
   forestry, fisheries, mining and energy statistics. International statistical
   sources for DMC and MF include the IEA, USGS, FAO and COMTRADE databases. </p>
 COLL_METHOD: >-
-  <h2>Collection process:</h2>
-
   <p>The IRP Global Material Flows and Resource Productivity working group
   compiles the data from countries and from other sources.</p>
-FREQ_COLL: |-
-  <h1>Calendar</h1>
-  <h2>Data collection:</h2>
-  <p>Under discussion</p>
-REL_CAL_POLICY: |-
-  <h2>Data release:</h2>
-  <p>11 September 2017</p>
-DATA_SOURCE: |-
-  <h1>Data providers</h1>
-  <p>National Statistical Offices </p>
-COMPILING_ORG: |-
-  <h1>Data compilers</h1>
-  <p>UNEP, OECD and EUROSTAT</p>
+FREQ_COLL: <p>Under discussion</p>
+REL_CAL_POLICY: <p>11 September 2017</p>
+DATA_SOURCE: <p>National Statistical Offices </p>
+COMPILING_ORG: '<p>UNEP, OECD and EUROSTAT</p>'
+INST_MANDATE: ''
+OTHER_METHOD: ''
 RATIONALE: >-
-  <h2>Rationale:</h2>
-
   <p>DMC reports the amount of materials that are used in a national economy.
   DMC is a territorial (production side) indicator. DMC also presents the amount
   of material that needs to be handled within an economy, which is either added
@@ -79,15 +69,9 @@ RATIONALE: >-
   in an economy &#x2013; an environmental pressure indicator &#x2013; and is
   also referred to as metabolic profile. </p>
 REC_USE_LIM: >-
-  <h2>Comments and limitations:</h2>
-
   <p>DMC cannot be disaggregated to economic sectors which limits its potential
   to become a satellite account to the System of National Accounts (SNA). </p>
 DATA_COMP: >-
-  <h1>Methodology</h1>
-
-  <h2>Computation method:</h2>
-
   <p>It is calculated as direct imports (IM) of material plus domestic
   extraction (DE) of materials minus direct exports (EX) of materials measured
   in metric tonnes. DMC measure the amount of materials that are used in
@@ -99,12 +83,17 @@ DATA_COMP: >-
   accounts in the latest edition of 2013. MFA accounting is also part of the
   central framework of the System of integrated Environmental-Economic Accounts
   (SEEA). </p>
+DATA_VALIDATION: >-
+  <p>The prefilled questionnaire with estimated data will be send to the
+  National Statistical Office (NSO) Focal Points (FP) for the compilation of the
+  national data for this indicator. The FPs will coordinate the data collection
+  with stakeholders within their countries and report back the data to UNEP. For
+  countries with no national data collected for this indicator, UNEP will ask
+  the countries to agree on publishing and releasing the estimated data on the
+  World Environment Situation Room and in the SDG Global database. </p>
+ADJUSTMENT: ''
 IMPUTATION: >-
-  <h2>Treatment of missing values:</h2>
-
-  <ul>
-    <li><strong><em>At country level:</em></strong></li>
-  </ul>
+  <p>&#x2022; At country level:</p>
 
   <p>A zero is imputed when no positive real value was officially recorded, in
   the base data sets used, for any of the underlying components which make up
@@ -115,45 +104,53 @@ IMPUTATION: >-
   values as &#x2018;0.0&#x2019;, the aggregations may represent a lower value
   than actual situation. </p>
 
-  <ul>
-    <li><strong><em>At regional and global levels:</em></strong></li>
-  </ul>
+  <p>&#x2022; At regional and global levels:</p>
 
   <p>Similarly, missing values are imputed as zero in the regional and global
   aggregations. However, in the case where no data is available at all for a
   particular country then the per capita and per GDP estimates are weighted
   averages of the available data. </p>
 REG_AGG: >-
-  <h2>Regional aggregates:</h2>
+  <p>The data will be aggregated at the sub-regional, regional and global
+  levels. For the aggregation methods, please see:
+  http://wesr.unep.org/media/docs/graphs/aggregation_methods.pdf</p>
+DOC_METHOD: >-
+  <p>UNEP, Eurostat with the IRP and UNSD have developed a global manual on
+  Economy Wide -Material Flow Accounting (EW-MFA) which brings in the European
+  guidelines, but provides a modular approach for countries looking to develop
+  EW-MFA for the first time and it addresses specific issues related to resource
+  extractive based economies. The EU Economy-wide material flow accounts
+  handbook 2018. </p>
 
-  <p>See: <a
-  href="http://uneplive.unep.org/media/docs/graphs/aggregation_methods.pdf">http://uneplive.unep.org/media/docs/graphs/aggregation_methods.pdf</a></p>
+  <p>https://seea.un.org/sites/seea.un.org/files/global_material_flow_accounting_manual_final_draft.pdf</p>
+
+  <p>
+  https://ec.europa.eu/eurostat/web/products-manuals-and-guidelines/-/KS-GQ-18-006</p>
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
 COVERAGE: >-
-  <h1>Data availability</h1>
+  <p>Data availability:</p>
 
-  <h2>Description:</h2>
+  <p>The data covers more than 170 countries.</p>
 
-  <p>The data covers more than 170 countries. </p>
-
-  <h2>Time series:</h2>
+  <p>Time series:</p>
 
   <p>The data set covers each nation individually, over a time period of 47
   years (1970-2017).</p>
 
-  <h2>Disaggregation:</h2>
+  <p>Disaggregation:</p>
 
   <p>The DMC indicator can be disaggregated into imports, domestic extraction
   and exports by a large number of material follow categories. At the highest
   level of aggregation biomass, fossil fuels, metal ores and non-metallic
   minerals are distinguished. DMC is usually reported for 11 material
   categories, DE for 44 material categories. </p>
-COMPARABILITY: <h2>Sources of discrepancies:</h2>
+COMPARABILITY: '<p>Sources of discrepancies:</p>'
 OTHER_DOC: >-
-  <h1>References</h1>
+  <p><strong>URL:</strong></p>
 
-  <h2>URL:</h2>
-
-  <h2>References:</h2>
+  <p><strong>References:</strong></p>
 
   <p>EUROSTAT (2013). Economy-wide material flow accounts. Compilation guide
   2013.</p>
@@ -164,4 +161,4 @@ OTHER_DOC: >-
 
   <p>Lenzen, M., Moran, D., Kanemoto, K., Geschke, A. (2013) Building Eora: A
   global Multi-regional Input-Output Database at High Country and Secotr
-  Resolution, Economic Systems Research, 25:1, 20-49. </p>
+  Resolution, Economic Systems Research, 25:1, 20-49.</p>

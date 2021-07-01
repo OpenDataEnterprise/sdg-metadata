@@ -1,3 +1,4 @@
+SDG_INDICATOR_INFO: ''
 SDG_GOAL: >-
   <p>Goal 9: Build resilient infrastructure, promote inclusive and sustainable
   industrialization and foster innovation</p>
@@ -9,28 +10,34 @@ SDG_TARGET: >-
 SDG_INDICATOR: >-
   <p>Indicator 9.b.1: Proportion of medium and high-tech industry value added in
   total value added</p>
-META_LAST_UPDATE: '<p>Last updated: March 2020</p>'
-SDG_CUSTODIAN_AGENCIES: |-
-  <h1>Institutional information</h1>
-  <h2>Organization(s):</h2>
-  <p>United Nations Industrial Development Organization (UNIDO)</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: <p>February 2021</p>
+SDG_RELATED_INDICATORS: ''
+SDG_CUSTODIAN_AGENCIES: <p>United Nations Industrial Development Organization (UNIDO)</p>
+CONTACT: ''
+CONTACT_ORGANISATION: <p>United Nations Industrial Development Organization (UNIDO)</p>
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <h1>Concepts and definitions</h1>
-
-  <h2>Definition:</h2>
+  <p>Definitions:</p>
 
   <p>The proportion of medium-high and high-tech industry (MHT hereafter) value
   added in total value added of manufacturing (MVA hereafter) is a ratio value
   between the value added of MHT industry and MVA.</p>
 
-  <h2>Concepts:</h2>
+  <p>Concepts:</p>
 
   <p>The value added of an industry (industry value added) is a survey concept
   that refers to the given industry&#x2019;s net output derived from the
   difference of gross output and intermediate consumption. Manufacturing
   sector<em> </em>is defined according to the International Standard Industrial
   Classification of all Economic Activities (ISIC) Revision 3 (1990) or Revision
-  4 (2008). It refers to industries belonging to sector D in Revision 3 or
+  4 (2008). It refers to industries belonging to sector D in revision 3 or
   sector C in Revision 4.</p>
 
   <p>Technology classification is based on research and development (R&amp;D)
@@ -44,6 +51,9 @@ STAT_CONC_DEF: >-
   non-manufacturing industries as well. Nevertheless, medium-high and high
   technology sectors also in new paper are primarily represented by
   manufacturing industries.</p>
+
+  <p>The following table includes the classification of MHT industries by ISIC
+  Rev. 3 and ISIC Rev. 4.</p>
 
   <table>
     <tbody>
@@ -193,39 +203,48 @@ STAT_CONC_DEF: >-
 
   <p>MVA is the value added of manufacturing industry, which is Section C of
   ISIC Rev.4, and Section D of ISIC Rev.3. </p>
+UNIT_MEASURE: <p>Percentages</p>
+CLASS_SYSTEM: >-
+  <p><a
+  href="https://unstats.un.org/unsd/publication/seriesm/seriesm_4rev4e.pdf">International
+  Standard Industrial Classification of all Economic Activities (ISIC) Revision
+  4</a></p>
+
+  <p><a
+  href="https://unstats.un.org/unsd/publication/seriesm/seriesm_4rev3_1e.pdf">International
+  Standard Industrial Classification of all Economic Activities (ISIC) Revision
+  3</a></p>
+SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <h1>Data sources</h1>
-
-  <h2>Description:</h2>
-
   <p>Data can be found in UNIDO INDSTAT4 Database by ISIC Revision 3 and ISIC
   Revision 4 respectively.</p>
 COLL_METHOD: >-
-  <h2>Collection process:</h2>
-
   <p>Data are collected using General Industrial Statistics Questionnaire which
   is filled by NSOs and submitted to UNIDO annually. Data for OECD countries are
   obtained directly from OECD. Country data are also collected from official
   publications and official web-sites.</p>
-FREQ_COLL: |-
-  <h1>Calendar</h1>
-  <h2>Data collection:</h2>
-  <p>Data are collected annually from NSOs and OECD.</p>
-REL_CAL_POLICY: |-
-  <h2>Data release:</h2>
-  <p>UNIDO INDSTAT database is updated between March and April every year.</p>
+FREQ_COLL: <p>Data are collected annually from NSOs and OECD</p>
+REL_CAL_POLICY: <p>UNIDO INDSTAT database is updated between March and April every year.</p>
 DATA_SOURCE: >-
-  <h1>Data providers</h1>
-
   <p>National statistical offices (NSOs) in non-OECD countries, and OECD
-  countries by OECD.</p>
-COMPILING_ORG: |-
-  <h1>Data compilers</h1>
-  <h2>Name:</h2>
-  <p>United Nations Industrial Development Organization (UNIDO)</p>
+  countries by OECD</p>
+COMPILING_ORG: <p>United Nations Industrial Development Organization (UNIDO)</p>
+INST_MANDATE: >-
+  <p>UNIDO, as the specialized UN agency on industrial development, has the
+  international mandate for collecting, producing and disseminating
+  internationally comparable industrial statistics. UNIDO&#x2019;s mandate
+  covers (i) the maintenance and updating of international industrial statistics
+  databases; (ii) methodological and analytical products based on statistical
+  research and experience of maintaining internationally comparable statistics;
+  (iii) contributions to the development and implementation of international
+  statistical standards and methodology; and (iv) technical cooperation services
+  to countries in the field of industrial statistics. With the repositioning of
+  UNIDO as the focal agency for inclusive and sustainable industrial development
+  (ISID), its statistical mandate was expanded to cover all dimensions of
+  industrial development, including its inclusiveness and environmental
+  sustainability.</p>
+OTHER_METHOD: ''
 RATIONALE: >-
-  <h2>Rationale:</h2>
-
   <p>Industrial development generally entails a structural transition from
   resource-based and low technology activities to MHT activities. A modern,
   highly complex production structure offers better opportunities for skills
@@ -234,63 +253,76 @@ RATIONALE: >-
   and labour productivity. Increasing the share of MHT sectors also reflects the
   impact of innovation.</p>
 REC_USE_LIM: >-
-  <h2>Comments and limitations:</h2>
-
   <p>Value added by economic activity should be reported at least at 3-digit
   ISIC for compiling MHT values.</p>
 DATA_COMP: >-
-  <h1>Methodology</h1>
-
-  <h2>Computation method:</h2>
-
   <p>The indicator is calculated as the share of the sum of the value added from
   MHT economic activities to MVA.</p>
 
-  <p>(Sum of value added in MHT economic activities/MVA) *100</p>
+  <p><img
+  src="data:image/png;base64,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"></p>
+DATA_VALIDATION: >-
+  <p>UNIDO engages with countries in regular consultations during the data
+  collection process to ensure the data quality and international comparability.
+  </p>
+ADJUSTMENT: >-
+  <p>Data are collected through the UNIDO General Industrial Statistics
+  Questionnaire to receive information on differences in concept, scope,
+  coverage and classification used. The final data are adjusted to follow ISIC
+  and facilitate international comparability.</p>
 IMPUTATION: >-
-  <h2>Treatment of missing values:</h2>
-
-  <ul>
-    <li><strong><em>At country level:</em></strong></li>
-  </ul>
+  <p>&#x2022; At country level:</p>
 
   <p>Missing values are imputed based on the methodology from Competitive
-  Industrial Performance Report (UNIDO, 2016)</p>
+  Industrial Performance Report (UNIDO, 2016).</p>
 
-  <ul>
-    <li><strong><em>At regional and global levels:</em></strong></li>
-  </ul>
+  <p>&#x2022; At regional and global levels:</p>
 
   <p>Imputation applied at country level.</p>
 REG_AGG: >-
-  <h2>Regional aggregates:</h2>
-
   <p>Regional and global aggregates are calculated as a weighted average of
   countries&#x2019; MHT shares in a group. Weights are taken based on the MVA
   share in a group (UNIDO MVA Database).</p>
+DOC_METHOD: >-
+  <p>International Recommendations for Industrial Statistics (IRIS) 2008</p>
+
+  <p><a
+  href="https://unstats.un.org/unsd/publication/seriesM/seriesm_90e.pdf">https://unstats.un.org/unsd/publication/seriesM/seriesm_90e.pdf</a></p>
+
+  <p>International Standard Industrial Classification of All Economic Activities
+  (ISIC) </p>
+
+  <p><a
+  href="https://unstats.un.org/unsd/classifications/Econ/isic">https://unstats.un.org/unsd/classifications/Econ/isic</a></p>
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: >-
+  <p>The UNIDO quality assurance framework is followed to check data quality and
+  consistency before the data dissemination.</p>
+
+  <p>UNIDO (2009), UNIDO Data Quality: A quality assurance framework for UNIDO
+  statistical activities <a
+  href="https://open.unido.org/api/documents/4814740/download/UNIDO-Publication-2009-4814740">https://open.unido.org/api/documents/4814740/download/UNIDO-Publication-2009-4814740</a>
+  </p>
+QUALITY_ASSMNT: ''
 COVERAGE: >-
-  <h1>Data availability</h1>
+  <p>Data availability:</p>
 
-  <h2>Description:</h2>
+  <p>More than 150 economies</p>
 
-  <p>More than 140 economies</p>
+  <p>Time series:</p>
 
-  <h2>Time series:</h2>
-
-  <p>Data for this indicator are available as of 2000 in the UN Global SDG
+  <p>Data for this indicator are available from 2000 in the UN Global SDG
   Database, but longer time series are available in the CIP database.</p>
 
-  <h2>Disaggregation:</h2>
+  <p>Disaggregation:</p>
 
   <p>No disaggregation available.</p>
 COMPARABILITY: >-
-  <h2>Sources of discrepancies:</h2>
+  <p>Sources of discrepancies:</p>
 
   <p>Conversion to USD or difference in ISIC combinations may cause discrepancy
   between national and international figures.</p>
 OTHER_DOC: >-
-  <h1>References</h1>
-
   <h2>URL:</h2>
 
   <p><a href="http://www.unido.org/statistics">www.unido.org/statistics</a></p>
@@ -301,12 +333,13 @@ OTHER_DOC: >-
 
   <p>UNIDO Publication - The Industrial Competitiveness of Nations 2013</p>
 
-  <p>Competitive Industrial Performance (CIP) Report 2016</p>
+  <p>Competitive Industrial Performance (CIP) report 2018</p>
 
   <p>International Standard Industrial Classification of All Economic Activities
   2008</p>
 
   <p>Galindo-Rueda, F. and F. Verger (2016). OECD Taxonomy of Economic
   Activities Based on R&amp;D Intensity, OECD Science, Technology and Industry
-  Working Papers, 2016/04, OECD Publishing, Paris. Available at: <a
-  href="http://dx.doi.org/10.1787/5jlv73sqqp8r-en">http://dx.doi.org/10.1787/5jlv73sqqp8r-en</a></p>
+  Working Papers, 2016/04, OECD Publishing, Paris. Available at:</p>
+
+  <p>http://dx.doi.org/10.1787/5jlv73sqqp8r-en</p>

@@ -1,16 +1,18 @@
-SDG_GOAL: '<p>Goal 3: Ensure healthy lives and promote well-being for all at all ages</p>'
+SDG_INDICATOR_INFO: ''
+SDG_GOAL: >-
+  <p>Goal 3: Ensure healthy lives and promote well-being for all at all ages
+  </p>
 SDG_TARGET: >-
   <p>Target 3.7: By 2030, ensure universal access to sexual and reproductive
   health-care services, including for family planning, information and
   education, and the integration of reproductive health into national strategies
-  and programmes</p>
+  and programmes </p>
 SDG_INDICATOR: >-
   <p>Indicator 3.7.1: Proportion of women of reproductive age (aged 15-49 years)
-  who have their need for family planning satisfied with modern methods</p>
-META_LAST_UPDATE: '<p>Last updated: March 2020</p>'
+  who have their need for family planning satisfied with modern methods </p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: <p>March 2020</p>
 SDG_RELATED_INDICATORS: >-
-  <h1>Related indicators as of February 2020</h1>
-
   <p>This indicator is linked to Target 3.8 (Achieve universal health coverage,
   including financial risk protection, access to quality essential health-care
   services and access to safe, effective, quality and affordable essential
@@ -27,22 +29,29 @@ SDG_RELATED_INDICATORS: >-
   services, and also improves sexual and reproductive health and the ability to
   exercise reproductive rights. </p>
 SDG_CUSTODIAN_AGENCIES: |-
-  <h1>Institutional information</h1>
-  <h2>Organization(s):</h2>
-  <p>Population Division, Department of Economic and Social Affairs (DESA)</p>
-  <p>United Nations Population Fund (UNFPA)</p>
+  <p>Population Division, Department of Economic and Social Affairs (DESA) </p>
+  <p>United Nations Population Fund (UNFPA) </p>
+CONTACT: ''
+CONTACT_ORGANISATION: |-
+  <p>Population Division, Department of Economic and Social Affairs (DESA) </p>
+  <p>United Nations Population Fund (UNFPA) </p>
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <h1>Concepts and definitions</h1>
+  <p><strong>Definition:</strong> </p>
 
-  <h2>Definition:</h2>
+  <p>The percentage of women of reproductive age (15-49 years) currently using a
+  modern method of contraception among those who desire either to have no
+  (additional) children or to postpone the next pregnancy. The indicator is also
+  referred to as the demand for family planning satisfied with modern methods.
+  </p>
 
-  <p>The percentage of women of reproductive age (15-49 years) who desire either
-  to have no (additional) children or to postpone the next child and who are
-  currently using a modern method of contraception. The indicator is also
-  referred to as the demand for family planning satisfied with modern
-  methods.</p>
-
-  <h2>Concepts:</h2>
+  <p><strong>Concepts:</strong> </p>
 
   <p>The percentage of women of reproductive age (15-49 years) who have their
   need for family planning satisfied with modern methods is also referred to as
@@ -50,9 +59,13 @@ STAT_CONC_DEF: >-
   indicator are contraceptive prevalence (any method and modern methods) and
   unmet need for family planning. </p>
 
+  <p> </p>
+
   <p>Contraceptive prevalence is the percentage of women who are currently
   using, or whose partner is currently using, at least one method of
   contraception, regardless of the method used. </p>
+
+  <p> </p>
 
   <p>For analytical purposes, contraceptive methods are often classified as
   either modern or traditional. Modern methods of contraception include female
@@ -63,81 +76,81 @@ STAT_CONC_DEF: >-
   contraception and other modern methods not reported separately (e.g., the
   contraceptive patch or vaginal ring). Traditional methods of contraception
   include rhythm (e.g., fertility awareness-based methods, periodic abstinence),
-  withdrawal and other traditional methods not reported separately.</p>
+  withdrawal and other traditional methods not reported separately. </p>
+
+  <p> </p>
 
   <p>Unmet need for family planning is defined as the percentage of women of
-  reproductive age, either married or in a union, who want to stop or delay
-  childbearing but are not using any method of contraception. The standard
-  definition of unmet need for family planning includes women who are fecund and
-  sexually active in the numerator, and who report not wanting any (more)
-  children, or who report wanting to delay the birth of their next child for at
-  least two years or are undecided about the timing of the next birth, but who
-  are not using any method of contraception. The numerator also includes
-  pregnant women whose pregnancies were unwanted or mistimed at the time of
-  conception; and postpartum amenorrheic women who are not using family planning
-  and whose last birth was unwanted or mistimed. Further information on the
-  operational definition of the unmet need for family planning, as well as
-  survey questions and statistical programs needed to derive the indicator, can
-  be found at the following website: <a
-  href="http://measuredhs.com/Topics/Unmet-Need.cfm">http://measuredhs.com/Topics/Unmet-Need.cfm</a>.</p>
+  reproductive age who want to stop or delay childbearing but are not using any
+  method of contraception. The standard definition of unmet need for family
+  planning includes women who are fecund and sexually active in the numerator,
+  and who report not wanting any (more) children, or who report wanting to delay
+  the birth of their next child for at least two years or are undecided about
+  the timing of the next birth, but who are not using any method of
+  contraception. The numerator also includes pregnant women whose pregnancies
+  were unwanted or mistimed at the time of conception; and postpartum
+  amenorrheic women who are not using family planning and whose last birth was
+  unwanted or mistimed. Further information on the operational definition of the
+  unmet need for family planning, as well as survey questions and statistical
+  programs needed to derive the indicator, can be found at the following website
+  of the USAID Demographic and Health Surveys Program: <a
+  href="http://measuredhs.com/Topics/Unmet-Need.cfm">http://measuredhs.com/Topics/Unmet-Need.cfm</a>
+  . </p>
+UNIT_MEASURE: <p>Proportion.</p>
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <h1>Data sources</h1>
-
   <p>This indicator is calculated from nationally-representative household
   survey data. Multi-country survey programmes that include relevant data for
   this indicator are: Contraceptive Prevalence Surveys (CPS), Demographic and
   Health Surveys (DHS), Fertility and Family Surveys (FFS), Reproductive Health
   Surveys (RHS), Multiple Indicator Cluster Surveys (MICS), Performance
   Monitoring and Accountability 2020 surveys (PMA), World Fertility Surveys
-  (WFS), other international survey programmes and national surveys.</p>
+  (WFS), other international survey programmes and national surveys. </p>
+
+  <p> </p>
 
   <p>For information on the source of each estimate, see United Nations,
-  Department of Economic and Social Affairs, Population Division (2020). World
-  Contraceptive Use 2020.</p>
-FREQ_COLL: >-
-  <h1>Calendar</h1>
-
-  <h2>Data collection:</h2>
-
-  <p>Data are compiled and updated annually in the first quarter of the year.
-  </p>
+  Department of Economic and Social Affairs, Population Division (2021). World
+  Contraceptive Use 2021.
+  (https://www.un.org/development/desa/pd/data/world-contraceptive-use) </p>
+COLL_METHOD: >-
+  <p>Data are compiled based on systematic searches of websites of international
+  survey programmes, survey databases (e.g., the Integrated Household Survey
+  Network (IHSN) database), websites of national statistical offices, SDG
+  national reporting platforms and ad hoc queries in addition to utilization of
+  the country-specific information from UNFPA country offices.</p>
+FREQ_COLL: <p> Data are compiled in the period from October to January. </p>
 REL_CAL_POLICY: >-
-  <h2>Data release:</h2>
-
-  <p>Updated data on the indicator are released by the Population Division in
-  the first quarter of each year. The next release is expected in the first
-  quarter of 2020. A comprehensive compilation of data and model-based annual
-  estimates and projections up to 2030 at the national, regional and global
-  level are published annually by the Population Division. See: </p>
+  <p>Updated data compilations on the indicator are released by the Population
+  Division in March of each year as a comprehensive compilation of data and
+  model-based annual estimates and projections up to 2030 at the national,
+  regional and global level. See: </p>
 
   <p>United Nations, Department of Economic and Social Affairs, Population
-  Division (2020). World Contraceptive Use 2020. New York: United Nations.</p>
+  Division (2021). World Contraceptive Use 2021. New York: United Nations.
+  (https://www.un.org/development/desa/pd/data/world-contraceptive-use)</p>
 
   <p>United Nations, Department of Economic and Social Affairs, Population
-  Division (2020). Estimates and Projections of Family Planning Indicators 2020.
-  New York: United Nations. </p>
+  Division (2021). Estimates and Projections of Family Planning Indicators 2021.
+  New York: United Nations.
+  (https://www.un.org/development/desa/pd/data/family-planning-indicators)</p>
+
+  <p>The data are also available in the interactive data portal of the
+  Population Division (https://population.un.org/dataportal/home)</p>
 DATA_SOURCE: >-
-  <h1>Data providers</h1>
-
   <p>Survey data are obtained from national household surveys that are
   internationally coordinated&#x2014;such as the Demographic and Health Surveys
   (DHS), the Reproductive Health Surveys (RHS), and the Multiple Indicator
-  Cluster Surveys (MICS)&#x2014;and other nationally-sponsored surveys.
-  Systematic searches of these international survey programmes, survey databases
-  (e.g., the Integrated Household Survey Network (IHSN) database), SDG national
-  reporting platforms and ad hoc queries in addition to utilization of the
-  country-specific responses to questionnaires on data administered by UNICEF
-  (Country Reporting on Indicators for the Goals (CRING)) and information from
-  UNFPA field offices.</p>
+  Cluster Surveys (MICS), Gender and Generation Surveys (GGS)&#x2014;and other
+  nationally-sponsored surveys. </p>
 COMPILING_ORG: >-
-  <h1>Data compilers</h1>
-
   <p>This indicator is produced at the global level by the Population Division,
   Department of Economic and Social Affairs, United Nations in collaboration
-  with the United Nations Population Fund (UNFPA).</p>
+  with the United Nations Population Fund (UNFPA). </p>
+INST_MANDATE: ''
+OTHER_METHOD: ''
 RATIONALE: >-
-  <h2>Rationale:</h2>
-
   <p>The proportion of demand for family planning satisfied with modern methods
   is useful in assessing overall levels of coverage for family planning
   programmes and services. Access to and use of an effective means to prevent
@@ -146,13 +159,26 @@ RATIONALE: >-
   have the information, education and means to do so. Meeting demand for family
   planning with modern methods also contributes to maternal and child health by
   preventing unintended pregnancies and closely spaced pregnancies, which are at
-  higher risk for poor obstetrical outcomes. Levels of demand for family
-  planning satisfied with modern methods of 75 per cent or more are generally
-  considered high, and values of 50 per cent or less are generally considered as
-  very low.</p>
-REC_USE_LIM: >-
-  <h2>Comments and limitations:</h2>
+  higher risk for poor obstetrical outcomes. </p>
 
+  <p>Levels of demand for family planning satisfied with modern methods of 75
+  per cent or more are generally considered high, and values of 50 per cent or
+  less are generally considered as very low. The indicator has no global
+  numerical &#x2018;target&#x2019; value set to be achieved by 2030. Looking at
+  the highest values of the indicator, in 22 countries representing regions such
+  as Europe and Northern America, Latin America and the Caribbean and Eastern
+  and South-Eastern Asia, more than 85 per cent of women who want to avoid
+  pregnancy are using a modern contraceptive method but for no country is this
+  estimate above 91 per cent. Even in these countries, specific sub-populations
+  (for example, adolescents or the poor) can still face barriers to access to
+  family planning information and services. It should also be recognized that
+  reaching 100 per cent may not be a necessary or even desirable outcome with
+  respect to reproductive rights. Some women may prefer to use a traditional
+  method, even while having access to a full range of modern methods and being
+  aware of the typical differences in effectiveness of methods in preventing
+  pregnancies. Other women might have ambivalent preferences regarding their
+  next pregnancy which may influence their contraceptive choice.</p>
+REC_USE_LIM: >-
   <p>Differences in the survey design and implementation, as well as differences
   in the way survey questionnaires are formulated and administered can affect
   the comparability of the data. The most common differences relate to the range
@@ -160,7 +186,7 @@ REC_USE_LIM: >-
   or union status) of the persons for whom contraceptive prevalence is estimated
   (base population). The time frame used to assess contraceptive prevalence can
   also vary. In most surveys there is no definition of what is meant by
-  &#x201C;currently using&#x201D; a method of contraception.</p>
+  &#x201C;currently using&#x201D; a method of contraception. </p>
 
   <p>In some surveys, the lack of probing questions, asked to ensure that the
   respondent understands the meaning of the different contraceptive methods, can
@@ -168,7 +194,9 @@ REC_USE_LIM: >-
   traditional methods. Sampling variability can also be an issue, especially
   when contraceptive prevalence is measured for a specific subgroup (by
   age-group, level of educational attainment, place of residence, etc.) or when
-  analysing trends over time.</p>
+  analysing trends over time. </p>
+
+  <p> </p>
 
   <p>When data on women aged 15 to 49 are not available, information for married
   or in-union women is reported. Illustrations of base populations that are
@@ -177,12 +205,8 @@ REC_USE_LIM: >-
   data set indicate any differences between the data presented and the standard
   definitions of contraceptive prevalence or unmet need for family planning or
   where data pertain to populations that are not representative of women of
-  reproductive age.</p>
+  reproductive age. </p>
 DATA_COMP: >-
-  <h1>Methodology</h1>
-
-  <h2>Computation method:</h2>
-
   <p>The numerator is the percentage of women of reproductive age (15-49 years
   old) who are currently using, or whose partner is currently using, at least
   one modern contraceptive method. The denominator is the total demand for
@@ -190,19 +214,49 @@ DATA_COMP: >-
   unmet need for family planning).</p>
 
   <p><img
-  src="data:image/png;base64,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fLjzeZEbbrghxLreeeedECu3a9eu7KabbgpT+fS7GzZsCFNdx44dC7HLXnjhhRDLstkLtcrlil/Pd999N8SK6TubN28OU8344x//GGJdTz/9dIiVe+SRR7LZi8EwlWV/+tOfQmx0Zi+kQyzLZi9EszNnzoSpyw4dOhRiWSe92j6R3W7WkSNHQqzr7rvvDrHLRplvy5Yty1555ZUwle9rX/taiHVt3bp1Ttn1brvtthCbu86R8u/ixYthKsv+9V//NcSKab+55557wlR62Xjrrbcq950HH3wwxLrytnmqpUuX9pSHsnTa7e333d/85jch1uv1118PsW69oN+rojKtuqnMunXrQqzrb3/7W4j1eu2110KsW/ZV9lL4svznP/85xIavrK4v8/vf/z7pu6Msz3nee++9EOt6+OGHQ6z9UvM4z/T0dOmxPzp//nz26quvhqnu/pDym/fff3+IZdn777/fWU4VnY9U1ZG+Xv373/8eYqOlPLBp1TqePHkyTPXSuu/evTtMZZXrOC5XXHFFiHUdOHAgxEajybpW5x/RlVdeGWL57rjjjhAbvS984QshNhzjPMcf5vHOnx+lHDe039nziyL+/OGBBx4IsWLKY3se+fbbb4dYuUHq8FGfn+VRGsrS7/dX5X/VPn7LLbeEWFfeNd4oj0v90nVC1b6kv9n979SpUyHWS9ej9jzpqaeeSlpflUu7/KLrMpuX2kYp1+I//vGPw9TgtB3sPq00p5yfKB3KC8uf0wHRIG3mQ+0EpUEZADBf0AGNyF9o6OJq//79Yaq9fGNGiqoLry9/+cshVs8Xv/jFECv31a9+NcS6PvrooxC7TPkf+UaAIv6i78MPPwyxYqkdbXXYBn01qqRcCIq2i+1E08XuMC/w8/gG6jfeeCPELrONQ2qU+s53vhOmihslbGNaUWPHKPNt+fLllfuBV9UQK7feemuIFfPl0jcyFbENS3b/KJNy84D36aefhlh/7P6qbVHUsWC3tzquVC6ivE4x38hiy10Z3yCXIq+RSb9v812deKllyJfl48ePh1g7pTZgySjLc57//u//DrEuWxe0WZ08zpN6887HH38cYl2+ji/izy38cvL0cz5y9uzZEBu9hx56KMS6flNw84U/Dj722GMh1i6q79VwH23ZsqVzjG6646RIU3Wt2A6pKqk36s1H4zrHH/bx7s033wyx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"></p>
-IMPUTATION: >-
-  <h2>Treatment of missing values:</h2>
+  src="data:image/png;base64,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"></p>
+DATA_VALIDATION: >-
+  <p>For surveys with microdata sets available, the indicators are calculated
+  following the definitions and concepts described above. These results are
+  compared with the indicators published in survey reports, SDG national
+  reporting platforms, or obtained from ad hoc queries. In some cases of
+  discrepancies, the results are consulted with the national institutions that
+  conducted the survey.</p>
 
+  <p>For model-based estimates and projections, out-of-sample validation methods
+  are described in Kantorov&#xE1; V., M. Wheldon, P. Ueffing., A. N. Z. Dasgupta
+  (2020). Estimating progress towards meeting women&#x2019;s contraceptive needs
+  in 185 countries: A Bayesian hierarchical modelling study. PLoS Medicine
+  17(2):e1003026. </p>
+ADJUSTMENT: >-
+  <p>Generally, there is no discrepancy between data presented and data
+  published in survey reports. However, some published national data have been
+  adjusted by the Population Division to improve comparability. Notes are used
+  in the data set to indicate when adjustments were made and where data differed
+  from standard definitions. Surveys might differ in the classification of
+  modern and traditional methods. To improve comparability of data over time and
+  across countries, method classifications used in some survey are adjusted to
+  follow the classification described above. </p>
+
+  <p>The global indicator represents all women of reproductive age. Some survey
+  estimates represent women who are married or in a union and this is indicated
+  in a note. </p>
+IMPUTATION: >-
   <ul>
-    <li><strong><em>At country level:</em></strong></li>
+    <li>At country level </li>
   </ul>
 
   <p>There is no attempt to provide estimates for individual countries or areas
-  when country or area data are not available.</p>
+  when country or area data are not available. </p>
+
+  <p>For the analytical and comparative purposes, the country-level model-based
+  estimates and projections are generated using a Bayesian hierarchical model
+  (see references below).</p>
+
+  <p> </p>
 
   <ul>
-    <li><strong><em>At regional and global levels:</em></strong></li>
+    <li>At regional and global levels </li>
   </ul>
 
   <p>In order to generate regional and global estimates for any given reference
@@ -214,129 +268,152 @@ IMPUTATION: >-
   need for family planning between 1990 and 2015: a systematic and comprehensive
   analysis. The Lancet. Vol. 381, Issue 9878, pp. 1642&#x2013;1652 </p>
 
-  <p>Wheldon M., V. Kantorov&#xE1;, P. Ueffing and A. N. Z. Dasgupta (2018).
-  Methods for estimating and projecting key family planning indicators among all
-  women of reproductive age. United Nations, Department of Economic and Social
-  Affairs, Population Division, Technical Paper No. 2. New York: United
-  Nations.</p>
-
   <p>Kantorov&#xE1; V., M. Wheldon, P. Ueffing., A. N. Z. Dasgupta (2020).
   Estimating progress towards meeting women&#x2019;s contraceptive needs in 185
   countries: A Bayesian hierarchical modelling study. PLoS Medicine
   17(2):e1003026. </p>
 
+  <p> </p>
+
   <p>Country-level, model-based estimates are only used for computing the
   regional and global averages and are not used for global SDG reporting of
-  trends at the country level. The fewer the number of observations for the
-  country of interest, the more its estimates are driven by the experience of
-  other countries, whereas for countries with many observations the results are
-  determined to a greater extent by those empirical observations.</p>
+  trends at the country level. However, the model-based estimates are
+  recommended to be used for analytical and comparative purposes. Since the
+  model takes into account the relationship of family planning indicators -
+  contraceptive use of any, modern and traditional methods, unmet need for
+  family planning &#x2013; the information from surveys that only provide data
+  on contraceptive use (and have no information on unmet need for family
+  planning) is considered as well. The model is providing estimates of the
+  indicator for countries and years without direct survey data by extrapolating
+  underlying trends determined using data across all countries. The model
+  implicitly weights observations from other countries such that higher weights
+  are given to observations from more similar countries. The fewer the number of
+  observations for the country of interest, the more its estimates are driven by
+  the experience of other countries, whereas for countries with many
+  observations the results are determined to a greater extent by those empirical
+  observations. </p>
 REG_AGG: >-
-  <h2>Regional aggregates:</h2>
-
   <p>The Bayesian hierarchical model is used to generate regional and global
   estimates and projections of the indicator. Aggregate estimates and
   projections are weighted averages of the model-based country estimates, using
-  the number of women aged 15-49 for the reference year in each country. Details
-  on the methodology are described in: </p>
+  the number of women aged 15-49 for the reference year in each country. The
+  numbers of women aged 15-49 are taken from United Nations, Department of
+  Economic and Social Affairs, Population Division (2019). World Population
+  Prospects 2019. Numbers of women who are married or in a union are taken from
+  United Nations, Department of Economic and Social Affairs, Population Division
+  (2020). Estimates and Projections of Women of Reproductive Age Who Are Married
+  or in a Union: 2020 Revision. New York: United Nations, which are estimates
+  and projections based on data from United Nations, Department of Economic and
+  Social Affairs, Population Division (2019). World Marriage Data 2019. </p>
 
-  <p>Wheldon, M., V. Kantorov&#xE1;, P. Ueffing and A. N. Z. Dasgupta (2018).
-  Methods for estimating and projecting key family planning indicators among all
-  women of reproductive age. United Nations, Department of Economic and Social
-  Affairs, Population Division, Technical Paper No. 2. New York: United Nations.
-  </p>
+  <p>Details of the methodology are described in: </p>
+
+  <p>Kantorov&#xE1; V., M. C. Wheldon, P. Ueffing., A. N. Z. Dasgupta (2020).
+  Estimating progress towards meeting women&#x2019;s contraceptive needs in 185
+  countries: A Bayesian hierarchical modelling study. PLoS Medicine
+  17(2):e1003026. </p>
 DOC_METHOD: >-
-  <h2>Methods and guidance available to countries for the compilation of the
-  data at the national level:</h2>
+  <p>E-Learning video for SDG indicator 3.7.1 on the website of the Population
+  Division (<a
+  href="https://www.un.org/development/desa/pd/file/10712">https://www.un.org/development/desa/pd/file/10712</a>)</p>
 
-  <p>N.A.</p>
+  <p>Information on the operational definitions and calculations of family
+  planning indicators from surveys, as well as survey questions and statistical
+  programs needed to derive the indicator, can be found at the website of the
+  USAID Demographic and Health Surveys Program:
+  https://dhsprogram.com/topics/Family-Planning.cfm and the website of UNICEF
+  MICS: <a href="https://mics.unicef.org/">https://mics.unicef.org/</a></p>
 QUALITY_MGMNT: >-
-  <h2>Consultation/validation process with countries for adjustments and
-  estimates:</h2>
-
-  <p>The data are taken from published survey reports or, in exceptional cases,
-  other published analytic reports or tabulations obtained from survey micro
-  datasets. If clarification is needed, contact is made with the survey sponsors
-  or authoring organization, which may supply corrected or adjusted estimates in
-  response.</p>
-QUALITY_ASSURE: |-
-  <h2>Quality assurance:</h2>
-  <p>N.A.</p>
+  <p>Detailed guidelines are established for data compilation, data checking,
+  and the production of model-based estimates and projections. Data compilations
+  and model-based estimates and projections of family planning indicators are
+  compliant with the Guidelines for Accurate and Transparent Health Estimates
+  Reporting (GATHER) (http://gather-statement.org/).</p>
+QUALITY_ASSURE: <p>N.A. </p>
+QUALITY_ASSMNT: ''
 COVERAGE: >-
-  <h1>Data availability</h1>
+  <p>Data availability:</p>
 
   <p>Data for the percentage of women of reproductive age (15-49 years) who have
   their need for family planning satisfied with modern methods are available for
-  130 countries or areas for the 2000-2019 time period. For 103 countries or
+  133 countries or areas for the 2000-2020 time period. For 108 countries or
   areas, there are at least two available data points. </p>
 
-  <p>The regional breakdown of data availability is as follows:</p>
+  <p>The regional breakdown of data availability is as follows: </p>
+
+  <p> </p>
 
   <table>
     <tbody>
       <tr>
         <td>
-          <p><strong>World and SDG regions</strong></p>
+          <p><strong>World and SDG regions</strong> </p>
         </td>
         <td>
-          <p><strong>At least one data point</strong></p>
+          <p><strong>At least one data point</strong> </p>
         </td>
         <td>
-          <p><strong>Two or more data points</strong></p>
-        </td>
-      </tr>
-      <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td>
-          <p>WORLD</p>
-        </td>
-        <td>
-          <p>130</p>
-        </td>
-        <td>
-          <p>103</p>
+          <p><strong>Two or more data points</strong> </p>
         </td>
       </tr>
       <tr>
         <td>
-          <p>Northern America and Europe</p>
+          <p> </p>
+        </td>
+        <td>
+          <p> </p>
+        </td>
+        <td>
+          <p> </p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>WORLD </p>
+        </td>
+        <td>
+          <p>133</p>
+        </td>
+        <td>
+          <p>108</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>Northern America and Europe </p>
+        </td>
+        <td>
+          <p>15</p>
+        </td>
+        <td>
+          <p>9</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>Northern America </p>
+        </td>
+        <td>
+          <p>1</p>
+        </td>
+        <td>
+          <p>1</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>Europe </p>
         </td>
         <td>
           <p>13</p>
         </td>
         <td>
-          <p>7</p>
+          <p>8</p>
         </td>
       </tr>
       <tr>
         <td>
-          <p>Northern America</p>
-        </td>
-        <td>
-          <p>1</p>
-        </td>
-        <td>
-          <p>1</p>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <p>Europe</p>
-        </td>
-        <td>
-          <p>12</p>
-        </td>
-        <td>
-          <p>6</p>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <p>Latin America and the Caribbean</p>
+          <p>Latin America and the Caribbean </p>
         </td>
         <td>
           <p>23</p>
@@ -347,7 +424,7 @@ COVERAGE: >-
       </tr>
       <tr>
         <td>
-          <p>Central Asia and Southern Asia</p>
+          <p>Central Asia and Southern Asia </p>
         </td>
         <td>
           <p>13</p>
@@ -358,7 +435,7 @@ COVERAGE: >-
       </tr>
       <tr>
         <td>
-          <p>Central Asia</p>
+          <p>Central Asia </p>
         </td>
         <td>
           <p>4</p>
@@ -369,7 +446,7 @@ COVERAGE: >-
       </tr>
       <tr>
         <td>
-          <p>Southern Asia</p>
+          <p>Southern Asia </p>
         </td>
         <td>
           <p>9</p>
@@ -380,7 +457,7 @@ COVERAGE: >-
       </tr>
       <tr>
         <td>
-          <p>Eastern Asia and South-eastern Asia</p>
+          <p>Eastern Asia and South-eastern Asia </p>
         </td>
         <td>
           <p>11</p>
@@ -391,7 +468,7 @@ COVERAGE: >-
       </tr>
       <tr>
         <td>
-          <p>Eastern Asia</p>
+          <p>Eastern Asia </p>
         </td>
         <td>
           <p>3</p>
@@ -402,7 +479,7 @@ COVERAGE: >-
       </tr>
       <tr>
         <td>
-          <p>South-eastern Asia</p>
+          <p>South-eastern Asia </p>
         </td>
         <td>
           <p>8</p>
@@ -413,7 +490,7 @@ COVERAGE: >-
       </tr>
       <tr>
         <td>
-          <p>Western Asia&#xA0;and Northern Africa</p>
+          <p>Western Asia and Northern Africa </p>
         </td>
         <td>
           <p>17</p>
@@ -424,7 +501,7 @@ COVERAGE: >-
       </tr>
       <tr>
         <td>
-          <p>Western Asia</p>
+          <p>Western Asia </p>
         </td>
         <td>
           <p>11</p>
@@ -435,7 +512,7 @@ COVERAGE: >-
       </tr>
       <tr>
         <td>
-          <p>Northern Africa</p>
+          <p>Northern Africa </p>
         </td>
         <td>
           <p>6</p>
@@ -446,10 +523,65 @@ COVERAGE: >-
       </tr>
       <tr>
         <td>
-          <p>Sub-Saharan Africa</p>
+          <p>Sub-Saharan Africa </p>
         </td>
         <td>
-          <p>44</p>
+          <p>45</p>
+        </td>
+        <td>
+          <p>39</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>Oceania </p>
+        </td>
+        <td>
+          <p>9</p>
+        </td>
+        <td>
+          <p>5</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>Oceania excluding Australia and New Zealand </p>
+        </td>
+        <td>
+          <p>9</p>
+        </td>
+        <td>
+          <p>5</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>Australia and New Zealand </p>
+        </td>
+        <td>
+          <p>0</p>
+        </td>
+        <td>
+          <p>0</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>Landlocked developing countries (LLDCs) </p>
+        </td>
+        <td>
+          <p>30</p>
+        </td>
+        <td>
+          <p>27</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>Least Developed Countries (LDCs) </p>
+        </td>
+        <td>
+          <p>46</p>
         </td>
         <td>
           <p>38</p>
@@ -457,131 +589,99 @@ COVERAGE: >-
       </tr>
       <tr>
         <td>
-          <p>Oceania</p>
-        </td>
-        <td>
-          <p>9</p>
-        </td>
-        <td>
-          <p>3</p>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <p>Oceania excluding Australia and New Zealand</p>
-        </td>
-        <td>
-          <p>9</p>
-        </td>
-        <td>
-          <p>3</p>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <p>Australia and New Zealand</p>
-        </td>
-        <td>
-          <p>0</p>
-        </td>
-        <td>
-          <p>0</p>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <p>Landlocked developing countries (LLDCs)</p>
-        </td>
-        <td>
-          <p>30</p>
-        </td>
-        <td>
-          <p>25</p>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <p>Least Developed Countries (LDCs)</p>
-        </td>
-        <td>
-          <p>45</p>
-        </td>
-        <td>
-          <p>36</p>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <p>Small island developing States (SIDS)</p>
+          <p>Small island developing States (SIDS) </p>
         </td>
         <td>
           <p>26</p>
         </td>
         <td>
-          <p>16</p>
+          <p>18</p>
         </td>
       </tr>
     </tbody>
   </table>
 
-  <h2>Disaggregation:</h2>
+  <p>Time series:</p>
+
+  <p>Disaggregation:</p>
 
   <p>Age, marital status, geographic location, socioeconomic status and other
-  categories, depending on the data source and number of observations.</p>
+  categories, depending on the data source and number of observations. </p>
 COMPARABILITY: >-
-  <h2>Sources of discrepancies:</h2>
-
   <p>Generally, there is no discrepancy between data presented and data
   published in survey reports. However, some published national data have been
   adjusted by the Population Division to improve comparability. Notes are used
   in the data set to indicate when adjustments were made and where data differed
-  from standard definitions. The global indicator represents all women of
-  reproductive age. Some survey estimates represent women who are married or in
-  a union and this is indicated in a note.</p>
+  from standard definitions. Surveys might differ in the classification of
+  modern and traditional methods. To improve comparability of data over time and
+  across countries, method classifications used in some surveys are adjusted to
+  follow the classification described above. </p>
+
+  <p>The global indicator represents all women of reproductive age. Some survey
+  estimates represent women who are married or in a union and this is indicated
+  in a note. </p>
 OTHER_DOC: >-
-  <h1>References</h1>
+  <p><strong>URL: </strong></p>
 
-  <h2>URL:</h2>
+  <p>https://www.un.org/development/desa/pd/;
+  https://population.un.org/dataportal/home; https://www.unfpa.org/data </p>
 
-  <p><a
-  href="http://www.un.org/en/development/desa/population">http://www.un.org/en/development/desa/population</a>/;
-  <a
-  href="https://population.un.org/dataportalng/home">https://population.un.org/dataportalng</a>;
-  <a
-  href="file:///\\unhq.un.org\Shared\UNSD\SSB\SDGs\SDG%20Database\5.%20SDG%20metadata%20files\7.%20Updates,%20changes%20-%20July2017%20-%20Present\Metadata-03.07.01%20-%20MR\www.UnfpaOpendata.org">www.UnfpaOpendata.org</a></p>
+  <p> </p>
 
-  <h2>References:</h2>
+  <p><strong>References:</strong> </p>
 
   <p>United Nations, Department of Economic and Social Affairs, Population
-  Division (2020). World Contraceptive Use 2020. See also methodology with
-  technical details available at</p>
-
-  <p>(<a
-  href="http://www.un.org/en/development/desa/population/publications/dataset/contraception/wcu2020.asp">http://www.un.org/en/development/desa/population/publications/dataset/contraception/wcu2020.asp</a>)</p>
+  Division (2019). World Population Prospects 2019. (<a
+  href="https://population.un.org/wpp/">https://population.un.org/wpp/</a>)</p>
 
   <p>United Nations, Department of Economic and Social Affairs, Population
-  Division (2020). Estimates and Projections of Family Planning Indicators 2020.
-  New York: United Nations.</p>
+  Division (2019). World Marriage Data 2019.
+  (https://www.un.org/development/desa/pd/data/world-marriage-data)</p>
 
-  <p>Alkema, LA and others (2013). National, regional, and global rates and
+  <p>United Nations, Department of Economic and Social Affairs, Population
+  Division (2020). Estimates and Projections of Women of Reproductive Age Who
+  Are Married or in a Union: 2020 Revision. New York: United Nations.</p>
+
+  <p>United Nations, Department of Economic and Social Affairs, Population
+  Division (2021). World Contraceptive Use 2021. See also methodology with
+  technical details available at </p>
+
+  <p>(https://www.un.org/development/desa/pd/data/world-contraceptive-use) </p>
+
+  <p> </p>
+
+  <p>United Nations, Department of Economic and Social Affairs, Population
+  Division (2021). Estimates and Projections of Family Planning Indicators 2021.
+  New York: United Nations. (<a
+  href="https://www.un.org/development/desa/pd/data/family-planning-indicators">https://www.un.org/development/desa/pd/data/family-planning-indicators</a>)</p>
+
+  <p>United Nations Department of Economic and Social Affairs, Population
+  Division (2020). World Family Planning 2020 Highlights: Accelerating action to
+  ensure universal access to family planning. (<a
+  href="https://www.un.org/development/desa/pd/themes/family-planning">https://www.un.org/development/desa/pd/themes/family-planning</a>)</p>
+
+  <p>United Nations Department of Economic and Social Affairs, Population
+  Division (2020). E-Learning for SDG indicator 3.7.1.
+  (https://www.un.org/development/desa/pd/themes/family-planning)</p>
+
+  <p> Alkema, LA and others (2013). National, regional, and global rates and
   trends in contraceptive prevalence and unmet need for family planning between
   1990 and 2015: A systematic and comprehensive analysis. The Lancet, Volume
-  381, Issue 9878, pp. 1642-1652. See also webappendix with technical details
-  available at <a
-  href="http://www.un.org/en/development/desa/population/theme/family-planning/index.shtml"><u>http://www.un.org/en/development/desa/population/theme/family-planning/index.shtml</u></a>
-  </p>
+  381, Issue 9878, pp. 1642-1652. </p>
+
+  <p> </p>
 
   <p>Bradley and others (2012). Revising Unmet Need for Family Planning. DHS
   Analytical Studies No. 25, Calverton, Maryland: ICF International. <a
-  href="http://dhsprogram.com/pubs/pdf/AS25/AS25%5b12June2012%5d.pdf"><u>http://dhsprogram.com/pubs/pdf/AS25/AS25[12June2012].pdf</u></a></p>
+  href="http://dhsprogram.com/pubs/pdf/AS25/AS25%5b12June2012%5d.pdf"
+  target="_blank"><u>http://dhsprogram.com/pubs/pdf/AS25/AS25[12June2012].pdf</u></a>
+  </p>
 
-  <p>Handbook on Indicators for Monitoring the Millennium Development Goals,
-  United Nations, </p>
+  <p> </p>
 
-  <p><a
-  href="http://mdgs.un.org/unsd/mi/wiki/MainPage.ashx"><u>http://mdgs.un.org/unsd/mi/wiki/MainPage.ashx</u></a></p>
+  <p> </p>
 
-  <p>Kantorov&#xE1; V., M. Wheldon, P. Ueffing., A. N. Z. Dasgupta (2020).
+  <p>Kantorov&#xE1; V., M. C. Wheldon, P. Ueffing., A. N. Z. Dasgupta (2020).
   Estimating progress towards meeting women&#x2019;s contraceptive needs in 185
   countries: A Bayesian hierarchical modelling study. PLoS Medicine
   17(2):e1003026. </p>
@@ -589,23 +689,23 @@ OTHER_DOC: >-
   <p>Monitoring progress in family planning. FP2020 core indicators. Glastonbury
   (CT): Track20 </p>
 
-  <p><a
-  href="http://www.track20.org/pages/data/indicators"><u>http://www.track20.org/pages/data/indicators</u></a></p>
+  <p><a href="http://www.track20.org/pages/data/indicators"
+  target="_blank"><u>http://www.track20.org/pages/data/indicators</u></a> </p>
 
-  <p>Wheldon, M and others (2018). Methods for estimating and projecting key
-  family planning indicators among all women of reproductive age. United
-  Nations, Department of Economic and Social Affairs, Population Division,
-  Technical Paper No. 2. New York: United Nations. <a
-  href="https://www.un.org/en/development/desa/population/publications/technical/index.shtml">https://www.un.org/en/development/desa/population/publications/technical/index.shtml</a></p>
+  <p>World Health Organization (2020). Family planning/contraception methods. <a
+  href="https://www.who.int/news-room/fact-sheets/detail/family-planning-contraception">https://www.who.int/news-room/fact-sheets/detail/family-planning-contraception</a>
+  </p>
 
-  <p>World Health Organization (2011). Monitoring maternal, newborn and child
-  health: understanding key progress indicators. Geneva: WHO. <a
-  href="http://www.who.int/entity/healthmetrics/news/monitoring_maternal_newborn_child_health.pdf"><u>http://www.who.int/entity/healthmetrics/news/monitoring_maternal_newborn_child_health.pdf</u></a></p>
+  <p>World Health Organization (2020). World Health Statistics 2020.
+  <u>https://www.who.int/data/gho/publications/world-health-statistics</u></p>
 
-  <p>World Health Organization (2015). Global Reference List of 100 Core Health
-  Indicators, 2015: Metadata, <a
-  href="http://www.who.int/healthinfo/indicators/2015/chi_2015_74_family_planning.pdf?ua=1"><u>http://www.who.int/healthinfo/indicators/2015/chi_2015_74_family_planning.pdf?ua=1</u></a></p>
+  <p>Every Woman Every Child (2016). Commitments to Every Woman Every
+  Child&#x2019;s Global Strategy for Women&#x2019;s Children&#x2019;s and
+  Adolescents&#x2019; Health (2016-2030),
+  https://www.everywomaneverychild.org/global-strategy/</p>
 
-  <p>World Health Organization (2015). Global Reference List of 100 Core Health
-  Indicators, 2015: Metadata, <a
-  href="http://www.who.int/healthinfo/indicators/2015/chi_2015_74_family_planning.pdf?ua=1">http://www.who.int/healthinfo/indicators/2015/chi_2015_74_family_planning.pdf?ua=1</a></p>
+  <p> </p>
+
+  <p>Every Woman Every Child (2020). United Nations EWEC 2020 Progress Report
+  &#x2013; Protect the Progress: Rise, Refocus, Recover.
+  https://protect.everywomaneverychild.org/</p>

@@ -1,3 +1,4 @@
+SDG_INDICATOR_INFO: ''
 SDG_GOAL: >-
   <p>Goal 15: Protect, restore and promote sustainable use of terrestrial
   ecosystems, sustainably manage forests, combat desertification, and halt and
@@ -10,10 +11,16 @@ SDG_INDICATOR: >-
   <p>Indicator 15.6.1: Number of countries that have adopted legislative,
   administrative and policy frameworks to ensure fair and equitable sharing of
   benefits</p>
-META_LAST_UPDATE: '<p>Last updated: 31 May 2018</p>'
+SDG_SERIES_DESCR: |-
+  <ol>
+    <li>Countries that are contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES; 0 = NO) ER_CBD_PTYPGRFA</li>
+    <li>Countries that are parties to the Nagoya Protocol (1 = YES; 0 = NO) ER_CBD_NAGOYA</li>
+    <li>Countries that have legislative, administrative and policy framework or measures reported through the Online Reporting System on Compliance of the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES; 0 = NO) ER_CBD_ORSPGRFA</li>
+    <li>Countries that have legislative, administrative and policy framework or measures reported to the Access and Benefit-Sharing Clearing-House (1 = YES; 0 = NO) ER_CBD_ABSCLRHS</li>
+    <li>Total reported number of Standard Material Transfer Agreements (SMTAs) transferring plant genetic resources for food and agriculture to the country (number) <strong>ER_CBD_SMTA</strong></li>
+  </ol>
+META_LAST_UPDATE: <p>12 February 2021</p>
 SDG_RELATED_INDICATORS: >-
-  <h1>Related indicators as of February 2020</h1>
-
   <p>N/A</p>
 
   <p>An indicator on numbers of permits and numbers of Material Transfer
@@ -21,16 +28,19 @@ SDG_RELATED_INDICATORS: >-
 
   <p>In relation to the International Treaty, the total number of Standard
   Material Transfer Agreements (SMTAs) transferring plant genetic resources for
-  food and agriculture to the country is as of 1 February 2018. (Cumulative
-  figures).</p>
-SDG_CUSTODIAN_AGENCIES: |-
-  <h1>Institutional information</h1>
-  <h2>Organization(s):</h2>
-  <p>Secretariat of the Convention on Biological Diversity (CBD)</p>
+  food and agriculture to the country is a cumulative figure.</p>
+SDG_CUSTODIAN_AGENCIES: <p>Secretariat of the Convention on Biological Diversity (CBD)</p>
+CONTACT: ''
+CONTACT_ORGANISATION: <p>Secretariat of the Convention on Biological Diversity (CBD)</p>
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <h1>Concepts and definitions</h1>
-
-  <h2>Definition:</h2>
+  <p><strong>Definition</strong></p>
 
   <p>The indicator is defined as the number of countries that have adopted
   legislative, administrative and policy frameworks to ensure fair and equitable
@@ -68,43 +78,79 @@ STAT_CONC_DEF: >-
   Multilateral System is instrumental to achieving the conservation and
   sustainable use of plant genetic resources as well as the fair and equitable
   sharing of benefits arising from their use. </p>
-SOURCE_TYPE: >-
-  <h1>Data sources</h1>
+UNIT_MEASURE: >-
+  <p>For data series ER CBD PTYPGRFA, ER CBD NAGOYA, ER CBD ORSPGRFA, CBD
+  ABSCLRHS the unit of measurement is number of countries.</p>
 
+  <p>For data series ER CBD SMTA the unit of measurement is number of SMTAs.</p>
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
   <p>The Access and Benefit-sharing Clearing-House home page: <a
-  href="http://absch.cbd.int">http://absch.cbd.int</a></p>
+  href="http://absch.cbd.int"><u>http://absch.cbd.int</u></a></p>
 
   <p>The Online Reporting System on Compliance of the International Treaty on
-  PGRFA, <a
-  href="http://faoitpgrfa.ort-production.linode.unep-wcmc.org">http://faoitpgrfa.ort-production.linode.unep-wcmc.org</a></p>
+  PGRFA,
+  http://www.fao.org/plant-treaty/areas-of-work/compliance/compliance-reports/en/</p>
 
-  <p>Easy-SMTA, <a
-  href="https://mls.planttreaty.org">https://mls.planttreaty.org</a></p>
-FREQ_COLL: |-
-  <h1>Calendar</h1>
-  <h2>Data collection:</h2>
+  <p>Easy-SMTA, https://mls.planttreaty.org</p>
+COLL_METHOD: |-
   <p>Ongoing.</p>
+  <p> </p>
+FREQ_COLL: >-
+  <p>Data for the International Treaty is provided as of 1 February every year,
+  to meet the SDGs annual reporting requirement.</p>
 REL_CAL_POLICY: >-
-  <h2>Data release:</h2>
-
   <p>First data set can be made available by the SCBD in 2016.</p>
 
-  <p>For the data related to the International Treaty, the updated data was
-  provided as of 1 February 2018. </p>
+  <p>For the data related to the International Treaty, the latest data was
+  provided as of 1 February 2021. </p>
 DATA_SOURCE: >-
-  <h1>Data providers</h1>
-
   <p>Publishing authorities for the ABS Clearing-House as designated by the CBD
   national focal points or the ABS focal points. Publishing authorities for the
   Online Reporting System on compliance of the International Treaty on PGRFA are
   the officially nominated national focal points or nominated reporting
   authorities.</p>
-COMPILING_ORG: |-
-  <h1>Data compilers</h1>
-  <p>CBD and International Treaty Secretariats.</p>
-RATIONALE: >-
-  <h2>Rationale and interpretation:</h2>
+COMPILING_ORG: <p>CBD and International Treaty Secretariats.</p>
+INST_MANDATE: >-
+  <p>The ABS Clearing-House is a platform for exchanging information on access
+  and benefit-sharing established by Article 14 of the Protocol, The ABS
+  Clearing-House is a key tool for facilitating the implementation of the Nagoya
+  Protocol, by enhancing legal certainty and transparency on procedures for
+  access, and for monitoring the utilization of genetic resources along the
+  value chain. The Protocol requires Parties to make information on legislative,
+  administrative and policy measures available to the ABS Clearing-House.
+  Non-Parties are also encouraged to make this information available in the same
+  manner.</p>
 
+  <p>In order to promote compliance with all the provisions of the International
+  Treaty, including access and benefit sharing obligations, and to address
+  issues of non-compliance, the Governing Body of the International Treaty has
+  approved the procedures and operational mechanisms by Resolution 2/2011. Under
+  V. 1, it is noted that each Contracting Party is to submit to the Compliance
+  Committee, established by the Governing Body by Resolution 3/2006, through the
+  Secretary, a report on the measures it has taken to implement its obligations
+  under the International Treaty in one of the six languages of the United
+  Nations. Contracting Parties have submitted their report by using a standard
+  reporting format approved by the Governing Body, sending it to the Secretary.
+  The Secretariat of the International Treaty prepares an analysis of reports
+  received from Contracting Parties for consideration by the Compliance
+  Committee. </p>
+
+  <p>Relevant Resolutions of the Governing Body: <a
+  href="http://www.fao.org/3/a-be452e.pdf">http://www.fao.org/3/a-be452e.pdf</a>
+  (Resolution 2/2011); <a
+  href="http://www.fao.org/3/a-mn566e.pdf">http://www.fao.org/3/a-mn566e.pdf</a>
+  (Resolution 9/2013)</p>
+
+  <p>Regarding the number of SMTA, the Secretariat of the International Treaty
+  has developed a system called &#x201C;Easy-SMTA&#x201D; (the link provided
+  under 3.as Data sources) to assist users of plant genetic resources with
+  compiling and generating SMTAs in the six official languages of the
+  International Treaty and reporting on SMTAs concluded in accordance with the
+  instructions made by the Governing Body of the International Treaty.</p>
+OTHER_METHOD: ''
+RATIONALE: >-
   <p>The Nagoya Protocol, to be operational, requires that certain enabling
   conditions are met at the national level for its effective implementation. In
   particular, countries will need, depending on their specific circumstances, to
@@ -167,8 +213,6 @@ RATIONALE: >-
   International Treaty in relation to plant genetic resources for food and
   agriculture. </p>
 REC_USE_LIM: >-
-  <h2>Comments and limitations:</h2>
-
   <p>This indicator can be used to measure progress in adopting ABS legislative,
   administrative and policy frameworks over time.</p>
 
@@ -185,18 +229,44 @@ REC_USE_LIM: >-
   on Compliance of the International Treaty in relation to plant genetic
   resources for food and agriculture.</p>
 DATA_COMP: >-
-  <h1>Methodology</h1>
-
-  <h2>Computation method:</h2>
-
   <p>Summation of information made available by each Party to the Convention on
   Biological Diversity and to the International Treaty related to:</p>
 
   <ul>
     <li>ABS legislative, administrative or policy measures made available to the ABS Clearing-House and to the Online Reporting System on Compliance of the International Treaty in relation to plant genetic resources for food and agriculture (y/n); </li>
   </ul>
+DATA_VALIDATION: >-
+  <p>https://absch.cbd.int/countries</p>
+
+  <p>Contracting Parties of the International Treaty:
+  http://www.fao.org/plant-treaty/countries/membership/en/</p>
+
+  <p>National Reports of the International Treaty:
+  http://www.fao.org/plant-treaty/areas-of-work/compliance/compliance-reports/en/</p>
+
+  <p>Standard Material Transfer Agreement (SMTA):
+  https://mls.planttreaty.org</p>
+ADJUSTMENT: ''
+IMPUTATION: >-
+  <p>&#x2022; At country level</p>
+
+  <p>Regarding the number of SMTA, the data is the number of SMTA reported
+  through the online system of the International Treaty (Easy-SMTA) for each
+  country, while the actual number of SMTA issued (signed) could be higher, as
+  all SMTAs signed may not be reported through the online system and therefore
+  not recorded. SMTA is a private contract, therefore it is reported by users,
+  not by a government focal point. Users have also a two-year period for
+  reporting their SMTAs, and therefore the number reported for a specific year
+  would be fixed in two years (may also change during the two years). </p>
+
+  <p>&#x2022; At regional and global levels</p>
+REG_AGG: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
 COVERAGE: >-
-  <h1>Data availability</h1>
+  <p>Data availability:</p>
 
   <p>For 196 Parties to the Convention on Biological Diversity.</p>
 
@@ -204,18 +274,20 @@ COVERAGE: >-
   ABS legislative, administrative or and policy measures available to the ABS
   Clearing-</p>
 
-  <p>For 144 countries that have ratified, accepted, approved or acceded to the
-  International Treaty on Plant Genetic Resources for Food and Agriculture (as
-  of 1 February 2018)</p>
+  <p>For 148 Contracting Parties that have ratified, accepted, approved or
+  acceded to the International Treaty on Plant Genetic Resources for Food and
+  Agriculture (as of 1 February 2021)</p>
 
-  <h2>Disaggregation:</h2>
+  <p>Time series:</p>
+
+  <p>Disaggregation:</p>
 
   <p>Data are provided by countries (or regional integration entities), and can
   be displayed by country, regional group, membership to a specific regional
   organization, and/or by their status as Parties or non-Parties to the Protocol
   and to the International Treaty.</p>
 COMPARABILITY: >-
-  <h2>Sources of discrepancies:</h2>
+  <p>Sources of discrepancies:</p>
 
   <p>Reliability of the indicator is dependent on countries making information
   available to the ABS Clearing-House of the Nagoya Protocol and to the Online
@@ -246,19 +318,18 @@ COMPARABILITY: >-
   preparation of the <em>State of the World&#x2019;s Plant Genetic Resources for
   Food and Agriculture</em>. </p>
 OTHER_DOC: >-
-  <h1>References</h1>
-
   <p>Text of the Nagoya Protocol on Access to Genetic Resources and the Fair and
   Equitable Sharing of Benefits Arising from their Utilization to the Convention
   on Biological Diversity: <a
-  href="https://www.cbd.int/abs/text/default.shtml">https://www.cbd.int/abs/text/default.shtml</a>
+  href="https://www.cbd.int/abs/text/default.shtml"><u>https://www.cbd.int/abs/text/default.shtml</u></a>
   </p>
 
-  <p>The Access and Benefit-sharing Clearing-House: http://absch.cbd.int </p>
+  <p>The Access and Benefit-sharing Clearing-House: <a
+  href="http://absch.cbd.int"><u>http://absch.cbd.int</u></a> </p>
 
   <p>International Treaty on Plant Genetic Resources for Food and Agriculture,
   <a
-  href="http://www.fao.org/3/a-i0510e.pdf">http://www.fao.org/3/a-i0510e.pdf</a></p>
+  href="http://www.fao.org/3/a-i0510e.pdf"><u>http://www.fao.org/3/a-i0510e.pdf</u></a></p>
 
   <p>Data Store of the International Treaty on PGRFA, Easy-SMTA, <a
-  href="https://mls.planttreaty.org">https://mls.planttreaty.org</a></p>
+  href="https://mls.planttreaty.org"><u>https://mls.planttreaty.org</u></a></p>

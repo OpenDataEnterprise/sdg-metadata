@@ -1,37 +1,41 @@
+SDG_INDICATOR_INFO: ''
 SDG_GOAL: >-
   <p>Goal 4: Ensure inclusive and equitable quality education and promote
   lifelong learning opportunities for all</p>
 SDG_TARGET: >-
   <p>Target 4.1: By 2030, ensure that all girls and boys complete free,
   equitable and quality primary and secondary education leading to relevant and
-  effective learning outcomes </p>
+  effective learning outcomes</p>
 SDG_INDICATOR: >-
   <p>Indicator 4.1.2: Completion rate (primary education, lower secondary
   education, upper secondary education)</p>
-META_LAST_UPDATE: '<p>Last updated: 27 April 2020</p>'
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: <p>27 April 2020</p>
 SDG_RELATED_INDICATORS: >-
-  <h1>Related indicators</h1>
-
   <p>Combined with SDG indicator 4.1.1 &#x2013; proportion of children and young
   people (a) in Grade 2 or 3; (b) at the end of primary education; and (c) at
   the end of lower secondary education achieving at least a minimum proficiency
   level in (i) reading and (ii) mathematics &#x2013; the completion rate can
   provide information on the percentage of children in a given cohort who
   achieve minimum proficiency in reading and mathematics.</p>
-SDG_CUSTODIAN_AGENCIES: |-
-  <h1>Institutional information</h1>
-  <h2>Organization(s):</h2>
-  <p>UNESCO Institute for Statistics</p>
+SDG_CUSTODIAN_AGENCIES: <p>UNESCO Institute for Statistics</p>
+CONTACT: ''
+CONTACT_ORGANISATION: <p>UNESCO Institute for Statistics</p>
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <h1>Concepts and definitions</h1>
-
-  <h2>Definition:</h2>
+  <p>Definition:</p>
 
   <p>Percentage of a cohort of children or young people aged 3-5 years above the
   intended age for the last grade of each level of education who have completed
-  that grade. </p>
+  that grade.</p>
 
-  <h2>Concepts:</h2>
+  <p>Concepts:</p>
 
   <p>The intended age for the last grade of each level of education is the age
   at which pupils would enter the grade if they had started school at the
@@ -43,11 +47,10 @@ STAT_CONC_DEF: >-
   grade of primary education is 11 years. In this case, 14-16 years (11 + 3 = 14
   and 11 + 5 = 16) would be the reference age group for calculation of the
   primary completion rate.</p>
+UNIT_MEASURE: ''
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <h1>Data sources</h1>
-
-  <h2>Description:</h2>
-
   <p>The data can be obtained from population censuses and household surveys
   that collect information on the highest level of education completed by
   children and young people in a household. Typical questions in a survey to
@@ -63,8 +66,6 @@ SOURCE_TYPE: >-
   Income and Living Condition (EU-SILC), the Integrated Public Use Microdata
   Series (IPUMS), and national household surveys and censuses.</p>
 COLL_METHOD: >-
-  <h2>Collection process:</h2>
-
   <p>Data from all publicly available household surveys and censuses with the
   required information are compiled and used to calculate the completion rate.
   For international comparability, national data are mapped to the International
@@ -75,36 +76,26 @@ COLL_METHOD: >-
   National Statistical Offices, Ministries of Education or other relevant
   agencies in individual countries for their review and feedback.</p>
 FREQ_COLL: >-
-  <h1>Calendar</h1>
-
-  <h2>Data collection:</h2>
-
   <p>Household survey and census datasets are publicly available from the
   sources described above.</p>
 REL_CAL_POLICY: >-
-  <h2>Data release:</h2>
-
   <p>Completion rates are released twice per year by the UNESCO Institute for
   Statistics, around February and September.</p>
 DATA_SOURCE: >-
-  <h1>Data providers</h1>
-
   <p>Household survey and census datasets are publicly available from the
   sources described above.</p>
-COMPILING_ORG: |-
-  <h1>Data compilers</h1>
-  <p>UNESCO Institute for Statistics.</p>
+COMPILING_ORG: <p>UNESCO Institute for Statistics.</p>
+INST_MANDATE: ''
+OTHER_METHOD: ''
 RATIONALE: >-
-  <h2>Rationale:</h2>
-
   <p>The indicator is explicitly referenced in the text of target 4.1:
-  &#x2018;<em>ensure that all girls and boys complete [&#x2026;] primary and
-  secondary education</em>&#x2019;. A completion rate at or near 100% indicates
-  that all or most children and adolescents have completed a level of education
-  by the time they are 3 to 5 years older than the official age of entry into
-  the last grade of that level of education. A low completion rate indicates low
-  or delayed entry into a given level of education, high drop-out, high
-  repetition, late completion, or a combination of these factors.</p>
+  &#x2018;ensure that all girls and boys complete [&#x2026;] primary and
+  secondary education&#x2019;. A completion rate at or near 100% indicates that
+  all or most children and adolescents have completed a level of education by
+  the time they are 3 to 5 years older than the official age of entry into the
+  last grade of that level of education. A low completion rate indicates low or
+  delayed entry into a given level of education, high drop-out, high repetition,
+  late completion, or a combination of these factors.</p>
 
   <p>The completion rate can be used either as a self-standing indicator or in
   combination with SDG indicator 4.1.1 (proportion of children and young people
@@ -112,12 +103,9 @@ RATIONALE: >-
   of lower secondary education achieving at least a minimum proficiency level in
   (i) reading and (ii) mathematics). Combining the completion rate with
   indicator 4.1.1 provides information on the percentage of children or young
-  people <em>in a cohort</em> who achieve a minimum level of proficiency, and
-  not only on the percentage of children<em> in school</em> who achieve minimum
-  proficiency.</p>
+  people in a cohort who achieve a minimum level of proficiency, and not only on
+  the percentage of children in school who achieve minimum proficiency.</p>
 REC_USE_LIM: >-
-  <h2>Comments and limitations:</h2>
-
   <p>The age group 3-5 years above the official age of entry into the last grade
   for a given level of education was selected for the calculation of the
   completion rate to allow for some delayed entry or repetition. In countries
@@ -134,46 +122,30 @@ REC_USE_LIM: >-
   approach similar to that used for the estimation of child mortality rates. The
   model would ensure that common challenges with household survey data, such as
   timeliness and sampling or non-sampling errors are addressed to provide
-  up-to-date and more robust data. </p>
+  up-to-date and more robust data.</p>
 DATA_COMP: >-
-  <h1>Methodology</h1>
-
-  <h2>Computation method:</h2>
-
   <p>The number of persons in the relevant age group who have completed the last
   grade of a given level of education is divided by the total population (in the
   survey sample) of the same age group.</p>
 
   <p>Formula:</p>
 
-  <p> <img
-  src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALAAAABPCAMAAAB8rb+gAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAIlUExURf////7+/v39/fn5+bm5uZOTk5KSkpWVlaSkpMvLy/j4+N7e3lRUVFZWVsDAwNjY2LOzs2pqaq2treXl5VVVVXNzc+rq6srKyktLS2xsbNLS0k9PT/b29uPj401NTWFhYdbW1k5OTqqqqvv7+9ra2kxMTGdnZ9/f34mJicbGxvr6+vf39/Pz819fX+bm5mZmZtHR0VdXV2tra29vb2JiYoSEhOLi4rKysn19ffz8/Jqamr29vd3d3ZeXl6CgoMPDw6ampvT09MXFxaGhoZaWlpiYmODg4IiIiFFRUejo6NPT025ubsLCwrS0tK+vr+vr621tbV5eXmhoaKKiosTExFNTU+fn52VlZdXV1VtbW35+fu/v79TU1IaGhoWFhWRkZFlZWb+/v+Hh4XZ2dvX19ZCQkFhYWH9/f46OjvLy8kpKSmBgYMfHx4KCgoqKisHBwb6+vunp6ezs7NDQ0Lu7u9vb26enp1paWnp6eu7u7vHx8ZGRkc/Pz8jIyHBwcICAgHt7e3JycrGxsc7Ozp2dnbW1tYuLi7a2trq6uoGBgZubm9zc3KysrO3t7Xd3d6ioqIODg1xcXJ+fn6urq5mZmVJSUvDw8HR0dMnJybCwsM3NzWlpaZSUlKmpqXV1dWNjY6Ojo7i4uHx8fIeHh7y8vHl5ebe3t1BQUF1dXaWlpeTk5I+Pj3h4eJ6entnZ2dfX166uroyMjI2NjZycnMzMzHFxcQAAAEidQcwAAAC3dFJOU///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////ABGphX4AAAAJcEhZcwAAIdUAACHVAQSctJ0AAAR7SURBVGhD7VpNmqs4DOQQPoEv4Ator7uw1kaX8MpH0QGnJJF+5IVkJvk6gXxDdYdAnIZCLv2Znk6cOHHixIkTJ078PyCD8TNsOTw+aC5C0kpdjg8PLV2nyeaG7VfAZsYWdqY8Pjzq7GKguX0LYS7ubzXs/A3QBi3A6dq3hAkrc2ut8LcIYpLSjewnQhw+VOiYZdmF59XNDCIj3tRTzNh9Jnj+Mao1Fmk3CQQqj6/UNmyEh+4Jam3Zg5oZxG5N2DlySi2YCk3uO4Iizzl0bKcOYfMBLYeIe9TnyyRT67lzDWKiBtuGgfeHOnLXthnVoeS6ZjdzL9f58DI5cQ6N0Ih9/ozObY7rTYogp3bhZa1zLwgTofUa00FmFFR7hI/KMnAfKk1MESW5X93U22BORgeZ8LC61G7aK3Y65MvubsM/doKpIw7ChEyJ2KijmU22qau/oNZL6R6OrDjaS2lLOy7YfMphOHNmjadwRIz4qQdFwSFgXvFS0j7ITa3SXU1BXxifx/nuA1eBSUr4uOctmOelaEmj94HbVpQV4rGjsXWnIrxsueKd3dywY+1uJh9RG64Cd02QN9fHI6RV4hw4a9SK4qJ7GYTzubX8/RYQCUYyu6QkAEK/opeoqP/SvPQ0p8W3UlwIrn7wIiqsi8lW2TYUVC0lnTIJY1YIEYYK4VPOgwe4LmQzi2YT8TcihC1YPtqEy0JY7nxHjaui4vDhGkaCkw4XBrYaLe1DvtrX95P9GTx642+IV7hH5/2wsm4eZR7w3oHtLeBAf/DQCG8FFLEiPOaCYrz9Z/spvQvLBW5xZU3oo6ICfOyka4z5XVgucIsecWyBeqoH600Dq4nhN38uEWixx+8jz38L5SSs8Q2bPZwtPYSHgnU48Cw4L68dl3lSEsjjTq1GzSoR1Dz7GMIBdhNqK9zX2LtBBYkUtbdz1B62zcAxpHBF07Mpjz1hzac48ri0CMMQsdOMXqI/RxgSepxUfgNwHBSwvnepU5Ei8SYzTP+UWBXVD6rZlYw+ilGS9BOAmIzkKnd+DupV9yhPzTCFu+b248hGrI2tLH0PuZCJgiQPPwv13obqU1VOLqrsZOFX0CKaZ3D8BsC06JeRip6ZlT0h3qO16JO/A6j73582fhNXzXbNJXl0RK3tWO8/Aq2ffCHjO0tUVdXkoI8TZBV/ddQsTyK379cBPgJK6z9JRoZ64lmtHh8PqCH6ZeqVTRvoi+vi8arAZfDzk6BKPxdHSq8uhlhDQ2G9ZmPhgYjX8TQk1lapjrHrYygrKDKdphPOGlVRu2afIrkm1tWXO7GppNT4U2usm6AIY77ot1gYxIRNcvGsBmFMhnnHyw0Np+1cfMRi+9SjA4ftvOMiyNvA3gZ3VIDujxwLvF7EYjQWq/YCWlf4W2V2JVSuBC5uVn9hrJUYwTHuKB5/gDHMfaxYzUPVNQJIvEES2gcax/A8KH0ZPQpqV+m1OrvUsPgqPQxbTMzvgQ5mYa0VgSw4ZVjzp7yudPGWFcL5ov8ZOnHixIkTJ058HabpH3abIg4bch7LAAAAAElFTkSuQmCC"></p>
-
   <p>where:</p>
 
-  <p><img
-  src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAvCAMAAACWqWnGAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAGnUExURf///9DQ0Kurq6CgoKampsDAwOnp6cXFxaWlpb29vezs7P7+/v39/eDg4HZ2dlhYWHh4eICAgFpaWk5OTnFxcfX19Xl5eVRUVISEhFNTU2xsbNnZ2WdnZ2FhYcjIyPn5+c/Pz1xcXIuLi/T09IyMjPb29sLCwlFRUfz8/HNzc19fX+3t7Xt7e7S0tO/v73x8fPDw8G5ubmBgYPHx8ZycnFBQUPLy8vj4+OXl5WNjY29vb+fn51JSUmZmZt3d3dfX15CQkNvb21VVVfv7+6Ojo0pKSuLi4srKyvPz839/f0tLS7GxsUxMTLKyssbGxp2dnWRkZMPDw/r6+k9PT9jY2O7u7mhoaJubm2VlZYqKiuHh4Xd3d9bW1ri4uE1NTbOzs1tbW6Ghobm5uebm5szMzL6+vl1dXcHBwZWVlZqamoKCgsTExFdXV21tbbq6usvLy9LS0mlpabW1tdXV1ePj46qqqqioqN7e3omJiY+Pj5mZmbu7u+vr63Jycq6uroODg46Ojra2tpGRkdTU1FlZWc3Nzdzc3OTk5IaGhpSUlNPT09HR0QAAAKvLqGgAAACNdFJOU///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////ANheVWsAAAAJcEhZcwAAIdUAACHVAQSctJ0AAAEKSURBVEhL7ZNBjgMhDATnY/ahJZ7gE1e+YAnB5+OGZJdIGZKcVlpNHRijcYPbwHFx8Q9Rb94tghLBPdyiGbki5QhNIhSIzj9nFJEeOlROKoUFHM8xkcJP9jHOvWRbWkvMjTwOKkOSsZNYWgvXxPJ0X5gP2w880VYGSz3DMpN+yMlLm+ZOCclSlwGC1PbHolid0orlfbuiRauko/228IyHpEVuHCSN+eyXRcFmLzaMI6DXjnGQwsmstVfEdZP8QlMgvcQN468OcGlB7FUM4uYys57RGm1q7HTkgqs2UGOodvibVjyj7EIdd/VTOn0Nix9Tw56ilDdPZ2E8g/BTv5CM5XV72y4u/pjjuAEY7lYTsxTF5AAAAABJRU5ErkJggg==">=
-  completion rate for level n of education</p>
+  <p> completion rate for level n of education</p>
 
-  <p><img
-  src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGsAAAAuCAMAAAAY9BfhAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAHyUExURf////z8/Orq6t3d3d7e3uPj4+/v7/39/fj4+MLCwlhYWFJSUnR0dIiIiH9/f21tbX19fcDAwPr6+mBgYPDw8Ozs7MXFxVlZWWJiYtfX101NTWZmZtzc3HZ2dlBQULS0tMjIyEpKSnd3d/Hx8VFRUf7+/qOjo5eXl+jo6M3NzfX19YaGhvf3956enk5OTvv7+7q6urKyso+Pj2NjY4WFhefn59ra2mRkZI2NjZGRkZCQkJ2dne7u7sbGxlRUVPn5+fPz8+Li4ubm5qqqqra2tnh4eHBwcF5eXnl5efLy8mxsbHNzc4GBgUxMTK6urqWlpYeHh5OTk2pqavT09Lu7u9DQ0O3t7crKyrW1tfb29lxcXMfHx7GxsZmZmYyMjL+/v8zMzG9vb+Tk5KysrKGhoVZWVs/Pz2VlZVpaWunp6WlpacvLy5ycnISEhHV1dZWVlY6OjlNTU+Xl5ZiYmOHh4aenp6CgoKmpqevr68nJyb29vdbW1r6+vtPT05ubm4CAgE9PT9TU1Lm5uV1dXX5+foqKiq2traSkpNnZ2dHR0djY2LOzs87Ozp+fn4uLi7e3t2tra9XV1VdXV3t7e7CwsIODg6+vr8TExHx8fKampqurq7i4uNLS0pqammhoaNvb23FxcW5ubuDg4JaWlsPDwwAAAGf8ar0AAACmdFJOU////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wBGa60oAAAACXBIWXMAACHVAAAh1QEEnLSdAAACCklEQVRYR+1VQY7kMAiMxJkX+BS/A3HhC1yR+P8rtsDpVmZ2eka9u92HVUqK204wZaBwbxcuXLjwRxAqiBzLl8JVJ88x81i/FENdJFXfQbYPwjjV1/KVyH1WrabaWr8SsQdGeUcOhfdKXuhc61dC5u5pPPgNoqehzBH+jv5y5WMGVF9/QSol1H8A63I1JNHS2qr8ABnjmP0l5n73bWqy2SnMBeEbF7lTtnna+n0K0Pox27Kz+fvFaBFaL8XZETnymWE5q1OegrCOo69w/DX5BATqzWX4LgOtkdhCz3NRpt+45pcdBqfG2rcYvItiYDULpPuEJWNJ74kERjG3eHA/yO2SIrDnvQdiRszikhKR7dg9+PgLEvdsb9SXjkxLhrQo1FxyRMQDAcusckUIG/Z0iuAwqz7UxwAXjR3LAUOBcxqWSzayLjjYW6WbK6787iKCDJEtHN4HgbB54Avb0IMYx/TomsaAoVUYqB8ed9Po7FH03+CoNspJ/iCsOqoZYocvhg+Y5554BfsaBTeZLUUI7DosQsT4jOoptyEl41TUchNIoUm/Bc6b5YPPrcbVG53RGxIxRoV9zyHg2Hi3ukvgISqmnIlI2s8BniSEah5LAHER48F0cclMMZCjJ9DpXPL4KS6BnMXyFEEBOURSzux4QyhJc3UHQPJZJSpTMGL8MYUXLly4cOG/wLb9AgiceYoW6rNQAAAAAElFTkSuQmCC">=
-  population aged 3 to 5 years above the official entrance age <em>a</em> into
-  the last grade of level <em>n</em> of education who completed level
-  <em>n</em></p>
+  <p> population aged 3 to 5 years above the official entrance age a into the
+  last grade of level n of education who completed level n</p>
 
-  <p><img
-  src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGsAAAAuCAMAAAAY9BfhAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAIcUExURf////7+/t7e3re3t7KysrOzs7+/v9LS0vLy8ujo6JGRkUtLS0ZGRlZWVmdnZ2ZmZmFhYVtbW1dXV319fdTU1P39/by8vFNTU1FRUa2trfT09Pj4+O3t7cvLy3l5eXd3d+vr6/v7+0xMTGBgYM3Nzbq6uk9PT8XFxfz8/O/v742NjUlJSXV1debm5sHBwbu7u+Xl5ZSUlPf39/n5+aioqNDQ0E5OTr6+vmVlZU1NTZWVlfX19bCwsOHh4YCAgI6Ojnh4eHt7e2pqaqurq+np6W5ubkpKSsPDw/r6+lRUVFlZWfb29oSEhJeXl+rq6qysrFxcXPPz85mZmb29vXp6epqamvHx8cjIyKamprGxsbW1taenp+7u7tjY2LS0tMbGxq6urnBwcFhYWIqKivDw8KGhoXR0dJycnIODg+Tk5H9/f5CQkIWFhV5eXq+vr6Ojo1BQUJ2dnVJSUpOTk4iIiNra2qSkpN/f33Nzc4KCguPj48LCwra2tuzs7OLi4szMzODg4GRkZHZ2dmlpad3d3WJiYtbW1nJycsnJyYaGhqqqqqWlpbi4uI+Pj4yMjNnZ2VpaWnFxcUdHR3x8fIeHh+fn529vb6KiotfX14GBgcfHx9zc3Nvb221tbc/Pz5KSkmNjY9HR0c7Ozl1dXV9fX5+fn5iYmNPT05aWllVVVYmJiZubm6CgoMrKyrm5uYuLi2xsbMDAwMTExAAAANwqEGoAAAC0dFJOU///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////AO/4UQoAAAAJcEhZcwAAIdUAACHVAQSctJ0AAAIySURBVFhH7VXBjSQxCOwALBECIZCL34ThPx9ezoQsr8Ce2dnV3J50I/+6Rpp247aBorCvGzdu3LjxDS6zfmLbcBA6WguiiGDfpnOQiAmXzo10m45htij64PM0jeCQKx9rTcpyDsqtpy9FfqcLZrHSMWq9DAcxIxTKmNTGcR32FsxMxPO4Ch3UCRrZjnuCr/ihCJ18SPrat+KfmNHQ2huKucd0jj+C/lSfcI/qAcxZlzn7qqPjxByflVRaHlBPqJFYG2vcWVR7ZN4gdqqPjxrQcfC+Sl1Hh7t1CEtFMStviYHG+MyXgKL5JQWkYm6VCUSTLpUDne74N8k813cP+ONd3ddYrXjOd//9lpIg9FqjDF8aUkFLEFZYgFpZbaGuQI6Q6C5gHyjmyK2dCfPXxD5Evx2vkqpQpaQKAgV5eTCviZzPjY3H4N0VTktXmtQU5YbvR3edGeeK4y1wg60LrGjDWnaf62BGXo5jDJX1Ab1w5orknMbOUaHZCmAWJ1fnR+7vYSAv95AouaBG3OeoOw1qJMQLEicycUJBUVrmojwDQxycSlJe3SoDStit8wYIzSwL7HhC66JuKfO1wK2Kr7mjFaOwCI1ck/Oqs253Wv0C/hDz3519wxI8KKnHE+kLfWKrFvqoV4ZRbSGgP0NKg8X2+y8Ydag/O3gbFrR3sx4iK5nt6wK9XvXKZZA62tRs/qrDV3gd/qtpXuCSItl2xUtZLT8u9/sJg614bty4ceM/cF1/AI8664+lHO2UAAAAAElFTkSuQmCC">=
-  population aged 3 to 5 years above the official entrance age <em>a</em> into
-  the last grade of level <em>n</em> of education</p>
+  <p> population aged 3 to 5 years above the official entrance age a into the
+  last grade of level n of education</p>
 
-  <p><em>n </em>= ISCED level 1 (primary education), 2 (lower secondary
-  education), or 3 (upper secondary education)</p>
+  <p>ISCED level 1 (primary education), 2 (lower secondary education), or 3
+  (upper secondary education)</p>
+DATA_VALIDATION: ''
+ADJUSTMENT: ''
 IMPUTATION: >-
-  <h2>Treatment of missing values:</h2>
-
-  <ul>
-    <li><strong><em>At country level:</em></strong></li>
-  </ul>
+  <p>&#x2022; At country level</p>
 
   <p>The completion rate can be calculated from older cohorts who are outside of
   the age bracket specified in the definition of the indicator to obtain
@@ -181,29 +153,21 @@ IMPUTATION: >-
   imputed. using the aforementioned model-based to estimate the completion
   rate.</p>
 
-  <ul>
-    <li><strong><em>At regional and global levels:</em></strong></li>
-  </ul>
+  <p>&#x2022; At regional and global levels</p>
 
   <p>See above.</p>
 REG_AGG: >-
-  <h2>Regional aggregates:</h2>
-
   <p>Global and regional estimates of the primary, lower secondary and upper
   secondary completion rate are derived by using the national population in the
   respective age groups as weights for aggregation of national values.</p>
 DOC_METHOD: >-
-  <h2>Methods and guidance available to countries for the compilation of the
-  data at the national level:</h2>
-
   <p>Countries can calculate the completion rate using the methodology described
   in this document. ISCED mappings that help countries report their data in an
   internationally comparable framework are available on the website of the
   UNESCO Institute for Statistics (<a
   href="http://uis.unesco.org/en/isced-mappings">http://uis.unesco.org/en/isced-mappings</a>).</p>
+QUALITY_MGMNT: ''
 QUALITY_ASSURE: >-
-  <h2>Quality assurance:</h2>
-
   <p>The process for quality assurance includes review of survey documentation,
   calculation of measures of reliability, examination of consistency of
   indicator values derived from different sources and, if necessary,
@@ -214,10 +178,9 @@ QUALITY_ASSURE: >-
   notes on methodology to National Statistical Offices, Ministries of Education
   or other relevant agencies in individual countries for their review and
   feedback.</p>
+QUALITY_ASSMNT: ''
 COVERAGE: >-
-  <h1>Data availability</h1>
-
-  <h2>Description:</h2>
+  <p>Data availability:</p>
 
   <p>The primary completion rate is currently available for 122 countries,
   representing 51% of all countries worldwide. The lower secondary completion
@@ -226,19 +189,19 @@ COVERAGE: >-
   countries, representing 64% of all countries. The countries with completion
   rates are home to more than 90% of the global population.</p>
 
-  <h2>Time series:</h2>
+  <p>Time series:</p>
 
   <p>The completion rate is available for the years since 2000. National time
   series are incomplete due to the infrequent implementation of household
   surveys and censuses but could, potentially, be reconstructed using the
-  aforementioned model-based to estimate the completion rate.</p>
+  aforementioned model-based to estimate the completion rate..</p>
 
-  <h2>Disaggregation:</h2>
+  <p>Disaggregation:</p>
 
   <p>The indicator is disaggregated by sex, location, wealth and other
-  dimensions specified in global indicator 4.5.1 (parity index). </p>
+  dimensions specified in global indicator 4.5.1 (parity index).</p>
 COMPARABILITY: >-
-  <p><strong>Sources of discrepancies:</strong></p>
+  <p>Sources of discrepancies:</p>
 
   <p>National data are often collected and reported in reference to national
   systems of education. The mapping from a national classification to the
@@ -246,8 +209,6 @@ COMPARABILITY: >-
   straightforward and can cause discrepancies between national and international
   indicator estimates.</p>
 OTHER_DOC: >-
-  <h1>References</h1>
-
   <p>UNESCO Institute for Statistics (UIS). 2019. UIS.Stat online database.</p>
 
   <ul>

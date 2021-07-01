@@ -1,3 +1,4 @@
+SDG_INDICATOR_INFO: ''
 SDG_GOAL: >-
   <p>Goal 15: Protect, restore and promote sustainable use of terrestrial
   ecosystems, sustainably manage forests, combat desertification, and halt and
@@ -16,6 +17,15 @@ SDG_CUSTODIAN_AGENCIES: |-
   <p>UN Environment World Conservation Monitoring Centre (UNEP-WCMC)</p>
   <p>BirdLife International (BLI)</p>
   <p>International Union for Conservation of Nature (IUCN)</p>
+CONTACT: ''
+CONTACT_ORGANISATION: <p>UN Environment Programme World Conservation Monitoring Centre</p>
+CONTACT_NAME: <p>Edward Lewis</p>
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: <p>Programme Officer</p>
+CONTACT_EMAIL: >-
+  <p><a
+  href="mailto:edward.lewis@unep-wcmc.org">edward.lewis@unep-wcmc.org</a></p>
+IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
   <h1>Concepts and definitions</h1>
 
@@ -26,6 +36,7 @@ STAT_CONC_DEF: >-
   site for mountain biodiversity (i.e., those that contribute significantly to
   the global persistence of biodiversity) that is covered by designated
   protected areas.</p>
+SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
   <h1>Data sources</h1>
 
@@ -111,6 +122,7 @@ COMPILING_ORG: >-
   Database on Protected Areas, are also disseminated through the <a
   href="https://www.ibat-alliance.org/ibat-conservation/login">Integrated
   Biodiversity Assessment Tool for Research and Conservation Planning</a>.</p>
+OTHER_METHOD: ''
 RATIONALE: >-
   <h2>Rationale:</h2>
 

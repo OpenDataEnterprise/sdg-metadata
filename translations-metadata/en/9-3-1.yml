@@ -1,0 +1,294 @@
+SDG_INDICATOR_INFO: ''
+SDG_GOAL: >-
+  <p>Goal 9: Build resilient infrastructure, promote inclusive and sustainable
+  industrialization and foster innovation</p>
+SDG_TARGET: >-
+  <p>Target 9.3: Increase the access of small-scale industrial and other
+  enterprises, in particular in developing countries, to financial services,
+  including affordable credit, and their integration into value chains and
+  markets</p>
+SDG_INDICATOR: >-
+  <p>Indicator 9.3.1: Proportion of small-scale industries in total industry
+  value added</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: <p>February 2021</p>
+SDG_RELATED_INDICATORS: <p>9.3.2</p>
+SDG_CUSTODIAN_AGENCIES: <p>United Nations Industrial Development Organization (UNIDO)</p>
+CONTACT: ''
+CONTACT_ORGANISATION: <p>United Nations Industrial Development Organization (UNIDO)</p>
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  <p>Definitions:</p>
+
+  <p>Small-scale industrial enterprises, in the SDG framework also called
+  &#x201C;small-scale industries&#x201D;, defined here for the purpose of
+  statistical data collection and compilation refer to statistical units,
+  generally enterprises, engaged in production of goods and services for market
+  below a designated size class.</p>
+
+  <p>Proportion of &#x201C;small-scale industries&#x201D; in total industry
+  value added represents an indicator calculating the share of manufacturing
+  value added of small-scale manufacturing enterprises in the total
+  manufacturing value added.</p>
+
+  <p>Concepts:</p>
+
+  <p>International recommendations for industrial statistics 2008 (IRIS 2008)
+  (United Nations, 2011) define an <strong>enterprise</strong> as the smallest
+  legal unit that constitutes an organizational unit producing goods or
+  services. The enterprise is the basic statistical unit at which all
+  information relating to its production activities and transactions, including
+  financial and balance-sheet accounts, are maintained. It is also used for
+  institutional sector classification in the 2008 System of National
+  Accounts.</p>
+
+  <p>An <strong>establishment</strong> is defined as an enterprise or part of an
+  enterprise that is situated in a single location and in which only a single
+  productive activity is carried out or in which the principal productive
+  activity accounts for most of the value added. An establishment can be defined
+  ideally as an economic unit that engages, under single ownership or control,
+  that is, under a single legal entity, in one, or predominantly one, kind of
+  economic activity at a single physical location. Mines, factories and
+  workshops are examples. This ideal concept of an establishment is applicable
+  to many of the situations encountered in industrial inquiries, particularly in
+  manufacturing.</p>
+
+  <p>Although the definition of an establishment allows for the possibility that
+  there may be one or more secondary activities carried out in it, their
+  magnitude should be small compared with that of the principal activity. If a
+  secondary activity within an establishment is as important, or nearly as
+  important, as the principal activity, then the unit is more like a local unit.
+  It should be subdivided so that the secondary activity is treated as taking
+  place within an establishment separate from the establishment in which the
+  principal activity takes place.</p>
+
+  <p>In the case of most <strong>small-sized businesses</strong>, the enterprise
+  and the establishment will be identical. Some enterprises are large and
+  complex with different kinds of economic activities undertaken at different
+  locations. Such enterprises should be broken down into one or more
+  establishments, provided that smaller and more homogeneous production units
+  can be identified for which production data may be meaningfully compiled. </p>
+
+  <p>As introduced in IRIS 2008 (United Nations, 2011), an <strong>economic
+  activity</strong> is understood as referring to a process, that is to say, to
+  the combination of actions carried out by a certain entity that uses labor,
+  capital, goods and services to produce specific products (goods and services).
+  In general, industrial statistics reflect the characteristics and economic
+  activities of units engaged in a class of industrial activities that are
+  defined in terms of the International Standard Industrial Classification of
+  All Economic Activities, Revision 4 (ISIC Rev.4) (United Nations, 2008) or
+  International Standard Industrial Classification of All Economic Activities,
+  Revision 3.1 (ISIC Rev. 3) (United Nations, 2002).</p>
+
+  <p><strong>Total numbers of persons employed</strong> is defined as the total
+  number of persons who work in or for the statistical unit, whether full-time
+  or part-time, including:</p>
+
+  <ul>
+    <li>Working proprietors</li>
+    <li>Active business partners</li>
+    <li>Unpaid family workers</li>
+    <li>Paid employees (for more details see United Nations, 2011).</li>
+  </ul>
+
+  <p>The size of a statistical unit based on employment should be defined
+  primarily in terms of the average number of persons employed in that unit
+  during the reference period. If the average number of persons employed is not
+  available, the total number of persons employed in a single period may be used
+  as the size criterion. The size classification should consist of the following
+  classes of the average number of persons employed: 1-9, 10-19, 20-49, 50-249,
+  250 and more. This should be considered a minimum division of the overall
+  range; more detailed classifications, where required, should be developed
+  within this framework.</p>
+
+  <p><strong>Value added</strong> cannot be directly observed from the
+  accounting records of the units. It is derived as the difference between gross
+  output or census output and intermediate consumption or census input (United
+  Nations, 2011). The value added at basic prices is calculated as the
+  difference between the gross output at basic prices and the intermediate
+  consumption at purchasers&#x2019; prices. The valuation of value added closely
+  corresponds to the valuation of gross output. If the output is valued at basic
+  prices, then the valuation of value added is also at basic prices (the
+  valuation of intermediate consumption is always at purchasers&#x2019;
+  prices).</p>
+
+  <p>All above mentioned terms are introduced to be in line with IRIS 2008
+  (United Nations, 2011).</p>
+UNIT_MEASURE: <p>Percentages</p>
+CLASS_SYSTEM: >-
+  <p><a
+  href="https://unstats.un.org/unsd/publication/seriesm/seriesm_4rev4e.pdf">International
+  Standard Industrial Classification of all Economic Activities (ISIC) Revision
+  4</a></p>
+
+  <p><a
+  href="https://unstats.un.org/unsd/publication/seriesm/seriesm_4rev3_1e.pdf">International
+  Standard Industrial Classification of all Economic Activities (ISIC) Revision
+  3</a></p>
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: <p>National statistical offices (NSOs)</p>
+COLL_METHOD: >-
+  <p>Countries were contacted to provide information on data availability for
+  monitoring small-scale industrial enterprises. The data come mostly from
+  annual industrial surveys, where value added is disaggregated by size classes
+  given in terms of number of employees and from surveys focusing particularly
+  on small enterprises, or small and medium enterprises in general.</p>
+FREQ_COLL: '<p>Data are collected annually from NSOs, OECD and EUROSTAT</p>'
+REL_CAL_POLICY: >-
+  <p>UNIDO SDG-9 database is updated between March and April every year
+  including the 9.3.1 indicator.</p>
+DATA_SOURCE: >-
+  <p>Data are collected primary from national sources, from official
+  publications and official websites, and from OECD (Structural and Demographic
+  Business Statistics) and EUROSTAT (Structural Business Statistics
+  database).</p>
+COMPILING_ORG: <p>United Nations Industrial Development Organization (UNIDO)</p>
+INST_MANDATE: >-
+  <p>UNIDO, as the specialized UN agency on industrial development, has the
+  international mandate for collecting, producing and disseminating
+  internationally comparable industrial statistics. UNIDO&#x2019;s mandate
+  covers (i) the maintenance and updating of international industrial statistics
+  databases; (ii) methodological and analytical products based on statistical
+  research and experience of maintaining internationally comparable statistics;
+  (iii) contributions to the development and implementation of international
+  statistical standards and methodology; and (iv) technical cooperation services
+  to countries in the field of industrial statistics. With the repositioning of
+  UNIDO as the focal agency for inclusive and sustainable industrial development
+  (ISID), its statistical mandate was expanded to cover all dimensions of
+  industrial development, including its inclusiveness and environmental
+  sustainability.</p>
+OTHER_METHOD: ''
+RATIONALE: >-
+  <p>Industrial enterprises are classified to small compared to large or medium
+  for their distinct nature of economic organization, production capability,
+  scale of investment and other economic characteristics. &#x201C;Small-scale
+  industries&#x201D; can be run with a small amount of capital, relatively
+  unskilled labor and using local materials. Despite their small contribution to
+  total industrial output, their role in job creation, especially in developing
+  countries is recognized to be significant where the scope of absorbing surplus
+  labor force from traditional sectors such as agriculture or fishery is very
+  high. &#x201C;Small-scale industries&#x201D; are capable of meeting domestic
+  demand of basic consumer goods such as food, clothes, furniture, etc. </p>
+REC_USE_LIM: >-
+  <p>The main limitation of existing national data is varying size classes by
+  country indicating that data are obtained from different target populations.
+  Data of one country are not comparable to another. </p>
+
+  <p>The definition of size class in many countries is tied up with the legal
+  and policy framework of the country. It has implications on registration
+  procedure, taxation and different waivers aimed to promote &#x201C;small-scale
+  industries&#x201D;. Therefore, countries may agree on a common size class for
+  compilation purposes. In this context, UNIDO proposes that all countries
+  compile the employment and value added data by a size class of
+  &#x201C;small-scale industries&#x201D; as with less than 20 persons employed.
+  From such data, an internationally comparable data on the share of
+  &#x201C;small-scale industries&#x201D; in total could be derived.</p>
+DATA_COMP: >-
+  <p>The proportion of &#x201C;small-scale industries&#x201D; in total value
+  added is an indicator calculated as a share of value added for small-scale
+  manufacturing enterprises in total manufacturing value added:</p>
+
+  <p> </p>
+
+  <p><img
+  src="data:image/png;base64,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"></p>
+DATA_VALIDATION: >-
+  <p>UNIDO engages with countries in regular consultations during the data
+  collection process to ensure the data quality and international comparability.
+  </p>
+ADJUSTMENT: >-
+  <p>Data are collected through the UNIDO Small Industrial Enterprises
+  Questionnaire to receive information on differences in concept, scope,
+  coverage and classification used. The final data are adjusted to follow ISIC
+  and facilitate international comparability.</p>
+IMPUTATION: >-
+  <p>&#x2022; At country level</p>
+
+  <p>No treatment of missing values is applied at country level.</p>
+
+  <p>&#x2022; At regional and global levels</p>
+
+  <p>No treatment of missing values is applied at regional and global
+  levels.</p>
+REG_AGG: >-
+  <p>Regional and global aggregates are currently not provided due to a limited
+  geographical coverage and regional representativeness. The 2021 edition of
+  9.3.1 data series covers only 67 economies, mostly classified as developed
+  economies.</p>
+DOC_METHOD: >-
+  <p>International Recommendations for Industrial Statistics (IRIS) 2008</p>
+
+  <p><a
+  href="https://unstats.un.org/unsd/publication/seriesM/seriesm_90e.pdf">https://unstats.un.org/unsd/publication/seriesM/seriesm_90e.pdf</a></p>
+
+  <p>International Standard Industrial Classification of All Economic Activities
+  (ISIC) </p>
+
+  <p><a
+  href="https://unstats.un.org/unsd/classifications/Econ/isic">https://unstats.un.org/unsd/classifications/Econ/isic</a></p>
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: >-
+  <p>The UNIDO quality assurance framework is followed to check data quality and
+  consistency before the data dissemination.</p>
+
+  <p>UNIDO (2009), UNIDO Data Quality: A quality assurance framework for UNIDO
+  statistical activities <a
+  href="https://open.unido.org/api/documents/4814740/download/UNIDO-Publication-2009-4814740">https://open.unido.org/api/documents/4814740/download/UNIDO-Publication-2009-4814740</a>
+  </p>
+QUALITY_ASSMNT: ''
+COVERAGE: >-
+  <p>Data availability:</p>
+
+  <p>Data for around 70 economies were collected</p>
+
+  <p>Time series:</p>
+
+  <p>Data are provided on very irregular basis. Data available from annual
+  industrial surveys show yearly frequency, surveys on small and medium
+  enterprises are conducted either irregularly or with a given time lag (for
+  instance once in five years).</p>
+
+  <p>Disaggregation:</p>
+
+  <p>Data can be disaggregated by manufacturing sub-sectors</p>
+COMPARABILITY: >-
+  <p>Sources of discrepancies:</p>
+
+  <p>Conversion to USD or difference in ISIC combinations may cause discrepancy
+  between national and international figures.</p>
+OTHER_DOC: >-
+  <h2>URL:</h2>
+
+  <p><a href="http://www.unido.org/statistics">www.unido.org/statistics</a></p>
+
+  <p><a href="https://stat.unido.org/">https://stat.unido.org/</a></p>
+
+  <h2>References:</h2>
+
+  <p>United Nations. (2002). International Standard Industrial Classification of
+  All Economic Activities (ISIC Revision 4). New York : United Nations.</p>
+
+  <p> <a
+  href="https://unstats.un.org/unsd/publication/seriesm/seriesm_4rev4e.pdf">https://unstats.un.org/unsd/publication/seriesm/seriesm_4rev4e.pdf</a></p>
+
+  <p>United Nations. (2008). International Standard Industrial Classification of
+  All Economic Activities (ISIC Revision 3.1). New York : United Nations.</p>
+
+  <p> <a
+  href="https://unstats.un.org/unsd/publication/SeriesM/seriesm_4rev3_1e.pdf">https://unstats.un.org/unsd/publication/SeriesM/seriesm_4rev3_1e.pdf</a></p>
+
+  <p>United Nations. (2011). International Recommendations for Industrial
+  Statistics 2008 (IRIS 2008), New York: United Nations. <a
+  href="http://dx.doi.org/10.18356/677c08dd-en">http://dx.doi.org/10.18356/677c08dd-en</a></p>
+
+  <p>OECD. (2019). Structural and Demographic Business Statistics (SDBS). Paris:
+  OECD.</p>
+
+  <p> <a
+  href="http://www.oecd.org/std/business-stats/structuralanddemographicbusinessstatisticssdbsoecd.htm">http://www.oecd.org/std/business-stats/structuralanddemographicbusinessstatisticssdbsoecd.htm</a></p>

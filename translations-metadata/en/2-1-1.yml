@@ -1,42 +1,45 @@
+SDG_INDICATOR_INFO: ''
 SDG_GOAL: >-
   <p>Goal 2: End hunger, achieve food security and improved nutrition and
-  promote sustainable agriculture </p>
+  promote sustainable agriculture</p>
 SDG_TARGET: >-
   <p>Target 2.1: By 2030, end hunger and ensure access by all people, in
   particular the poor and people in vulnerable situations, including infants, to
-  safe, nutritious and sufficient food all year round </p>
+  safe, nutritious and sufficient food all year round</p>
 SDG_INDICATOR: '<p>Indicator 2.1.1: Prevalence of undernourishment</p>'
-META_LAST_UPDATE: '<p>Last updated: March 2020</p>'
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: <p>February 2021</p>
 SDG_RELATED_INDICATORS: >-
-  <h1>Related indicators as of February 2020</h1>
+  <p>2.1.2, 2.2.1, 2.2.2, 2.2.3 </p>
 
-  <p>2.2, 2.2.1 </p>
+  <p>Comments: </p>
 
-  <h2>Comments: </h2>
-
-  <p>Links with Target 2.2, to the extent that hunger is the extreme form of
-  malnutrition, and Target 2.2 cannot be considered achieved unless Target 2.1
-  is achieved too.</p>
-SDG_CUSTODIAN_AGENCIES: |-
-  <h1>Institutional information </h1>
-  <h2>Organization(s): </h2>
-  <p>Food and Agriculture Organization of the United Nations (FAO) </p>
+  <p>Links with Target 2.2, to the extent that hunger may lead to malnutrition,
+  and Target 2.2 may not be achieved if Target 2.1 is not achieved.</p>
+SDG_CUSTODIAN_AGENCIES: <p>Food and Agriculture Organization of the United Nations (FAO)</p>
+CONTACT: ''
+CONTACT_ORGANISATION: <p>Food and Agriculture Organization of the United Nations (FAO)</p>
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <h1>Concepts and definitions </h1>
-
-  <h2>Definition: </h2>
+  <p>Definition: </p>
 
   <p>The prevalence of undernourishment (PoU) (French: pourcentage de
   sous-alimentation; Spanish: porcentaje de sub-alimentaci&#xF3;n; Italian:
   prevalenza di sotto-alimentazione) is an estimate of the proportion of the
   population whose habitual food consumption is insufficient to provide the
   dietary energy levels that are required to maintain a normal active and
-  healthy life. It is expressed as a percentage. </p>
+  healthy life. It is expressed as a percentage.</p>
 
-  <h2>Concepts: </h2>
+  <p>Concepts: </p>
 
   <p>Undernourishment is defined as the condition by which a person has access,
-  on a regular basis, to amounts of food that are insufficient to provide the
+  on a regular basis, to the amount of food that are insufficient to provide the
   energy required for conducting a normal, healthy and active life, given his or
   her own dietary energy requirements. </p>
 
@@ -58,11 +61,17 @@ STAT_CONC_DEF: >-
   is thus an estimate of the percentage of individuals in a group that are in
   that condition, but it does not allow for the identification of which
   individuals in the group are, in fact, undernourished. </p>
+UNIT_MEASURE: >-
+  <p>The unit of the prevalence of undernourishment is percentage of the total
+  population. A related indicator, the number of undernourished people, is
+  measured as millions of people. </p>
+CLASS_SYSTEM: >-
+  <p>The construction of the regional and global estimates, as well as estimates
+  for specific groups, such as Least Developed Countries, Land Locked Developing
+  countries, Small Island Developing States, Developed Regions, and Developing
+  Regions, of this indicator follows the UN M49 Standard.</p>
+SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <h1>Data sources </h1>
-
-  <h2>Description: </h2>
-
   <p>The ideal source of data to estimate the PoU would be a carefully designed
   and skillfully conducted individual dietary intake survey, in which actual
   daily food consumption, together with heights and weights for each surveyed
@@ -75,19 +84,11 @@ SOURCE_TYPE: >-
   the necessary periodicity to inform the SDG monitoring process, provided that:
   </p>
 
-  <p>a) All sources of food consumption for all members of the households are
-  properly accounted for, including, in particular, food that is consumed away
-  from home; </p>
-
-  <p>b) Sufficient information is available to convert the data on food
-  consumption or on food expenditures into their contribution to dietary energy
-  intake; </p>
-
-  <p>c) The proper methods to compute the PoU are used, to control for excess
-  variability in the estimated levels of habitual food consumption across
-  households, allowing for the presence on normal variability in the
-  distribution of food consumption across individuals, induced by the
-  differences in energy requirements of the members of the population. </p>
+  <ol>
+    <li>All sources of food consumption for all members of the households are properly accounted for, including, in particular, food that is consumed away from home; </li>
+    <li>Sufficient information is available to convert the data on food consumption or on food expenditures into their contribution to dietary energy intake; </li>
+    <li>The proper methods to compute the PoU are used, to control for excess variability in the estimated levels of habitual food consumption across households, allowing for the presence on normal variability in the distribution of food consumption across individuals, induced by the differences in energy requirements of the members of the population. </li>
+  </ol>
 
   <p>Examples of surveys that could be considered for this purpose include
   surveys conducted to compute economic statistics and conduct poverty
@@ -128,22 +129,19 @@ SOURCE_TYPE: >-
   addition to all household surveys for which it is possible to obtain micro
   data on food consumption, FAO relies on: </p>
 
-  <p>a) UN Population Division&#x2019;s World Population Prospects (<a
-  href="https://esa.un.org/unpd/wpp/Download/Standard/Population/">https://esa.un.org/unpd/wpp/Download/Standard/Population/</a>,
-  which provide updated estimates of the structures of the national population
-  by sex and age every two years for most countries in the world; </p>
+  <p>a) UN Population Division&#x2019;s World Population Prospects
+  (https://esa.un.org/unpd/wpp/Download/Standard/Population/), which provide
+  updated estimates of the structures of the national population by sex and age
+  every two years for most countries in the world; </p>
 
-  <p>b) FAO Food Balance Sheets (<a
-  href="http://faostat3.fao.org/download/FB/*/E">http://faostat3.fao.org/download/FB/*/E</a>),
-  which provides updated estimates of the national availability of food every
-  year for most countries in the world.</p>
+  <p>b) FAO Food Balance Sheets (http://www.fao.org/faostat/en/#data), which
+  provides updated estimates of the national availability of food every year for
+  most countries in the world.</p>
 
   <p>Micro data from household surveys that collect food consumption data are
   sourced by FAO directly through the National Statistical Agencies&#x2019;
-  websites, or through specific bilateral agreements.</p>
+  websites, or through specific bilateral agreements.&quot; </p>
 COLL_METHOD: >-
-  <h2>Collection process: </h2>
-
   <p>Official information on food commodity production, trade and utilization
   used by FAO to compile Food Balance Sheets is provided mainly by Statistical
   Units of the Ministry of Agriculture. FAO sends out a data collection
@@ -158,29 +156,26 @@ COLL_METHOD: >-
   <p>Data on the population size and structure for all monitored countries is
   obtained from the UN Population Division&#x2019;s World Population Prospects.
   </p>
-FREQ_COLL: |-
-  <h1>Calendar </h1>
-  <h2>Data collection: </h2>
-  <p>Continuing </p>
-REL_CAL_POLICY: |-
-  <h2>Data release: </h2>
-  <p>September 2019 </p>
+FREQ_COLL: <p>Continuing</p>
+REL_CAL_POLICY: <p>July 2021 </p>
 DATA_SOURCE: >-
-  <h1>Data providers </h1>
-
   <p>Given the various data sources, national data providers vary. Official
   information on food commodity production, trade and utilization used by FAO to
   compile Food Balance Sheets is provided mainly by Statistical Units of the
   Ministry of Agriculture. Microdata of household surveys are generally owned
-  and provided by National Statistical Agencies. </p>
+  and provided by National Statistical Agencies.</p>
 COMPILING_ORG: >-
-  <h1>Data compilers </h1>
-
   <p>Food and Agriculture Organization of the United Nations, Statistics
-  Division, Food Security and Nutrition Statistics Team </p>
+  Division, Food Security and Nutrition Statistics Team</p>
+INST_MANDATE: >-
+  <p>The Office of the Chief Statistician of FAO manages the Interdepartmental
+  Working Group on SDG indicators under the FAO custodianship, and identifies a
+  focal point for each of them. The team leader of the Food Security and
+  Nutrition Statistics Team of the Statistics Division is formally appointed as
+  the focal person for the collection, processing, and dissemination of
+  statistics for this indicator. </p>
+OTHER_METHOD: ''
 RATIONALE: >-
-  <h2>Rationale: </h2>
-
   <p>The indicator has been used by FAO to monitor the World Food Summit Target
   and the MDG Target 1C, at national, regional and global level, since 1999. It
   allows monitoring trends in the extent of dietary energy inadequacy in a
@@ -192,10 +187,8 @@ RATIONALE: >-
   <p>The parametric approach adopted by FAO allows obtaining reliable estimated
   for relatively large population groups. As it reflects a severe condition of
   lack of food, it is fully consistent with the spirit of a Goal that aims at
-  reducing hunger. </p>
+  reducing hunger.</p>
 REC_USE_LIM: >-
-  <h2>Comments and limitations: </h2>
-
   <p>Over the years, the parametric approach informing the computation of the
   PoU has been criticized, based on the presumptions that undernourishment
   should be assessed necessarily starting at the individual level, by comparing
@@ -222,9 +215,9 @@ REC_USE_LIM: >-
   thus providing what is still one of the most reliable tools to monitor
   progress towards reducing global hunger. </p>
 
-  <p><strong><em>Further specific consideration:</em></strong></p>
+  <p>Further specific consideration </p>
 
-  <p><em>Feasibility </em></p>
+  <p>1. Feasibility </p>
 
   <p>Estimation of PoU at national level has been feasible for most countries in
   the world since 1999. In the worst case scenario, when no data on food
@@ -237,7 +230,7 @@ REC_USE_LIM: >-
   Rate, and an estimate of the Minimum Dietary Energy Requirement (MDER) based
   on the UN Population Division&#x2019;s World Population Prospects data. </p>
 
-  <p><em>Reliability </em></p>
+  <p>2. Reliability </p>
 
   <p>Reliability mostly depends on the quality of the data used to inform the
   estimation of the model&#x2019;s parameters. </p>
@@ -252,10 +245,10 @@ REC_USE_LIM: >-
   up to more than 850 kcal can be induced on the estimated daily per capita
   caloric consumption can be induced by the type of food consumption module
   chosen to capture the data at the household level. (See De Weerdt et al.,
-  2015, Table 2, <a
-  href="https://feb.kuleuven.be/drc/licos/publications/dp/DP%20365%20Complete.pdf%20">https://feb.kuleuven.be/drc/licos/publications/dp/DP%20365%20Complete.pdf</a>
-  ). A detailed analysis of a recent Household Budget Survey in Brazil revealed
-  how food provided for free through the school meals program and consumed by
+  2015, Table 2,
+  https://feb.kuleuven.be/drc/licos/publications/dp/DP%20365%20Complete.pdf ). A
+  detailed analysis of a recent Household Budget Survey in Brazil revealed how
+  food provided for free through the school meals program and consumed by
   children while at school, had not been accounted among the sources of
   household food consumption, accounting for a downward bias of the average per
   capita daily dietary energy consumption of 674 kcal. (See Borlizzi, Cafiero
@@ -281,20 +274,20 @@ REC_USE_LIM: >-
   year might be highly reduced when considering an average over three
   consecutive years. </p>
 
-  <p>Survey data are the only source to estimate the CV and Skewness. As
-  described in the section of metadata on the method of computation, unless
-  obtained from high quality individual dietary intake surveys, data needs to be
-  treated to reduce the likely upward bias in the estimates of the CV that would
-  be induced by the spurious variability due to errors in measuring individual
-  habitual dietary energy intake. </p>
+  <p>Survey data are the only source to estimate the CV. As described in the
+  section of metadata on the method of computation, unless obtained from high
+  quality individual dietary intake surveys, data needs to be treated to reduce
+  the likely upward bias in the estimates of the CV that would be induced by the
+  spurious variability due to errors in measuring individual habitual dietary
+  energy intake. </p>
 
-  <p><em>Comparability </em></p>
+  <p>3. Comparability </p>
 
   <p>If the same method of computation is used, comparability across time and
   space is relatively high, with the only potential cause of inhomogeneity found
   in the different quality of the background data. </p>
 
-  <p><em>Limitations </em></p>
+  <p>4. Limitations </p>
 
   <p>Due to the probabilistic nature of the inference and the margins of
   uncertainty associated with estimates of each of the parameters in the model,
@@ -308,12 +301,8 @@ REC_USE_LIM: >-
 
   <p>If no survey is available that collects food consumption data and that is
   representative at subnational level, the indicator can only be computed at
-  national level.</p>
+  national level.&quot;</p>
 DATA_COMP: >-
-  <h1>Methodology </h1>
-
-  <h2>Computation method: </h2>
-
   <p>The indicator is computed at the population level. To this aim, the
   population is represented by an &#x201C;average&#x201D; individual for which a
   probability distribution of the habitual daily dietary energy intake levels is
@@ -324,36 +313,19 @@ DATA_COMP: >-
   bound of the range of normal dietary energy requirements for that
   representative, or average individual (MDER), as in the formula below: </p>
 
-  <p>PoU= &#x222B;_(x&lt;MDER) f(x | DEC; CV; Skew) dx </p>
+  <p>PoU= &#x222B;_(x&lt;MDER) f(x | DEC; CV) dx </p>
 
-  <p>where DEC, CV and Skew are the mean, coefficient of variation and skewness
-  that characterize the distribution of habitual dietary energy consumption
-  levels in the population. </p>
-
-  <p>Until 2012, the probability distribution f(x) was modelled as a Log-normal
-  pdf, informed by only two parameters: mean and coefficient of variation. In
-  its most recent formulation, it is modelled as a three-parameter pdf, able to
-  represent different degrees of skewness, ranging from that of a symmetric
-  Normal distribution to that of the positively skewed Log-normal distribution.
-  The flexibility in capturing different degrees of skewness is needed to take
-  into account the fact that human energy consumption levels are naturally
-  bounded by physiological limits. It is thus conceivable that, as mean
-  consumption levels increases, the skewness of the distribution decreases,
-  gradually moving from (positively skewed) Log-normal distributions, typical of
-  populations where average food consumption is relatively low, towards
-  (symmetric) Normal distributions. The skew-normal and skew-lognormal families
-  of distribution allow for the characterization of all possible intermediate
-  degrees of positive skewness. (See <a
-  href="http://www.fao.org/3/a-i4046e.pdf%20">http://www.fao.org/3/a-i4046e.pdf</a>
-  for a detailed description) </p>
+  <p>where DEC and CV are the mean and coefficient of variation that
+  characterize the distribution of habitual dietary energy consumption levels in
+  the population. </p>
 
   <p>A custom R function is available from the Statistics Division at FAO to
-  compute the PoU, given the four parameters DEC, CV, Skew and MDER. </p>
+  compute the PoU, given the three parameters DEC, CV, and MDER. </p>
 
   <p>Different data sources can be used to estimate the different parameters of
   the model. </p>
 
-  <p><strong><em>DEC </em></strong></p>
+  <p>DEC </p>
 
   <p>The mean of the distribution of dietary energy consumption levels for the
   average individual in a population (DEC) corresponds, by definition, to the
@@ -373,14 +345,11 @@ DATA_COMP: >-
   consumption is expressed in their dietary energy content, and their total is
   divided by the size of the population. The major source of data on national
   food balances are the Food Balance Sheets (FBS) maintained by FAO for most
-  countries in the world (see <a
-  href="http://www.fao.org/economic/ess/fbs/en/">http://www.fao.org/economic/ess/fbs/en/</a>),
-  informed by official data reported by member countries, and disseminated
-  through FAOSTAT (<a
-  href="http://faostat3.fao.org/download/FB/*/E">http://faostat3.fao.org/download/FB/*/E</a>)
-  </p>
+  countries in the world (see http://www.fao.org/economic/ess/fbs/en/), informed
+  by official data reported by member countries, and disseminated through
+  FAOSTAT (http://www.fao.org/faostat/en/#data) </p>
 
-  <p><strong><em>CV </em></strong></p>
+  <p>CV </p>
 
   <p>Surveys that contain information on food consumption at individual or
   household level are the only available source to directly estimate the CV of
@@ -444,19 +413,7 @@ DATA_COMP: >-
   <p>Coefficients of the regression are estimated from the set of data and years
   for which data on CV, GDP, GINI and FPI are available. </p>
 
-  <p><strong><em>Skew </em></strong></p>
-
-  <p>As skewness is not strongly affected by the presence of spurious
-  variability, Skew is estimated directly from household level data on the
-  average daily dietary consumption, with the only exception of eliminating rare
-  extremely high or extremely low values. If the empirically estimated skewness
-  exceeds the value that would correspond to the skewness of Log-normal
-  distribution with given mean and coefficient of variation, the parameter is
-  neglected and a two parameter lognormal distribution is used for f(x). (See <a
-  href="http://www.fao.org/3/a-i4046e.pdf">http://www.fao.org/3/a-i4046e.pdf</a>
-  for additional details). </p>
-
-  <p><strong><em>MDER </em></strong></p>
+  <p>MDER </p>
 
   <p>Human energy requirements are computed by multiplying normative
   requirements for basic metabolic rate (BMR, expressed per kg of body mass) by
@@ -475,9 +432,8 @@ DATA_COMP: >-
   for every sex and age class by taking into consideration special allowances
   for growth in individuals aged 0-21 and for pregnancy and lactation. </p>
 
-  <p>(See <a
-  href="ftp://ftp.fao.org/docrep/fao/007/y5686e/y5686e00.pdf">ftp://ftp.fao.org/docrep/fao/007/y5686e/y5686e00.pdf</a>
-  for further details). </p>
+  <p>(See ftp://ftp.fao.org/docrep/fao/007/y5686e/y5686e00.pdf for further
+  details). </p>
 
   <p>The MDER for a given population group, including for the national
   population, is obtained as the weighted average of the minimums of the energy
@@ -497,13 +453,16 @@ DATA_COMP: >-
   the healthy population that consumes less than average, simply because of
   having less than average requirements. When needed, the ADER, or the average
   Recommended Dietary Energy Intake level in a population must be used instead
-  to compute the dietary energy gap.</p>
+  to compute the dietary energy gap.&quot; </p>
+DATA_VALIDATION: >-
+  <p>There are no formal country consultations. Data validation is internal to
+  FAO. This indicator has been in existence since 1999. FAO has produced it to
+  inform the World Food Summit target and the MDG target 1.C without country
+  consultations. Upon request, FAO has provided countries with details on the
+  data used in their specific case. </p>
+ADJUSTMENT: <p>None. </p>
 IMPUTATION: >-
-  <h2>Treatment of missing values: </h2>
-
-  <ul>
-    <li>At country level: </li>
-  </ul>
+  <p>&#x2022; At country level </p>
 
   <p>When no data on food consumption is available from a recent household
   survey, the model-based estimate of the PoU is informed by an estimate of DEC
@@ -515,16 +474,12 @@ IMPUTATION: >-
 
   <p>See the section on method of computation for details. </p>
 
-  <ul>
-    <li>At regional and global levels: </li>
-  </ul>
+  <p>&#x2022; At regional and global levels </p>
 
   <p>Missing values for individual countries are implicitly imputed to be equal
   to the population weighted average of the estimated values of the countries
-  present in the same region. </p>
+  present in the same subregion or region.</p>
 REG_AGG: >-
-  <h2>Regional aggregates: </h2>
-
   <p>Regional and global aggregates of the PoU are computed as: </p>
 
   <p>PoU_REG = (_i PoU_i &#xD7; N_i) / (_i N_i) </p>
@@ -532,17 +487,17 @@ REG_AGG: >-
   <p>where PoU_i are the values of PoU estimated for all countries in the
   regions for which available data allow to compute a reliable estimate, and N_i
   the corresponding population size. </p>
-DOC_METHOD: >-
-  <h2>Methods and guidance available to countries for the compilation of the
-  data at the national level: </h2>
 
+  <p> </p>
+DOC_METHOD: >-
   <p>The main three sources of data at national level are: </p>
 
-  <ol>
-    <li>Official reports on the production, trade and utilization of the major food crop and livestock productions. </li>
-    <li>Household survey data on food consumption </li>
-    <li>Demographic characteristics of the national population </li>
-  </ol>
+  <p>a) Official reports on the production, trade and utilization of the major
+  food crop and livestock productions. </p>
+
+  <p>b) Household survey data on food consumption </p>
+
+  <p>c) Demographic characteristics of the national population </p>
 
   <p>Data sources for agricultural production are usually national surveys that
   are conducted by the Ministry of Agricultural/Livestock and/or the National
@@ -610,7 +565,7 @@ DOC_METHOD: >-
   collaboration with the Global Strategy) and new compilation tool (R-based
   &#x2018;shiny&#x2019; application). </p>
 
-  <p><strong><em>Detail on FBS methodology: </em></strong><a
+  <p>Detail on FBS methodology: <a
   href="http://www.fao.org/economic/ess/fbs/ess-fbs02/en/">http://www.fao.org/economic/ess/fbs/ess-fbs02/en/</a>.
   </p>
 
@@ -621,57 +576,59 @@ DOC_METHOD: >-
   with a more revised and practical guidance and recommendations for compilation
   at the national level. </p>
 
-  <p><strong><em>Some FBS background text also available on
-  FAOSTAT:</em></strong> <a
+  <p>Some FBS background text also available on FAOSTAT: <a
   href="http://www.fao.org/faostat/en/#data/FBS">http://www.fao.org/faostat/en/#data/FBS</a>.
   </p>
+QUALITY_MGMNT: >-
+  <p>ESS conducts trend analysis of the newly updated indicator with other
+  relevant indicators. Meanwhile, preliminary estimates of each round of the
+  update are circulated among regional offices for review. Because of their
+  knowledge of their regions and countries, they often provide invaluable inputs
+  to the revisions and finalization of the update. </p>
 QUALITY_ASSURE: >-
-  <h2>Quality assurance:</h2>
-
   <p>FBS capacity development programme in cooperation with the Global Strategy
   (more details may be provided if required); capacity development in
   cooperation with the ESS Food Security team as a PoU/FBS package (financed by
   projects); and direct FBS capacity development based on specific direct
-  country requests. </p>
+  country requests.</p>
+QUALITY_ASSMNT: <p>High</p>
 COVERAGE: >-
-  <h1>Data Availability </h1>
-
-  <h2>Description: </h2>
+  <p><strong>Data availability:</strong></p>
 
   <p>Since 2017 FAO has reported separate estimates of PoU for 170 countries,
   distributed as follows: </p>
 
   <p>World 170 </p>
 
-  <p> Africa 45 </p>
+  <p> Africa 37 </p>
 
   <p> Northern Africa 5 </p>
 
-  <p> Sub-Saharan Africa 40 </p>
+  <p> Sub-Saharan Africa 32 </p>
 
-  <p> Eastern Africa 12 </p>
+  <p> Eastern Africa 8 </p>
 
-  <p> Middle Africa 7 </p>
+  <p> Middle Africa 6 </p>
 
   <p> Southern Africa 5 </p>
 
-  <p> Western Africa 16 </p>
+  <p> Western Africa 13 </p>
 
-  <p> Asia 42 </p>
+  <p> Asia 38 </p>
 
-  <p> Central Asia 5 </p>
+  <p> Central Asia 4 </p>
 
   <p> Eastern Asia 5 </p>
 
-  <p> Southern Asia 8 </p>
+  <p> Southern Asia 7 </p>
 
-  <p> South-Eastern Asia 10 </p>
+  <p> South-Eastern Asia 9 </p>
 
-  <p> Western Asia 14 </p>
+  <p> Western Asia 13 </p>
 
-  <p> Latin America and the Caribbean 32 </p>
+  <p> Latin America and the Caribbean 28 </p>
 
-  <p> Caribbean 12 </p>
+  <p> Caribbean 8 </p>
 
   <p> Latin America 20 </p>
 
@@ -687,11 +644,11 @@ COVERAGE: >-
 
   <p> Northern America and Europe 42</p>
 
-  <p>Northern America 3</p>
+  <p>Northern America 2</p>
 
-  <p>Europe 39</p>
+  <p>Europe 38</p>
 
-  <p> Eastern Europe 10</p>
+  <p> Eastern Europe 9</p>
 
   <p> Northern Europe 10</p>
 
@@ -702,13 +659,11 @@ COVERAGE: >-
   <p>While country-level estimates are presented as three-year averages,
   regional and global estimates are yearly estimates. </p>
 
-  <h2>Time series: </h2>
+  <p><strong>Time series: </strong></p>
 
   <p>2000 - current </p>
 
-  <p><strong> </strong></p>
-
-  <h2>Disaggregation: </h2>
+  <p><strong>Disaggregation: </strong></p>
 
   <p>Due to reliance on national Food Balance Sheets data to estimate mean
   caloric consumption levels in the population, the global monitoring of MDG
@@ -731,9 +686,9 @@ COVERAGE: >-
   be drawn on the PoU in different income classes of the population. Gender
   disaggregation is limited by the possibility to identify and group households
   by gender-related information (such as sex of the head of the household, or
-  male/female ratio). </p>
+  male/female ratio).</p>
 COMPARABILITY: >-
-  <h2>Sources of discrepancies: </h2>
+  <p>Sources of discrepancies: </p>
 
   <p>Many countries have produced and reported on estimates of the Prevalence of
   Undernourishment, including in their national MDG Reports, but almost
@@ -759,30 +714,12 @@ COMPARABILITY: >-
   certainly biased toward overestimation. It is therefore advisable that a
   concerted effort is made to advocate for use of the FAO methods also in
   preparation of national reports. FAO stands ready to provide all necessary
-  technical support. </p>
-OTHER_DOC: >-
-  <h1><u> </u>References </h1>
-
-  <h2>URL: </h2>
-
-  <p><a
-  href="http://www.fao.org/economic/ess/ess-fs/en/">http://www.fao.org/economic/ess/ess-fs/en/</a>
-  </p>
-
-  <p><strong>References: </strong></p>
-
-  <p><a
-  href="http://www.fao.org/docrep/012/w0931e/w0931e16.pdf%20">http://www.fao.org/docrep/012/w0931e/w0931e16.pdf</a>
-  </p>
-
-  <p><a
-  href="http://www.fao.org/docrep/005/Y4249E/y4249e06.htm%23bm06%20">http://www.fao.org/docrep/005/Y4249E/y4249e06.htm#bm06</a>
-  </p>
-
-  <p><a
-  href="http://www.fao.org/3/a-i4060e.pdf%20">http://www.fao.org/3/a-i4060e.pdf</a>
-  </p>
-
-  <p><a
-  href="http://www.fao.org/3/a-i4046e.pdf">http://www.fao.org/3/a-i4046e.pdf</a>
-  </p>
+  technical support.</p>
+OTHER_DOC: |-
+  <p>URL: </p>
+  <p>http://www.fao.org/economic/ess/ess-fs/en/ </p>
+  <p>References: </p>
+  <p>http://www.fao.org/docrep/012/w0931e/w0931e16.pdf </p>
+  <p>http://www.fao.org/docrep/005/Y4249E/y4249e06.htm#bm06 </p>
+  <p>http://www.fao.org/3/a-i4060e.pdf </p>
+  <p>http://www.fao.org/3/a-i4046e.pdf </p>

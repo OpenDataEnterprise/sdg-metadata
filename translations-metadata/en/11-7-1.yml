@@ -1,0 +1,547 @@
+SDG_INDICATOR_INFO: ''
+SDG_GOAL: >-
+  <p>Goal 11: Make cities and human settlements inclusive, safe, resilient and
+  sustainable</p>
+SDG_TARGET: >-
+  <p>Target 11.7: By 2030, provide universal access to safe, inclusive and
+  accessible, green and public spaces, in particular for women and children,
+  older persons and persons with disabilities</p>
+SDG_INDICATOR: >-
+  <p>Indicator 11.7.1: Average share of the built-up area of cities that is open
+  space for public use for all, by sex, age and persons with disabilities</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: <p>March 2021</p>
+SDG_RELATED_INDICATORS: >-
+  <p>11.3.1: Ratio of land consumption rate to population growth rate</p>
+
+  <p>11.2.1: Proportion of population that has convenient access to public
+  transport, by sex, age and persons with disabilities</p>
+SDG_CUSTODIAN_AGENCIES: <p>UN-HABITAT</p>
+CONTACT: ''
+CONTACT_ORGANISATION: <p>UN-HABITAT</p>
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  <p>Definitions and Concepts:</p>
+
+  <p>Indicator 11.7.1 has several interesting concepts that required global
+  consultations and consensus. These include; built-up area, cities, open spaces
+  for public use, etc. As a custodian agency, UN-Habitat has worked on these
+  concepts along with several other partners.</p>
+
+  <ol>
+    <li><strong>City</strong>: A range of accepted definitions of the &#x201C;city&#x201D; exist, from those based on population data and extent of the built-up area to those that are based solely on administrative boundaries. These definitions vary within and between nations, complicating the task of international reporting for the SDGs. Definitions of cities, metropolitan areas and urban agglomerations also vary depending on legal, administrative, political, economic or cultural criteria in the respective countries and regions. Since 2016UN-Habitat and partners organized global consultations and discussions to narrow down the set of meaningful definitions that would be helpful for the global monitoring and reporting process. Following consultations with 86 member states, the United Nations Statistical Commission, in its 51st Session (March 2020) endorsed the Degree of Urbanisation (DEGURBA) as a workable method to delineate cities, urban and rural areas for international statistical comparisons. <sup><a href="#footnote-2" id="footnote-ref-2">[1]</a></sup> This definition combines population size and population density thresholds to classify the entire territory of a country along the urban-rural continuum, and captures the full extent of a city, including the dense neighbourhoods beyond the boundary of the central municipality. DEGURBA is applied in a two-step process: First, 1 km2 grid cells are classified based on population density, contiguity and population size. Subsequently, local units are classified as urban or rural based on the type of grid cells in which majority of their population resides. For the computation of indicator 11.7.1, countries are encouraged to adopt the degree of urbanisation to define the analysis area (city or urban area).</li>
+    <li><strong>Built-up area of cities: </strong>Conventionally, built up areas of cities are areas occupied by buildings and other artificial surfaces. For indicator 11.7.1, built up areas, as the indicator denominator has the same meaning as &#x201C;city&#x201D; (see definition of city above). </li>
+  </ol>
+
+  <p><strong>Public space:</strong> The Global Public Space toolkit defines
+  Public Space as all places that are publicly owned or of public use,
+  accessible and enjoyable by all, for free and without a profit motive,
+  categorized into streets, open spaces and public facilities. Public space in
+  general is defined as the meeting or gathering places that exist outside the
+  home and workplace that are generally accessible by members of the public, and
+  which foster resident interaction and opportunities for contact and proximity.
+  This definition implies a higher level of community interaction and places a
+  focus on public involvement rather than public ownership or stewardship. For
+  the purpose of monitoring and reporting on indicator 11.7.1, public space is
+  defined as all places of public use, accessible by all, and comprises open
+  public space and streets. </p>
+
+  <ol>
+    <li><strong>Open public space</strong>: is any open piece of land that is undeveloped or land with no buildings (or other built structures) that is accessible to the public without charge, and provides recreational areas for residents and helps to enhance the beauty and environmental quality of neighbourhoods. UN-Habitat recognizes that different cities have different types of open public spaces, which vary in both size and typology. Based on the size of both soft and hard surfaces, open public spaces are broadly classified into six categories: national/metropolitan open spaces, regional/larger city open spaces, district/city open spaces, neighbourhood open spaces, local/pocket open spaces and linear open spaces. Classification of open public space by typology is described by the function of the space and can include: green public areas, riparian reserves, parks and urban forests, playground, square, plazas, waterfronts, sports field, community gardens, parklets and pocket parks. </li>
+    <li><strong>Potential open public space: </strong> the identification of open public spaces across cities can be implemented through, among other sources, analysis of high to very high resolution satellite imagery, from base-maps provided by different organizations (eg OpenStreetMap, Esri, etc) or as crowd-sourced and volunteered data. While these sources provide important baseline data for indicator 11.7.1, some of the identifiable spaces may not meet the criteria of being &#x201C;accessible to the public without charge&#x201D;. The term &#x201C;potential open public space&#x201D; is thus used to refer to open public spaces which are extracted from the above-mentioned sources (based on their spatial character), but which are not yet validated to confirm if they are accessible to the public without charge. </li>
+    <li><strong>Streets</strong> are defined thoroughfares that are based inside urban areas, towns, cities and neighbourhoods most commonly lined with houses or buildings used by pedestrians or vehicles in order to go from one place to another in the city, interact and to earn a livelihood. The main purpose of a street is facilitating movement and enabling public interaction. The following elements are considered as streets space: Streets, avenues and boulevards, pavements, passages and galleries, Bicycle paths, sidewalks, traffic island, tramways and roundabouts. Elements excluded from street space include plots (either built-up), open space blocks, railways, paved space within parking lots and airports and individual industries.</li>
+    <li><strong>Land allocated to streets</strong> refers to the total area of the city/urban area that is occupied by all forms of streets (as defined above). This indicator only includes streets available at the time of data collection and excludes proposed networks.</li>
+  </ol>
+
+  <p>For more details and illustrations on the definition of the different types
+  of open spaces considered for indicator 11.7.1 see SDG 11.7.1 step by step
+  training module (<a
+  href="https://unhabitat.org/sites/default/files/2020/07/indicator_11.7.1_training_module_public_space.pdf">https://unhabitat.org/sites/default/files/2020/07/indicator_11.7.1_training_module_public_space.pdf</a>).</p><div
+  class="footnotes"><div><sup class="footnote-number" id="footnote-2">1</sup><p>
+  A recommendation on the method to delineate cities, urban and rural areas for
+  international statistical comparisons. <a
+  href="https://unstats.un.org/unsd/statcom/51st-session/documents/BG-Item3j-Recommendation-E.pdf">https://unstats.un.org/unsd/statcom/51st-session/documents/BG-Item3j-Recommendation-E.pdf</a>
+  <a href="#footnote-ref-2">&#x2191;</a></p></div></div>
+UNIT_MEASURE: <p>Proportion (percentage)</p>
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  <p><strong>Sources and collection process:</strong></p>
+
+  <p>Satellite imagery (open sources), documentation outlining publicly owned
+  land and community-based maps are the main sources of data.</p>
+
+  <ul>
+    <li>For definition of the city as the unit of analysis, data on the built up areas is required, which can be extracted from existing layers of satellite imagery ranging from open sources such as Google Earth, US Geological Survey/NASA Landsat imagery and Sentinel Imagery to higher resolution land cover data sets and commercial imagery. Images are to be analyzed for the latest available year. </li>
+    <li>Population data will be sourced from national censuses or other demographic surveys, which can be disaggregated to the smallest units possible through household information aggregation or through population modelling/gridding approaches.</li>
+    <li>For the Inventory of open public space - Information can be obtained from legal documents outlining publicly owned land and well-defined land use plans. In some cases, where this information is lacking, incomplete or outdated, open sources, key informants in the city and community-based maps, which are increasingly recognized as a valid source of information, can be a viable alternative.</li>
+    <li>The share of land occupied by public open spaces cannot be obtained directly from the use of high-resolution satellite imagery because it is not possible to determine the ownership or use of open spaces through remote sensing. However, fieldwork to validate and verify the open spaces derived from satellite imagery helps to map out land that is for public and non-public use.</li>
+  </ul>
+COLL_METHOD: >-
+  <p>Data collection is supposed to be done at the local city/urban level, with
+  national aggregates made from all cities in the country, or from a sample of
+  representative cities (selected using the National Sample of Cities Approach
+  developed by UN-Habitat: <a
+  href="https://unhabitat.org/sites/default/files/2020/06/national_sample_of_cities_english.pdf">https://unhabitat.org/sites/default/files/2020/06/national_sample_of_cities_english.pdf</a></p>
+
+  <p> ). At the Global level, data will be assembled and compiled for
+  international consumption and comparison by UN-Habitat and other partners.
+  UN-Habitat and partners will explore several capacity building options to
+  ensure that uniform standards for generation, reporting and analysing data for
+  this indicator are applied by all countries and regions.</p>
+
+  <p>Validation of data on potential open public spaces, which are mapped from
+  high resolution imagery or compiled from open sources (see method of
+  computation section) requires ground truthing. UN-Habitat has developed a set
+  of questions, which can be administered through mobile device-based
+  applications such as KoboToolbox. The questions are available on this tool:
+  https://ee.kobotoolbox.org/x/#IGFf6ubq</p>
+FREQ_COLL: >-
+  <p><strong>Data collection and release calendar:</strong></p>
+
+  <p>The monitoring of the indicator can be repeated at regular intervals of 3-5
+  years, allowing for three reporting points until the year 2030. However,
+  annual updates to the existing database will be done and hence data releases
+  based on annual updates will be available every year. Monitoring in 3-5-year
+  intervals will allow cities to determine whether the shares of open public
+  space in the built-up areas of cities are increasing significantly over time,
+  as well as deriving the share of the global urban population living in cities
+  where the open public space is below the acceptable minimum.</p>
+
+  <p>UN-Habitat has developed a simple reporting template to collect city level
+  data which will be sent to countries on an annual basis for reporting. This
+  reporting template, which requests for information on the major components
+  described in this metadata is expected to be used until 2030, but slight
+  changes may be effected based as data on more aspects becomes available. The
+  template is appended to this metadata and can also be accessed <a
+  href="https://data.unhabitat.org/datasets/template-for-compilation-of-sdg-indicator-11-7-1">HERE</a>.</p>
+
+  <p><img
+  src="data:image/png;base64,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"></p>
+REL_CAL_POLICY: >-
+  <p>Data for indicator 11.7.1 will be released on an annual basis, to cater for
+  an anticipated increase in the number of cities/urban areas and countries
+  reporting on the indicator. Changes in trends within individual cities and/or
+  countries are likely to happen in spans of about 3-5 years, so a three-year
+  window will be applied for comprehensive review of all data, with updates made
+  based on availability of new data.</p>
+DATA_SOURCE: '<p>See &#x201C;Data compilers&#x201D; section below.</p>'
+COMPILING_ORG: >-
+  <p>UN-Habitat is the lead agency on the global reporting for this indicator
+  and as such, has over the last two years coordinated the efforts of various
+  partners, on methodological developments and piloting of data collection. Key
+  among these partners have included National Statistical Offices, New York
+  University, ESRI, FAO, UNGGIM, UCLG, Local government departments, the
+  European Commission, UN regional commissions, KTH University-Sweden, Urban
+  Observatories, etc. Working in partnership with these partners, UN-Habitat has
+  undertaken trainings and capacity development activities in cities, countries
+  and regions, which have contributed to enhanced data collection and setting up
+  of systems to monitor and report on the indicator. </p>
+
+  <p>In addition, over the last 5 years, UN-Habitat and other partners have held
+  several consultations which have collectively contributed to the refinement of
+  the indicator methodology, and its piloting. Some of the key activities
+  include; </p>
+
+  <ul>
+    <li>
+      <ul>
+        <li>
+          <ol>
+            <li>Internal consultations within UN-Habitat and the review of several toolkits of relevance to the subject of public space have provided an initial base of information on concepts and definitions. Lessons learned by UN-Habitat in field projects devoted to public space have proven particularly valuable. </li>
+            <li>A second important source and point of reference has been the Charter of Public Space adopted by the Biennial of Public Space, containing simple and actionable principles for the creation, management and enjoyment of public spaces in cities.</li>
+            <li>A third set of sources has been the contributions offered by a team of international experts, both during and immediately following the Expert Group Meeting on Public Space held in Rome in 12-14 January 2014. Additionally, the contributions of over 300 practitioners from over 40 countries during the series of International Conferences on the Future of Places, which developed a set of key messages in advancing the public space agenda at the global level.</li>
+            <li>A fourth source has been global consultative meetings organized after the adoption of the 2030 Agenda in line with the SDG requirements for indicator 11.7.1 and global initiatives that have supported the data collection of this indicator. Specifically, these were:<ol>
+                <li>The first EGM in October 2016 focused mainly on methodological refinements and on concretising the institutional partnership arrangements for capacity development and data collection. Representatives from the NSOs, Urban Observatories, European Union, World Resources Institute, United Cities and Local Governments, Arab Urban Development Institute, World Health Organization, ESRI, NYU, among others participated in this EGM.</li>
+                <li>The second EGM held in February 2017 focused on the challenges of data collection and review of preliminary data made available through the efforts of collecting city-based monitoring the human settlement data at local levels. </li>
+              </ol>
+            </li>
+          </ol>
+        </li>
+      </ul>
+    </li>
+    <li>It also focused on the technical aspects of computing the indicator using the proposed methodology. This helped in identifying the challenges and opportunities of improving the methodology as well as strategies to scale up and capacity building for NSOs. </li>
+    <li>Representatives attended the meeting from Urban Observatories, European Union, World Resources Institute, United Cities and Local Governments, ESRI, Arab Urban Development Institute, UNESCO, Women in Cities (WICI), Universities and private planning firms, senior statisticians from governments, academic institutions, urban planners, etc. </li>
+  </ul>
+INST_MANDATE: >-
+  <p>The United Nations Human Settlements Programme (UN-Habitat) is the
+  specialized agency for sustainable urbanization and human settlements in the
+  United Nations. The mandate derives from the priorities established in
+  relevant General Assembly resolutions and decisions, including General
+  Assembly resolution 3327 (XXIX), by which the General Assembly established the
+  United Nations Habitat and Human Settlements Foundation, and resolution 32/162
+  by which the Assembly established the United Nations Center for Human
+  Settlements (Habitat). In 2001, by its Resolution 56/206, the General Assembly
+  transformed the Habitat into the secretariat of the United Nations Human
+  Settlements Programme (UN-Habitat), with a mandate to coordinate human
+  settlements activities within the United Nations System. As such, UN-Habitat
+  has been designated the overall coordinator of SDG 11 and specifically as a
+  custodian agency for 9 of the 15 indicators under SDG 11 including indicator
+  11.7.1. UN-Habitat also supports the monitoring and reporting of 4 urban
+  specific indicators in other goals.</p>
+OTHER_METHOD: ''
+RATIONALE: >-
+  <p>The value of public spaces is often overlooked or underestimated by policy
+  makers, leaders, citizens and urban developers. There are several reasons for
+  this, such as the lack of resources, or understanding or capacity to use
+  public space as a complete, multi-functional urban system. Often the lack of
+  appropriate enabling frameworks, weak political will and the absence of the
+  means of public engagement compound the situation. Nevertheless,
+  fundamentally, the lack of a global measurement indicator has hindered the
+  local and global appreciation of the value of the public spaces. </p>
+
+  <p>The SDGs have for the first time provided a platform where public spaces
+  can be globally monitored. Indicator 11.7.1 measures the share of land
+  allocated to public spaces and the total population with access of these
+  spaces by age, gender and disability. The share of land that a city allocates
+  to streets and open public spaces is not only critical to its productivity,
+  but also contributes significantly to the social dimensions and health of its
+  population. The size, distribution and quality of a city&#x2019;s overall
+  public space act as a good indicator of shared prosperity.</p>
+
+  <p>Cities that improve and sustain the use of public space, including streets,
+  enhance community cohesion, civic identity, and quality of life. A prosperous
+  city develops policies and actions for sustainable use of, and equitable
+  access to public space. In cities, due to a neglect of public space both in
+  quality and quality, there is a need to revise and expand the ratio of land
+  allocated to public spaces to make them more efficient, prosperous and
+  sustainable. Uncontrolled rapid urbanization has created disorderly settlement
+  patterns with alarmingly low shares of public space. Many cities in developed
+  countries are also experiencing a dramatic reduction of public space.
+  Reclaiming urban spaces for people is part of how we can humanize our cities
+  and make our streets and public areas more communal. </p>
+
+  <p>A well developed and properly designed network of streets increases
+  connectivity, promotes walking and social interactions but also encourages
+  development of other street activities that bring life to a city. Equally, a
+  well distributed and hierarchical system of open public spaces that can be
+  accessed by all regardless of income, gender, race or disability status and
+  one that promotes multiple activities not only encourages their use, but also
+  contributes to the urban character and quality of urban life.</p>
+REC_USE_LIM: >-
+  <p>A major challenge for local monitoring of this indicator is the maintenance
+  and the application/consistency of use of universal definition, which broadly
+  does not consider existing operational/functional administrative demarcations.
+  While urbanization has over the past decade resulted in big urbanized
+  patches/regions which extend beyond existing urban area boundaries, the local
+  operationalization and management of urban systems remain within defined
+  authorities. These authorities are often in charge of governing the urban
+  systems, ensuring effective and efficient functioning through such actions as
+  provision of basic services, development control among others. While some
+  countries have adopted dynamic administrative structures for their urban areas
+  (which shift with expansions in built-up areas), others have maintained
+  confined boundaries. Some of the most common types of boundaries include city,
+  municipality, local authority, metropolitan, mega and meta region
+  demarcations; all of which are set and defined based on prevailing operational
+  dynamics (e.g. governance and service delivery structures). </p>
+
+  <p>UN-Habitat has developed tools, programmes and guidelines to assist cities
+  in measuring, and accounting for the available public space in cities. Some
+  cities in the developing world lack formally recognized public spaces, that
+  are publicly maintained. Understanding of the prevailing local contexts and
+  primary data collection in collaboration with city authorities and local
+  communities contribute significantly to collecting accurate and relevant data
+  in these contexts. </p>
+
+  <p>Similarly, the types of open public space vary across cities. The types of
+  spaces listed in this indicator are however the most common and accepted
+  variations of the open public space. Data collection processes using the
+  methodology described in this metadata, which has been conducted by UN-Habitat
+  in partnership with cities, as well as by other partners has revealed that
+  there are no major overlaps or omissions in the described broad categories of
+  open public spaces. </p>
+
+  <p>Beyond quantifying the amount of open space in public use in cities, this
+  indicator also attempts in minimal ways to capture the quality of the space
+  that may impede its proper use. The qualitative data collected on this
+  indicator strengthens the evidence that an open space exists, and that its
+  public use is guaranteed, to allow city authorities and other stakeholders to
+  further improve its quality and increase its use.</p>
+DATA_COMP: >-
+  <p><strong>Computation Method:</strong></p>
+
+  <p>The method to estimate the area of public space has been globally piloted
+  in over 600 cities and this follows a series of methodological developments
+  that go back to the last 7 years. The finalized methodology is a three-step
+  process: </p>
+
+  <ol>
+    <li>Spatial analysis to delimit the city/urban area which will act as the geographical scope for the spatial analysis and indicator computation; </li>
+    <li>Spatial analysis to identify potential open public spaces, field work to validate data and assess the quality of spaces and calculation of the total area occupied by the verified open public spaces; </li>
+    <li>Estimation of the total area allocated to streets;</li>
+    <li>Estimation of share of population with access to open public spaces within 400 meters walking distance out of the total population in the city/ urban area and disaggregation of the population with access by sex, age and persons with disabilities </li>
+    <li><strong>Spatial analysis to delimit the city/urban area </strong></li>
+  </ol>
+
+  <p>Following consultations with 86 member states, the United Nations
+  Statistical Commission in its 51<sup>st</sup> Session (March 2020) endorsed
+  the Degree of Urbanisation (DEGURBA) as a workable method to delineate cities,
+  urban and rural areas for international statistical comparisons. Countries are
+  thus encouraged to adopt this approach, which will help them produce data that
+  is comparable across urban areas within their territories, as well as with
+  urban areas and cities in other countries. More details on DEGURBA and its
+  application are available here: <a
+  href="https://unstats.un.org/unsd/statcom/51st-session/documents/BG-Item3j-Recommendation-E.pdf">https://unstats.un.org/unsd/statcom/51st-session/documents/BG-Item3j-Recommendation-E.pdf</a></p>
+
+  <ol>
+    <li><strong>Spatial analysis to identify potential open public spaces, ground verification and estimating their total area</strong></li>
+  </ol>
+
+  <p>This step involves mapping of potential open public spaces within the urban
+  boundaries defined in step one above and estimation of their area.
+  Identification of potential open public spaces is based on the spatial
+  character of each space and is also informed by existing country/ city land
+  use maps and open space inventories. To compute this component of the
+  indicator, follow these steps:</p>
+
+  <ol>
+    <li>An inventory of Open Public Spaces should be the initial source of information. Additional legal documents, land use plans and other official sources of information can be used to complement the data from the inventory. If the focus urban area or city has a detailed and up-to-date database of its open public spaces, use the information to plot such spaces in GIS software and compute their areas. Where necessary, clean data to remove components which are not applicable in the computation of this sub-indicator (e.g. recreation areas which attract a fee such as golf courses, etc). </li>
+    <li>Since many cities and countries do not have an open public spaces inventory, satellite imagery can be used to extract information on potential open public spaces. The identification of such spaces from imagery should be based on careful evaluation of the character of each space against the known forms of open public spaces within that city / country. High resolution satellite imagery or Google Earth imagery can be used in this analysis. Open data sources such as OpenStreetMap (OSM) have some polygon data on open spaces in many cities. While this data may not be comprehensive for all cities, it can contribute to the data collection efforts and can be explored. </li>
+    <li>Using the data extracted from step 2 above, undertake validation to remove spaces which are not open for public use (e.g. private non-built up land within the urban area), or to add new spaces that might have been omitted during the extraction stage. This can be achieved through analysing the character of spaces (e.g. size, shape, land cover, etc), comparison of identified spaces with known recreational areas within the city or with data from OpenStreetMap, or consultations with city leaders, local civil society groups, community representatives among others. UN-Habitat, in consultation with partners, experts and data producers have developed a detailed tool to facilitate the verification of each space and collection of additional data on the space quality and accessibility. This tool is freely available and allows for on-site definition/ editing of the space&#x2019;s boundaries. It also contains standard and extended questions which collect data relevant to the indicator, including location of the spaces, their ownership and management, safety, inclusivity and accessibility. This data provides basic information about each space, as well as information relevant for disaggregation - such as access issues linked to age, gender and disabilities, as requested for by the indicator. The tool is dynamic and allows cities to include extra questions which generate information that is useful for their decision making (Tool is available at https://ee.kobotoolbox.org/x/#IGFf6ubq). It should however be noted that the validation approaches which require primary data collection are capital intensive and may not be feasible for most countries in the short term. Validation based on existing city-level data and continuous stakeholder engagement should thus be adopted since they have been shown to produce reliable results at lower costs.</li>
+    <li>Calculate the total area covered by the verified open public spaces. Once all open public spaces have been verified, calculate their area in GIS or other database management software. The share of land occupied by these spaces is then calculated using the formula</li>
+  </ol>
+
+  <p><img
+  src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAgEAAABNCAIAAACwgSAIAAAAAXNSR0IArs4c6QAAFP1JREFUeF7tnUfoLMUWxt99XhfqRlFBFwZUDCCCeWHAgFkwC2LGhIqK3oWKKGIWDE8FxQQmFMwuzAsziBgWigkUA6gYFoIBVPD9fB8c6lWH6enpnn/PzFeLoae76tSpr6rPqTp1TvWyv//++19ORsAIGAEjsJAI/HshW+1GGwEjYASMwD8IWAd4HBgBI2AEFhcB64DF7Xu33AgYASNgHeAxYASMgBFYXASsAxa3791yI2AEjIB1gMeAETACRmBxEbAOWNy+d8uNgBEwAtYBHgNGwAgYgcVFYJljxBa3893y6SLw6quvXnvttapz8803v/7666dbv2ubPQRWrFjx8ccfi++DDjro1FNP7bwNXgd0DqkJGoE6BM4///ynn37aCsCjpAkCjBNGC6lJ5nZ5rAPa4eZSRsAIGIF5QMA6YB560W0wAkbACLRDwDqgHW4uZQSMgBGYBwSsA+ahF90GI2AEjEA7BKwD2uHmUkbACBiBeUDAOmAeetFtMAJGwAi0Q8A6oB1uLmUEjIARmAcErAPmoRfdBiNgBIxAOwQcJ9wON5cyAmMjoDhhYsR23XVXCh9wwAGlJDoJIY6Y5E6ojd3UWSgQIbjRI+K66n7zNgH+iy+++O6771JkrbXW2mmnnRTfmwaKi1r6lL933HHHG2+88eOPP6666qrbbLPNySefvPbaaysno8Vxws27wDmNwGwgwHtOCChiGnZ5w++55x5d16err74aiYBAqcmGmtl7771HUVro5xdccAEiuAgB9yfB5bnnnkPTI8fpTdL666//1FNP0WXQTDuFfr/xxhuR9Tx9/PHHpQC4ZgDw6MILL3z99defeOKJSThpWNa2oIZAOZsR6B6BvfbaKyXKpI85Y301P/zwQxwgU59zlVVW6Z7jOaII2qU6IKbe7dr60EMPSaNDh3TsscfyF4GuZUHaKZtuuunWW2/Nzffee4/fTz75hF8NACYHpHYMjFvKtqBxEXN+I9ASgcwWFFRkfCiu9EstA5kFCTvGOuus8+yzzyJiZEPYeeedzznnnHRemZ1N9Omnnxbzp7Yjpq7IrN9++03H1DzwwANYNkQcpSWzRimRGlyiLeSReQpldtddd8E2FYVJJLWWAAg5dcqeivAUCfvVV19xh2bKVBKAnHTSScyj4VO2ndLMFGSeTjaISAFE/pR50WQhJVSp/bTTTvvuu+/iyL8ibyoe/Kcn/BxxxBG08aijjjrmmGM02SenMugvbWHir2GA6L/88suLSNoW1PKtczEjMKMIIHmRDohjhAUSB6F8zTXXhOzgQmfPIexuv/12RNV1112H7EDWvPDCCwjomlaX5ocOQopSCMf99tsvFiiYKRC7YgNRGIaLsSq96aabKAhNbCMx9b755ptpFE2DsgwmCETY0PyXOygbGU8ogn2GRiGCaSBEYJWyqBByhsRERaEG1PCqzMjoW265RUTQlMj3GqCYs997770wgGi+//77a3irH2O0hQxUmmWDSaz/3NTcX2sCuvL4449HUU1t3NoWNDWoXZERGAMBSQfJYuaP/CKJSoU7E2REFTPisB4wY62pqSq/RBW/2CiQv5qosgIINiSqxFjzSpnvo5bUCpiEVS0CZBtR09RMUZbxBFVEHslE2VVYu0hccr3PPvtwjRrgN1q97777IqalF6syy+oiIhSs333RU4lm2d8y3rR6a2c7Yl5/7rnnQvOss86SjwBQQI0LNBOKSlsIU0jWAVMA2VUYgbERkMUjS6XCHcXARBtLQpWjUUZkrPxigwk4xBFMQao5kY8++qjYkNKbmpWjgSR8n3/+eW2WHnroodIK/LJcgJMTTjihHtCqzKWoNukbzeJT3lhScFO8NWEm23vQidBoRFRXFEf1slGMaYg7aDg1v+9kHdA3wqZvBNogULpducUWW2S0mCxfdNFFTLSZSjc5ZX7c/GJDdiclzeKbV8p2RbH9pTe1ECFpwcESBIkf5h1xIttRpCpkqzKXotqke6Jgypum7WmigzBJcSeMOShL6Y8tt9yyviJ0G5lRM+wNSAvWm6qasN0kj3VAE5Scxwj0iIBkhNxCIoWs4Q57A/xiu5DZQfJIpb7++mvtqW677bayrsSj33//XdcyqijV5NccGbmT5g82uEnCZA8zNUSKMMXcmbI8ZfrMqiVuqmmyOIVPFJNrJCmc0C7ZSeIp9iIZxJgjy1oSrY6LmsybbbYZTyEiY1T9skBPU5M9f4M32CsuAugg2bXQXvBJLWwk8BdtQZO5UKeQUpADtMcee0yPJP2bOAoXAR/3zkqXXnrpuGWc3wgYgRYIfPnllwgUVvobbLBBFEcyvvXWW/zltf/1118R5XrEBX95hLng888/33HHHU8//fTVVluNR3z/FYUBqSeffHKXXXZZeeWV33//fZYCa6655l9//QUdSh199NHaLP3555/JH2TXXXddMpTmZ/pJfnRGmj/YeOSRR6hi9dVXP/LIIzfZZJMqIqWwoL2Qpy+//PKDDz6IEDzssMNglZsQeeaZZ7j5559/IjpPPPHEKP7tt99+9tlnLAICKy4o9cEHH+A1T5Fly5YdeOCBNIfNcElMimifgFSVmXl6cM6Wr+BCpSGgIR61Q5+tYDYPbrvtNjLsvvvuZ555ZsYb+9LFZZk6Dsp02cMPP0wH0TuHH364tj3Qf/fdd5/osJcQ3OoODFCKZRalUH7HHXfcnnvumbKESoh+bDH8qorYN7RDME1qiAgwq0JqIHrkMTky8aIiXnk/O3fQrvINHcmSMwwKAfrx7rvvRjdPk6vZ9g1lzXXxxRfTBhJzGVnK9LfhLlZ/WMMMLImT+sDL/njIKMMGzLDF17BG5S8WqbrfkGwxW2mXdVIL6/rohRghMMAcOSrNxg9PEe5YA3C+5hHudDI1ZIk8l1xyCbMqKQAqUv4sM8Wj9zE+4Hh+5513TtM/r3WnuODUEGCEMDgZUTjLyo92PlLv+wF6UVn4sDJlJ4e3Ud4FeEQtOYIY7MJZuPVm0ZK3Ijy7M046Py2gNHRl8lqwDjOrkgc6ThHYIugUeUTgJqF9QgXQszMptzlZhPGXx3eCt5FHWBKwwBa1OIt6fPvCbsvbi8WDWjBAh58l+gD6YXeGMlZd/PbgqtRou+Q9bgaWCgEsWmeccQaDLXXmWSpmuqq3dx2AExhvNW+yVtaHHHKIWNfu+dIm2WGR/nJbTqXAEjImH+cstrOen3CoyLJ1e1pAlW1kkloQxHIeZ+rNL2ZZ+Voo4D4bJyCjlqrj5LIt+Y69tTii5Jm+2267iRTrUY1DauFCfpbkwfKj2tNEHnJO58CWJRxsrro5Anox2Rdp4g/anOyS5+xdB6iFvK7atdchWWmzcQxgJZ6aMngtuRnGAexImo6FWYBJoopo3qc1mp6y5ijO3UqNUQolF2+lhqDUTAQPqddB+ijMWdnNzEgi921ljkewzSwY6wSJi/RR2IJojvLI4hEGitQSoujzkYl6U+NJnFQlxqhFh5FRV+qYzDQ566DSitD0UVzOHqklh6rjb2qHYZ+QnEzDI9Bmww035A7UUsCzGlNxr7pIvJyZFn/ttdcU8aQMv/zyS5FzYk2Z1pWG+eBDopAiJyMwxwj0rgPYOpeZBTFaKqB5ys4+v8hiyXQmX0jnU045RZHlyAJeZu6PFRQefSYZChGKQ1CmBipCXmBbkABSbGHazeQPMxEF+RvMI4V5BGOUiqlx8WZmJMFPI+jHIywbxOXfeuutPGLGSi1Fww5Cikc6VJJsmSVE7tINF1UKtUdWYj+hamkO7C1qBfgzHeYReUKp6DwTGWoUMFmVKIW/B2YWMtB9tIU1n7oeFwvaJcMOdenAmaoUkBZFNr0GkzQWZxiKKyd1oS9LFQb+HqmJDx5Yy5OTIcEFI1ME5bNRTJQt9R0MdZ7tVQxnS2mOBZab1jkCyzunmBFkhsV2HDtsvE46PA+DbGpVkGWN9y0CIpARISZ0X4/SoHD+Smpr+hwR5EgERZBHeuedd3Tqk4qTE6HG8r/e8iOtI7IkiiMsuMkyUPJRXsChlkpvpkaSzJCiRzFL5Slsv/3221ykhh2klZojOcVT9AFz5zXWWEOWkAi1r5k1BxSxAlMVAfh6661HcUQ8Lc0eaSIcJxaEiaZUYmrGDQV4+/DDD+EWFYVVXaxK8io+ftyktRql6Ai0qabtZ599NmfOwDlPmWHgR5gt0qlO/uCR0HByKucCImwXUwoKjCINkiYmuCZ5mjQwVpBNMjvPwiLQJPRvEnB61wGSXLjZYl7QqX68b/VuVQgLwsSRPrzDxYOWstZGUHiVPaR0KjcyAK+mVOmj1jHoak7qm5w2MELqM3lRGmo/chzI6xFWm3PbPGdWuzqOCbsOekTOouFwjQ/LTBW3oczSUNJS6YwQRwfTKLoeNYCyIRSznj5KIvQERiSFIKE/UHI4g7LJzCidmrW373d75HhwBiMAAr3bgjAmaObFq6Ww75Hyl1cRwcEMDiPJyEi5kRHkpQ4/VZuoMSZqSpU+mtCt6KeffqLqokkn5GAaH88iqTTUvn5AyzkdWYmRTUawJql1u1QwDjLDvocrDsairFL1L1zFLs4XX3zBHYrXS3Oawy4FORHiMTHPjtOhlzEHlTaT6uBHR4DJHASrDLmRg5P8tgU1GTnOMysI9K4DAIKZnSZ3mlTqtY8Jvl5+/ZXRQNm22267UBgKsB4rKDw6gKkoslWb0nIC4ZEMyqXB8SoYRyQqppziCsePR0gQHuHWwiyy6qbkoILvS49/ggEokNS0HXbYIeMqi7NXdWTmvohrR1SNKqb0tAA1Vhb5mN0LfAlK6aGsX9RZCuWvP8FKzVT8fZjsKaVgSO7LISdjEgmuKtj2EJ5az8UpMeKndDlIjWJJ6FFpFreJjatKpuMzSheLn6q1JmVL5wqonFQlp9d9u5YVdyB0p3k0Sek40c1OQj1q6E/4qGEoT6nrwYRVjxuyM2F1Uy7e+1kRvEVEqxP9zEuukHfMuIS8Kwib1iJeiaGXtx8R8Ly3G2+8MRcYvnk5iQUnZJzEfTYzmweFB47URWg7ceQUjyBs6YAIji/GbUesOcLipZdeQn5xVCF0KIUmgA3kDgSxyWDyJnPpTW10ayMECuHRuMcee7BLQRuJI3/zzTeZI9NMQsMBJ+VKIfsKqUcKwwmlMHcQIk82KiXiH5pwwgSWGHqyUWSrrbaKtqenBVAKZnRIALHvUhvcYWfi0Ucf5Ro+AfmGG25QcWGijRCVypoQtcAVyoZe0/Y1bWEHSFiR+EvzGQPsBJSavCAL25j+aCA2QGoECgnTOEeB4uk5Cmo+pdgaYSCpg1jfRKWqGvyxOm6//fZZvSDGSLjiiiuipd988w24wQB0ggh5Ntpoow6j80vPihjrhReH+vQK3c3YYwxr5pQdPJCRZS3O8pr+TY+pyPLwCJq8a+BWT20snjvJzOTgsssu433BNqC3KW0IK0IwkdsF/aXx1uHJCuq4gAVmGKJ0wTRRous7bNH/dQovktP0EeATHPvvv/955503/aqnXyONveqqq6ZfLzX+538pqxrYOV8+bqLDeKXpjjQnGppjXr7//vsO2X7llVeohd/WNKM4TeAaYCHFQWP1A4lWqIEjqx7ssOTktar3he7jESlQTcFpDXVNwRpm+qhONKO7O6/C5wV1Mk0Zmwgb40yZWSQxu2n3DYqxq5x6AWbxrA9YctFYjhoeuRvcB4M6K4It37F2elWKWXa34aAdnhdU+vlJ2C5+nRFUM4eCIX9+Mj70CNtM9nEv5le4xfDQpyL1N3vEHUxzAgcHBEWZ6Pti6kogYkKtL2Uyr8c9rNjFKQ8Uobr0e5bxMUgxoIVyXGMnDLS73fOHbPFro528MtPYD+iE0XkiwsBVcCzml/mORKWZKABMQ0uiAEAY/YqWlTdawyFE7yBJsSx1qwAa1j5JttKvM0osiuzAPz9ZFZRTE8oTj9TMVOzS6ZidFe+iDS1SVbRNwF4a6JOeDoRHhkLZFVeE0I+nfPCS+zoFp/RglUk6t7+y1gH9YVtJWUHnSvUBU0vAXHdV6nuEWOSrDpnorqo6SqgBOGl4aCiE6J0shGU6fE5YizbkIVL8OmORcvMvQarsdD4/mQblMGYQsohv3WyR2CSLeBcVT6NtwmNNkeqRskAfKZV6N0IAl4MGVil+sSKyBFnaMT8WXNYBY8HlzEZgoAjUfJ2xyHHzL0Gq7Fj55XXW4vOT7UJ5mvdHGm2DaUVr8Sy1C4hJ3QgxNBV9oJszOf2c1gHTx9w1GoHuEaj/OmNaH9Ph5l+C1PR5rPyaFLf4/GS7UJ7mUFZF26QU2gXE6FxC1mHYmkp9oJszOf2c1gHTx9w1GoFJESh+frL+64wSbQP//GRNUE5NKE9I9ggzVDMjOIZrivO0Ktom7Yz025kR/ZPVnoKpsjpllouZWwTAc+/xAZMOdpc3AvOCwOTxAUKi6vOTCiUp/TrjTHx+siYopyaUh+APhTUQz4EIXr58uXaAFVSkeBe+Val4l6pomxhipYE+2Vc2FfcDfVyMUA8KNvrjjz8I1mEn4OCDD+5jwPYXH2Df0D76yzSNQAkCHfqGGt+hIcA6g8/LXHnllT25wNk3dGg9bn6MgBEwAv8ggHRWZEaTIxEHCJn3AwbYKWbJCBiBWUKAg2SIRGvufzyotlkHDKo7zIwRMAIzhoACfWZUAYC1dcCMDTizawSMgBHoEAHrgA7BNCkjYASMwIwhYB0wYx1mdo2AETACHSJgHdAhmCZlBIyAEZgxBKwDZqzDzK4RMAJGoEMErAM6BNOkjIARMAIzhoB1wIx1mNk1AkbACHSIgHVAh2CalBEwAkZgxhCwDpixDjO7RsAIGIEOEbAO6BBMkzICRsAIzBgC1gEz1mFm1wgYASPQIQLWAR2CaVJGYDQC+sjiihUrRmd1joVHgHHCaCH1h4S/H9AftqZsBIyAERg6Al4HDL2HzJ8RMAJGoD8ErAP6w9aUjYARMAJDR8A6YOg9ZP6MgBEwAv0hYB3QH7ambASMgBEYOgLWAUPvIfNnBIyAEegPAeuA/rA1ZSNgBIzA0BGwDhh6D5k/I2AEjEB/CFgH9IetKRsBI2AEho6AdcDQe8j8GQEjYAT6Q8A6oD9sTdkIGAEjMHQErAOG3kPmzwgYASPQHwLWAf1ha8pGwAgYgaEj8F8t0B0YM/euewAAAABJRU5ErkJggg=="></p>
+
+  <ol>
+    <li><strong>Computation of land allocated to streets (LAS) </strong></li>
+  </ol>
+
+  <p>Where street data by width and length fields is available/specified, the
+  following methodology could be used:</p>
+
+  <ol>
+    <li>Select only the streets included in the city / urban area (or clip streets to the city/urban boundary)</li>
+    <li>From GIS (or alternative software), calculate the total area occupied by each street by multiplying its length with width. Add up all individual street areas to attain the total amount of land occupied all streets within the defined urban area.</li>
+  </ol>
+
+  <p>Where detailed data on streets is not available, there is need to map out
+  each street line (or the entire area covered by the streets), measure its
+  length and width, which are required for the area computation. For small urban
+  areas, it is possible to manually digitize all streets, but this is more
+  complex for large urban areas and cities. For these large urban areas, an
+  alternative technique for computing land allocated to the streets is one that
+  adopts sampling principles. An approach that uses the Halton sampling sequence
+  is recommended, specifically because the sequence generates equidistant
+  points, increasing the degree of sample representativeness. To compute LAS
+  using this method, follow the following steps: </p>
+
+  <ol>
+    <li>Using the urban extent boundary identified earlier, generate a Halton sequence of sample points (Halton sequence refers to quasi-random sequence used to generate points in space that are ex-post evenly spread i.e. Equidistant). The number of points used for each city varies based on its area. In large study areas of more than 20 km<sup>2</sup>, a density of one circle per hectare is used while in small study areas of less than 20 km<sup>2</sup> a density of 0.5 circle per hectare is used.</li>
+    <li>Buffer the points to get sample areas with an area of 10 hectares each. </li>
+    <li>Within each 10-hectare sample area, digitize all streets in GIS software and compute the total amount of land they occupy. </li>
+    <li>Calculate the average land allocated to streets for all sample areas using the following formula:</li>
+  </ol>
+
+  <p><img
+  src="data:image/png;base64,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"></p>
+
+  <p>Open source datasets such as OpenStreetMap (OSM) have a good amount of
+  street data on many cities, which is increasingly being updated and extended
+  to cover new areas. This data can also be used as a starting point to
+  understand the pattern of streets in a city. Upon verification of the OSM
+  street categorization for each city, sampling can be used to estimate the
+  average width of each street category, which can in turn help compute the
+  share of land allocated to streets. </p>
+
+  <p>The final computation of the indicator is done using the formula:</p>
+
+  <p><img
+  src="data:image/png;base64,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"></p>
+
+  <ol>
+    <li><strong>Estimation of share of population with access to open public spaces and disaggregation by population group</strong></li>
+  </ol>
+
+  <p>To help define an &#x201C;acceptable walking distance&#x201D; to open
+  public spaces&#x201D;, UN-Habitat organized a series of consultations with
+  national statistical officers, civil society and community groups, experts in
+  diverse fields, representatives from academia, think tanks, other UN-agencies,
+  and regional commissions among other partners. These consultations, which were
+  held between 2016 and 2018 concluded that a walking distance of 400 meters -
+  equivalent to 5 minutes&#x2019; walk was a practical and realistic threshold.
+  Based on this, a street network-based service area is drawn around each public
+  open space, using the 400 meters access threshold. All populations living
+  within the service areas are in turn identified as having access to the public
+  open spaces, based on the following key assumptions:</p>
+
+  <ul>
+    <li>Equal access to each space by all groups of people &#x2013; i.e. children, the disabled, women, elderly can walk a distance of 400 meters (for 5 minutes) to access the spaces (in actual sense, these will vary significantly by group). </li>
+    <li>All streets are walkable &#x2013; where existing barriers are known (e.g. un-walkable streets, lack of pedestrian crossings, etc), these can be defined in the delimitation of the space service area. </li>
+    <li>All public open spaces have equal area of influence &#x2013; which is measured as 400 meters along street networks. In real life situations, bigger spaces have a much larger area of influence. </li>
+    <li>All buildings within the service area are habitable, and that the population is equally distributed in all buildings/built up areas </li>
+  </ul>
+
+  <p>The estimation of total population with access to open public spaces is
+  achieved using the two broad steps described below:</p>
+
+  <ol>
+    <li>Create 400 meters walking distance service area from each open public along the street network. This requires use of the network analyst tool in GIS software and street data (such as that from City Authorities or from Open Sources such as OpenStreetMap). A network service area is a region that encompasses all accessible areas via the streets network within a specified impedance/distance. The distance in each direction (and in turn the shape of the surface area) varies depending on, among other things, existence of streets, presence of barriers along each route (e.g. lack of foot bridges and turns) and walkability or availability of pedestrian walkways along each street section. In the absence of detailed information on barriers and walkability along each street network, the major assumption in creating the service areas is that all streets are walkable. Since the analysis is done at the city level, local knowledge can be used to exclude streets which are not walkable. The recommendation is to run the service area analysis for each OPS separately then merge all individual service areas to create a continuous service area polygon. Step by step guidance on how to create the service area is provided in the detailed SDG 11.7.1 training module (<a href="https://unhabitat.org/sites/default/files/2020/07/indicator_11.7.1_training_module_public_space.pdf">https://unhabitat.org/sites/default/files/2020/07/indicator_11.7.1_training_module_public_space.pdf</a>) </li>
+    <li>In GIS, overlay the created service area with high resolution demographic data, which should be disaggregated by age, gender, and disability. The best source of population data for the analysis is individual dwelling or block level total population which is collected by National Statistical Offices through censuses and other surveys. Where this level of population data is not available, or where data is released at large population units, countries are encouraged to create population grids, which can help disaggregate the data from large and different sized census/ population data release units to smaller uniform sized grids. For more details on the available methods for creation of population grids explore the links provided under the references section on &#x201C;Some population gridding approaches&#x201D;. A generic description of the different sources of population data for the indicator computation is also provided in the detailed Indicator 11.7.1 training module (<a href="https://unhabitat.org/sites/default/files/2020/07/indicator_11.7.1_training_module_public_space.pdf">https://unhabitat.org/sites/default/files/2020/07/indicator_11.7.1_training_module_public_space.pdf</a>). Once the appropriate source of population data is acquired, the total population with access to open public spaces in the city/urban area will be equal to the population encompassed within the combined service area for all open public spaces, calculated using the formula below. </li>
+  </ol>
+
+  <p><img
+  src="data:image/png;base64,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"></p>
+DATA_VALIDATION: >-
+  <p>As part of the validation process, UN-Habitat developed a template to
+  compile data generated by countries through the National Statistics Offices as
+  well as other government agencies responsible for official statistics (see:
+  https://data.unhabitat.org/datasets/template-for-compilation-of-sdg-indicator-11-7-1).
+  Data compiled is then checked against several criteria including the data
+  sources used, the application of internationally agreed definitions,
+  classification and methodologies to the data from that source, etc. Once
+  reviewed, appropriate feedback is then provided to individual countries for
+  further discussion. </p>
+ADJUSTMENT: >-
+  <p>Any adjustments to the data is jointly agreed after consultations with the
+  relevant national agencies that share the data points for reporting.</p>
+IMPUTATION: >-
+  <p>&#x2022; At country level</p>
+
+  <p>&#x2022; At regional and global levels</p>
+
+  <p>All qualifying cities/countries are expected to fully report on this
+  indicator more consistently following implementation and full roll out of this
+  methodology. In the early years of this indicator, we had data gaps due to no
+  data being collected at the time, as opposed to missing data. In most of the
+  cases, missing values to-date reflect a non-measurement of the indicator for
+  the city. However, because national statistical agencies will report national
+  figures from a complete coverage of all their cities, some cities may take
+  longer to be measured or monitored. As a result, UN-habitat has worked with
+  partners to develop a concept of applying a National Sample of Cities. With
+  this approach, countries will be able to select a nationally representative
+  sample of cities from their system of cities, and these will be used for
+  global monitoring and reporting purposes for the period of the SDGs. The fully
+  developed methodology on this concept has been rolled out and countries that
+  are unable to cover the full spectrum of their cities are already applying
+  this approach. </p>
+
+  <p>See: <a
+  href="https://unhabitat.org/sites/default/files/2020/06/national_sample_of_cities_english.pdf">https://unhabitat.org/sites/default/files/2020/06/national_sample_of_cities_english.pdf</a>
+  </p>
+REG_AGG: <p>N/A</p>
+DOC_METHOD: >-
+  <p>The detailed tutorial on the indicator computation can be accessed here:
+  https://unhabitat.org/sites/default/files/2020/07/indicator_11.7.1_training_module_public_space.pdf.</p>
+
+  <p>The guidance on implementation of the National Sample of Cities Approach is
+  available here: <a
+  href="https://unhabitat.org/sites/default/files/2020/06/national_sample_of_cities_english.pdf">https://unhabitat.org/sites/default/files/2020/06/national_sample_of_cities_english.pdf</a></p>
+QUALITY_MGMNT: >-
+  <p>To ensure consistency in data production across countries, UN-Habitat has
+  developed detailed step-by-step tutorials on the computation of indicator
+  11.7.1, which further explain the steps presented in this metadata. The
+  detailed tutorials, which will be continuously updated are available at <a
+  href="https://unhabitat.org/knowledge/data-and-analytics">https://unhabitat.org/knowledge/data-and-analytics</a>,
+  <a
+  href="https://www.urbanagendaplatform.org/learning">https://www.urbanagendaplatform.org/learning</a>,
+  and <a href="https://data.unhabitat.org/">https://data.unhabitat.org/</a>.
+  </p>
+
+  <p>Within its Data and Analytics Section which is responsible for the
+  indicator data compilation, UN-Habitat has a team of spatial data experts who
+  check all submitted data and provide direct support to countries in the
+  indicator computation. </p>
+
+  <p>As part of its global custodianship of indicator 11.7.1, UN-Habitat has
+  also established partnerships with major institutions and organizations
+  involved in production of baseline data relevant for the indicator
+  computation. The main aim of this is to create a common understanding on the
+  approach for the indicator computation, and to encourage continuous production
+  of high-quality global data that responds to the indicator computation needs.
+  Examples of some ongoing initiatives with partners to manage quality of
+  products and processes include, among others providing support to apply the
+  Degree of Urbanisation at the local level for the indicator computation (in
+  partnership with the European Commission), development of an Earth Observation
+  Toolkit for SDG 11 (in partnership with EO4SDG and GEO), and continuous
+  feedback to global products produced by partners. </p>
+QUALITY_ASSURE: >-
+  <p>Data coming from the cities and countries will be verified through the
+  local network of actors, who will also identify which open spaces meet the
+  criteria defined in this metadata. Where information on streets and open
+  public spaces is acquired from open sources and volunteered geospatial data
+  channels, cities and countries will validate the accuracy of the
+  information.</p>
+QUALITY_ASSMNT: >-
+  <p>Once data is received from member states, UN-Habitat uses a checklist
+  specific to each indicator to assess a) whether the data production process
+  followed the metadata provisions, and b) confirm the accuracy of the data
+  sources used for the indicator computation. Both components are captured in
+  the reporting template shared with National Statistical Offices, which helps
+  to assess whether computation was done using the proposed indicator inputs or
+  proxies. The reporting template also requests for information that helps
+  understand whether national data for the indicator was produced from a
+  representative sample of the country&#x2019;s urban systems, or if estimates
+  were done for only select cities/urban areas where data is easily available.
+  </p>
+
+  <p>In addition, the received data is also checked for other qualities such as
+  data disaggregation, reporting period and consistency with other previously
+  reported trends, which ensures reliable regional estimates. For indicator
+  11.2.1, one extra assessment that is done is to check the completeness of
+  open-source data (such as OpenStreetMap and General Transit Feeds
+  Specification &#x2013; GTFS) for the specific country/city, where such is used
+  for the indicator estimation. </p>
+COVERAGE: >-
+  <p>Data availability:</p>
+
+  <p>Through a multi-stakeholder collaboration, the major input for this
+  indicator computation &#x2013; a mapping of open public spaces &#x2013; which
+  has been the major gap in its measurement is increasingly being produced at
+  multiple levels. Most of this information is being collated from city land use
+  plans, community mapping activities, volunteered GIS data, as well as through
+  initiatives led by national statistical and mapping agencies as well as
+  UN-Habitat and partners. Detailed data on 712 cities has been produced through
+  multi-stakeholder efforts, and new cities are incrementally being added to a
+  rapidly growing data production system at the local, national, regional and
+  global levels.</p>
+
+  <p>Time series:</p>
+
+  <p>Disaggregation:</p>
+
+  <p>Based on availability of high-resolution population data, population with
+  access to open public spaces should be disaggregated by age, gender and
+  disability.</p>
+
+  <p>Wherever possible, it would also be useful to have information
+  disaggregated by:</p>
+
+  <ul>
+    <li>Location of public spaces (intra-urban) </li>
+    <li>Quality of the open public space by safety, inclusivity, accessibility, greenness, and comfort </li>
+    <li>Type of open space as a share of the city area </li>
+    <li>The share of open spaces in public use which are universally accessible, particularly for persons with disabilities. </li>
+    <li>Type of human settlements</li>
+  </ul>
+COMPARABILITY: >-
+  <p>Sources of discrepancies:</p>
+
+  <p>Applying the proposed methodology to an entire globe of different cities
+  will be challenging, but there are some basic principles that cities can use
+  to measure public space uniformly. Cities can inventory the spectrum of
+  spaces, from natural areas to small neighbourhood parks owned by different
+  government entities. For example, in some cities, cemeteries are publicly
+  available spaces run by the city park and recreation department. UN-Habitat
+  has developed a basic methodological guide and tools, which have enabled
+  national statistical agencies and cities to apply these methods in a standard
+  way and compile a comparable inventory of open public spaces.</p>
+OTHER_DOC: |-
+  <p><strong>References:</strong></p>
+  <ul>
+    <li>Axon Johnson Foundation, Public Spaces and Place making, Future of Places, http://futureofplaces.com/</li>
+    <li>UN-Habitat (2013) Streets as Public Spaces and Drivers of Urban Prosperity, Nairobi</li>
+    <li>UN-Habitat (2014) Methodology for Measuring Street Connectivity Index</li>
+    <li>UN-Habitat (2015) Spatial Capital of Saudi Arabian Cities, Street Connectivity as part of City Prosperity Initiative</li>
+    <li>UN-Habitat (2015) Global Public Space Toolkit from Global Principles to Local Policies and Practice</li>
+    <li>UN-Habitat (2018). SDG Indicator 11.7.1 Training Module: Public Space. United Nations Human Settlement Programme (UN-Habitat), Nairobi. Available at <a href="https://unhabitat.org/sites/default/files/2020/07/indicator_11.7.1_training_module_public_space.pdf">https://unhabitat.org/sites/default/files/2020/07/indicator_11.7.1_training_module_public_space.pdf</a> </li>
+    <li>Kaw, Jon Kher, Hyunji Lee, and Sameh Wahba, editors. 2020. The Hidden Wealth of Cities: Creating, Financing, and Managing Public Spaces. Washington, DC: World Bank. doi:10.1596/978-1-4648-1449-5. License: Creative Commons Attribution CC BY 3.0 IGO</li>
+    <li>Some population gridding approaches: <a href="https://sedac.ciesin.columbia.edu/data/collection/usgrid/methods">https://sedac.ciesin.columbia.edu/data/collection/usgrid/methods</a>; <a href="https://www.ciesin.columbia.edu/data/hrsl/">https://www.ciesin.columbia.edu/data/hrsl/</a>; <a href="https://ec.europa.eu/eurostat/statistics-explained/index.php/Population_grids">https://ec.europa.eu/eurostat/statistics-explained/index.php/Population_grids</a>; <a href="https://www.worldpop.org/methods">https://www.worldpop.org/methods</a></li>
+  </ul>

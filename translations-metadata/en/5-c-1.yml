@@ -1,0 +1,583 @@
+SDG_INDICATOR_INFO: ''
+SDG_GOAL: '<p>Goal 5: Achieve gender equality and empower all women and girls</p>'
+SDG_TARGET: >-
+  <p>Target 5.c: Adopt and strengthen sound policies and enforceable legislation
+  for the promotion of gender equality and the empowerment of all women and
+  girls at all levels</p>
+SDG_INDICATOR: >-
+  <p>Indicator 5.c.1: Percentage of countries with systems to track and make
+  public allocations for gender equality and women&#x2019;s empowerment</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: <p>30 January 2018</p>
+SDG_RELATED_INDICATORS: ''
+SDG_CUSTODIAN_AGENCIES: <p>UN Women in collaboration with OECD and UNDP</p>
+CONTACT: ''
+CONTACT_ORGANISATION: <p>UN Women in collaboration with OECD and UNDP</p>
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  <p>Definitions:</p>
+
+  <p>Sustainable Development Goal (SDG) Indicator 5.c.1 seeks to measure
+  government efforts to track budget allocations for gender equality throughout
+  the public finance management cycle and to make these publicly available. This
+  is an indicator of characteristics of the fiscal system. It is not an
+  indicator of quantity or quality of finance allocated for gender equality and
+  women&#x2019;s empowerment (GEWE). The indicator measures three criteria. The
+  first focuses on the intent of a government to address GEWE by identifying if
+  it has programs/policies and resource allocations to foster GEWE. The second
+  assesses if a government has planning and budget tools to track resources for
+  GEWE throughout the public financial management cycle. The third focuses on
+  transparency by identifying if a government has provisions to make allocations
+  for GEWE publicly available.</p>
+
+  <p>The indicator aims to encourage national governments to develop appropriate
+  budget tracking and monitoring systems and commit to making information about
+  allocations for gender equality readily available to the public. The system
+  should be led by the Ministry of Finance in collaboration with the sectoral
+  ministries and National Women&#x2019;s Machineries and overseen by an
+  appropriate body such as Parliament or Public Auditors.</p>
+
+  <h2>Concepts: </h2>
+
+  <p>To determine if a country has a system to track and make public allocations
+  for gender equality and women&#x2019;s empowerment, the following
+  questionnaire will be sent to its Ministry of Finance, or agency in charge of
+  the government budget:</p>
+
+  <p>Criterion 1. Which of the following aspects of public expenditure are
+  reflected in your government programs and its resource allocations? (In the
+  last completed fiscal year)</p>
+
+  <p>Question 1.1. Are there policies and/or programs of the government designed
+  to address well-identified gender equality goals, including those where gender
+  equality is not the primary objective (such as public services, social
+  protection and infrastructure) but incorporate action to close gender gaps?
+  (Yes=1/No=0)</p>
+
+  <p>Question 1.2. Do these policies and/or programs have adequate resources
+  allocated within the budget, sufficient to meet both their general objectives
+  and their gender equality goals? (Yes=1/No=0)</p>
+
+  <p>Question 1.3. Are there procedures in place to ensure that these resources
+  are executed according to the budget? (Yes=1/No=0)</p>
+
+  <p>Criterion 2. To what extent does your Public Financial Management system
+  promote gender-related or gender-responsive goals? (In the last completed
+  fiscal year)</p>
+
+  <p>Question 2.1. Does the Ministry of Finance/budget office issue call
+  circulars, or other such directives, that provide specific guidance on
+  gender-responsive budget allocations? (Yes=1/No=0)</p>
+
+  <p>Question 2.2. Are key policies and programs, proposed for inclusion in the
+  budget, subject to an ex ante gender impact assessment? (Yes=1/No=0)</p>
+
+  <p>Question 2.3. Are sex-disaggregated statistics and data used across key
+  policies and programs in a way which can inform budget-related policy
+  decisions? (Yes=1/No=0)</p>
+
+  <p>Question 2.4. Does the government provide, in the context of the budget, a
+  clear statement of gender-related objectives (i.e. gender budget statement or
+  gender responsive budget legislation)? (Yes=1/No=0)</p>
+
+  <p>Question 2.5. Are budgetary allocations subject to &#x201C;tagging&#x201D;
+  including by functional classifiers, to identify their linkage to
+  gender-equality objectives? (Yes=1/No=0)</p>
+
+  <p>Question 2.6. Are key policies and programs subject to ex post gender
+  impact assessment? (Yes=1/No=0)</p>
+
+  <p>Question 2.7. Is the budget as a whole subject to independent audit to
+  assess the extent to which it promotes gender-responsive policies?
+  (Yes=1/No=0)</p>
+
+  <p>Criterion 3. Are allocations for gender equality and women&#x2019;s
+  empowerment made public? (In the last completed fiscal year)</p>
+
+  <p>Question 3.1. Is the data on gender equality allocations published?
+  (Yes=1/No=0)</p>
+
+  <p>Question 3.2. If published, has this data been published in an accessible
+  manner on the Ministry of Finance (or office responsible for budget) website
+  and/or related official bulletins or public notices? (Yes=1/No=0)</p>
+
+  <p>Question 3.3. If so, has the data on gender equality allocations been
+  published in a timely manner? (Yes=1/No=0)</p>
+
+  <h2>Scoring:</h2>
+
+  <p>A country will be considered to satisfy each criterion as follows: </p>
+
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+          <p><strong>Requirements per criterion</strong></p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>A country will satisfy Criterion 1</p>
+        </td>
+        <td>
+          <p>if it answers &#x201C;Yes&#x201D; to 2 out of 3 questions in Criterion 1</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>A country will satisfy Criterion 2</p>
+        </td>
+        <td>
+          <p>if it answers &#x201C;Yes&#x201D; to 4 out of 7 questions in Criterion 2</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>A country will satisfy Criterion 3</p>
+        </td>
+        <td>
+          <p>if it answers &#x201C;Yes&#x201D; to 2 out of 3 questions in Criterion 3</p>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p>Each question within each criterion has the same weight. A country would
+  need to satisfy the threshold of &#x201C;yes&#x201D; responses per criterion
+  to satisfy a criterion.</p>
+
+  <p>Countries then will be classified as &#x2018;fully meets
+  requirements&#x2019;, &#x2018;approaches requirements&#x2019;, and
+  &#x2018;does not meet requirements&#x2019; per the following matrices (There
+  are 8 possible combinations of criteria being satisfied, Cases A-G below):</p>
+
+  <table>
+    <tbody>
+      <tr>
+        <td colspan="4">
+          <p><strong>Fully meets requirements</strong></p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p><strong> </strong></p>
+        </td>
+        <td>
+          <p><strong>Criterion 1</strong></p>
+        </td>
+        <td>
+          <p><strong>Criterion 2</strong></p>
+        </td>
+        <td>
+          <p><strong>Criterion 3</strong></p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p><strong>Case A</strong></p>
+        </td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p><strong>Note</strong>: &#x201C;Checked&#x201D; boxes represent satisfied
+  criteria; </p>
+
+  <p>&#x201C;unchecked&#x201D; boxes represent unsatisfied criteria.</p>
+
+  <table>
+    <tbody>
+      <tr>
+        <td colspan="4">
+          <p><strong>Approaches requirements</strong></p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p><strong> </strong></p>
+        </td>
+        <td>
+          <p><strong>Criterion 1</strong></p>
+        </td>
+        <td>
+          <p><strong>Criterion 2</strong></p>
+        </td>
+        <td>
+          <p><strong>Criterion 3</strong></p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p><strong>Case B</strong></p>
+        </td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>
+          <p><strong>Case C</strong></p>
+        </td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>
+          <p><strong>Case D</strong></p>
+        </td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>
+          <p><strong>Case E</strong></p>
+        </td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>
+          <p><strong>Case F</strong></p>
+        </td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>
+          <p><strong>Case G</strong></p>
+        </td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p><strong>Note</strong>: &#x201C;Checked&#x201D; boxes represent satisfied
+  criteria; </p>
+
+  <p>&#x201C;unchecked&#x201D; boxes represent unsatisfied criteria.</p>
+
+  <table>
+    <tbody>
+      <tr>
+        <td colspan="4">
+          <p><strong>Does not meet requirements</strong></p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p><strong> </strong></p>
+        </td>
+        <td>
+          <p><strong>Criterion 1</strong></p>
+        </td>
+        <td>
+          <p><strong>Criterion 2</strong></p>
+        </td>
+        <td>
+          <p><strong>Criterion 3</strong></p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p><strong>Case H</strong></p>
+        </td>
+        <td>
+          <p><strong> </strong></p>
+        </td>
+        <td>
+          <p><strong> </strong></p>
+        </td>
+        <td>
+          <p><strong> </strong></p>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p><strong>Note</strong>: &#x201C;Checked&#x201D; boxes represent satisfied
+  criteria; </p>
+
+  <p>&#x201C;unchecked&#x201D; boxes represent unsatisfied criteria.</p>
+
+  <p>Because the three criteria are equally important, a country would need to
+  satisfy the three to fully meet requirements.</p>
+
+  <h2>Concept Definitions:</h2>
+
+  <h2><u>For Criterion 1:</u></h2>
+
+  <ul>
+    <li>&#x201C;<strong>Programs or policies of the government, that are designed to address well-identified gender equality goals</strong>&#x201D; can be defined as:<ul>
+        <li>Programs or policies that specifically target only women and/or girls. For example, a government program that provides scholarships for girls only, or a prenatal care program, or a National Action Plan on Gender Equality; or</li>
+        <li>Programs or policies that target both women or girls and men or boys and have gender equality as the primary objective. For example, a national public information campaign against gender violence, or on-the-job training programs on gender equality; or</li>
+        <li>Programs or policies where gender equality is not the primary objective but the program includes action to close gender gaps. These programs could include provision of infrastructure, public services and social protection. For example, an infrastructure program that has a provision for using women labour, or a public transportation program that takes into consideration the mobility needs of women in its design. </li>
+      </ul>
+    </li>
+    <li>&#x201C;<strong>Programs or policies have</strong> <strong>adequate resources allocated within the budget</strong>, sufficient to meet both their general objectives and their gender equality goals&#x201D; can be defined as:<ul>
+        <li>The programs or policies that are designed to address well-identified gender equality goals are allocated sufficient resources to cover the costs of meeting those goals from funding that is included in the budget rather than from off-budget sources.</li>
+      </ul>
+    </li>
+    <li>&#x201C;<strong>Procedures in place to ensure that these resources are executed according to the budget</strong>&#x201D; can be defined as:<ul>
+        <li>There are procedures established in laws or regulations so that resources for programs or policies that are designed to address well-identified gender equality goals are executed as specified in the budget or if there are deviations in the exercise from the budgeted allocations, government agencies must justify to a supervising entity (e.g. ministries of finance, parliaments, audit bodies, or other relevant authorities) the reason for not executing resources according to budget.</li>
+      </ul>
+    </li>
+  </ul>
+
+  <h2><u>For Criterion 2:</u></h2>
+
+  <ul>
+    <li>&#x201C;<strong>Call circulars</strong>&#x201D; can be defined as:<ul>
+        <li>Call circulars are the official notices that are issued by the Ministry of Finance or Budget Office in a country towards the beginning of each annual budget cycle. The circular instructs government agencies how they must submit their bids or demands for budget allocations for the coming year (in some countries the notice may have another name, such as budget guidelines or Treasury guidelines). It may inform each agency what its budget &#x201C;ceiling&#x201D; for the next fiscal year.<sup><a href="#footnote-2" id="footnote-ref-2">[1]</a></sup></li>
+      </ul>
+    </li>
+    <li>&#x201C;<strong>Key programs and policies</strong>&#x201D; can be defined as:<ul>
+        <li>Programs or policies of the government, that are designed to address well-identified gender equality goals (as identified in Criterion 1).</li>
+      </ul>
+    </li>
+    <li>&#x201C;<strong>Ex-ante gender impact assessment</strong>&#x201D; can be defined as:<ul>
+        <li>Assessing individual resource allocations, in advance of their inclusion in the budget, specifically for their impact on gender equality.<sup><a href="#footnote-3" id="footnote-ref-3">[2]</a></sup> For example, before its inclusion in the budget, there is an estimate of how a conditional cash transfer program will impact school attendance of girls.</li>
+      </ul>
+    </li>
+    <li>&#x201C;<strong>Sex-disaggregated statistics and data are available in a systematic manner across all key programs and policies</strong>&#x201D; can be defined as:<ul>
+        <li>There is routine availability of gender-specific data sets and statistics that would greatly facilitate the evidential basis for the identification of gender equality gaps, design of policy interventions, and the evaluation of impacts.<sup><a href="#footnote-4" id="footnote-ref-4">[3]</a></sup></li>
+      </ul>
+    </li>
+    <li>&#x201C;<strong>Gender budget statements</strong>&#x201D; can be defined as:<ul>
+        <li>A document that, either as part of the budget documentation or separately, provides a clear statement of gender-related goals. It is a document produced by a government agency, usually the Ministry of Finance or Budget Office, to show what its programs and budgets are doing in respect of gender. It is generally prepared after government agencies have completed the process of drawing up the budget and allocating resources to different programs in response to the annual call circular.<sup><a href="#footnote-5" id="footnote-ref-5">[4]</a></sup></li>
+      </ul>
+    </li>
+    <li>&#x201C;<strong>Functional classifiers</strong>&#x201D; can be defined as<sup><a href="#footnote-6" id="footnote-ref-6">[5]</a></sup>:<ul>
+        <li>Categorization of expenditure according to the purposes and objectives for which they are intended. A functional classifier on gender would identify expenditure that goes to programs or activities that address gender issues.</li>
+      </ul>
+    </li>
+    <li>&#x201C;Ex-post gender impact assessment&#x201D; can be defined as:<sup><a href="#footnote-7" id="footnote-ref-7">[6]</a></sup>
+      <ul>
+        <li>Assessing individual resource allocations, after their implementation, specifically for their impact on gender equality. For example, once the resources are spent and the program executed, how did a conditional cash transfer program affected the school attendance rate of girls as when compared to boys&#x2019; attendance rate?</li>
+      </ul>
+    </li>
+    <li>&#x201C;The budget as a whole is subject to independent audit, to assess the extent to which it promotes gender-responsive policies&#x201D; can be defined as:<ul>
+        <li>Independent, objective analysis, conducted by a competent authority different from the central budget authority, of the extent to which gender equality is effectively promoted and/or attained through the policies set out in the annual budget.<sup><a href="#footnote-8" id="footnote-ref-8">[7]</a></sup></li>
+      </ul>
+    </li>
+  </ul>
+
+  <h2><u>For Criterion 3:</u></h2>
+
+  <ul>
+    <li>&#x201C;Published in an accessible manner&#x201D; can be defined as:<ul>
+        <li>Allocations for gender equality and women&#x2019;s empowerment are published on the Ministry of Finance (or office responsible for budget) website and/or related official bulletins or public notices in a way that is clearly signalled and/or made available in hard copies that are distributed to parliamentarians and NGOs.</li>
+      </ul>
+    </li>
+    <li>&#x201C;Published in a timely manner&#x201D; can be defined as:<ul>
+        <li>Allocations for gender equality and women&#x2019;s empowerment and/or its exercise are published in the same quarter as when approved/exercised.</li>
+      </ul>
+    </li>
+  </ul><div class="footnotes"><div><sup class="footnote-number"
+  id="footnote-2">1</sup><p> Ibid. <a
+  href="#footnote-ref-2">&#x2191;</a></p></div><div><sup class="footnote-number"
+  id="footnote-3">2</sup><p> &#x201C;Gender Budgeting in OECD Countries,&#x201D;
+  OECD, 2016. <a href="#footnote-ref-3">&#x2191;</a></p></div><div><sup
+  class="footnote-number" id="footnote-4">3</sup><p> Ibid. <a
+  href="#footnote-ref-4">&#x2191;</a></p></div><div><sup class="footnote-number"
+  id="footnote-5">4</sup><p> &#x201C;Budget Call Circulars and Gender Budget
+  Statements in the Asia Pacific: A Review,&#x201D; UN Women, 2015. <a
+  href="#footnote-ref-5">&#x2191;</a></p></div><div><sup class="footnote-number"
+  id="footnote-6">5</sup><p> &#x201C;Budget Classification,&#x201D; IMF, 2009.
+  <a href="#footnote-ref-6">&#x2191;</a></p></div><div><sup
+  class="footnote-number" id="footnote-7">6</sup><p> Ibid. <a
+  href="#footnote-ref-7">&#x2191;</a></p></div><div><sup class="footnote-number"
+  id="footnote-8">7</sup><p> Ibid. <a
+  href="#footnote-ref-8">&#x2191;</a></p></div></div>
+UNIT_MEASURE: ''
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  <p>An electronic questionnaire with accompanying monitoring guidance will be
+  used to collect data on this indicator.</p>
+COLL_METHOD: >-
+  <p>It is envisaged that data collection will be undertaken as part of the
+  country-level monitoring of effective development cooperation (SDG 17.16.1)
+  where the Global Partnership monitoring framework provides a useful platform
+  and mechanism. The Global Partnership monitoring is led by national
+  coordinators appointed by their respective government to coordinate data
+  collection and validation across relevant government ministries, departments
+  and agencies. </p>
+
+  <p>For this indicator, the national coordinator will liaise with the Ministry
+  of Finance, Ministry of Women and other relevant ministries to complete the
+  questionnaire. UN Women country office focal points will be available for
+  support. With the GPEDC monitoring process generally launched early in the
+  year, national coordinators will have until the end of the year to complete
+  the data collection and validation at country level before submission to the
+  JST for consolidation and analysis. </p>
+FREQ_COLL: <p>First quarter of 2018</p>
+REL_CAL_POLICY: <p>Fourth quarter of 2018</p>
+DATA_SOURCE: >-
+  <p>Response to questionnaire completed by Ministries of Finance&#x2014;as part
+  of national statistical systems&#x2014;or Budget Office in coordination with
+  National Statistical Offices and relevant sectoral ministries and national
+  women&#x2019;s machineries.</p>
+COMPILING_ORG: <p>UN Women and the UNDP-OECD joint support team.</p>
+INST_MANDATE: ''
+OTHER_METHOD: ''
+RATIONALE: >-
+  <p>Adequate and effective financing is essential to achieve SDG 5 and the
+  gender related targets across the SDG framework. By tracking and making public
+  gender equality allocations, governments promote greater transparency in and
+  hence this could result in better accountability. The indicator encourages
+  governments to put in place a system to track and make public resource
+  allocations which can then inform policy review, better policy formulation and
+  more effective public financial management. </p>
+
+  <p>The principle of adequate financing for gender equality is rooted in the
+  Beijing Declaration and Platform of Action (para 345 and 346) adopted in 1995.
+  However, the Secretary General&#x2019;s report on the twenty-year review and
+  appraisal of the Platform for Action found that underinvestment in gender
+  equality and women&#x2019;s empowerment has contributed to slow and uneven
+  progress in all 12 critical areas of concern. Inadequate financing hinders the
+  implementation of gender responsive laws and policies. Data shows that
+  financing gaps are sometimes a high as 90% with critical shortfalls in
+  infrastructure, productive and economic sectors.</p>
+
+  <p>The 2030 Agenda for Sustainable Development Agenda commits to a
+  &#x201C;significant increase in investments to close the gender gap.&#x201D;
+  Ensuring requisite resources for gender equality is central to implementing
+  and achieving SDG 5 and all gender targets across the framework. Tracking
+  these allocations and making the data publicly available are important steps
+  to assess progress towards meeting these goals. This has been reaffirmed at
+  the Third International Conference on Financing for Development, where member
+  states adopted the Addis Ababa Action Agenda which commits to track gender
+  equality allocations and increase transparency on public spending.<sup><a
+  href="#footnote-9" id="footnote-ref-9">[8]</a></sup> Furthermore, the
+  Commission on the Status of Women at its 60th session called upon states to
+  support and institutionalize gender-responsive budgeting and tracking across
+  all sectors of public expenditure to address gaps in resourcing for gender
+  equality and the empowerment of women and girls.</p>
+
+  <p>Indicator 5.c.1 will measure the percentage of governments with systems to
+  track and make public resource allocations for gender equality. It builds on
+  Indicator 8 of the Global Partnership for Effective Development Co-operation
+  that has been piloted, tested and rolled out in 81 countries. Indicator 8
+  allowed, for the first time, the systematic collection of data on government
+  efforts to track resource allocations for gender equality across countries.
+  Indicator 5.c.1 is defined in almost identical terms to Indicator 8 of the
+  GPEDC. In addition, Indicator 5.c.1 is the only indicator in the SDG
+  monitoring framework that links national budgeting systems with implementation
+  of legislation and policies for gender equality and women&#x2019;s
+  empowerment.</p>
+
+  <p>The refined methodology for Indicator 5.c.1 is an improvement over the
+  original methodology for Indicator 8. The increased specificity of the
+  criteria provides a greater level of detail and therefore, captures the
+  variability in countries&#x2019; gender equality policies and public financial
+  management systems. The application of a tiered scoring approach with specific
+  thresholds increases the indicator&#x2019;s rigor and gives incentive to
+  countries to improve these systems over time. </p>
+
+  <p></p>
+
+  <p>Further, it is envisaged that the OECD Survey of Budget Practices and
+  Procedures, conducted regularly among OECD countries, will be modified and
+  updated to align closely with Indicator 5.c.1. This will allow greater global
+  coverage by strengthening the indicator&#x2019;s relevance to ministries of
+  finance in all countries.</p><div class="footnotes"><div><sup
+  class="footnote-number" id="footnote-9">8</sup><p> Addis Ababa Action Agenda
+  paragraphs 30 and 53. <a href="#footnote-ref-9">&#x2191;</a></p></div></div>
+REC_USE_LIM: >-
+  <p>The indicator does not measure allocation of resources but the existence of
+  mechanisms to track resource allocations and that make that information
+  available publicly. However, there is an optional question in the
+  questionnaire (not scored) that requests countries to report the percentage of
+  the government budget allocated for gender equality programs. </p>
+
+  <p>Another limitation is that the indicator, which is process oriented, does
+  not provide data on the adequacy or quality of resource allocations.</p>
+DATA_COMP: >-
+  <p>The method of computation is as follows: </p>
+
+  <p><img
+  src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA2MAAABrCAIAAAB16M2uAAAAAXNSR0IArs4c6QAALEBJREFUeF7tnW3IZVX5/5tf9aLGQKmgeVEjjlRaCZWUUIbMUJq/JAwjKjUtzVKbtIyMKR2KysCoDIwehMIeIMeyF9kTMZb1YtTqhdETKJmQ0gPh4CQ4wvw///+X/8XFWnvvs/c59zn3OWd/z4ub++yz9lrX+qy11/ruaz1tOXLkyJP8MQETMAETMAETMAETMIGKwP+YiQmYgAmYgAmYgAmYgAk0ErBSdMUwARMwARMwARMwARNoJmCl6JphAiZgAiZgAiZgAiZgpeg6YAImYAImYAImYAImMISAfYpDaDmsCZiACZiACZiACYyJgJXimErbeTUBEzABEzABEzCBIQSsFIfQclgTMAETMAETMAETGBMBK8UxlbbzagImYAImYAImYAJDCFgpDqHlsCZgAiZgAiZgAiYwJgJWimMqbefVBEzABEzABEzABIYQsFIcQsthTcAETMAETMAETGBMBKwUx1TazqsJmIAJmIAJmIAJDCFgpTiElsOagAmYgAmYgAmYwJgIWCmOqbSdVxMwARMwARMwARMYQsBKcQgthzUBEzABEzABEzCBMRGwUhxTaTuvJmACJmACJmACJjCEgJXiEFoOawImYAImYAImYAJjImClOKbSdl5NwARMwARMwARMYAgBK8UhtBzWBEzABEzABEzABMZEwEpxTKXtvJqACZiACZiACZjAEAJWikNoOawJmIAJmIAJmIAJjImAleKYStt5NQETMAETMAETMIEhBKwUh9ByWBMwARMwARMwARMYEwErxTGVtvNqAiZgAiZgAiZgAkMIWCkOoeWwJmACJmACJmACJjAmAlaKYypt59UETMAETMAETMAEhhCwUhxCy2FNwARMwARMwARMYEwErBTHVNrOqwmYgAmYgAmYgAkMIWClOISWw5qACZiACZiACZjAmAhYKY6ptJ1XEzABEzABEzABExhCwEpxCC2HNQETMAETMAETMIExEbBSHFNpO68mYAImYAImYAImMISAleIQWg67ggS+973vvfe97/3lL3+5grbbZBNYLgL//Oc/eZR++9vfFmb95S9/4Tp/l8tcW7PuBGjeP/axj7l5n3c5bzly5Mi803D8JrApBOjVrrvuuv/+979XXnnl85///E2x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XBlMwARMwATmTkAHz7QdaTP35J2ACZjAtAQ8+jwtOd9nAiZgAibQm4AGgl/xilf0vsMBTcAEloKAleJSFIONMAETMIE1JsDkPEZvmSjZvQZojQk4ayawugQ8+ry6ZWfLTcAETGAFCDDDkvl5TPIr5omugOk20QRM4ElPslJ0LTABEzABEzABEzABE2gm4NFn1wwTMAETMAETMAETMAErRdcBEzABEzABEzABEzCBIQTsUxxCy2FNwARMwARMwARMYEwErBTHVNrOqwmYgAmYgAmYgAkMIWClOISWw5qACZiACZiACZjAmAhYKY6ptJ1XEzABEzABEzABExhCwEpxCC2HNQETMAETMAETMIExEbBSHFNpO68mYAImYAImYAImMISAleIQWg5rAiZgAiZgAiZgAmMiYKU4ptJ2Xk3ABEzABEzABExgCAErxSG0HNYETMAETMAETMAExkTASnFMpe28moAJmIAJmIAJmMAQAlaKQ2g5rAmYgAmYgAmYgAmMiYCV4phK23k1ARMwARMwARMwgSEErBSH0HJYEzABEzABEzABExgTASvFMZW282oCJmACJmACJmACQwhYKQ6h5bAmYAImYAImYAImMCYCVopjKm3n1QRMwARMwARMwASGELBSHELLYU3ABEzABEzABExgTASsFMdU2s6rCZiACZiACZiACQwhYKU4hJbDmoAJmIAJmIAJmMCYCFgpjqm0nVcTMAETMAETMAETGELASnEILYc1ARMwARMwARMwgTER+D9CHNFDurOhhQAAAABJRU5ErkJggg=="></p>
+
+  <h2>Unit:</h2>
+
+  <p>%</p>
+
+  <h2>Disaggregation: </h2>
+
+  <p><img
+  src="data:image/png;base64,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jIARmH8EHKbMvw4tgREwAkbACBiBBUXAYcqCKtZiGQEjYASMgBGYfwQcpsy/Di2BETACRsAIGIEFRcBhyoIq1mIZASNgBIyAEZh/BBymzL8OLYERGB4Cf/rTn5555pm33npreKyZIyNgBOYJgdW+/vrreeJ3UXjFfd93331/+ctfLr300iHI9LOf/Uxs3H777d/61rdWOUsscrfeeuvvf/97IIKZ3/72t6ucpblj4Oabb37ooYdg+yc/+cmZZ545M/7PPvvsN954Q8Ode+65u+6668yG9kBGYCUI3HnnnW+++eYee+xho10JjBPv6zBl4pB2E7z//vtZP5gMRxxxRLSORWX99de/44474vrRRx/98ccf8+9+++134okndlMfqwVhwTnnnLPmmmveeOONYxGYZCeYueiii8DhjDPOePTRR59//vkhcDURCU8++WQCr6zfiZBtIoLbveeee04//fS99tprqgMVxBHz/fffd3w5S8ynMdaMzXUaIoxKkxQgU+Y73/nO+eefP2rf/u1xcQ888MDjjz9+7733VnsxbbmF28ch77zzzocddljeOtL37rvvfu655/AkOMliHenPwxy19KHPrJXFNLjtttuOO+64HKPABCEIFskXrJMsQrB11VVX8X3bbbedXowCfaYB42655ZazhqNuPCYwi9yRRx4JV6C0MDEK/gW58IAzA1m5qO22225mI2ogBdazlLRJQDA/6KCDSBayN5gxCJ3DDZk3mJ+9uXYiNoMG5FEuueQS0oHXXnvtNIYDVXakp5xyCjtVTc/iw13iJDalpJDZYDz22GNXXHFFbsO/xChEUTTYaaedaEyXabA6HJoOU2aqC2yUGIVwpCmpSDgCQ88++2ywpTiakHmqjCow2mKLLaY6Sk/ipE/YJWy++eY926+qZiS6RvJlqBLPMo1jPs4QWYl/97vfFVB88MEHxAorOcW7/PLL2VKPhDDMyP+u8jBFR4diZuuttx5Jimk3HjJvkn165jptbKFPVMqMAOQxxkJwtpHEB2wpm7pDmcPNvJ+Mli23aHPdddfh3Eii1M4O+pJHYYE44IADaMwywXdipuCEL/x76KGHaqVg7wo1uown6RjgrJIuDlNmCjvxBxvNAw88sHZU7I9wBLMjWI4GMtBpn5W+++67jLLpppvOFI66wfAvw8nrtKBBgAKf22yzzSpHDA91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zL0RMAJGwAgYgQVGwGHKAivXohkBI2AEjIARmG8EHKbMt/7MvREwAkbACBiBBUbAYcoCK9eiGQEjYASMgBGYbwQcpsy3/sy9ETACRsAIGIEFRsBhygIr16IZASNgBIyAEZhvBBymzLf+zL0RMAJGwAgYgQVGwGHKAivXohkBI2AEjIARmG8EHKbMt/7MvREwAkbACBiBBUbAYcoCK9eiGQEjYASMgBGYbwQcpsy3/sy9ETACRsAIGIEFRsBhygIr16IZASNgBIyAEZhvBBymzLf+zL0RMAJGwAgYgQVGwGHKAivXohkBI2AEjIARmG8EHKbMt/7MvREwAkbACBiBBUbAYcoCK9eiGQEjYASMgBGYbwQcpsy3/sy9ETACRsAIGIEFRsBhygIr16IZASNgBIyAEZhvBBymzLf+zL0RMAJGwAgYgQVGwGHKAivXohkBI2AEjIARmG8EHKbMt/7MvREwAkbACBiBBUbAYcoCK9eiGQEjYASMgBGYbwQcpsy3/sy9ETACRsAIGIEFRsBhygIr16IZASNgBIyAEZhvBBymzLf+zL0RMAJGwAgYgQVGwGHKAivXohkBI2AEjIARmG8EHKbMt/7MvREwAkbACBiBBUbAYcoCK9eiGQEjYASMgBGYbwQcpsy3/sy9ETACRsAIGIEFRsBhygIr16IZASNgBIyAEZhvBBymzLf+zL0RMAJGwAgYgQVGwGHKAivXohkBI2AEjIARmG8EHKbMt/7MvREwAqscgbfeeuuZZ57505/+tMo5MQNGYPEQWO3rr78eSSom5H333feXv/zl0ksvHanjNBrjGq688koof+c737nxxhunMcSoNH//+98/8MAD/KXjlltuefXVV49Kwe2HicDll1/+3HPPrb/++nfccccwOZwUV2efffYbb7wBtdNPP32vvfaaFNmFpHP00Ud//PHHEu3222//1re+NRsxW6yRaOnWW29Fg2Js2223DV99//3333bbbVy85pprNt988xmwKnx23nnn888/fwbDtQ9x5513vvnmm3vssceuu+66ypkxA/0RGC2bgpVfdtllG220UY5RcGo/+48PMycGJprRRT4EE/0ZGqkl1iZOCAhG6jilxkQngAA+v/3tb/EOBE9TGmjGZHF8hX4nxcDvfvc7KGNXkyI4PToRek5viGlT7ok2sTXWCzPbbbfdtFmad/pXXXWVRCB+nVmMwnBN1shUPeecc4incT54IbjiEyC/8sorYnU2MQpMKlTaYosthqDoI444ghjlnnvuyUvVNBjDoRGf1S58XDz55JO1Ml544YUslAUDxFL05e5BBx107bXXOkX37/iQTen5efrpp/fee2/+Fu3/5V/+5b/9t//GrZ///Of51iOPPMLF3/zmNz3pj9dMXDHWeN0n2+tXv/rVUUcdNVmaQ6A2PVX+j//xP1Dfyy+/PAQxF56H/mhjyUzqhQdk5QLi/TBgPr/+9a9XTm3lFG666SbxU3XUKyfeREFOmA+5iumNMinKqAwvzVyYFMFMh6MGiDepQEDJVMCKliya8BMUpD6IcEWNmYnT4HO+aPbNphDTkS0kd1dNl7GH4AyI7Rd/2a5FbLjmmmvynQB2GuFq0Hz//fcHsu0jLibROpC8TgvmSnRlTXUqiMw/O7NpqPLMM89U5qmTBzdYOQJVtJuMgWk1fEsWIGPY88qRDAqvv/66vpNDnSDZ8UjhpZ9//nn1ndm5BviTn2DEmSVpxgMnerFgHXfccY899lhTmh8YOSJQvqr4tNyi5c0330z2iATbT37yk1omH3roIVDS+RcJrf32249FkyIBNYb4448/ziJ7wAEHSIN8Z02Z3nHECpGcWfe+tSk61Kw90cRMzzrrLG7xN5+DojMCxmkXZ5C+Q5FDKBfQaTETQEY2zA8z4YorrgAxgoNhctiTKwRheuOU8QssqOeddx4dOZJHBXzJRRVMciY/IuMRCJ2Z+azWxSgEbWojb0tmmH932mmnE088kStRq8F3DhlzUKVSpCDOreOPPx4/mNmD4AUXXPDRRx9BU74P9yTK1Q+c4PQRiqT9JZdcAim6kPvlysTrCZqMgRFJR89FYcps7FkFeVHtgWrQoKp28HKsPVXDUBeQDKtDgwR/2VPhVDEJbbSwTMiedNJJOo7J9iOb5K4OuJusMTgJo8oVe/nuoYcemrccGovzIHHCWGH5VU6wcAIyRJY1ZmY0LoLce++9fGEvVFwJxorpFsNl0FTYFxBBFtdarZSKUUQctxYFi+0TjZMXaDYtTzhzdEc8kSc7QF100UWQ1cSsnb+6KLTPPffcHCxqocxlOhA85phjQk1aZPMKAlDXX389QU/VZbWMvni3+mZTmE6gWXui+eqrr+oWf1FtnKURo8SRJBdRPCaFceTDNv7lHE6TIRrwL3RU8sJdtBt3Oa4r0gBKYNAAx6r2RRSsehE65rtBnwWA4aCp40D9W/vhyDCfKWYpoEZfLZDYmQ4d220FiwxqBc9NA2H6SMEnCwjDDKcDzpBCEKk9d/kSk4dZocVYh6OAHC1pnKHmLjJGjZFa5g+jCHPRyYAwovCUxpGoigYIqEGw18l/JoJjlefiIhI9++yzp5xyilTA9XBnjEKRNQ1YdKlw5Ba7qIIfzANfgI/GraiNAoU41FcMpE92WxAHARHHP2L/MEAUSDOxR3TCd0ixYkHzjDPOwElxBRdWPZPmOheZaPSiL/w8+uijoKoYpbpVlXKzXgRp7L1kYJpfVbSBvdYYaPzuu+/yd9NNN41j8pZ5QUuYLDQecIn/fNauW50OockssweoFaHJk4AGNGPi5+qEqK6rWqmgQyNoltBE5oFqlCrmg5erNYzogmGgdKyOoXOxGszjKwhiWO8hi34xpM8++0zUsCKMhPbcIjqhmaYtnyZrJPDFgNUGVhk3P1XA3Rg9swFX1LJoLLrgS6MiWHDpLtfhBDvnCv8ivtYClnmCHg2qWaAYRf/qS1Gip+kWgvMFgnICVAgQsogg8tISeJECcGimnE3xyVWS+k5koGQG4+6///7VLrqyzTbbMERT5YcCFAUraq8YBTY6Y5SmEd955x1urbfeetFAsY6iQz4ffPABf3MtkcwsGjRRXvjrfcMUkGoqCMWSdAsL4y8LhlDLJyBsc/fcc08mD3QiTYriI7d83XXXRQP8AkSYjRg6c4bCCHVnnmAl+PHQCm6dBiieWX3kkUcy4Wlwyy23RAMtJDS44YYb1P2uu+5iXP5Cn7mHFdJGmTpsoqnUC0fGXNLkZxRE02qkDwatkwso8IVP+2NQWD9Tji07LZmT2S80DcSCgfkCCCK89NJLMTScaAFDEPZD2quRY2BtQCm4DP5qt8cHVwUIfGEai0+8DA4iKL/44otAfeCBByIpHZlFUJa7KZBBBJwsUx0iOEfYiNQlrDIiAYSwguFw5Xk6kXOSN9HhQh/+c3dkyTtC8JR2sqMk7tFzDdzCeSGOpj0sBSnaKLhBEbkNV7beems1i51TPgeJXHc8OCCI5PvEHhkUUeCivFssb3ErCwXaaIS/GgiF3n333XRBa9V8IcXsuS/fC5wZkYualQXaTcYggtDBJAit+M64GDarbG1cRQO5b1iVxmkc9kwXFjlk12GTMu1akDodQjb4p556qtYD1Npz9iQoV54EPAWpJj5xA0oPibTw1x5yScsYjFLxaFC+bquttgrNFn2jC1DIRJkmapwPhqQsTV7ISk0RBCsooT23uAhv4X5rrTEz0yRL2F7e4uMtFQTrJEI2HGPFXeUII/rPa0FYHXFtNsgYLruOPN0kuEipthe3CW9hP8AurkQq+8kYCHCqR8ZrrLEGDZjRLTkPqZuquMxz/p4jFRk5DGDJYxdK10Yb2eqqDWZ2ctcEwkCu9wpTtD/LYWDmHnBliD/60Y/C4BSExmTO2bMNNthA3RWvqG/OpWP3sgZZJw6FGAVbrNoHiRwa0B5Hg9EroxPKhgdWKSXY6avu0OQLi4H+ZSbwwZvwL4t67eOXOFa8RqQcNUpsbgKKnoUpUMtnQ5qlmmktA8FhnCXlcDviPCjEI3/SiGQJZyE+NS2z4wCcoEx8gz9CQC7GVkwU8nRiCUEEwhd1XHvttfNAeBy6aIJBCv/bdGwvb6KWPfkvpk3oGvaqpTPafsGMbmEPkdYOOnGsXhzVxX5RHdU+46bH8rm42267FVxFIB7sYYTFzimmRtFX/woxLIqhm3ZvhR3iScVn3pwhRWwoM9pNxqDrOsOCB+Eme1t33XVrWSVex32TzZYe6RVrGPWA0NFZMLdkkFrVOh1CNngsitC51gNU7Tl7EjrKkzDflTbXxFfcIO/BR6pBR1UBQ8swoLtQIORSl0hc1RpGIB++ohoJReUB8lbPYZmPiqUQKo4naq1RvGk7zqfWumQYmQd2aLoYsjPxYUOairsE4i3yxpwqcu15bgawMd2KBTiv0CEFO0911N2mfXJEga+99praY2OI2WeNb09URKSiGKU4A6pai69MCYFeYUrL2MqIaN+pXaDOfbAYbcdzX+3Swpo1e2PPGtMsPIKWAaaQ3JwSdNkjyKAPP/zw2ghXiXcmHh2J4pUez2lAJW87K0PJ38B2+wskdAjdp4xOx2dBjbkU7qlzoAIxeckMiFwYWgj6Kt0ILWiRqD5oquka/ihrTYNmx0eyBI3AOT4UX6bMDaGkesEPUMTBCvg31WFEHi6G6+S/MMXwaNXsLqTivREYAHwqzx8VanzPbYJy1ZuH+yuy5XTJJ6FffPGFiEQgHuztsssuuiUwq1OjkCtU1r4jzDEo1i72IlfEmVFWaBXtWmMAK1XGxLwAkKanbQEQiYA0JjW61oKqW9hJy7OvnQ4hzFJEtGZng2+yZyEfnqSAV/v+0A7OoWlVk0E2FYfGIpcNQyqmS+zyP/nkEzGQF85YXDmUrD53qr4ogsOj4oyy1ho7rUsOSrYXaCiHwSc74bgbaRLtP8WPvoR9Kp9dkFWb6B6uo3a6iati6yWCUnrEgrXpLhrE5FL5sB5lwPJDkJV8YdtGdxTNTHSl/0qQXEnflYYp7GbyHI5zH8WzBWdFvoFJUsx/NQi/JkOP9U/HSZks7bHmbD35cEozk+N5qhaIAPALHP1EY93ttGYmCc0KA2VmFlkK+Y6miRQ4iJpQKj59BircurxMdjFiI+jLiWS3LsSqUR2Ukai2+FfLW3QRnyrH4dwBHogjSb1EAyIGcGDb1FQtH4JX80+d/FctSleqHkQFFnxI/FCEgQujDedT+TVT4fEjvgQx+c1qfp6LEd6xlledvtannIaJFavYjDbtC0O6WD8KMyvED+cOP1i49sSKlhQl5OitinatMSg/kU20JU2o88dYJzJ7uhWLMd8VZGSJOh2CPECYpfIfVQ9Qtef2CAkPA3QRZAR0BbyxtDfN61iJwzBql+2ITTN9okBWPqHBWVg+ROYKZUw6ElVNRtRvcaU6qMiG6dZaV5h64Q3o2BSEVe25GnlERqq6Q6tG5Dx5K1ajsXa5XAmeqwBGLqppE4j2VfIFKbpTJNC5qywU3fSvznrEHlqIPFbP7kWz2rmc0znVBisccTw+B9hrpWFKEY7IYalovKhmKLb+2FMOKeglp9CypmqSxI5EJp79oFZQXdFwqlfgNIcdnk52Qgeat50Lhswoc6WJVKyLBW9Nmq51WGrcZ6DCrYNYXhTDhQVEciLbb7+9hsjFQAWHWrFq2S4GlQis9wBL4QLp6CK4UY6dMzJQojCo6Wm6aiqok/+CPe37uVi7isTOT6zCEgFKkQeOxEOs95RBaJRiLeRKzijEsU6chIbDDcMI9gLYcLjtb7si8RPuKbrUqkaj05gSFuW3YFuGRFUBKsjBZWHGTcag7hH7qhw7z7LMicy+dpepXEXO28kag1SnQ6BxYXsKpgsPUNV+n9RmnA7DBpqtPSCIgtam8+4iDIXhKDmKNTVSCFU+8UgE+jIPSOU1CcVxSoXpaunKBXnVQaWRloghZhZfcgVJNZORlVtNk4jDvGmp5ldEoTZ5E0tyTLcoDQmrUJ0pnwAwYqPalI8aR3fmr4qdsyBjf4+zHg5e4TlX1I5BU4qOHJ4ooIIwDImcAxdZ4EBejjeGyJPq0itM0RyO1GUeG3MsSpfxWUwkzLeoqIrZRXdcJEXdhQKKhETVjRY+q1r9pBL0pupuWM0PLPQMLOQmcpwrziPHIzRadpw9VdU5UFEhpCOMwvdVt6e0iVVEi6tqFAolFgFi3NWg7YdZLKvxGlme6dDZHLGLXtDZtNDqetVIskRKKjTlWsMAaqdxTiOHOIDW8sZb5STUOB9yVRMn1bP/qCCOg4bqGzXCQ7U4XKyUfRsRhnAonFqhONkMeQtcs7LT+mDnxSlGFe0mYygydnKaY7yOVrxFnAS2emlEcf4lNdU6hOq+hSs5mG4SoU9qE5OWWuEqQ5cRjsO7Anb9G9mL9hwqRbtqnx97JBOp+I+8ThEC6k3BmkQ43urmoWqNoh+mUrvfUK9iV1M7R2qF5SIZHRGpHiJzsZgREeFl11FlTNMNNmKrUz1Ha6p9yXxyxi170+MCfV4J0QRjkMVXRD0KZrzySAVtwmT2h7KByFxqPxlhGd/lAKvVb006WtTrvcIUhI/NRwaCNax6/MGswwKaEoncYgZSt6/JidogohVX0yy2NfJB2coVudNdj7/KfNWLf/UCldhBQgceULMmvEoocnaa7p1nNHTUisJ0gg4f5iq+klHy2il/2pmYgY4MMV7BpMeSxWGfgWimlD5sqAQEAHGXJC0gIr+Z12wpQuDEXk0U9AyUtKnzkRY0pCYFeZozEkGAAI6AVf4A5UoiaiP42+4KKczk6F2hQ0/+wwJrKwPiLizJc2mqCyW6bLLJJtEmRAYoGpB415XaUgwugqFsL/LM8il6NQtfMIyi9CoDG8EuUoNbzuRLI3qUXY8OxSYbxhi09kEbtdFzVQoINE+ZCIcddliIGV8y2rpYNYYirxZOE26rEZ5msa7LGMKoZIeSEeZ5AAeQqw9KtDiEqlnKnsPgm0QoPEkVh1AKs6+2Hktd8iNXmv7YavXJfNQahqGliL5s6jTv8ujyQgqv0Zpoits4vBbgTCLhJqenQ438ydao67H+tZSOyhtEjlMLJAYj58CqCSBhaVEfwy0EV2m8xpK8fInZ/a//+q/Mgqqh0kBvLqAxwYTai1Vo8gWa+aUgYW8hRezfMudVnYZD7jzHV18NVGyTgmz1vSkjRSrSafXRJI75sGGIy13rOfAIqhABRYOtqpHAk+0HZ38t1V1VHBbyyt9dfPHFfQT78ssvyaf98Ic/jNwJaOqxW5KNBBMbb7yx6BBWP/jgg9///veLE+t11lmH+QkRTJOEx+67744O+He11VZjN7PWWmsxMzHiffbZR3RY5LAkVLjhhhvqiqYT3amZ3WyzzUh0Y5G4A/L5jEhfalDyoLBEew4maMkop512WuxiMRG2v5jFjjvu2C4+8vLRs76MAp+83njffffNvf7n//yfgMCLjeGqnRqykMxgjUdYqK2++uq//OUvtdh0DiRxXnjhBU6ysWZ4+PDDD5988sn33nvv4IMPZmhergyfmHWw8fnnnzMWOAMUyAQFDX3IIYdIm/wLtieccALSFfz/27/9m7QGgGRKaECXEAFOvv3tb3OOrjXyn//5nxkRBQE4n08//ZSYpqlCmYkKaHrdiNp08l/wxhByBOi9yjlXwOHPf/4z4tOSqJeFk5ZZRwAChbfffpsnseEHXTzxxBN0wTCyIakNH24JagYloMHj/OEPf8AwgJ1/efV1rrMO9gJYWKI9vfSTK0VlsbSA+k499VTof/e736UZI4I/SewddtihaloYPwZAlwD5f/2v/0XaHL9fmGIV7VpjwDNiMGjtBz/4gYbjpdqAAycI+Itf/KLggWaA8/DDDwOChKIMSLrAD8j8MHWqynQrB/edDqFqluDDKGHwTfZceJLaKYlh42FwU8cee2zLnIVhhX0ww9DMGh4/0azhb61hfOMb38BxYS3MVpBEmzr3wdrpziRCpyiOycthNGS/+uorpmfY8P/+3//7r3/9qw7y4BC3hsPJTNYOCj96NA81FYleSYcu4Iq+UGa4H//4x1wkScYVBGQiwwkxazyvwN1vfvObmCsNuIvj+od/+If/83/+j0TTROAiwyl3Dqt0xwdKxUobSGpcB9GPrOLv//7vMUX8CdJxQEbj7JZpQDjLX6wlFgK9V77gvKoy6DMXGJdn4KveoNoeuBilNpqHQ0RGI0UeF7JMQzDB7GNVypTBlhQy5qcdFG4Bm4Gr0AiTArOR+EwK0COwy9zidtCUJhRSy35a7HNJbvV9Cy2aQ/3AOoQfuhyabtgrYKCz/H3UoSEwj/yw0ceP5Md9CV55ehZZBv4q4XlEe2g8M2Ep3xn7VV1DEydevVq8YXZofE6VH4IhIo8+K5TgKt4SO1XeTHwlCPQ99GG7jO8mNhzpt2BWwtkc9VVFSO1D0XMkxVKxSvqdjCuJjaw1VR01PfG0VPgstrBsuigZISRdmDkbj4bFw8OLrcGQjmyEHudWKUnTI+gZDRrzPi1ykH1erLIkMA5czL5hCmKgVCIVFFz77vOByzk99lRZNqna8unxacpVBPRkNdej6ogYJV7ybcQWDAGVhqgIiYPjhTnyx3r1JuVcGrVgumsRhwMazhP1gE+nTsmj6FhgyX8lZ77Mo++hT0jFJNdbtPvk1uYLi1G5xTswPTg8JtHa/vK3USm7/QwQUFVgFB6iR5wXu7FOTzcD3jzENBDQj4NScEB9ycJoWecXHHbEryFOA7rB0tTP9bG7QPzOF3Uy5Sn4iF+3GKxQZqxAYOQwxQgaASNgBIyAETACRmA2CIxw6DMbhjyKETACRsAIGAEjYASEgMMUW4IRMAJGwAgYASMwUAQcpgxUMWbLCBgBI2AEjIARcJhiGzACRsAIGAEjYAQGikB3CS0v8B4o72bLCBgBI2AEjMASIMALu5dAynoRu8OUpYXGghsBI2AEjIARMAKrFgEf+qxa/D26ETACRsAIGAEj0IiAwxQbhxEwAkbACBgBIzBQBBymDFQxZssIGAEjYASMgBFwmGIbmDoC/OwRhdh8+DL1wXoPwI+Wiavh/Jom+Bx99NHiipeg9xbFDQeNAD8wIp3yZvdBM2rmjMAgEXCYMki1TJopfsxCjrL2w4I96QH/ht6JJ57I75FyiR/NmepAIxG/+uqr+XkXumy33XYjdZxSY35x5vnnn7/gggsuvfRShthqq62mNNCMyRIFTmmFPvnkk4nqZizOGMO9+OKL6rX11luP0d1djMCSI+AwZSkMgB/c4sfJrrnmGp5q44cSkZnfAeb77bffzvcttthi2iisscYaA1x6+YVkYPnWt741bfE76ZM7iZ94JXhCNUPgqpPtPg2wPZptsskmfRr3b8MPf77//vuor3+XVdWSn8RDoXwW5vcOVxWSHnc5EXCYshR653eATzjhBHlJLRtKIbAWkuHon+RQ+nqMUxLFSUNbelnn+ss+VUMhjzIXu22OLTAAQoT+aJx55pms0EpcTfCDLUFWmSd/jIARWGAE/N6UBVZuvWgHHXTQ+uuvf+ONN44qOYvTFVdcQcQzxouGGJSF6vzzzx910Om1J+Q666yzjjvuuAMOOGB6o/Sh/Pvf/54TH36M/o477ujTflW1ATHOpAg3OS9bVTxMZFxyV48//jiwgznJRQyAyPuee+75+OOPkS6mBgb/wAMPvPLKK4SzjMstYv0i3qLNrbfeyqSgL2123nlnaD722GOaIwx05ZVXimc6FkEVpUiZ+H777bfXXnupl9jjOxf3339/2CCQZQhmLiqozcqIE3Jy9Aqrvvbaa2EGrgY19SaiRBNZHgQcpiyPrv9dUq3NLW4L5/joo4/ylwMRfCJeUqs4LvWhhx7KYJGHiOWK9nhSOVbc8TbbbIP/DafM9QsvvLApIIAyTpmOl1122brrritXi6+nvbx2LCGZAhevv/56XYH+XXfdxVJBBQx792gvDuNu4eJJDNx2220chL366quIxhqg7llGanpYHrRKxd1ahmnACVptuqgJUg0EMsItPuDWkntAg/fdd58UlLnie9NAgUDWO6vaMcccoyuxwmmRrkWMAiYQznxqBZW+io76VwhrraU+qRNYiRCGhA2gwSOPPLK6KlOSorBA0UAf/mN0RdsnnXTSTTfdhEQMAbes5WpA1MIZjWhedNFFqB6Ijj/+eCYFcQws3XvvvUFK8SWKUJtnn31W8mJpEXEqUChAKIi//vrrimbOPfdcapLEHloWsFzfY489qGth5vK9afIy0EYbbQQsGLP4xHrhmS5DiMWz9v3dCIyEgA99RoJr7huzJCNDUzEKCzxulwZEDErU43b1yAnLjApZWK110B4xCg3US7Uv+Gh68TfAeu211/heW52AJ6UlhTL4+qeeeoo1b88992Qg/lXswkpAxCOnr5MRfXR0he/G4xOjnHfeeaw3uHWWRjw17eGTRQj6LDDcZQiuM0SmwNCPPPIIY6k9y0mcZ0GWCk1GZN1CKBZa7iIpMUowTGkkDB944IHcbTrSaoFUnBCUKJ7TQO3nI6DBZhqGURAowYlWaz5NAyklEPiE+C+//HJYgmBHClZlAKxFDHWDIV1U1cQHk7juuuuiIwywTmsgHaURQVZLp5uAFWMyJESDPmsz8n722WfBc3y56qqr+B4Hdn34j76EksgSoQ8iYycyXT6KUfgoRgFh4g+6yJ4VGsbnlltuUTRPqBdtMmN8V1VWcfHuu++GOMGEiO+6665qg6kHe9IszXbaaSeQJIJXm9B4AQsRNs2233578YkeiVcIUBBqlecLqxr0FSPQHwGHKf2xWoSWsbpXhWH9UHiBz5UTJynC39hD54UtutOLrAa9WGtzrxwJMSgeuTZDwKoQPhQfzZJPs5yTyEdFOfTREsKIcuvqwig4ca00Wh6IM7QScKsQGbnw5mxA1V7CKnHChwUYUpdccomWEHVfe+21WZuDYRGHBy7WHqJ1QqqxFMZ973vfa7cwqLGKB9RaF+GfXi0D0QzVCJ8CQK7o2RM0HtpBC1p0q4jlqiaxmhM/dGSllDoiKSUtxDLcAiy3iALRCJYjbpWAqTUbNQgb68l/Aa90zYhRthUNWON1l1BJYylEzgBGG8K7grKUos8HH3ygLwEC+TDlVwpT50qYX3xnRNknGRfRaa8aDriYy5EKLdjzv0ZgvhBwmDJf+lopt6zNWt2rhNhD47Lxy01jVFcpWqpX9tQKa/JTvp1PZMSSIMbw4/zNgY4yOvmK0vWZVRGJw4UvvviCf1mBtMxoHxxdWNeJQvi3dqPJJp4PQtGXLzrwItkea0CxhjUh1gmpOgrYziLTKtQEBJK3z0AFYgxaWIIWVA5ZxJV27RlkKNQmjdSRELOKg0qn43o7sJx3EBsREMgA+DRVQckeigW7k//MHkPIJIC9ijwhlxr/6Ec/0pGlClnymWC02WWXXdQ4gowccWo6ZFbj+WRFxnyiJDnCoMye2sRuofO5PKmMESMzVNWLrxiBOULAYcocKWulrOL7tDbXEpLbDZ/Ldy1UsauuXaXUS0Uk+rBa5MVMg7b7Vq3TETHoZKpYILkSr53Q0UymqVoN0uPBhrjNSQJuxY5WmaHcPsokuf7SSy/xl3N9nmohsf/JJ59w0pGLEJUf6syld0IaK1CfB46gxqAZ6hC2c6AizmNdrMZ5uhIhrJQSiOkB4Fo+6QjOtbFvMUo7sASFnHxhLRxstb8JsBoKayFv4b+wedkYn5z5iDYRcFAOQs0HpgVjN9xwQw5oxAOBRST/InESzaKEKOOGOWmgTTfdVF9kjZmZKntSR+5VSKR/mW5ivpoMq23vi0Zg+Ag4TBm+jibG4TvvvAOtpohBOY984CLPyIaSv02rVLEO4SVxzXnvWI05qvJUN/o42XxSUGz9tSrnYhedm+RkSbGmVoegfV7yFQQoCSTBVazAaQ4BSmaGW4qBOhXTDqm6ayXr3CK3D9o5kNbUiPMoIuHfvEJX2VDwETLWHvkF/7WLfTUH1gkskR9lN4xL+qrlrYPV59s7+S+UFSFFbeAVmSQMgLolslZkJor6aCVjIv/BBFEpdCYosyygjhioiAhjrvEl2Asjj6io5eUr8ECRjQKUot6501bdwAgMFgGHKYNVzeQZ0+qez9fzGHi3vAPD51KRGrtkHY1HPWAtc3hJHk/gVl505fFb3qlaXWCKQEc+N9imJoB/i2KXYutfrKnVjE7hxFlQuRKFCFXpKAqJk4j+gUU7pBqlCLDG03rnQMJHKxz8qzw5n00UbNAGxeXgo2mP3sK/QI6cQa1oASxqJW8hJokLVQHdhEY1TOzkvyAVxIsAVM2qcwRACJtaXhhDnbIClxy/RsltDqmLABeaeoqYU8Vc2CtOFCnGs2DtWTdKifWInPpGr/GMyr2MwEAQcJgyEEVMnQ3lORiGOtDawfCA+G7tgPnLYQf+9IwzzsiNVfDBisJpfbhRFjCI86HsVAEKvhIKWnViX0gav/Y3Td59912aZf+rpycgyCixMMjjc9yjQyWGUEmphCpyJ1pTY4H86KOPwnGLczVQX1ilChiaUdeiwyBxKzb4EktIleEm5fWBVAFEn1fjs2LBtniGK2SPk5E+A9FLO34KWVQVgSXwJBSfUFOs2Xq+Bi3EY1ySES1AhHFjaOm3drFXFx5RYQiB2QIsdFitZX5IlwPTWngxgFBNf/6DVD7jq9IXnzJsWQJoR22v2stiZZYIGEc5tYklLgZoP/3pT0UBYfUotd6GTDl2cKIoKiZFzFmkrg2Y9FNQ3OJJq7Aljtgi+KvF0BeNwFwg8HcXX3zxXDBqJleIwFFHHfXVV19B5Mknn/zhD3+43nrrFQTxiXrpAllu1s7vf//7xCiR6N54441xgi+88MKDDz64+uqrH3LIIaLwzW9+k+tsJXG4VF/iyllseO53tdVWw3WutdZaX375Jec+JM8h+Itf/KIqBQRZD6h1pbHu8i9E3nvvvYMPPnizzTbjyueff07hIS1ZOE899VRoMgRtyH9QTMNaAgOs4jvuuKMo8MAnrp8nivWvnDsUQICL5FpYFPfee2+asUgg7G677fYP//APwRuOHigefvhhoKAxx14MGnerDDepph1S9eJQacMNN0TSTv0C4Ntvvw3PfEhuwVXUSHYO9PXXX6MF3qUBAiyHG2ywAec+TzzxBKvjsccey9DgALb77LNPRkx6pD2qWWeddYBCsNOLN6ZIX0XHLAUmIdVHOWcLsH/84x8//fRTzA/p4I0uvNYFZGphkSnKQtSmk/9Mh/hAT+7ssMMOYTO5AWd/mBzRLXaFuv/617/qLXC5DVPjD3/4w4cffshjO9/9j49qY5loMblAjzaYokBTHMxdohYsEAODOFcwv1NOOSXmWrAXJk0XDBLt8/nzn/8c80L8yP5R3znnnMN8QS9SN4bNd03DTutyAyMwWAT8erfBqsaMLT4Ceoqk+lq5xZd8niVEa+QaCZFz4EK6hViEWGHgrxKeZ+DN+5Ii4EOfJVW8xR4CAqqoiAdTh8CSeehEgNPM/IIT2quQiy8tz/N3knUDI2AEahFwmGLDMAKrBgFy9ZSycl7TUtixajjzqD0QiCeEVchFD85o/KqSHsi5iREYDQEf+oyGl1sbgYkgEL8Jp5fkToSmicwGAZUhU+Ua760n1tQr7WfDgEcxAkuFgMOUpVK3hTUCRsAIGAEjME8I+NBnnrRlXo2AETACRsAILBUCDlOWSt0W1ggYASNgBIzAPCHgMGWetGVejYARMAJGwAgsFQIOU5ZK3RbWCBgBI2AEjMA8IeAwZZ60ZV6NgBEwAkbACCwVAg5TlkrdFtYIGAEjYASMwDwh4DBlnrRlXo2AETACRsAILBUCDlOWSt0W1ggYASNgBIzAPCHgMGWetGVejYARMAJGwAgsFQIOU5ZK3RbWCBgBI2AEjMA8IeAwZZ60ZV6NgBEwAkbACCwVAg5TlkrdFtYIGAEjYASMwDwh4DBlnrRlXo2AETACRsAILBUCDlOWSt0W1ggYASNgBIzAPCHgMGWetGVejYARMAJGwAgsFQIOU5ZK3RbWCBgBI2AEjMA8IeAwZZ60ZV6NgBEwAkbACCwVAg5TlkrdFtYIGAEjYASMwDwh4DBlnrRlXo2AETACRsAILBUCDlOWSt0W1ggYASNgBIzAPCHgMGWetGVejYARMAJGwAgsFQIOU5ZK3RbWCBgBI2AEjMA8IfD/ATJHta9YNmSjAAAAAElFTkSuQmCC"></p>
+
+  <p>Where <strong><em>x</em></strong> refers to the region of analysis and
+  <strong><em>y</em></strong> refers to the country classification based on the
+  questionnaire.</p>
+DATA_VALIDATION: ''
+ADJUSTMENT: ''
+IMPUTATION: |-
+  <p>&#x2022; At country level</p>
+  <p>Not Imputed</p>
+  <p>&#x2022; At regional and global levels</p>
+  <p>Not Imputed</p>
+REG_AGG: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: >-
+  <p>Data availability:</p>
+
+  <p>As identified in the pilot exercise for Indicator 5.c.1, the information
+  that is collected through administering the questionnaire is readily available
+  by Ministries of Finance and/or Budget Offices.</p>
+
+  <p>Time series:</p>
+
+  <p>Disaggregation:</p>
+COMPARABILITY: >-
+  <p>Sources of discrepancies:</p>
+
+  <p>Since data is reported by countries via a validated questionnaire, there
+  should be no discrepancies.</p>
+OTHER_DOC: >-
+  <p>Information on the Global Partnership for Effective Development Corporation
+  can be found here: <a
+  href="http://effectivecooperation.org/about/global-monitoring-framework/">http://effectivecooperation.org/about/global-monitoring-framework/</a></p>
+
+  <p>Other useful technical materials on how to incorporate gender equality in
+  to public finance management systems can be found here: <a
+  href="http://gender-financing.unwomen.org/en">http://gender-financing.unwomen.org/en</a></p>
+
+  <p>IMF research on gender responsive budgeting and tracking systems: <a
+  href="https://www.imf.org/external/np/res/dfidimf/topic7.htm">https://www.imf.org/external/np/res/dfidimf/topic7.htm</a>
+  </p>
+
+  <p><a
+  href="https://www.imf.org/external/pubs/ft/wp/2016/wp16149.pdf">https://www.imf.org/external/pubs/ft/wp/2016/wp16149.pdf</a></p>
+
+  <p>Gender budgeting and tracking in OECD countries:</p>
+
+  <p><a
+  href="https://www.imf.org/external/pubs/ft/wp/2016/wp16149.pdf">https://www.imf.org/external/pubs/ft/wp/2016/wp16149.pdf</a></p>
+
+  <p><a
+  href="https://www.oecd.org/gender/Gender-Budgeting-in-OECD-countries.pdf">https://www.oecd.org/gender/Gender-Budgeting-in-OECD-countries.pdf</a></p>
+
+  <p>Information on the Public Expenditure and Financial Accountability (PEFA)
+  Program which provides guidance on assessment of public finance management
+  systems can be found here: <a
+  href="http://www.pefa.org/en">http://www.pefa.org/en</a></p>

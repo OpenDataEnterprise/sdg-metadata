@@ -1,3 +1,4 @@
+SDG_INDICATOR_INFO: ''
 SDG_GOAL: >-
   <p>Goal 14: Conserve and sustainably use the oceans, seas and marine resources
   for sustainable development</p>
@@ -9,23 +10,26 @@ SDG_TARGET: >-
 SDG_INDICATOR: >-
   <p>Indicator 14.7.1: Sustainable fisheries as a percentage of GDP in small
   island developing States, least developed countries and all countries</p>
-META_LAST_UPDATE: '<p>Last updated: March 2019</p>'
+SDG_SERIES_DESCR: <p>N/A </p>
+META_LAST_UPDATE: <p>February 2021</p>
 SDG_RELATED_INDICATORS: >-
-  <h1>Related indicators</h1>
-
   <p>Linkages with other goals and targets: SDG 1, SDG 2, SDG 8 (in particular
   8.1 and 8.4), SDG 12, SDG 13, SDG 14 (in particular 14.4.1)</p>
-SDG_CUSTODIAN_AGENCIES: |-
-  <h1>Institutional information</h1>
-  <h2><strong>Organization: </strong></h2>
-  <p>Food and Agriculture Organization of the United Nations (FAO)</p>
+SDG_CUSTODIAN_AGENCIES: <p>Food and Agriculture Organization of the United Nations (FAO)</p>
+CONTACT: ''
+CONTACT_ORGANISATION: <p>Food and Agriculture Organization of the United Nations (FAO)</p>
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <h1>Concepts and definitions</h1>
-
-  <h2>Definitions:</h2>
+  <p>Definitions:</p>
 
   <p>This indicator expresses the value added of sustainable marine capture
-  fisheries as a proportion of Gross Domestic Product (GDP). </p>
+  fisheries as a proportion of Gross Domestic Product (GDP).</p>
 
   <h2>Concepts:</h2>
 
@@ -54,14 +58,14 @@ STAT_CONC_DEF: >-
 
   <p><u>FAO Fishing Areas for Statistical Purposes</u> are arbitrary areas to
   facilitate comparison of data, improving the possibilities of cooperation in
-  statistical matters.<sup><a href="#footnote-1"
-  id="footnote-ref-1">[1]</a></sup></p>
+  statistical matters.<sup><a href="#footnote-2"
+  id="footnote-ref-2">[1]</a></sup></p>
 
   <p>The basic concepts associated with this indicator are part of the following
   international instruments and classification schemes:</p>
 
-  <p><u>The 1982 United Nations Convention on the Law of the Sea (UNCLOS)<sup><a
-  href="#footnote-2" id="footnote-ref-2">[2]</a></sup></u></p>
+  <p><u>The 1982 United Nations Convention on the Law of the Sea
+  (UNCLOS)</u><sup><a href="#footnote-3" id="footnote-ref-3">[2]</a></sup></p>
 
   <p><em>This instrument is the basis upon which all the subsequent instruments
   are built. UNCLOS defines the rights and responsibilities of nations
@@ -70,8 +74,8 @@ STAT_CONC_DEF: >-
   It is a binding instrument, although its principles may also be applied by
   countries who are not a party to it.</em></p>
 
-  <p><u>The 1995 FAO Code of Conduct for Responsible Fisheries (CCRF)<sup><a
-  href="#footnote-3" id="footnote-ref-3">[3]</a></sup></u></p>
+  <p><u>The 1995 FAO Code of Conduct for Responsible Fisheries (CCRF)</u><sup><a
+  href="#footnote-4" id="footnote-ref-4">[3]</a></sup></p>
 
   <p><em>This instrument provides the necessary framework for national and
   international efforts to ensure sustainable exploitation of aquatic living
@@ -80,38 +84,40 @@ STAT_CONC_DEF: >-
   fisheries.</em></p>
 
   <p><em>The FAO Code of Conduct for Responsible Fisheries relies on the concept
-  of MSY when setting general principles and standards for fisheries
-  management.  Article 7.2.1 details how management measures should be
-  &#x201C;based on the best scientific evidence available&#x201D; and
-  &#x201C;designed to maintain or restore stocks at levels capable of producing
-  maximum sustainable yield, as qualified by relevant environmental and economic
-  factors, including the special requirements of developing
-  countries.&#x201D;</em></p>
+  of MSY when setting general principles and standards for fisheries management.
+  Article 7.2.1 details how management measures should be &#x201C;based on the
+  best scientific evidence available&#x201D; and &#x201C;designed to maintain or
+  restore stocks at levels capable of producing maximum sustainable yield, as
+  qualified by relevant environmental and economic factors, including the
+  special requirements of developing countries.&#x201D;</em></p>
 
   <p><u>United Nation&#x2019;s International Standard Classification of All
-  Economic Activities (ISIC)</u><em> <sup><a href="#footnote-4"
-  id="footnote-ref-4">[4]</a></sup></em></p>
+  Economic Activities (ISIC)</u><em> <sup><a href="#footnote-5"
+  id="footnote-ref-5">[4]</a></sup></em></p>
 
   <p><em>All components of marine capture fisheries are clearly defined within
   section A 0311 ISIC revision</em></p><div class="footnotes"><div><sup
-  class="footnote-number" id="footnote-1">1</sup><p> FAO fishing areas for
+  class="footnote-number" id="footnote-2">1</sup><p> FAO fishing areas for
   statistical purposes: </p><p><a
   href="http://www.fao.org/cwp-on-fishery-statistics/handbook/general-concepts/major-fishing-areas-general/en/">http://www.fao.org/cwp-on-fishery-statistics/handbook/general-concepts/major-fishing-areas-general/en/</a>
-  <a href="#footnote-ref-1">&#x2191;</a></p></div><div><sup
-  class="footnote-number" id="footnote-2">2</sup><p> UNCLOS: <a
-  href="http://www.un.org/Depts/los/convention_agreements/texts/unclos/unclos_e.pdf">http://www.un.org/Depts/los/convention_agreements/texts/unclos/unclos_e.pdf</a>
   <a href="#footnote-ref-2">&#x2191;</a></p></div><div><sup
-  class="footnote-number" id="footnote-3">3</sup><p> CCRF: <a
-  href="http://www.fao.org/3/v9878e/V9878E.pdf">http://www.fao.org/3/v9878e/V9878E.pdf</a>
+  class="footnote-number" id="footnote-3">2</sup><p> UNCLOS: <a
+  href="http://www.un.org/Depts/los/convention_agreements/texts/unclos/unclos_e.pdf">http://www.un.org/Depts/los/convention_agreements/texts/unclos/unclos_e.pdf</a>
   <a href="#footnote-ref-3">&#x2191;</a></p></div><div><sup
-  class="footnote-number" id="footnote-4">4</sup><p> ISIC revision 4: <a
-  href="https://unstats.un.org/unsd/publication/seriesm/seriesm_4rev4e.pdf">https://unstats.un.org/unsd/publication/seriesm/seriesm_4rev4e.pdf</a>  
-  <a href="#footnote-ref-4">&#x2191;</a></p></div></div>
+  class="footnote-number" id="footnote-4">3</sup><p> CCRF: <a
+  href="http://www.fao.org/3/v9878e/V9878E.pdf">http://www.fao.org/3/v9878e/V9878E.pdf</a>
+  <a href="#footnote-ref-4">&#x2191;</a></p></div><div><sup
+  class="footnote-number" id="footnote-5">4</sup><p> ISIC revision 4: <a
+  href="https://unstats.un.org/unsd/publication/seriesm/seriesm_4rev4e.pdf">https://unstats.un.org/unsd/publication/seriesm/seriesm_4rev4e.pdf</a>
+  <a href="#footnote-ref-5">&#x2191;</a></p></div></div>
+UNIT_MEASURE: <p>The indicator measures sustainable fisheries as a percentage of GDP.</p>
+CLASS_SYSTEM: >-
+  <p>The United Nation&#x2019;s International Standard Classification of All
+  Economic Activities (ISIC) and</p>
+
+  <p>FAO Fishing Areas for Statistical Purposes.</p>
+SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <h1>Data sources</h1>
-
-  <h2>Description:</h2>
-
   <p>The data series on the value added of fisheries and aquaculture and GDP are
   derived from UNSD National Accounts Official Country Data. In case of missing
   values, supplementary data is retrieved from OECD Annual National Accounts
@@ -120,65 +126,83 @@ SOURCE_TYPE: >-
   <p>Economic data are specifically taken from:</p>
 
   <ul>
-    <li>UNSD National Accounts Official Country Data<sup><a href="#footnote-5" id="footnote-ref-5">[5]</a></sup></li>
+    <li>UNSD National Accounts Official Country Data<sup><a href="#footnote-6" id="footnote-ref-6">[5]</a></sup></li>
     <li>Table 2.1. Value added by industries at current prices (ISIC Rev. 3)</li>
     <li>Table 2.4. Value added by industries at current prices (ISIC Rev. 4)</li>
-    <li>OECD Annual National Accounts<sup><a href="#footnote-6" id="footnote-ref-6">[6]</a></sup>
-      <ul>
-        <li>Table 6. Value added and its components by activity, ISIC rev3</li>
-        <li>Table 6A. Value added and its components by activity, ISIC rev4</li>
-      </ul>
-    </li>
+    <li>OECD Annual National Accounts<sup><a href="#footnote-7" id="footnote-ref-7">[6]</a></sup></li>
+    <li>Table 6. Value added and its components by activity, ISIC rev3</li>
+    <li>Table 6A. Value added and its components by activity, ISIC rev4</li>
   </ul>
 
   <p>The base data from which stock status is modelled and a detailed
   description of the approach used by FAO is available in:</p>
 
   <ul>
-    <li>FAO Review of the State of World Marine Fishery Resources<sup><a href="#footnote-7" id="footnote-ref-7">[7]</a></sup></li>
+    <li>FAO Review of the State of World Marine Fishery Resources<sup><a href="#footnote-8" id="footnote-ref-8">[7]</a></sup></li>
     <li>Tables D 1-D 19. State of exploitation and annual nominal catches.</li>
+    <li>SDG 14.4.1 proportion of fish stocks within biologically sustainable levels</li>
   </ul><div class="footnotes"><div><sup class="footnote-number"
-  id="footnote-5">5</sup><p> <a
+  id="footnote-6">5</sup><p> <a
   href="http://data.un.org/Explorer.aspx">http://data.un.org/Explorer.aspx</a>
-  <a href="#footnote-ref-5">&#x2191;</a></p></div><div><sup
-  class="footnote-number" id="footnote-6">6</sup><p> <a
+  <a href="#footnote-ref-6">&#x2191;</a></p></div><div><sup
+  class="footnote-number" id="footnote-7">6</sup><p> <a
   href="http://stats.oecd.org/">http://stats.oecd.org/</a> <a
-  href="#footnote-ref-6">&#x2191;</a></p></div><div><sup class="footnote-number"
-  id="footnote-7">7</sup><p> <a
+  href="#footnote-ref-7">&#x2191;</a></p></div><div><sup class="footnote-number"
+  id="footnote-8">7</sup><p> <a
   href="http://www.fao.org/docrep/015/i2389e/i2389e.pdf">http://www.fao.org/docrep/015/i2389e/i2389e.pdf</a>
-  <a href="#footnote-ref-7">&#x2191;</a></p></div></div>
+  <a href="#footnote-ref-8">&#x2191;</a></p></div></div>
+COLL_METHOD: >-
+  <p>All data used in the calculation of this indicator is already provided by
+  countries or published by FAO. </p>
+
+  <p>National accounts data:</p>
+
+  <p>National accounts data is used for both GDP and the value added of
+  fisheries and aquaculture. This data is obtained from UNSD and OECD databases,
+  both available online. </p>
+
+  <p>Stock status:</p>
+
+  <p>The fish stocks that FAO has monitored since 1974 represent a wide spectrum
+  of data availability, ranging from data-rich and formally assessed stocks to
+  those that have very little information apart from catch statistics by FAO
+  major fishing area and those with no stock assessment at all. For the purposes
+  of using the best available data and information and maintaining consistency
+  among stocks and assessors, a procedure has been defined to identify stock
+  status information (FAO 2011).</p>
+
+  <p>FAO collects national data through a questionnaire sent to the Principal
+  Focal Point (PFP) of each country. The PFP organises an institutional set-up
+  which identifies the competent authorities to develop a reference list of
+  stocks and completes the questionnaire. The information or data collected
+  through the questionnaire from a country will initially only inform individual
+  country progress. Depending on the evolution and further standardization of
+  country reporting over the next 3-5 years, national data may be used to inform
+  global/regional estimates. </p>
 FREQ_COLL: >-
-  <h1>Calendar </h1>
-
-  <h2>Data collection:</h2>
-
   <p>Data for GDP and value added is retrieved by FAO from UNSD (or the OECD in
   case of missing values) once a year every February.</p>
 
-  <p>FAO compiles and releases stock status information biennially in the SOFIA
-  publication. When data reported by countries for SDG indicator 14.4.1
-  (&#x201C;proportion of fish stocks within biologically sustainable
-  levels&#x201D;) becomes available it will be used to replace the current
-  sustainability multiplier for SDG indicator 14.7.1.</p>
+  <p>FAO compiles stock status information biennially.</p>
 REL_CAL_POLICY: >-
-  <h2>Data release:</h2>
-
   <p>New data for this indicator is expected to be released biennially in
   March.</p>
-DATA_SOURCE: |-
-  <h1>Data providers</h1>
+DATA_SOURCE: >-
   <p>National governmental agencies reporting to:</p>
-  <ul>
-    <li>Food and Agriculture Organization of the United Nations (FAO).</li>
-    <li>United Nations Statistics Division (UNSD). </li>
-    <li>The Organization for Economic Cooperation and Development (OECD).</li>
-  </ul>
-COMPILING_ORG: |-
-  <h1>Data compilers</h1>
-  <p>Food and Agriculture Organization of the United Nations.</p>
-RATIONALE: >-
-  <h2>Rationale:</h2>
 
+  <p>&#x2022; Food and Agriculture Organization of the United Nations (FAO).</p>
+
+  <p>&#x2022; United Nations Statistics Division (UNSD). </p>
+
+  <p>&#x2022; The Organization for Economic Cooperation and Development
+  (OECD).</p>
+COMPILING_ORG: <p>Food and Agriculture Organization of the United Nations.</p>
+INST_MANDATE: >-
+  <p>FAO is the sole custodian of indicator 14.7.1, as designated by the
+  Inter-agency and Expert Group on Sustainable Development Goal Indicators
+  (IAEG-SDGs).</p>
+OTHER_METHOD: ''
+RATIONALE: >-
   <p>Although target 14.7 promotes the sustainable use of marine resources
   &#x201C;including of fisheries, aquaculture and tourism&#x201D;, this
   indicator as selected by the IAEG-SDG focuses only on the sustainable use of
@@ -227,8 +251,6 @@ RATIONALE: >-
   for dependent communities in developing countries and Small Island Developing
   States (SIDS).</p>
 REC_USE_LIM: >-
-  <h2>Comments and limitations:</h2>
-
   <p>The indicator measures the value added of sustainable marine capture
   fisheries as a proportion of GDP. However, the vast majority of countries
   report only aggregated data for value added for the fisheries and aquaculture
@@ -246,8 +268,8 @@ REC_USE_LIM: >-
   representative assessment of marine fish stocks. The time series for which
   stock assessment is available starts with the first public release of FAO
   stock assessment, in 2011 for each FAO Major Fishing area. FAO continues to
-  release this information biennially.<sup><a href="#footnote-8"
-  id="footnote-ref-8">[8]</a></sup></p>
+  release this information biennially.<sup><a href="#footnote-9"
+  id="footnote-ref-9">[8]</a></sup></p>
 
   <p>National fish stock assessments are only available for a few countries, and
   therefore are not globally or regionally representative. Therefore, the
@@ -264,81 +286,107 @@ REC_USE_LIM: >-
   for the current indicator will use country-level estimates rather than
   estimates based on FAO Major Fishing Areas to determine the sustainability
   multiplier and hence estimate the value added of sustainable marine capture
-  fisheries as a proportion of GDP.</p><div class="footnotes"><div><sup
-  class="footnote-number" id="footnote-8">8</sup><p> The most recent version of
+  fisheries as a proportion of GDP. </p><div class="footnotes"><div><sup
+  class="footnote-number" id="footnote-9">8</sup><p> The most recent version of
   Review of the State of World Marine Fishery Resources which contains stock
   status is available at <a
   href="http://www.fao.org/docrep/015/i2389e/i2389e.pdf">http://www.fao.org/docrep/015/i2389e/i2389e.pdf</a>
-  <a href="#footnote-ref-8">&#x2191;</a></p></div></div>
+  <a href="#footnote-ref-9">&#x2191;</a></p></div></div>
 DATA_COMP: >-
-  <h1>Methodology</h1>
+  <p>The method of computation for 14.7.1 differs depending on the availability
+  of data. Method 1 outlines the steps for calculating 14.7.1 using national
+  sustainability. Method 2 gives the steps for calculating 14.7.1 using proxy
+  regional sustainability data.</p>
 
-  <p>At a country level, the contribution of sustainable marine capture
-  fisheries to the GDP is calculated as follows:</p>
+  <p>Method 1: When national sustainability data is available from 14.4.1, the
+  contribution of sustainable marine capture fisheries to GDP is calculated as
+  follows </p>
 
-  <p>a) The percentage contribution of fisheries and aquaculture to GDP is
-  estimated by simply dividing the value added of fisheries and aquaculture by
-  national GDP.</p>
+  <ol>
+    <li>The percentage contribution of fisheries and aquaculture to GDP is estimated by simply dividing the value added of fisheries and aquaculture by national GDP.</li>
+  </ol>
 
-  <p><em>GDP from Fisheries and Aquaculture (%) = Value Added Fisheries and
-  Aquaculture/GDP</em></p>
+  <p><img
+  src="data:image/png;base64,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"></p>
 
-  <p><em>GDP<sub>FIA</sub> = VA<sub>FIA</sub>/GDP</em></p>
+  <ol>
+    <li>In order to disaggregate for the value added of marine capture fisheries and the value added of aquaculture, the quantity of fish produced from marine capture fisheries will be divided by total quantity of national production of fish, and then multiplied by the percentage of GDP from fisheries and aquaculture. As such, the quantity of production of marine capture fisheries is used as a proxy for the value of marine capture fisheries.</li>
+  </ol>
 
-  <p>b) In order to disaggregate for the value added of marine capture fisheries
-  and the value added of aquaculture, the quantity of fish produced from marine
-  capture fisheries will be divided by total quantity of national production of
-  fish, and then multiplied by the percentage of GDP from fisheries and
-  aquaculture. As such, the quantity of production of marine capture fisheries
-  is used as a proxy for the value of marine capture fisheries.</p>
+  <p><img
+  src="data:image/png;base64,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"></p>
 
-  <p><em>Value added of Marine Capture Fisheries proxy (%) = </em></p>
+  <ol>
+    <li>The value added of marine capture fisheries (b) will be adjusted by the sustainability multiplier. The sustainability multiplier is taken from national indicators for SDG 14.4.1, proportion of fish stocks within biologically sustainable levels</li>
+  </ol>
 
-  <p><em>GDP from Fisheries and Aquaculture x (Quantity of Marine Capture
-  Fisheries/Total Quantity of Fish)</em></p>
+  <p><img
+  src="data:image/png;base64,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"></p>
 
-  <p><em>VA<sub>F </sub>= GDP<sub>FIA</sub> x
-  (Q<sub>M</sub>/Q<sub>T</sub>)</em></p>
+  <p>In summary, the computation method for GDP from sustainable marine capture
+  fisheries may also be expressed as:</p>
 
-  <p>c) The sustainability multiplier will be calculated based on the average
-  sustainability published periodically for each FAO major marine fishing area.
-  </p>
+  <p><img
+  src="data:image/png;base64,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"></p>
+
+  <p>Method 2: When national sustainability data is not available from 14.4.1,
+  the contribution of sustainable marine capture fisheries to GDP is calculated
+  as follows using proxy regional sustainability data.</p>
+
+  <ol>
+    <li>The percentage contribution of fisheries and aquaculture to GDP is estimated by simply dividing the value added of fisheries and aquaculture by national GDP.</li>
+  </ol>
+
+  <p><img
+  src="data:image/png;base64,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"></p>
+
+  <ol>
+    <li>In order to disaggregate for the value added of marine capture fisheries and the value added of aquaculture, the quantity of fish produced from marine capture fisheries will be divided by total quantity of national production of fish, and then multiplied by the percentage of GDP from fisheries and aquaculture. As such, the quantity of production of marine capture fisheries is used as a proxy for the value of marine capture fisheries.</li>
+  </ol>
+
+  <p><img
+  src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAq4AAABOCAIAAABuRgP6AAAAAXNSR0IArs4c6QAAHDZJREFUeF7tndvLlVXXxl+/81LTo4h40Q6SAqPSA9uAQpoKkqTtlBAUrYigKC21gxArUwki0sIgop2bSCL3kAdGWGoUFR5oIVEdle3+gN7f914f45vNea/13M/a+Nyu57oPFveaa84xx7jmbsw5xhxrzN9///0vP0bACBgBI2AEjMBoReB/RqvgltsIGAEjYASMgBH4XwSsCrgfGAEjYASMgBEY1QhYFRjVzW/hjYARMAI9R+DVV1+97LLLxowZ03PKA0nwqquuGnGsrAoMZNeyUEbACAwsAr/++utDDz3E4sHDC1+7FPX2228PCtD85JNP+PrCCy/oZbjPV199tXnz5jNnzoQjGpoBZNNa3nvvPVJYAusQpyDM1MnZkzwpnx0TlMjxiGYrQd54440OKuotLFYFOmgCFzECRsAIjBgCS5Ysoe5ffvnlu+++O3HixNNPP90lK59//nlQYP2++eab+frFF190Rvann35ijZ8wYUIUX7Vq1Y033kgtoVts3bqVlJpL4MGDB1evXt0ZM8MthR4z3CKV+RGZ9GPHjoEnLTVu3Di+9laQ3lL7F4z6MQJGwAgYgYsCAZZ/6QHidt++fXzl5e67754zZw4v7777bixCX375JYl81U98HT9+/Nq1a5W4fft2Eh988MFYzKKsXvRMnjyZT+irFt6hE1iRE5qqQlwpf/CgnCz8mzZtoi5xyDv5Y6UUDxREuoxJfSV/sKoayazqyKAag4HgDUnFGy/KmaIhGQGB4mTja8o8OUtIM97a154hkAqC4OKZT4jwlXfJBVCVcrWBhfySC2pqGoSS4AK8zmNVoA5KzmMEjIARaAQCWjaCFZYBvrKCkq71nidW2VhcQ3vQGkwpFp7InxKMsvGiBVLLNpqHllU90ktYfiCoxV4LW1COnGKA9YkiWu2CPisuZEmhFl4oAh3l4VNfRZkHOsrMT2KJUlrFoSPlRo+WW3IGPyUaENFiqbUzY74S0oy3VrWL1eBQLIUgyC4pBFSoAgKhlVytYEGEkEIam9AGan2t89hAELqvX4yAETACFxkC6Tl8yfrZs2cnTZo0depUfjp9+rQyzJo1i1JXXHHFoUOHakq7cuXKAwcOkPmjjz5avnx5lPr5559ZzKAPwRUrVnz88cdtCJLnnnvuwblh8eLFvEft+A3MmzePFMwK33zzjSgoD+aPkqAy83z66adSg+69916s8jt37jx69Gjk51fYJhv2Ds7SSS/R4Nf77ruPnzjP/+2332qikfLWqnaRuuWWW2BMClP63HDDDS+99NJnn30mxvQAjkDQ10rKlbB8//3327Zto6IHHnjg8OHDlEXFwWz0119/gW1NoawK1ATK2YyAETACI4/AJZdcAhPM/mIF6zvbWdb7Ss5YCaZNm9a9d/qiRYtYaFVpq7rGjh07JDqPP/44HgOpMiERWAVhsr5qklUUu972K1+v0Khfe+zvsyIbN25cv349elV7F8WackFcFfGcP3+er6hQt95665o1a+q7W1oVGLL3OoMRMAJGoCkIsAVnz7dlyxYuDvA8+uijMrSjIrCUkoLjG9tfUnhhvWEJZ52Q5Zjnjz/+KCXhV9ZjnN75Ke4j4OnGxpp06LD8s1vFNMBanha//PLLqZQMlMIHcOHChfz6559/tgILOqxV2UnGggULHn74YRkOKpkMnivvSnCiLg1g//79qSqAavLaa69RBA2GFbESDUp9++23fCK7jPfAiLJCKVJKSEsAW9WeIqDmSMsC5pQpUzZs2FCp/QjAknLWdvEVVN955x21uO59oFrxPPLII+3Paf7RTHWsCM5jBIyAETACDUEg3N/kAxhcyXdM3gAyk4dDnJzg5Homo7gcAGVch4gKypNOBmY5JIbVP/UtSHEIt0E0ktRtUPZ7PdQSdaUpcpoTJ/AAA/AWTMoDLuVZSg/USOQlrPtaxVMoVEs4CcJYiYYyZA53JKKRQFleCxmkGW9kCAfArHaJLAH1pIKIbPAcbdFGrjawoEWlkpJTSlX4Qtbptx26DQr6OhXUzJN6V0aR1BW2DR2YKb1UyvyBV3ig1ORtdGZTi9QBdnTic2Gk1tw3Iq3Q8zHeE8Rqzgk9qasVkYYMDXnhXbDZDOS1Og7Sk7pGDpJcHciSGwgU9kjHLHwSMaoyCkTN+6D/OH9o+4VTryeffDLLwhFHaE9tStdkBq2N8ysw6tUV1YjFUV/MjnN2HO6jhDQNfCFLUqUglS0yJP+cTXVvmByyls4y0J/XrVtHWaRWwJM4bySF00WRJRtfuwnbAimNIx7VyMFdwM6YIlH0s/TMsMcRJaep9NjUt6gz2VUqrU78kNjksCelsG3mBBquZsiabjCkbDY0ehKRpgOWOGbHS44zcHqUzvb79NAtOWNnmsVfr09VjBTZbob5SPHcp3pzVeD999+nJsabPtkZ4OXYp7ovMFlOBa655poeVsocrVgcF+DpONxHxhs2OVKkM+oGi772ShDoQO0CADLcKpgrMa3hrcPg3717N0zixKu+zTSHRS2mOS02iuLSwcNyO3/+fOZNHQnKeZjFA5rawDF94+Ur+mn6hx9+iJtPGuHkhx9+uP766zvgoVWRtDo4kZ7d20AlvaU2LNn37t1L/l6FiKlZdc+ro3+mSqrm4VYrFg2KHRp9UQFt+vfoomD/6I8IZeaEkydPLlu2bERqb1qluSpA32L5V0wopki8T+XiERudcuOivQVDAuU0fmXfQzopmUsn2ejoaRBKnT2QwgQd6ETxcLjQCFGsSg0/PrX3wnEmgzUyBwPUQqtztSNUeDFMRSJLBsXCRGRRy1jVr/QeKqWIvsqnJqUT6nnIpX1hPPAmd9ngDdB459HGVCFF40gG+rzj+6N7KdQYOCsnRTLelCJUs9pTTli2OSAJQfgpIodDOWuLSMkoZ1UHS2kDxdQW0VLTXlHKS1mBrG6AyGWDSjrAUYBPckaK9r5SZ/XQk4mEqumSK1VcyOEFryLdXJKRMkWGUYAnTv17OGlZ+OFUX6oVdEoiJO7YsQN3oXACV3EV4f6PviIFF4RQDtQZ0r6Xtq+wHbIzpxzGO8t2OmzhR2MBJGOFU3MzKLQaZcMwq7f9JEA7asBme/dsoLUaUOWckAoF80xc2FzDDysGGsyrM6hjaHJTBxOFbACSEt2JF3UwFU+nOJW98847qVETWmXOVj055rGsaZhvWZzSIXPHHXe0vzFY2bg9TGSWQNvQjcRBepgQUIhjiRkk0TqRpTQqMDPKA4L5UcYhealgmsIVQjEf0jAX1CoiET8Bq5ICRMiollaRBXnQnkkXIRjG2jZRXNnSeAtlFAXyKD9cZcZUMsvzRS4tcmYpzUIRbUPxJWBD5re4AaLQV3AYFOQao+qCYBm1g4Lyf5EIaXAuMos3wUXVQptEvShmSATNUOaU+SzghuAlQ/DWpvZoOHlORFmJLEkjMEV48QgEMlRSTqsWEZHNgm9QhToPnSo1cFbKK59n6gUT3ssGVYgxPgFQWKVuTRGxS5yQJ2qUozKJoiziaRfVO+lldI7KARbXeALMSvNtnAooW3T7SFfTwF4wkzZ01r7kzOK6tO/MQTOqQ2pxHrXwoh4YyKgfth+GrcKelJMAVadhVYKlOmFwKueEtNXgGUCgr8blUZ/RLBR9MsZRRI8pB2AZmqac4oS2+kk6+ZQ5y56cRYMp+546s2a80hWuMr8TjUCXCFRcJrzpppsUpiBOTdEH2UCgmXLAzt56SI2Dg02yTZw48brrriNuQ3qGlgV5UIQK7YfiLJTihIZgW5bGWyijKDBpyupfHvuTWSfh2g1EbI2Sc0XbgML06dNhg3delK0yOgfxKMhT2m6zqB3IheCIDwjwefz48agaVMUbzPOgmXJqLfFPnTrFi3YA4pycv//++5CAK0Pw1qZ25WQTI6ew7CkDU4AGrR8bglaUK2HJQmRw7whM2IFdffXVqbtGK3lVNeDQLmWD8hOH8OzJAqvbbrtNt4DS0ywJSA+89tpr9U6/0k1r0IYyR0pc6dHJRHqQwFWfsqtXDrY2thVtgoe042rrz16QBaDVpe2sfRk1ZVyXNp05bWhVx5FD1vpAxOETxwCPPfZYCJWFPSmHIUQqw56Uk0BlWBWK1wmDUzknpPzTmgCClYdep+MW9Rl6V/vtbDkAy9A0NQdgq2xZT86iwVSWAnY24szDmhzSh7bzYwSGhUCdDlyhCmg4cVjN0BUJpldmcOY1zqjrECVPujFKh2I3QR6yKAo1OeFMr2bOLFs3rEIq3Su0seQxYbEOwSQTdGd8VpZqXztLWhkACzp1AlPUlEtcxdoJmCxy2OY5lmevFj56HYgcDcqtX04OIr6YYpkdOXKEK9fZ7WdAvvTSS6OuV155BcbQ51ikCZH2448/yjsPrSvUVqhVQjQkw9zGjvu+KCtoV2Xrqxa0DVHTYGFFTHWRIStShjpxXTJSqi6NPK8MDHzWnq+//prT6cx4kVKoPwyzSaBVWJUuBxq80Z10Ss+DukkfqIke2fo0ANswUAdA2WVmz56dmuqyMdXlLtDFRw8CdYZDdYghRSeImFB79uzBbY15XHcls4fpmKGIuhDRDK688koM/4qAkXZlZsAs5IViOJAuZy7NoREagnT2eYq3kEVRIIV6td8iukLmVkPml19+WXMEs7y2OKXrTRqxIX4N1+4yOkdGIb6WUTvYAcO5ZnzMjenEylIh3rBZMuA5APz3v//NH3pmU7PKklPbxDTcB/jIryJdUFPe2tQebQfZONtQ2SEDU5CtknJadfqehchAm6QjsS4ywUV40eAnkzeLUlI2qLwEFJc0PFQ4nGD1LYOvUbwMewKr2OzhB/O8TqTYVYepnl/Lg5NKTTz7I1csu2z7lEj0ktLKC+foH7T7kAbgyv4J2cq4Lm06c+VEgD6kcREF0QAQX9tQjn+yUq2GYauwJ+UkUBlWpZwTUpaCh8o5IX598803wwbHHCXtMAZaOkxIVABdffKUAzALTaOpJpviouo0Ik1lzrInp9FgKpuGaQEXSBqIhwyd+axUUnaiEWiJQCtLVZjcZA/TP0HJ6sZgS8NTyOVKpm7Zd2PPkZnJK4M8KLoFe80oLmO8RikvitKQRVGQOU1cSUFJI1oEBX6Vu4OuI7cK+CBxyBMRNkpWMwqRs1XUDvkflEEeECQNiCHmZUblRegpRZ9yU0jDfYiCgmCQBx2ilK5V7ZI0tY6ngmSBKRShTPZ4NTGcZJSzqiMGiLpNKqnMvWqF1HmiUl7ljDbNGlSYix/ljL8h4WtmvBfPpf1eFnHxGf+6FoxV+grU3EbIx0IdWFBr4OgJH5dIj1GT0k8jipTtm8V1KTth2pmDrNhIq0sLxt+4qddVhj0pg5mokwu3lFo5CahLC5ZgqWYYnMo5QUTU5aJLR5eTN4kGIBmUmSFDCv08Jo3KAZiNvnKKi6EBzTQiTZkz68nlPJZ1KkmqUa8n+1qzEzYwm6BoIGPtWeo4toeGQ+bH1ljxL76GaSyUPWTsYhww3YjfQ3kr/4lLylPKYeo1qdk205CkYHUjlMs2B4EedrDmCHXBOIlbx6HO8lIq3KG4tGIsfJbTDKyXGn2smpX+tsMVM5betLqO12Pte1MepCLHI55bARLupcOV4sLn938QpM3aiPdWd4gbwVwfmOiVvLr3xfl8ySMGAhxRU/e91D5CfmwljD2dx/Jwao1NpwPLfR/gMUkjMPIIpJeeGCnZchj8pR7idZhm7M+cOVOR34ir8fzzz3dpDUkZSGOcYK6tw0+Zp4zt0e/QLJ3x2YNSF177cI3tESjP8AcbsV7Jm23rS9AqzQRlNg4D0OXTE9rBxn/gpcssCAMvb/8ETG+3UktYbcIMGu412oVjjlGKts7lqYBunAbDsgjzNU4I1HbKEOcHyiO7D4NaZiCdUqQMRNnUDUvvYRDkPTVWylrNIxuWTviVEkxWSkEGMSD7acxFOhUQ2cpLy/1rrOFStoFguIg5vxEwAkZgNCKQqQJltI80yoJW7lbRaARfdn4u1UHpYSyIZbiMP6FVlvxwEtpGZZiHdC0PdyKqS91W5MwU4XCyqBulKtBZaJbG9hsbCHpwsmISRsAIGIHRhkD78C3DjUYDeumN3xLMyvgTc+fOJSeXsOr/Gy+2Qt0f+eijj+KWHF8Vu0KBKLjlRHiJNg3acWiWxnYSqwKNbRozZgSMgBG4OBAow7fUiUbDvc007i+rry4xVT7dx58Q2UWLFhFKSxe8W0X0GjIaDZv7jkOzNLNFrQo0s13MlREwAkagcQicO3cueCqjfaRRFtpHoxERIoQS90X+vHj84TZ4//33816GTqmMP1F6HKcMpL9ivyfUhyqCbUJcYBrIApERCYO/eVS4UtQO3WsoY8ak4ncQmqVxLRoMNdZ0YcaMgBEwAkagIQiED12raB/iM6IstI9GE0KFayF2+qBchk5pFehFDoCVYR7SGCdy3Av/g/T/SlJ4lS2cFtPYHpGt+9AsDWnQjI0xfG+unmLOjIARMAJGYNARYMu+YMGCt956K/4rvK8Ss+nHL+HC1NVXQXpI3AaCHoJpUkbACBgBIzBsBIgBQFSPpUuXcnSfRfIeNq22BQhSzvk/4cmtB2Q4+VSgtz3N1IyAETACRqChCKAK4JHAv1S0/7/KhnLfT7asCvQTXdM2AkbACBgBI9B4BGwgaHwTmUEjYASMgBEwAv1EwKpAP9E1bSNgBIyAETACjUfAqkDjm8gMGgEjYASMgBHoJwJWBfqJrmkbASNgBIyAEWg8AlYFGt9EZtAIGAEjYASMQD8RsCrQT3RN2wgYASNgBIxA4xGwKtD4JjKDRsAIGAEjYAT6iYBVgX6ia9pGwAgYASNgBBqPgFWBxjeRGTQCA4oA/wL30EMP8Yew/Pv7tGnT9u/fP6CCWiwj0HQErAo0vYXMnxEYSATQA26//XZEO3PmDH+KtmLFivnz51sbGMi2tlDNR8CBh5vfRubQCAwgAvx5/FNPPYUeMGHCBImHZnD2v88ASmuRjECzEfCpQLPbx9wZgQFF4IMPPpg+fXroAUg5a9Ys/qie04IBldhiGYHmImBVoLltY86MwKhCYMaMGch7+vTpUSW1hTUCTUDAqkATWsE8GAEjYASMgBEYMQSsCowY9K7YCBiBFIFvv/2WrzfffDOf3Cngee+99yLDVVddRQr/N2/QjIAR6DkCVgV6DqkJGgEjMDQCN9xww6FDh1LPALwH5syZo5L79u2bPHny1q1b9fWTTz5BFbjxxhtXr149NGnnMAJGYJgIWBUYJmDObgSMQC8QWL58+fjx45csWfL9999DjwsFaAbr168X7UsvvXTlypW//fbbV199xdeXX375kUceSX0Me8GCaRgBI/B/CFgVcFcwAkZgBBCYNGnS0aNHx40bx+6fk3+OBI4dOybrQDxoA6gIaAPk+fPPP0eAS1dpBEYHAlYFRkc7W0oj0DwEpk6dijcA8YVY6eEu0wNIWbRo0bZt25577jmOEH744YfmSWCOjMCAIGBVYEAa0mKMCALyZeNT59h8Kowu8XSDH+zcpPDZVw6p+p577pG3HUF82Uyn/Cgd3mBMB/L6Vel6kGKknPLeeOMNrAMCTTxwBvDHH39wcvDggw/CNi8kOuRAX7uQiY9qBFDJ/RgBI9AZAoTEYfrYtGlTFOcd37eUGosZRvG1a9d2VkWdUrBBFVT0y38fXoIH/O/gUEQ4gcfzjpxffvmlUuAqcm7fvp2c7777bp0ae56HemGM4wHxpkkZhhENiSIlhbrnPJigERi1CPhUYFQrgha+SwTYrbK4njt3LujwvmzZsvjKRvbw4cMcce/cubPLutoU37JlC1vnV155Bcc6ng0bNkRm/O/inRP4gwcP8hV+lDh27Nj4ddWqVciyd+/eLvkkfrDOSOLBCrBu3br2ZDnSOH/+PFGHsRqE7gLDICxvQc3RvkHQZeu4uBGoRMCqgDuGEegKAf5HJ66/s/DzfttttwXFI0eOPPHEE6Swu80WyK5q/WdhKsXDLtJYO7Xklw8/cWbQSi/BY19m+24eNKGZM2eGsPDGyf9dd93VDU2XNQJGoK8IWBXoK7wmPvgIsMzHnTcWfna36Z03bsaTga0tS+zx48frw5Fa8bP3kggMXHnllTWJpycBUQQlBvcC9JW5c+fWpNMqGwhwPiFtQHoANwW01/djBIxAMxGwKtDMdjFXFw0CshHs2rULjjld55g9WNctOLm83X333Tt27KgvVRubZXsi4QyYui62KYK/HqrGxIkTYQ/HgtKNvz7PkTO0gVZ6QBtFZ8ifOuDHRYyAEWiPgFUB9xAj0C0Cs2fPxiGAjfXJkyfT7S/6AUfxWtueffZZfpX3vu4UpE/39wvirh0M4FtHLWzNKwXDMz+1AoTb4IkTJ3AsKBlTSnq5gL0+Kd3483fjnNVta7m8ETACBQJWBdwpjEC3CGAIZ5l//fXXcQtIaXEnXt7vevCQx4JABnbeqes+BwYlB8MyEHAssXv37jpisH7DVWWNrRjTHYTUX4+7fygQe/bsaVVj2AXCUlCHN+cxAkZgpBCwKjBSyLvewUGAjTj77DVr1qQOgyyH06dPT/0G+EpMPYkdBntc6x9++OHyWH5YBoJnnnkGXUSxBFjsv/jiiwA3DdKH7QD3flh97LHHlIETgs8//zxtiZKx9A4COZFr4cKF+AZu3ry5sglT/4DUb2Bw2tuSGIHBQ6CbkzqXNQJGQAjgls9WO9DglrzmiggnwItSyEk2neHr4fZ89zBSo479+dQ7NLmjz1FEVESiYg+oOn5NWVJiyRjskS045ARC0QtIjPgEKf9pFUqHn76GVegePVMwAqMcgf8f4aMcCItvBC4kAhGJiDWyJ6pAr5gvGUtVgVBxSh2iYwYwQKBeQDCiJHVMygWNgBHoDAEbCAbvoMcSXQQIcDIvLjdu3NgTp/1eyVwyFiYGTA/8cyArd+z1sQVEGOPOGIDC0qVLX3zxRWhi48B1ERNGZ6RcyggYgc4R6EyDcCkjYAQ6RkD7bJ6mhdGtZCxYxVVQ7xJc71mU5eFiwklACoIYGKngx8Nl3vmNwMAgMCaGdOfahEsaASNgBIaPAFcob7nlluy/ibk6gdGEw5Lh03MJI2AEOkTABoIOgXMxI2AE+oEAxwynTp3qB2XTNAJGoBUCVgXcN4yAETACRsAIjGoErAqM6ua38EagaQgQ52DWrFlwhf9gFmcpjXjYNLbNjxG4qBGwKnBRN5+ZNwIXMQJTpkyB+wMHDoQMeA/w10ozZswgZdy4cUQviKuMCnroxwgYgX4gYLfBfqBqmkbACNRCgGCL/DsDVwaIS8i9RMI0Zf+wLNdCezfXQtOZjECnCPhUoFPkXM4IGIGuEeCmAJcJCVeALYBAQ4sXL3777be7pmoCRsAIDA8BqwLDw8u5jYAR6C0C/NHR2bNnORiQaSD914beVmRqRsAItELAqoD7hhEwAiOPAAYCrhEuWLCA/0zi2b9/v3hSrMNu/hB55GUzB0ag8QhYFWh8E5lBIzA6EMA0wJ83Xnfddbt27Zo3b56Enj9/Pp9LliwZHRhYSiMwMgjYbXBkcHetRsAIGAEjYAQagoBPBRrSEGbDCBgBI2AEjMDIIGBVYGRwd61GwAgYASNgBBqCwH8AgYJIBZKv+8UAAAAASUVORK5CYII="></p>
+
+  <ol>
+    <li>The sustainability multiplier will be calculated based on the average sustainability published periodically for each FAO major marine fishing area.</li>
+  </ol>
 
   <p>For each country, the sustainability multiplier will be the average
   sustainability weighted by the proportion of the quantity of marine capture
   for each respective fishing area in which the country performs fishing
   activities. When a country fishes in only one FAO fishing area, its
   sustainability multiplier will be equal to the average sustainability of
-  stocks in that area. </p>
-
-  <p>Sustainability multiplier = Sum of (Sustainability for Each region x
-  ((Quantity fished from Each marine region/Total Quantity fished from All
-  marine regions))</p>
+  stocks in that area.</p>
 
   <p><img
-  src="data:image/png;base64,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"></p>
+  src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAp4AAABdCAIAAACD9/H3AAAAAXNSR0IArs4c6QAAH0tJREFUeF7tndnrHMXXxn++9+7vlYIXLhchihIXJOqFQqLJhSjuxgshYmIiguISoyKiiSZuIG4JCiJucUERd0FBJRijoqgouCBuV27RPyC/z+vje6h09/RU97e/0/OdefpimOmpOufUU9V9ajn11G47d+78jy8jYASMgBEwAkZgUhD4n0kpiMthBIyAETACRsAI/B8Cdu1uB0bACBgBI2AEJgoBu/aJqk4XxghMJwKffvrpKaecsttuu+2zzz7XXXfdb7/9Nhs4oGLjxo1NJWPbwQcfjG3kHSSBNFjeVPiqVasQ+9577xVMeuqpp5BW+VdT4wvpVZD0yhTYroCZwtNks1HqoWb0orTeKrv2obXmBEbACIw1AjjyE0888fTTTydy6MMPP9yyZctdd93VicV4TZxxpSje5pkqLrroonvuuefll1+uSX/44YevWbMmU2Aku//++4866qhCLtA477zzvv7667Vr1zYVODT9I488Qhpw5vr1118POuigoVmUoF0BM4U7WRkBu3a3ipEiwHuHQdVIVVrZpCPw7LPP4mNWrFhBQQ888MBbbrll/fr1nRT6r7/+SuW89tprV199NXcazQrQ21j6z0XekNCJeQjZd999C6K+/PLLk08+mfvr1q07/vjju1JUloOKb775Zvbkt5NMn2NWS11p1ewpZQKGqwUUdu0tQHOW9gisXr367LPPbp/fOY1ACYG333776KOPjtvHHHMM3xlwp5PAmzZtillT9S+ZsubSe5PPmDDnCxPd3CT7ZZdd9vrrr2v+OdLwl4byuq85aj65Iy3nnntuGCNR3CRLKiFm6cMGZcEwEqfFidl1xKpLwadWH1Badq4XXnihbGZ6nwSSz6dsDr389corr+gO/yI8VId8ijOouZFGRdZFSuEQHfcQkt6sLKAkpKZiz3fffSd7UjALWgqWU95YoagslBSV8dT9srTKxGRPVyVSpWkNqhWpvmRVZGzkqin+Cy+8gG2DKmLgfU2t+DICI0DgwQcf3LBhwwgUWcVUIcAgtdCueN+9++67gMCkdPwVN8855xyaIv9ecskl5BVWfOFikvmTTz4hpW4iJBIoTSotQGbOgPl2/dx7770RkuIf0lIJiJINYSGSkYN2siNE9vPJd24qr7LwBcv58u2330bK0JjarOxPPvmkbkoyP0mMujC1oBrhpEQX9hQaEnJSX6J/SQmkfEFyFDaM5F9hWFnA1OywjfQsNFA61QVfBmkJmXxR1UQtp+ooSA2eYUNBWiX4YSQoqRYKSrEc9LAZpWlroaJVirRFFeCt/Ik0ZOakTNN41N64M+QM7RCgA3v77bcvX768XXbnMgI1CHz//ffxLwM+vu++++587rnnnuVcDJs0e3/++een/5500klMMrMq3BRqlgAeffRRDfJYMi9PkpcFMrbmcWDMxxOhSX6uiy++GO1k18QD19atW//4448jjjiCYR9j8R07dnCTL7Kc1YdIOchmsjPyY46atQDm6vWTxCjlO3eUkZFoqEY4NsyfPx//VCkWF5IutAOmRqLpCDuM5F9UDypgKj9soyLOOussSqe6+OWXX/is1BKWU5yAMWRGoWKCoRLP1AZlkbShiX///fcCPm+99RaWgx7GU5v8jARLlizhO6g2bV1IW7x4caOxPirs2pvi7PQtEWBBlK59zluvpQJnm1YE8ARvvPFGlP6rr75iaFXjoZmrxwkx63vCCSd0gtmiRYswgC7FnXfemdl5xQCy4Kp5a9dPt8bQEIda9l6d2N9CSLrQTsGZc9Y0dQtRmVm60tIIz3LiW2+9lShFSrp9+/Zrr7020/gZJqNRXX/99Y2E2LU3gsuJ2yPAGEX9Vl9GoFsEzjzzTMaX2jmGA7jxxhvTaHONnBj04O+l99RTTz3ttNOIIWe+dJAlESjHYvag2E9cMqu/aMTP4apxbxqxlWWWw+7oWJCMSDesev/995VFg3KuSH/AAQdguXw/ujR0Y6b31VdfVaE++OCDHHVKs99++ymXpKG6HHGWHyFISsUEMNWMqG3btqW7AMJIOlKxZl8uYCX+kSz9t1JLfkNSRGQlnoOEVCZ+6KGHNO+Nay93HxmsP/PMMyDDtXnzZnZt5NdOTVkQC8KKjci9ms7gO70RaIFAun7ZIruzGIF6BHAq2gbGGzBdd6fhcUfro6xxavGYoRgp+SlXxF9aJNaqtv7V4rGWOZU9TRNCtIDKpWXvwip7JJPeVALa9Y6OBX71PDBAyWKdWy5NHlS6tAZcKFTgow1pGm5SiviuBAhXAsqlJXwuyY8ySnUqpyA89S5RLgUKhDq+S8LQAkp4mBpVFnWRolfQEpZLiOpOaQqF4qfSlPGM0hWkVSZOdxuqaKGU9PxUQRAV9ZUmECaKmWh0IS2dQhia999okaHpnMAIzASBFsEjM1HnvNOJgF7oLd6bM4cL1Q4RnTmMYy6BDlwaBIebV3TeCC51XvMVFSfkGfJHZH/n+4+bUvZoN0IlZUSIwtpI0I4rKnd+I0lXw6zE7FP9glNqsNipWhiQnyVYugo7avIl5Kes4cD64YcfjjzyyFTUrBrWtCU0bWntKi62AzWtdG2eSa8yAdmgalLe/ErMTDm0nWfK6TYZE6SPPfYYK6Da+tWt8EHSUET7ueaaa1gXGI1Ga+kLAQL6tECDASzEEPenaM0RXPvvvz8ECfmKdnHtWHzBBRfAN0TXgM7IRx99lC+IlJ2/QXIIjMSOVL46NyZVUTCMN3X+q3aQwY2gzk/MG4cgIyqU/iYNMT9j05T1HFi0pUKs8kwMawR4TkFm0tLyjYEijf4NU3Y5JqVpIB3jZ4wPNOOXeSnv9FwwwxC3TIMfZcQZEexEvLMgOj04T2dJ582bR9jjIYccgn/hCzsjWuynaAedFOU7ml0m5LVnMX/In6bUC6td3ppczHHV7wIsbDyVqFkyJrUztlFys9G0TKXBneMWAlOXMHta1BesqanYktuJYY0Azyx1u5bWqPYBofX03UzqcTYezExUa5LRQYm1XpLxPdYmZy7cEozA5CHQ6CWwy6idaElemoR6amOorphAZtIpneYSVVBM86b0TPQskIAc8SUpvDM9yaBAPBR7P8hIyKWYm9JATXE8VYoKO9txRRVYqCiU2JpYCFD/SAn0XSUq9LnIwjwJu2gETuwAiUl7AcX9FFWEFCaBgyUKBARImUkqVGs6tHyVJyF5XV5++eVpX6+yRI0YqWJiOT3QIuXAKndL2eRa2NBZNiydOk4XYmKeXw2gAHgNs1gBQ2R20tLSikuNUdVLix4WRUHrohSAoHai2g8Ws0pSsEHzyTTCqM3yUyZFOhoknpdUXSHIttD+JVktVuesyHhxt0V7I1m606ncHmq4wAIQps3POOMM1YgmtK+44opyy/EdI2AE2iBQ6NpEvF/0oFm9TwmbFCrC4INIP3HuROQh6kOaYk0VX1pmgwqOJNLTeVcCRVRKJqI0vhE9kL6TUmGrXJEgHSy244oKFipNWigGB0URjhhjxHRWIx21p6OxQpqglwpuptTgGCkWWKJUzAKTVOtOqGinFMwpIYNKlJJh1TBSpWWprIiyqZEs/atgWDrXko6hyau2FDingA9iFouGGuxRHba01LzUGECLB6c8Ro87Q0nB0tYVDT4e7xj6l5+y4M8So4hSklFWVc5MRPuXeaQRnZaMBPlgBNPjLC6ztJ1XtodKLrBCw9Ajr5jtdATfuqk7oxGYYAQq36KDylsMo2NTJotzOFfoFNRn32OPPcpdBpYceOzhA4cdoszIQ3puituIjZ6VPY4gHlqwYIESkJ4IBfH4xM4Q7jM+0ObLSy+9lDOdWvRfhnJFiYVKWkRThVUxyJ4Jy0rQS6GiMGpPCyKWKDEhMHz5888/9W/KJNWi4MrCoiNbeEE1orcGlSiTkSp4pkCMmoKzqZ1tBcMGWYW/5OysN9988/HHHy9vwx3ELBYmjbKlXXnllQ888ACqVdeDjqkYSgpWSa0VHdwoWvkpoy6gJ9Ojx9MUBrB/mlwLFy6srCm1fyjDSM8ucGah/vefC+j+/vvvQpbynuNB7aHMBVYQhZ08mzT7yjXLynkp3zQCU4VAu1cruaopa3ADN910U00YHS8CNuxD+8BhhTr/oHDxwtUBBjiqTOOY1mMSUhPyvCwqc2nfYdOrBVdUUxUzT5/SNQcv4yCx+RPykkB93XzzzY0CLGdeohwJOYbR17z77rvfeeedwjKN5LdgFpu9libiTxr/HXfc0ZQ9Kgcu0iA8HHaLpyxHi8blutCFA2bCg/aJs+ezwzhw5uGhb0MdWJUZ2SZ4+OWiGYFMBHIe2Mo0u7h2vSW1yP3SSy/ttddeygPhETd59uKUIXwwY3oSczJSym0reibW8/D3zMgx+s+J5tU4ACJSRgyMyxmdpLQAKGUMhAH33ntvylEc5RlEn5TPFSVRNTRMGpiKASqudPjyxRdfoK5M8xvMRBSNsdEgRbBEgZWyUwtDtx3ywq1sGZUsyhpBMupNO0aVJRoKqRLwfn/iiSf4QpHphMUUSw2ApAGiFL0IPigYRvGRE9zLOjCbWSJ1TX766ScJCcBzmMUKVdZ5S0trn5gD3BXj6cohuyixckjBUqwK33m4dKxZ+SmDP4unVc9L2udW1RSOKK1UQe8E+0WnhQREqf2ovdFEy5Mrg9pDKr+sWuvr9GJ5qJ977rlYd68puP8yAkYgF4HUQ7DcFT6Vd7HO29ECG+J0QpGW34LSKBYySSnOHZJVZikz8nAnOIO0pFemWEIjAlNWo1CUUiaxQN6OK0rriCkLVWqVhi9BDhVcS6nZkUCL2SmFk5Yt5VDp4mipO9iIUr4kCSkUs8wkldnRS5OF342V18oScTOfkSraiRZKpa6SuyosScMgdLPSsDJNWNomYxlbNZJSQfG9klksrOqwpZUrLowJKMqR8IX2WU8KVqhowZJeyK98ysgISmrSqpqUW01opIPytP1LaUqnpZSKpwntqoW0usvtoYYLLIqmF0X8JEtE0rRo585iBCYeAZ7B/C023W9XG098e+GKKgdDjSc4I7CK9/j0bG2aMBdFnynqbgTbSqM1KlKvcLVmfFNvo5w9AofV/9Z4pvNr6NbKQRrVUeOqkaDeWyOb1dEso6HAxsq/GsmvSYz8lC4wNZ6/6rc6t7ahNf6tNZKxW6XqhefbM/nHw/TLFZWeNZk7kTKJ6ZgobsqANOdg0DEYtDdiUOac8TUGf/7553G4JwGA7eJd2gGiXSrxisQl1MgB+RoGukGsRMuWLUOmdgTIu7cztZyrvFFWafI5jljZJJwZBNIFyrKiFqxELIJEpyEVSLwq4VPpKS9doSE5rMLQfjhhJcSmxo+Yzqvbos22tJ9//rm+GRQNyO8FzNGUvBcoczoJOZqCFCbtR6N0bLU07XKObUFqDNMos9ERDnOimJoq14sjPVNkZMZnjn60YlhjVXkWTc0y1gXSbbczLF3N9EY+4VL+tB+laGpwpfAWchrppY4KmJM9lI6YzquR5b0npr4avVsaN4jeS2gD5igC6WL/HC2Cze4FgbJrF8kBLiHm2Om7x3SCJnUZ4mtuOVYTys5MadJC8VP9g5gcliuKTkME+QZRBCkV2aBQIW3QTwdYaBGxBPfTsbLMS8kDgiOElDE2IE0qIRUS54WQJubSGXOrRHEn7ZBFKEbKOKL0EdKBqTFjL5y1xBvGi/RCKKVlp2+kNIPWpASC5AfsNa69YIZ6BlIaq871NYIuISnVKmNEuoQZ0aLS+KEUlsjCzXLiiFCJoXOqNK0L5KuCCkULtx21lsaxqUVFzeY8hnbtOSg5TQcI8HqanuX2DvCyiP9HoOzaB5HkhAOmscm76AUqSWXXXilZQiqpuvTaLdBqVRJwISEdAaeK8jmOUoNDwiC6sAIrUSULlgJ7tfpQjmwt2DyIywj/HR2gtOykRzj/qjNUjloAUq2y85kOQOtH7WFGJaVYfY3ENECKf/T20uMo0xaVdrDUcpRFkKprIvtVfJVIwGriR2UPpYW6IIs6RlG0dFKTm0IpnYUS5o1eCZO/1l5cgfDvnhBgPzQ7G2s2yPVkl9XOPQSGkiZBPKWtpJXbZdMCx4Ze3eSnzjGqpOoaRKtVpkXKxDST4yiVNogurMBKVMmCxZ5SOMTYvsgVe3FrTC1wGSkv2yNh4ortqVF2EpOAf3WQCYekFSSzoXrlypWEIPBZ3ic81IxKSrH6GiFLJUfIkiVLUJdSX9OiIJvCNqigK4/RIgtlFz/b0MQFoqcaiiohnJ4xw+7Z22+/naiR5cuXx2Zm9utC65TZqJTMrr0RXE7cHgFa8FVXXfXwww+3F+GcRiAPAfbisyk/JbqvzAc9H+OhoImk38nPY489dpCSHLKjPAP/TdWC42goXVgYkI7zhrJgNTK7RWKgg+Usxp1IaHCI2WB9HdZIOs0wtICFxIxb6BDA6cTYndH2TI6DozNK7CSkKZwsJx4nygg/ytBOasFmu/ahlegEnSHAWOrjjz+uIdztTJMFTRACZWrbQSQ5tC6963m9Mu25bdu2QrB3QRSjOkSRWBQ9N9xwA9Oh8V4uU3UNIjtKwU5VBGtWoTbyOY7KZR9EF1ZgJapkwaInwWhb/GObN2+ubCOD5tXIGwRc5D399NML2cumpglgpkpJxyFtTBnAQmnNrF7lXzk1UvMohEyaAQySpNSRS/VPTzkxLY2ZDDouDOs1fZJemRRVMkZnSiGEBvz+++/zHUL3dE9B7pPdaPreiY3ADBFgkckr7jPEcKqyaxmSq8C0ozi1NOhJgUvc4ctQmqnAMI3/j+gw/q1kBJIKxTfRCdCwuJIWiftB4ZUS+MTyf0ThSUKZiiTNVaAAivi7elaiMgsWY80y/1hAkbKKCfaIChQg2ijBzXiEg1YrkOFLKkfCy3xNinnkfplSKd31npqhlAVKscoaKZB9peiVmdOkjjTRohQIGZe2XKZTIOXEaQ9SzaNc6aq1CGlMMUlBCC4vtRAkt9vetRsFyO0FOJ0RMAJGYBIRYMDEdnMOsIDPeCbHQbXDhmFio7Xndlqca/YQgBr8uOOOW7p0KSpgI4AboPcVEE/Iz151W7IRMAJzAwHcOXOeLAazXBoHJM626ZPKcTTbuI2hfPi4fvzxRxkGxVMcv9KjqXbtPYJv1UbACIwLAiyxK85rlOMtYsUhrBy6uDsuGNmOAQhwTBpdQ502S8DHfffd1ztUnpDvvQpsgBEwAkbACBiBLhHwqL1LNC3LCBgBI2AEjEDvCNi1914FNsAIGAEjYASMQJcI2LV3iaZlGQEjYASMgBHoHQG79t6rwAYYASNgBIyAEegSAbv2LtG0LCNgBIyAETACvSNg1957FdgAI2AEjIARMAJdImDX3iWalmUEjIARMAJGoHcE7Np7rwIbYASMgBEwAkagSwTs2rtE07KMgBEwAkbACPSOgF1771VgA4zAvwjAXg5RJSeFcLAjVycHWhtcI2AEphABu/YprHQXeUwRePzxx7GMc6859Xnx4sVbt24dU0NtlhEwAuONgF37eNePrZsmBHSc6Pz58/lcsGDBNBXdZTUCRqBLBOzau0TTsoxAVwgwdufqSprlGAEjMFUI2LVPVXW7sGONwMaNG7HvlltuYZV9/T+Xl9vHusJsnBEYVwR8qOu41oztMgJGwAgYASPQCgGP2lvB5kxGYAoQeOWVV44++miC9gnXX7Vq1W+//TYFhXYRjcAkIGDXPgm16DIYgc4RYA/eBRdccPfdd+/cufPDDz/cvn07e/M612KBRsAIzAYCnpCfDVQt0wjMeQQYqa9Zs+bqq69WSVj1P+GEE5588slzzz13zpfNBTACk46AR+2TXsMu31giQMQcE91Nr5FF1aHojz/+WLhwYYB3/PHH8/2zzz4bSzhtlBEwArsgYNfuBmEEekBg+fLlBx10EIqPOuooZrzrr19//fWcc87pwcpdVZ588skfffRR72bYACNgBIYiYNc+FCInMALdIwA7zXPPPYdclrG1563mIjEb4bo3whKNgBGYUATs2ie0Yl2ssUfg8MMPf/DBBzHzmmuuGTrTfuCBB2qU3+P1wQcfnHTSSTKApYShNvdoqlUbgSlHwK59yhuAi98nAitWrGCWGwtOPfXUoVvLvvnmGy14j+CaN28eWl599dXQVVh9ZwVhZMaMoLxWYQQmDAG79gmrUBdnjiHAkTB77703MWurV68eH9NZAli7di2rAGyBw6rvvvvu8ssvpxcid64T6jxqH5/6siVGoICAXbubhBHoEwGc6IsvvogFW7Zs2bRpU5+m7Kp73bp1GzZsuP766/HixPqdddZZOpiOK76Mj7W2xAgYgRQBu3a3ByPQMwIMhXGiGLFy5cpPP/20Z2sS9WxqZxWAvezaCKeD6bjiy/iYakuMgBGwa3cbMAJFBJheFqkqF6wsTEGPEiOcqBbdL7rooqGL7mEYKa+77jq4ZbD54IMPnqVBP2hgG9EAdDu4YJ8dJTLWZQSMQAsEPGpvAZqzTBoC+EhcF26V6LBPPvnkjTfe+OWXX0ZcSC26sxfuhhtuyFT98MMPYypZMHvx4sXPP/98ZsamybDtmGOOOeKII55++umlS5dqt94XX3zRVI7TGwEjMBoETDQ7GpytZawREIsqDlJWMhResmTJ6CPAZQYGvPzyy3jQoZARzsZuNHHB0jtZtmzZa6+9NigXhTrssMNSmliG4Oy7q8ky1AAnMAJGYDwR8Kh9POvFVo0Ugf322w99QR1DBBl+neBwJrpxn0xBM+nNxR3cIVPf3MdTdm4iSolLRyznsuSsCLDZffPmzUrJ+ne9kz777LM5vU0R71wU5MQTT7zwwgs7L4UFGgEj0D8Cwzgu/b8RmAoECBbjaYQWhhFzFJjoNibJIZbhDlSv/Ivr5buoZuB/LUCj9fLK6913383EkXB0JGQS0CrxJZdcUjamrI61BopDSeNLpklOZgSMwNxC4D9zy1xbawRmD4Fvv/0WHylPKS24dry1vuOb+Sv9nu+tG9mMGThgdGXKx1XT5yALDnuoIjl1Ofhy4tZDjaF6ncAIGIFRIuAJ+dZvM2ecNASY377//vtxfg888ECPceCYQcwakwSZi/0sn7NFjTA6wgCpEhbsWS9oVzetXz3t1DmXETACs4SAXfssAWuxcwkBVtljERpqd0z//PPPWxRANG2VVz53G8bA1n7fffcNNYBV/0izYMECQuX5SYcAD12ZV+vrdF/efvvtdN19qCInMAJGYG4hYNc+t+rL1s4WAtCuKR5NPlir5jt27Ihd5n/99ddQ3QSyDRr4Zg7B0U7UOvx0ObQwTN0r9A8jP/74Yx38qo5F2dTw64zy6b7Yuw+tTScwAnMYgdZTcM5oBCYGASbhWV/XCjfr1lqH5qYebIXR6V8tw+sQNj67RYBQuIjUy5GMYQqj48KvK5KOMEB+lrMTN1BYjOdnRBLkqHMaI2AE5goC3tc+h7tlNn3CEGA8zUB8+/btMylXYY9+O1FMBrCtDmPoalx88cXaOu/LCBiBuYKAJ+TnSk3ZzglHgMV+qOUeeuih3svJMvwzzzyDMQxQHnnkkdtuu202NvH3XkwbYAQmGAGP2ie4cl20OYNAuhA+Q6MJ5Xv99deZbFc8YNMLSyCUZd9dBAcwgmf5nxE8oftNpTm9ETACvSDgUXsvsFupEdgFAfatsXstZYFtDZBC+dr5dZTSLeAzDfrjzDfufPXVV61NckYjYARGjIBd+4gBtzojUESA6W5OTc3Z7dYLdnLz7XYD9mKwlRoBI2DX7jZgBPpEgKi39evXs6Sds9utT0Ot2wgYgbmDgF373KkrWzpxCOgwWbal5ex6J7otDrAZJRKsvqNO0/Li5AkztIc+n41nlGZblxGYZgTs2qe59l32nhFYvXo1u8syt5YRsj4Ccw899FC0pDy7rL6zp3/evHnc5+B2DCaqTv6eTgnn5eT0S0ZguVUYASMQCNi1uzEYgX4Q2LRpE956y5YtOerZGkeM+p577pmTeCZpOCceGpzLLrtMY3E+2fy2Zs0arRfwCbstHl189VwjMGkmxXFeIzCdCNi1T2e9u9Q9I8Cod+XKlUTPMQgeRDuf3j/vvPOweP78+SOwmxh7wvVZKcAADnSHc74wr8BPfDzRf5ql92UEjMC4IWDXPm41YnumAoFbb711bMuJ28ad//7777Dq8rlo0aKyqSTgfLytW7eObSlsmBGYZgTs2qe59l323hBggr0FGfWIV7VvvvlmACJ0jnA/lg/41MVN6GvonTBX3xuCVmwEjMBgBOza3TqMQG8IEGqO46xXz3l0fcXGM3zngDhWDQ455BDW1Pm5bNkyjo5VhPyKFSs4V7437KzYCBiBwQiYaNatwwj0j4DOdEnt4Ew21rxZkidAnQNbOY49M5C+/8LYAiNgBPpGwKP2vmvA+qcVAdw5cWoatTPTXpifx69zH75YPDp+fVpBcrmNgBFog4BdexvUnMcIzBwB3DmbwmcuxxKMgBEwAgUE7NrdJIxAbwjEpnCN4NNr6Bp8b0ZbsREwAmOPgF372FeRDZwCBAZNyKvorLXv2LFjCmBwEY2AEegGAYfRdYOjpRiBFggwTIeyZtu2bYPOhimE17Ee30KLsxgBIzBtCNi1T1uNu7xGwAgYASMw4Qh4Qn7CK9jFMwJGwAgYgWlDwK592mrc5TUCRsAIGIEJR+C/euC8vf8z6NgAAAAASUVORK5CYII="></p>
 
-  <p>d) The value added of marine capture fisheries (b) will be adjusted by the
-  sustainability multiplier (c) to get the sustainable marine capture fisheries
-  as a percentage of GDP</p>
+  <ol>
+    <li>The value added of marine capture fisheries (b) will be adjusted by the sustainability multiplier (c) to get the sustainable marine capture fisheries as a percentage of GDP</li>
+  </ol>
 
-  <p><em>Sustainable marine capture Fisheries as a % of GDP = Sustainability
-  multiplier x Value Added marine Fisheries</em></p>
-
-  <p><em>SuGDP<sub>F</sub> = Sm x VA<sub>F</sub></em></p>
+  <p><img
+  src="data:image/png;base64,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"></p>
 
   <p>In summary, the computation method for GDP from sustainable marine capture
   fisheries may also be expressed as:</p>
 
   <p><img
-  src="data:image/png;base64,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"></p>
-
-  <p>Currently there are no disaggregation dimensions for this indicator. </p>
+  src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAi8AAAA6CAIAAAD3Mi4SAAAAAXNSR0IArs4c6QAAD6lJREFUeF7tndnrTd8bx39+/wB+XFEucEESyVDigjKXPiJDJKWMV8hMLvAzfJKSOUoi44UU4VNc0CdTotwZLiRX5n/A7+X71Gr99nDOPns6+3POe1+c9tlnrfU86732Wc96hvWsXn/+/PmXLiEgBISAEBACTUXg302lLuJCQAgIASEgBP4iIGmk90AICAEhIASaj4CkUfPHQBwIASEgBISApJHeASEgBISAEGg+ApJGzR8DcSAEhIAQEAKSRnoHhMBfBGbOnNmrV6+rV6/+55/ryZMnwkUICIEyEZA0KhNt0aouApcvX4a5X79+ff/+ffr06d3d3dXlVZwJgVZEQNKoFUdVfWocgX79+lFpxIgRfI4ZM6bxBlRDCAiBTAhIGmWCT5VbEgE0JK6W7Jo6JQQqi4CkUWWHRoyVisDhw4eht2/fPjxG//3nkuuo1AEQsbZHoJcyA7X9OyAAhIAQEALNR0C6UfPHQBwIASEgBISApJHeASFQNgIfP35ct24dceTElA8dOtSMhCVf3759gy7U4QFO4IcnhfLw5s0b12XujZZjwD3hIfcWbV8oP2q8aghIGlVtRMRPiyPApD927Fg6+e7dO+zkmzdv3rp1K8Kg5G4vXbr0xo0bDx48gIfbt28z9bPjqlCBNGrUKAjRzWPHjnFv/b1w4QKfjx49ck/4eubMmb59+966datkTESuyQjwLuoSAm2FwOnTp9P96w4dOpQdqLVr1zLVfv361TW1Y8cO+Hn9+nX2xmu3AOkPHz5Q5sqVK1B8/PixK3/nzh2egEzRPAwZMgQ2HBU4WbRokU8UZChjHPoopWYMYH2KqdtRxaIRkG6Ubl5SrR6MwIIFC0w7CUiFuD8bc6KVz+VCC2F3rW1vsmvWrFl8Pn36NJf24xpB/UL/GDx4MAVQO+j7pEmTXOHZs2ebjlIoDzSO7EEhc1SOHDmyfPlyn+jNmzdXrVo1bdo0HnZ1dWXnx7SupphDszPfVi1IGrXVcKuzfxFAEpw7d46bHz9+YLCqCwrlr127VrdYwgIQDeyuNalQ6A6nu3fv4qxavXq1Mfnz58/x48cHGJ4xYwbPE/YidTFEL/qZeYn4BA0ThO7q7OxkuQDmyK28jHUnT548e/asQvZTj1o5FSWNysFZVKqFAOtls9fdv38fL0Vd5lApMB/VLVbNAniDli1bhpmxCuwhelHLrl+/DjMgj9vM5wqpiRpqClxHRweLgLxcWTioNmzYUAUExEMcApJGejfaFAEUBVbfdH7NmjV+QFccHER/5YXUq1ev/KaM+qBBg+wh0QT5mpXOnz+PJuSHCUDl+fPnge7wxMQAFyFtgag2C37LhbHFixebmMFoiRrks3Hx4kV+MupLlizhJ2ess7S27uKr49PnijYpE5ZhSEH0MMXp5fUOF9JO0Y4ptS8EKouAOcz5X/GZi8M8SU8RgQF/lWktFl9QxAU5ghT8lk0v9KMYuOcJsQNWjPJggppiX/kVO577mpFJi5ggdiMQXAACsOo3DkUX48AAOZ4JTIAf45OHfhWec0WGY/Awry5kREDVIxH4v4EURkKg3RBgXrNVXmlhV1BkzmXGNPHDRM9XF61nkimX4D0bSgRMYIrnocVlIG9MIMEJX21+d+IHHihgkX6IBOZ9v0DG9wSW6GYgjJAhCJAIyGmTRjDvipkQdczQWUQOn3Ae5pBuholm7Iiq54iApFGOYKqpHomAc6g4zaDobjALm5HQ1LIAXQRDjtIIQoEQausdc7rFmsODiUNfO2SW5wkXZeAWPQYmc5RGNBtQU3higEDLyVF7Ansmt5x1KE4a0Sa9MC0qMmKeAq79okdZ7TeKgKRRo4ipfAsiwOxms15x5rJI1ExBCRgJYSZHaUSnau8iitztZNLIlAmEGTd8zVEapXuHautGtkXJXZHKLp2VsS4d+CXUUhSD/wLrvk0R4Kg9Zm283E5lKQcIAs053G/9+vXm0s89BNlCqO3Qprhr48aNTNDz588nBJzyFmH4+/dvIs4JamBOJ52PRTfkFd6WDltHneDve/fuWSPwaTf8umvXLuceQzKBJz0K0Bo5cuTLly/TMaBahSNQgsQTiZ6LAH9vt/GTmTphvgBzOdi7Sy3nLQ8ESbPW9o1UgbUt4oGpsLTgAvNAcDWkl6TDx38faMHMZUbX2Ii0raV4i8zJX1fhY1htlKFrgBsUMENd/0lD4KRguEYV01+5/DJuyAK/2vOwMmfw+uEb+TKp1rIgIEtdFvRavK7/17V4pySTkXkjnHscCeRqBRo0h41vUbGAKN9tkNe8nGSozGaVfLZKh08STmqUYSCAKCCkzbEfljqGcEaKdatDOrxMYVgDgXx12ymhgNkeK8hYCX2vPglZ6mz+0RWBQHd3N0tmyxSArebAgQN1YWL34qlTp0iO6Wpxfl1kLRrcsmUL0yXlI3eBsCuFaS7HJAh1md+/f7+pCHPnzk1ilUqBT10e6hYANy4/wyms8tWe161eRIEVK1ZMmTLF37NFFqIXL15MmDChCHJZ2jSI3r59m6UR1S0KgeoLTHHYLATMdBaONDODm2k/VsYpNKYYxTEctpNY+JNTj3zdiEb4GhmqG2i/dpaBhtAzFRCWkuhkcfg0RDFdYYtJs/gxbuLC0+lFOaEHFkduGpLjLV3Xiq7F4CZR8YtmQ+2HEZBuVJSYb4F20U4wXrElnqU3So/r0bNnz9y9lXFf8RuHE6DVgMKSh4a9zTxEYSJtDwk06yKJjlXjv123ul+AtfOlS5d4kkQni8OnIYrpCpN4bdy4cYwLFzd8jWynhLxzRhco4AENiRu0IqIM/LSw6fqoWu2GgKRRu414Y/3FeIVC06dPnzlz5jDRWOXARNO7d++4RrHYWCqXJKl3rBEkkFUhuzNrWCRNYxxnLj1s2DDzkCVpKRKfyIp+VptG7yMb3Lt3L5ocFzdJWHVlGqUeLh9JjteDhQhS/OjRo3GiKDvpFC00BI4KNxEBSaMmgt8zSOMBQk3BCMNBAEkSjPoJ0FgvW3KXQJI013Nzz0ydOtU9cZYlltiIosjsZAHgSFNWY5JqFGW4ZVZNLgXD+BCoDT8BulksM5FdIC4cMybX7t27G+pjFk6sbiQ53g2GHvRIThrndctOOkULDYGjwk1EQNKoieBXnbRvoEOcMEfXPfVg3rx5bHDx982wTA4coOB3m8Ns+OrCc8OIsBOIh+ajcll8AsVytNQh2NA24gxfAbpx+CCf4qbsvIYcpRM+MYhxIbbjjo5FqU0SjpGdK9Yr27dv53gkbsyEWA7d7JyrheogIGlUnbGoIid79uwxpw4ChpWvyzPNk+PHj9tzTo55//69cU9KZsxcrI6tFga6cK5oK0kBpn7yZ+N28jWnwCzmbD4858Rut+2xCLDoCyQQRcmD0yLxMUWtCA6tTYtYM9+MbQWNE0isA0rY7IkEgiV3mrjzaUkgFfcOtGbLKTRfVWkTBNiW4adT8yORLIbKss4Etg35Sdgsm7KrGN796u/8cLtfAxFi7o9XaHiY5fNOEkrnRj8On3Bi6RxfGO03ygKm9htlQa/our2KNim0pgxXr0pEAD0DS93w4cM5p7U43QgnPGoE4YLZg8HQsSZPnlyFfxaRkISfMAUn1/ZKHNgmkLKh4XXyT2FvAh8iGYWALHV6LyqNQGR2stw5xtZEMBjHg2YXRbV5M7eKmfKQf8lDDdN1eeDAgVT88uVLXPWS+YlkA5HpMOHGbYV2AZkGFz9h2nXvA9CRQM+PXkmC5+fPn+FBoijd61R4raKVL7UvBLIgEJmdLEuD4brJkx4lpGs8h5PlYLH0cyYRbeh2jCZsOUWxGvmcmsJPoAtmnrUs4xhLA9t1+cnMvPxkxmHb82uN+HmPUHcwtNbYeW1VlMM7xStUWpXCc1iV1hMREgLpEGCCK+GUAfNY+L43y0PRkKcqRQfjzjdqFj9+FwwBHxPzirkygV8tl4dzKway8NnX2hlRdb5RileotCqy1BWufYpAlRGwkO4kmRcy9qKrq4sW/Fh2rIJ8ZRdXxpZrV+/o6Igk0Sx+fG7DPODfquEaxMKGOKmN2IABA+IAIYwT1+DChQsLBVyNp0ZA0ig1dKrY4xGwkG6ywZbg5LetWoFdwGz7ZXtWoThaBg0/sZORaxY/fmc/ffoUxqQ2Gohw0+oCl+00QLrXGEqEH8IsbiN2oaOgxpMgIGmUBCWVaUEE8IeTfBpD1urVq5N0j1wDbOpMUrJqZbZt23bs2LGqcRXmh/gFi0pIkvLDVbcqDOX06dNtr3Tc1dnZuWnTpurj0LYcShq17dC3e8fJrMO5qydOnEgIBLs7E5asUSwQRPfq1Su3B8tyIGE5tOo2yeZyGuzKlSvZgxzZVA1+wsmWcmEmDI7jwbLQEolQY33AGiKQucO8Guy/ZtdtjZBIRB0tu1yL2YdSLeSOgKRR7pCqwR6AgIV0cw5TwpBuJmLKZzHo2RxKTliHDhMrLhBW9PaEdT2SCcuhzc745Jmac4lFpo8kJg8cNFWXH4smgA278TO15zXAYR7IwFsjBzzI4Pgh+1SjDNg55aRzbbSiypeKQGnxEiIkBCqCgDvEqNF/WsZzcQgGg6KdF0U4mZ0F5Z/iyuwMCQvw4yYjuQDakLNAanfV5ceXRgWNHV12Ue92VlNkTJ0f4e04sSC6JGfV09N8wSwIjTZvVrpRozOSyvd4BFjmFx07EIkRpiTmRBbpGMH69+9PGVb6AeWMDLA82blz58SJE/MFGuroFv5RUkn4yZeHcGtohFjPOGwXTDgrFr8OmV6tmKWCRVk0uDhhBAcYGfnsV/py8OBBbuqeMGsRHMmTshfdZbUfh4AyA+ndEAJlI2AJe9BUAg4SXEfENyMwUBGYeUubQ+P4gQH8WA8fPiwuIVPZ0ItehRGQblThwRFrLYrA7NmzsR2Rvxx3FC4NNCE6yo2lvcE7RdC5LfzLuSL5MdIEgisVdzmjICrKxdDmptr27b45aer2HzcPwQV1izVawLLgMAGhBlkOIXPpO5YSstco3bjyYX4oabkPfK7yIqd2hEAYAVnqtCJpdwQsr7OPApLAbFPYqTjSacmSJfxz2h0m9V8IFIyApFHBAKv5SiKAmME9jiKSxLmNF13SqJLDKKZaCgH5jVpqONWZhAgghDCRJSysYkJACJSAgKRRCSCLRBURcKHVWOoCeQd6aAagKqIsnoRAYgQkjRJDpYItigD5DgIOVT+g2TIjKK6sRQdf3aoQApJGFRoMsVIaAuhDJOkhTVxtiihJo0ePpgy7L10GudKYFCEh0FYIyD3bVsOtzgoBISAEKoqAdKOKDozYEgJCQAi0FQKSRm013OqsEBACQqCiCPwPoJxDAFuwe+wAAAAASUVORK5CYII="></p>
+DATA_VALIDATION: >-
+  <p>The methodology relies on information which is already provided by
+  countries or published by FAO. National statistical systems are the primary
+  providers of data for each aspect of the indicator. Value added and GDP data
+  are collected and validated by the countries themselves. All inputs are
+  reviewed for consistency prior to calculation of the indicator to ensure the
+  consistency of figures and methodologies</p>
+ADJUSTMENT: >-
+  <p>National accounts data is harmonised to ensure that figures for GDP and the
+  value added of fisheries and aquaculture are obtained from the same ISIC
+  review and System of National Accounts (SNA) series.</p>
 IMPUTATION: >-
-  <h2>Treatment of missing values:</h2>
-
   <ul>
-    <li><strong><em>At country level:</em></strong></li>
+    <li>At country level</li>
   </ul>
 
   <p>This indicator examines economic contribution from marine capture
@@ -351,24 +399,23 @@ IMPUTATION: >-
   <p>FAO employs a wide spectrum of data and analysis to assess 500 fish stocks,
   which accounts for 70&#x2013;80 percent of global landings. A detailed
   description of the approach used by FAO is available at the Review of the
-  State of World Marine Fishery Resources.<sup><a href="#footnote-9"
-  id="footnote-ref-9">[9]</a></sup> </p>
+  State of World Marine Fishery Resources.<sup><a href="#footnote-10"
+  id="footnote-ref-10">[9]</a></sup> If national estimates of fish stocks are
+  not available from SDG 14.4.1 , then regional stock status will be used.</p>
 
   <ul>
-    <li><strong><em>At regional and global level:</em></strong></li>
+    <li>At regional and global level</li>
   </ul>
 
   <p>Not applicable. Regional aggregates will only be calculated based on
   contribution of sustainable fisheries to the GDP of those countries that have
   reported value added for fishing and aquaculture in a given year. </p><div
-  class="footnotes"><div><sup class="footnote-number" id="footnote-9">9</sup><p>
-  The most recent version of Review of the State of World Marine Fishery
-  Resources is available at <a
+  class="footnotes"><div><sup class="footnote-number"
+  id="footnote-10">9</sup><p> The most recent version of Review of the State of
+  World Marine Fishery Resources is available at <a
   href="http://www.fao.org/docrep/015/i2389e/i2389e.pdf">http://www.fao.org/docrep/015/i2389e/i2389e.pdf</a>
-  <a href="#footnote-ref-9">&#x2191;</a></p></div></div>
+  <a href="#footnote-ref-10">&#x2191;</a></p></div></div>
 REG_AGG: >-
-  <h2>Regional and global aggregates:</h2>
-
   <p>Regional and global aggregates will be generated by taking the average
   value of the indicator for countries in each SDG region.</p>
 
@@ -377,9 +424,12 @@ REG_AGG: >-
   where it fishes. Countries may fish in completely different fishing areas from
   others in their region, and therefore land-based regional aggregates can be
   inappropriate when dealing with marine resources.</p>
+DOC_METHOD: >-
+  <p>All data used in the calculation of this indicator is drawn from already
+  available international sources. As such there is no additional reporting
+  burden for countries.</p>
+QUALITY_MGMNT: <p>N/A</p>
 QUALITY_ASSURE: >-
-  <h2>Quality assurance:</h2>
-
   <p>In order to provide continuity of collection of data for value added for
   fisheries and aquaculture, and GDP across different versions of the Systems of
   National Accounts (SNA) and ISIC revisions, FAO Fisheries and Aquaculture
@@ -392,10 +442,20 @@ QUALITY_ASSURE: >-
   countries are invited to collaborate with FAO to increase the precision of
   their results, by providing otherwise unavailable inputs for the calculation
   of the indicator.</p>
-COVERAGE: >-
-  <h1>Data availability</h1>
+QUALITY_ASSMNT: >-
+  <p>The indicator provides a clear framework for monitoring countries&#x2019;
+  progress towards target 14.7. Inputs are robust, standardised, globally
+  recognised and available for a wide range of countries, including many
+  developing nations. As such there is comprehensive coverage for the majority
+  of countries.</p>
 
-  <h2>Description:</h2>
+  <p>There may be variation in the completeness of nationally reported data.
+  Improvements in data collection by national statistics systems may improve the
+  accuracy of this indicator. When regional stock status is used in the
+  calculation of this indicator it may not fully reflect the sustainability of
+  national fisheries.</p>
+COVERAGE: >-
+  <p>Data availability:</p>
 
   <p>The indicator may be calculated based on currently available data for 128
   countries which have marine capture fisheries and have reported the value
@@ -418,6 +478,9 @@ COVERAGE: >-
           <p><strong>2015</strong></p>
         </td>
         <td>
+          <p><strong>2017</strong></p>
+        </td>
+        <td>
           <p><strong>Overall coverage</strong></p>
         </td>
       </tr>
@@ -433,6 +496,9 @@ COVERAGE: >-
         </td>
         <td>
           <p>111</p>
+        </td>
+        <td>
+          <p>98</p>
         </td>
         <td>
           <p>128</p>
@@ -452,6 +518,9 @@ COVERAGE: >-
           <p>60</p>
         </td>
         <td>
+          <p>57</p>
+        </td>
+        <td>
           <p>68</p>
         </td>
       </tr>
@@ -467,6 +536,9 @@ COVERAGE: >-
         </td>
         <td>
           <p>18</p>
+        </td>
+        <td>
+          <p>17</p>
         </td>
         <td>
           <p>23</p>
@@ -486,6 +558,9 @@ COVERAGE: >-
           <p>30</p>
         </td>
         <td>
+          <p>23</p>
+        </td>
+        <td>
           <p>35</p>
         </td>
       </tr>
@@ -503,6 +578,9 @@ COVERAGE: >-
           <p>23</p>
         </td>
         <td>
+          <p>20</p>
+        </td>
+        <td>
           <p>29</p>
         </td>
       </tr>
@@ -512,6 +590,9 @@ COVERAGE: >-
         </td>
         <td>
           <p>2</p>
+        </td>
+        <td>
+          <p>1</p>
         </td>
         <td>
           <p>1</p>
@@ -537,6 +618,9 @@ COVERAGE: >-
           <p>22</p>
         </td>
         <td>
+          <p>19</p>
+        </td>
+        <td>
           <p>27</p>
         </td>
       </tr>
@@ -552,6 +636,9 @@ COVERAGE: >-
         </td>
         <td>
           <p>7</p>
+        </td>
+        <td>
+          <p>5</p>
         </td>
         <td>
           <p>7</p>
@@ -571,12 +658,18 @@ COVERAGE: >-
           <p>5</p>
         </td>
         <td>
+          <p>4</p>
+        </td>
+        <td>
           <p>6</p>
         </td>
       </tr>
       <tr>
         <td>
           <p>Southern Africa</p>
+        </td>
+        <td>
+          <p>2</p>
         </td>
         <td>
           <p>2</p>
@@ -605,6 +698,9 @@ COVERAGE: >-
           <p>8</p>
         </td>
         <td>
+          <p>8</p>
+        </td>
+        <td>
           <p>12</p>
         </td>
       </tr>
@@ -620,6 +716,9 @@ COVERAGE: >-
         </td>
         <td>
           <p>31</p>
+        </td>
+        <td>
+          <p>24</p>
         </td>
         <td>
           <p>36</p>
@@ -639,6 +738,9 @@ COVERAGE: >-
           <p>28</p>
         </td>
         <td>
+          <p>23</p>
+        </td>
+        <td>
           <p>32</p>
         </td>
       </tr>
@@ -654,6 +756,9 @@ COVERAGE: >-
         </td>
         <td>
           <p>13</p>
+        </td>
+        <td>
+          <p>7</p>
         </td>
         <td>
           <p>16</p>
@@ -675,6 +780,9 @@ COVERAGE: >-
         <td>
           <p>16</p>
         </td>
+        <td>
+          <p>16</p>
+        </td>
       </tr>
       <tr>
         <td>
@@ -688,6 +796,9 @@ COVERAGE: >-
         </td>
         <td>
           <p>3</p>
+        </td>
+        <td>
+          <p>1</p>
         </td>
         <td>
           <p>4</p>
@@ -707,12 +818,18 @@ COVERAGE: >-
           <p>22</p>
         </td>
         <td>
+          <p>21</p>
+        </td>
+        <td>
           <p>22</p>
         </td>
       </tr>
       <tr>
         <td>
           <p>Central Asia</p>
+        </td>
+        <td>
+          <p>0</p>
         </td>
         <td>
           <p>0</p>
@@ -741,12 +858,18 @@ COVERAGE: >-
           <p>1</p>
         </td>
         <td>
+          <p>0</p>
+        </td>
+        <td>
           <p>1</p>
         </td>
       </tr>
       <tr>
         <td>
           <p>Southern Asia</p>
+        </td>
+        <td>
+          <p>6</p>
         </td>
         <td>
           <p>6</p>
@@ -777,10 +900,16 @@ COVERAGE: >-
         <td>
           <p>8</p>
         </td>
+        <td>
+          <p>8</p>
+        </td>
       </tr>
       <tr>
         <td>
           <p>Western Asia</p>
+        </td>
+        <td>
+          <p>7</p>
         </td>
         <td>
           <p>7</p>
@@ -809,6 +938,9 @@ COVERAGE: >-
           <p>26</p>
         </td>
         <td>
+          <p>25</p>
+        </td>
+        <td>
           <p>30</p>
         </td>
       </tr>
@@ -826,6 +958,9 @@ COVERAGE: >-
           <p>4</p>
         </td>
         <td>
+          <p>3</p>
+        </td>
+        <td>
           <p>5</p>
         </td>
       </tr>
@@ -838,6 +973,9 @@ COVERAGE: >-
         </td>
         <td>
           <p>11</p>
+        </td>
+        <td>
+          <p>10</p>
         </td>
         <td>
           <p>10</p>
@@ -860,12 +998,18 @@ COVERAGE: >-
           <p>8</p>
         </td>
         <td>
+          <p>8</p>
+        </td>
+        <td>
           <p>9</p>
         </td>
       </tr>
       <tr>
         <td>
           <p>Western Europe</p>
+        </td>
+        <td>
+          <p>4</p>
         </td>
         <td>
           <p>4</p>
@@ -894,12 +1038,18 @@ COVERAGE: >-
           <p>9</p>
         </td>
         <td>
+          <p>8</p>
+        </td>
+        <td>
           <p>12</p>
         </td>
       </tr>
       <tr>
         <td>
           <p>Australia and New Zealand</p>
+        </td>
+        <td>
+          <p>1</p>
         </td>
         <td>
           <p>1</p>
@@ -928,12 +1078,18 @@ COVERAGE: >-
           <p>2</p>
         </td>
         <td>
+          <p>2</p>
+        </td>
+        <td>
           <p>4</p>
         </td>
       </tr>
       <tr>
         <td>
           <p>Micronesia</p>
+        </td>
+        <td>
+          <p>3</p>
         </td>
         <td>
           <p>3</p>
@@ -962,62 +1118,72 @@ COVERAGE: >-
           <p>3</p>
         </td>
         <td>
+          <p>2</p>
+        </td>
+        <td>
           <p>4</p>
         </td>
       </tr>
     </tbody>
   </table>
 
-  <h2>Time series:</h2>
+  <p><strong>Time Series:</strong></p>
 
   <p>Regional state of the world&#x2019;s marine fish stock: 2011, 2013 and
   2015</p>
 
   <p>Value added from UNSD: from 1990 to 2017</p>
+
+  <p>Disaggregation:</p>
+
+  <p>Currently there are no disaggregation dimensions for this indicator.</p>
+COMPARABILITY: >-
+  <p>Stock status taken from 14.4.1 is estimated by FAO based on the
+  methodologies developed in the 1980s. Although regular updates were carried
+  out to incorporate technical advances and changes in major fish species, some
+  discrepancies between regions may occur in the representativeness of the
+  reference list in practical fisheries. However, this will not pose a large
+  impact on the reliability of the indicator&#x2019;s temporal trends.</p>
 OTHER_DOC: >-
-  <h1>References</h1>
+  <p>- Sustainable Development Goal 14.7.1:
+  http://www.fao.org/sustainable-development-goals/indicators/1471/en</p>
 
-  <p>Sustainable Development Goal 14.7.1: <a
-  href="http://www.fao.org/sustainable-development-goals/indicators/1471/en">http://www.fao.org/sustainable-development-goals/indicators/1471/en</a></p>
-
-  <p>FAO. 2018. Fishery and Aquaculture Statistics. Global capture production
+  <p>- FAO. 2018. Fishery and Aquaculture Statistics. Global capture production
   1950-2016 (FishstatJ). In: FAO Fisheries and Aquaculture Department [online].
-  Rome. Updated 2018. <a
-  href="www.fao.org/fishery/statistics/software/fishstatj/en">www.fao.org/fishery/statistics/software/fishstatj/en</a></p>
+  Rome. Updated 2018. www.fao.org/fishery/statistics/software/fishstatj/en</p>
 
-  <p>FAO. 2018. FAO yearbook. Fishery and Aquaculture Statistics 2016. Rome: <a
-  href="http://www.fao.org/fishery/static/Yearbook/YB2016_USBcard/index.htm">http://www.fao.org/fishery/static/Yearbook/YB2016_USBcard/index.htm</a></p>
+  <p>- FAO. 2018. FAO yearbook. Fishery and Aquaculture Statistics 2016. Rome:
+  http://www.fao.org/fishery/static/Yearbook/YB2016_USBcard/index.htm</p>
 
-  <p>FAO.<u> 2018. </u>The State of World Fisheries and Aquaculture 2018 -
-  Meeting the sustainable development goals. Rome: <a
-  href="http://www.fao.org/3/i9540en/I9540EN.pdf">http://www.fao.org/3/i9540en/I9540EN.pdf</a></p>
+  <p>- FAO. 2018. The State of World Fisheries and Aquaculture 2018 - Meeting
+  the sustainable development goals. Rome:
+  http://www.fao.org/3/i9540en/I9540EN.pdf</p>
 
-  <p>FAO. 2011. Review of the State of World Marine Fishery Resources. Rome: <a
-  href="http://www.fao.org/docrep/015/i2389e/i2389e.pdf">http://www.fao.org/docrep/015/i2389e/i2389e.pdf</a></p>
+  <p>- FAO. 2011. Review of the State of World Marine Fishery Resources. Rome:
+  http://www.fao.org/docrep/015/i2389e/i2389e.pdf</p>
 
-  <p>FAO. 1995. Code of Conduct for Responsible Fisheries. Rome: <a
-  href="http://www.fao.org/3/a-v9878e.pdf">http://www.fao.org/3/a-v9878e.pdf</a></p>
+  <p>- FAO. 1995. Code of Conduct for Responsible Fisheries. Rome:
+  http://www.fao.org/3/a-v9878e.pdf</p>
 
-  <p>ICTSD. 2018. Overfishing, Overfished Stocks, and the Current WTO
-  Negotiations on Fisheries Subsidies: <a
-  href="https://www.ictsd.org/themes/environment/research/overfishing-overfished-stocks-and-the-current-wto-negotiations-on">https://www.ictsd.org/themes/environment/research/overfishing-overfished-stocks-and-the-current-wto-negotiations-on</a></p>
+  <p>- ICTSD. 2018. Overfishing, Overfished Stocks, and the Current WTO
+  Negotiations on Fisheries Subsidies:
+  https://www.ictsd.org/themes/environment/research/overfishing-overfished-stocks-and-the-current-wto-negotiations-on</p>
 
-  <p>OECD Annual National Accounts: <a
-  href="http://stats.oecd.org/">http://stats.oecd.org/</a> </p>
+  <p>- OECD Annual National Accounts: http://stats.oecd.org/ </p>
 
-  <p>The United Nations International Standard Industrial Classification of All
-  Economic Activities, revision 4: <a
-  href="https://unstats.un.org/unsd/publication/seriesm/seriesm_4rev4e.pdf">https://unstats.un.org/unsd/publication/seriesm/seriesm_4rev4e.pdf</a></p>
+  <p>- The United Nations International Standard Industrial Classification of
+  All Economic Activities, revision 4:
+  https://unstats.un.org/unsd/publication/seriesm/seriesm_4rev4e.pdf</p>
 
-  <p>The United Nations International Standard Industrial Classification of All
-  Economic Activities, revision 4: <a
-  href="https://unstats.un.org/unsd/statcom/doc02/isic.pdf">https://unstats.un.org/unsd/statcom/doc02/isic.pdf</a></p>
+  <p>- The United Nations International Standard Industrial Classification of
+  All Economic Activities, revision 4:
+  https://unstats.un.org/unsd/statcom/doc02/isic.pdf</p>
 
-  <p>System of National Accounts 2008 - 2008 SNA: <a
-  href="https://unstats.un.org/unsd/nationalaccount/sna2008.asp">https://unstats.un.org/unsd/nationalaccount/sna2008.asp</a></p>
+  <p>- System of National Accounts 2008 - 2008 SNA:
+  https://unstats.un.org/unsd/nationalaccount/sna2008.asp</p>
 
-  <p>System of National Accounts 1993 - 1993 SNA: <a
-  href="https://unstats.un.org/unsd/nationalaccount/sna1993.asp">https://unstats.un.org/unsd/nationalaccount/sna1993.asp</a></p>
+  <p>- System of National Accounts 1993 - 1993 SNA:
+  https://unstats.un.org/unsd/nationalaccount/sna1993.asp</p>
 
-  <p>System of National Accounts 1968 - 1968 SNA:
+  <p>- System of National Accounts 1968 - 1968 SNA:
   https://unstats.un.org/unsd/nationalaccount/docs/1968SNA.pdf</p>

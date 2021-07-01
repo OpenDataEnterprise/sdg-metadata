@@ -1,0 +1,754 @@
+SDG_INDICATOR_INFO: ''
+SDG_GOAL: >-
+  <p>Goal 11: Make cities and human settlements inclusive, safe, resilient and
+  sustainable</p>
+SDG_TARGET: >-
+  <p>Target 11.3: By 2030, enhance inclusive and sustainable urbanization and
+  capacity for participatory, integrated and sustainable human settlement
+  planning and management in all countries</p>
+SDG_INDICATOR: >-
+  <p>Indicator 11.3.1: Ratio of land consumption rate to population growth
+  rate</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: <p>March 2021</p>
+SDG_RELATED_INDICATORS: >-
+  <p>11.2.1: Proportion of population that has convenient access to public
+  transport, by sex, age and persons with disabilities</p>
+
+  <p>11.6.2: Annual mean levels of fine particulate matter (e.g. PM2.5 and PM10)
+  in cities (population weighted)</p>
+
+  <p>11.7.1: Average share of the built-up area of cities that is open space for
+  public use for all, by sex, age and persons with disabilities</p>
+
+  <p>11.a.1: Proportion of population living in cities that implement urban and
+  regional development plans integrating population projections and resource
+  needs, by size of city</p>
+
+  <p>15.1.2: Proportion of important sites for terrestrial and freshwater
+  biodiversity that are covered by protected areas, by ecosystem type</p>
+
+  <p>11.7.2: Proportion of persons victim of physical or sexual harassment, by
+  sex, age, disability status and place of occurrence, in the previous 12
+  months</p>
+
+  <p>11.b.1: Proportion of local governments that adopt and implement local
+  disaster risk reduction strategies in line with the Sendai Framework for
+  Disaster Risk Reduction 2015-2030 [a]</p>
+SDG_CUSTODIAN_AGENCIES: <p>United Nations Human Settlements Programme (UN-Habitat)</p>
+CONTACT: ''
+CONTACT_ORGANISATION: <p>United Nations Human Settlements Programme (UN-Habitat)</p>
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  <p>Definitions:</p>
+
+  <p>The indicator is defined as the ratio of land consumption rate to
+  population growth rate.</p>
+
+  <p>This indicator requires defining the two components of population growth
+  and land consumption rate. Computing the population growth rate is more
+  straightforward and more readily available, while land consumption rate is
+  slightly challenging, and requires the use of new techniques. In estimating
+  the land consumption rate, one needs to define what constitutes
+  &#x201C;consumption&#x201D; of land since this may cover aspects of
+  &#x201C;consumed&#x201D; or &#x201C;preserved&#x201D; or available for
+  &#x201C;development&#x201D; for cases such as land occupied by wetlands.
+  Secondly, there is not one unequivocal measure of whether land that is being
+  developed is truly &#x201C;newly-developed&#x201D; (or vacant) land, or if it
+  is at least partially &#x201C;redeveloped&#x201D;. As a result, the percentage
+  of current total urban land that was newly developed (consumed) will be used
+  as a measure of the land consumption rate. The fully developed area is also
+  sometimes referred to as built up area.</p>
+
+  <p>Concepts:</p>
+
+  <p><strong>City or urban area</strong>: Since 2016 UN-Habitat and partners
+  organized global consultations and discussions to narrow down the set of
+  meaningful definitions that would be helpful for the global monitoring and
+  reporting process. Following consultations with 86 member states, the United
+  Nations Statistical Commission, in its 51st Session (March 2020) endorsed the
+  Degree of Urbanisation (DEGURBA) as a workable method to delineate cities,
+  urban and rural areas for international statistical comparisons.<sup><sup><a
+  href="#footnote-2" id="footnote-ref-2">[1]</a></sup> </sup>This definition
+  combines population size and population density thresholds to classify the
+  entire territory of a country along the urban-rural continuum, and captures
+  the full extent of a city, including the dense neighbourhoods beyond the
+  boundary of the central municipality. DEGURBA is applied in a two-step
+  process: First, 1 km2 grid cells are classified based on population density,
+  contiguity and population size. Subsequently, local units are classified as
+  urban or rural based on the type of grid cells in which majority of their
+  population resides. For the computation of indicator 11.3.1, countries are
+  encouraged to adopt the degree of urbanisation to define the analysis area
+  (city or urban area).</p>
+
+  <p><strong>Population growth rate (PGR)</strong> is the change of a population
+  in a defined area (country, city, etc) during a period, usually one year,
+  expressed as a percentage of the population at the start of that period. It
+  reflects the number of births and deaths during a period and the number of
+  people migrating to and from the focus area. In SDG 11.3.1, this is computed
+  at the area defined as urban/city. </p>
+
+  <p><strong>Land consumption</strong> within the context of indicator 11.3.1 is
+  defined as the uptake of land by urbanized land uses, which often involves
+  conversion of land from non-urban to urban functions. </p>
+
+  <p><strong>Land consumption rate</strong> is the rate at which urbanized land
+  or land occupied by a city/urban area changes during a period of time (usually
+  one year), expressed as a percentage of the land occupied by the city/urban
+  area at the start of that time. </p>
+
+  <p><strong>Built up area </strong>within the context of indicator 11.3.1 is
+  defined as all areas occupied by buildings. </p><div
+  class="footnotes"><div><sup class="footnote-number" id="footnote-2">1</sup><p>
+  A recommendation on the method to delineate cities, urban and rural areas for
+  international statistical comparisons. <a
+  href="https://unstats.un.org/unsd/statcom/51st-session/documents/BG-Item3j-Recommendation-E.pdf">https://unstats.un.org/unsd/statcom/51st-session/documents/BG-Item3j-Recommendation-E.pdf</a>
+  <a href="#footnote-ref-2">&#x2191;</a></p></div></div>
+UNIT_MEASURE: >-
+  <p>For the two components used to compute of this indicator, i.e a) land
+  consumption rate and b) population growth rate, the unit of measurement is a
+  percentage value. </p>
+
+  <p>The resulting indicator is measured as a ratio of these two percentages
+  making it unitless.</p>
+CLASS_SYSTEM: >-
+  <p>The indicator depends on international classifications on boundaries of
+  countries and regions and city boundaries. Guidance on the city definitions is
+  provided based on a harmonized global city definition, see: <a
+  href="https://unstats.un.org/unsd/statcom/51st-session/documents/BG-Item3j-Recommendation-E.pdf">https://unstats.un.org/unsd/statcom/51st-session/documents/BG-Item3j-Recommendation-E.pdf</a></p>
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  <p><strong>Sources and collection process:</strong></p>
+
+  <p>Population data required for this indicator is available from National
+  Statistical Offices, UNDESA as well as through newly emerging multi-temporal
+  gridded population datasets for the world. Historical built-up area data can
+  also be generated for most countries and cities using mid-to-high resolution
+  satellite imagery from the Landsat and Sentinel missions. Higher resolution
+  data is available for several countries which have a rich repository of earth
+  observation missions or partnerships with commercial providers of high to very
+  high-resolution imagery. Other sources of data for this indicator include
+  urban planning authorities and multi-temporal analytical databases on built-up
+  area at the global level produced by organizations working in the earth
+  observation field. </p>
+
+  <p>The production of data for this indicator requires some level of
+  understanding of geospatial analysis techniques at the country level. Several
+  tools have been developed to help with the indicator computation, including
+  systems that allow for on-the-cloud analysis, but users still require some
+  good level of understanding of the process and geospatial analysis to
+  efficiently utilize these tools. Equally, access to internet is needed either
+  to download the free satellite imagery or undertake analysis using existing
+  cloud-based architecture. </p>
+
+  <p>National level capacity building initiatives will aim to balance the
+  knowledge and understanding of the analysis, compilation and reporting of this
+  indicator. Global reporting will rely on the estimates that come from the
+  national statistical agencies, who should work collaboratively with mapping
+  agencies and city data producers. With uniform standards in computation at the
+  national level, few errors of omission or bias will be observed at the
+  global/regional level. A rigorous analysis routine will be used to re-assess
+  the quality and accuracy of the data at the regional and global levels. This
+  will involve cross-comparisons with expected ranges of the values reported for
+  cities.</p>
+
+  <p>UN-Habitat has developed a simple reporting template that allows countries
+  to input data on the intermediate products (built-up area and population) then
+  get the computed values for each analysis city and period. The template, which
+  will be send to countries every year to report any new data is appended to
+  this metadata and can also be accessed <a
+  href="https://data.unhabitat.org/datasets/template-for-compilation-of-sdg-indicator-11-3-1">HERE</a>.</p>
+
+  <p><img
+  src="data:image/png;base64,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"></p>
+COLL_METHOD: >-
+  <p>Data for this indicator combines earth observation, geospatial analysis and
+  use of population data from censuses and surveys. Input data for computation
+  of the land consumption rate is extracted from multi-temporal satellite
+  imagery through remote sensing and geospatial analysis processes. The quality
+  of data for this component is greatly reliant on the resolution of the input
+  satellite imagery, but the freely available Landsat and Sentinel Imagery
+  provide good quality data that can consistently be used to compute the
+  indicator. The methods of extracting data from these imageries vary from
+  standalone commercial and open-source software (eg Erdas Imagine, Saga GIS,
+  ENVI, etc) to cloud based processing systems such as Google Earth Engine. </p>
+
+  <p>Computation of the population growth rate component of the indicator relies
+  on data from statistical sources such as censuses, which should be
+  disaggregated to the smallest units possible. Use of population modelling
+  approaches (such as to produce gridded population datasets) is encouraged
+  where high resolution data from the National Statistical Offices is not
+  available. The approaches for disaggregating population to grids vary, but the
+  most common ones include disaggregating populations to built-up areas. Some
+  examples of common approaches are provided in the references section. </p>
+
+  <p> To implement the Degree of Urbanisation approach to city/urban area
+  definition, which is proposed for this indicator computation, the European
+  Commission Joint Research Centre (EC-JRC) have developed a standalone
+  application which uses either locally or globally produced input data on
+  population and built up layers. The tool is available HERE, while the
+  description of how to implement the approach is available HERE. </p>
+
+  <p> </p>
+FREQ_COLL: >-
+  <p>The monitoring of the indicator can be repeated at regular intervals of 5
+  years, allowing for three reporting points until the year 2030. Since this
+  indicator considers historical growth trends of urban areas, analysis can
+  cover periods as far back as data allows. </p>
+REL_CAL_POLICY: >-
+  <p>Updates will be undertaken every year, which would allow for annual updates
+  in reporting at the global level.</p>
+DATA_SOURCE: >-
+  <p>UN-Habitat and other partners such as the Global Human Settlement Layer
+  (GHSL) team, the German Aerospace Center (DLR), partners in the Group on Earth
+  Observations (GEO) and ESRI among others will support various components for
+  reporting on this indicator. The global responsibility of building the
+  capacity of national governments and statistical agencies to report on this
+  indicator will be led by UN-Habitat. National governments/national statistical
+  agencies will have the primary responsibility of reporting on this indicator
+  at national level with the support of UN-Habitat to ensure uniform standards
+  in analysis and reporting.</p>
+COMPILING_ORG: >-
+  <p>UN-Habitat with the support of other selected partners will lead the
+  compilation of data for this indicator.</p>
+INST_MANDATE: >-
+  <p>The United Nations Human Settlements Programme (UN-Habitat) is the
+  specialized agency for sustainable urbanization and human settlements in the
+  United Nations. The mandate derives from the priorities established in
+  relevant General Assembly resolutions and decisions, including General
+  Assembly resolution 3327 (XXIX), by which the General Assembly established the
+  United Nations Habitat and Human Settlements Foundation, and resolution 32/162
+  by which the Assembly established the United Nations Center for Human
+  Settlements (Habitat). In 2001, by its Resolution 56/206, the General Assembly
+  transformed the Habitat into the secretariat of the United Nations Human
+  Settlements Programme (UN-Habitat), with a mandate to coordinate human
+  settlements activities within the United Nations System. As such, UN-Habitat
+  has been designated the overall coordinator of SDG 11 and specifically as a
+  custodian agency for 9 of the 15 indicators under SDG 11 including indicator
+  11.3.1. UN-Habitat also supports the monitoring and reporting of 4 urban
+  specific indicators in other goals.</p>
+OTHER_METHOD: ''
+RATIONALE: >-
+  <p>Globally, land cover today is altered principally by direct human use: by
+  agriculture and livestock raising, forest harvesting and management and urban
+  and suburban construction and development. A defining feature of many of the
+  world&#x2019;s cities is an outward expansion far beyond formal administrative
+  boundaries, largely propelled by the use of the automobile, poor urban and
+  regional planning and land speculation. A large proportion of cities both from
+  developed and developing countries have high consuming suburban expansion
+  patterns, which often extend to even further peripheries. A global study on
+  120 cities shows that urban land cover has, on average, grown more than three
+  times as much as the urban population [1]; in some cases similar studies at
+  national level showed a difference that was three to five times fold. [3]. In
+  order to effectively monitor land consumption growth, it is not only necessary
+  to have the information on existing land use cover but also the capability to
+  monitor the dynamics of land use resulting out of both changing demands of
+  increasing population and forces of nature acting to shape the landscape.</p>
+
+  <p>Cities require an orderly urban expansion that makes the land use more
+  efficient. They need to plan for future internal population growth and city
+  growth resulting from migrations. They also need to accommodate new and
+  thriving urban functions such as transportation routes, etc., as they expand.
+  However, frequently the physical growth of urban areas is disproportionate in
+  relation to population growth, and these results in land use that is less
+  efficient in many forms. This type of growth turns out to violate every
+  premise of sustainability that an urban area could be judged by including
+  impacting on the environment and causing other negative social and economic
+  consequences such as increasing spatial inequalities and lessening of
+  economies of agglomeration.</p>
+
+  <p>This indicator is connected to many other indicators of the SDGs. It
+  ensures that the SDGs integrate the wider dimensions of space, population and
+  land adequately, providing the framework for the implementation of other goals
+  such as poverty, health, education, energy, inequalities and climate change.
+  The indicator has a multipurpose measurement as it is not only related to the
+  type/form of the urbanization pattern. It is also used to capture various
+  dimensions of land use efficiency: economic (proximity of factors of
+  production); environmental (lower per capita rates of resource use and GHG
+  emissions); social (reduced travel distance and cost expended). Finally, this
+  indicator integrates an important spatial component and is fully in line with
+  the recommendations made by the Data Revolution initiative.</p>
+REC_USE_LIM: >-
+  <p>The major limitation for this indicator lies in its interpretation. In each
+  human settlement structure, there are many factors at play, that make it more
+  difficult to generalize the implication of a single LCRPGR value to
+  sustainable urbanization. For example, while a value less than 1 could be a
+  good indicator of urban compactness and its associated benefits, intra-city
+  analysis may reveal high levels of congestion and poor living environments,
+  which is against the principles of sustainable development. On the other hand,
+  a value of one may not mean an optimal balance between spatial growth of urban
+  areas and their populations, since it would imply new developments with every
+  unit increase in population. To help explain the values of the indicator, two
+  secondary indicators have been proposed, which use the same inputs as the core
+  indicator: built up area per capita and total change in built up area. </p>
+
+  <p>Another limitation in the indicator is where zero or negative growth get
+  reported, such as where population over the analysis period decreases or a
+  natural disaster results in loss of the built-up area mass. Without looking at
+  the land consumption and population growth rates separately, it is difficult
+  to correctly interpret the indicator and its meaning. To address this, it is
+  recommended to understand the individual rates, and also use the proposed
+  secondary indicators to explain the trends. </p>
+
+  <p>Aggregating the indicator values for more than one city may also make the
+  interpretation ambiguous. For example, an average value for a country with two
+  cities might be between 0 and 1 if both cities are record values within this
+  range, or if one has a value above 1 and the other a value below 0. The use of
+  the national sample of cities approach, which produces a representative sample
+  for each country will help resolve this challenge. </p>
+
+  <p>In some cases, it is difficult to measure the urban expansion by
+  conurbations of two or more urban areas that are in close proximity; to whom
+  to attribute the urban growth and how to include it as one metric usually
+  becomes a challenge. At the same time, data would not always coincide to
+  administrative levels, boundaries and built-up areas. To resolve this, the use
+  of a harmonized approach to defining urban areas and cities has been
+  identified as helping to resolve this challenge.</p>
+
+  <p>In the absence of the GIS layers, this indicator may not be computed as
+  defined. As a result, more alternative measures for land that is developed or
+  consumed per year can be adequately used. Alternatively, one can monitor the
+  efficient use of urban land by measuring how well we are achieving the
+  densities in residential zones that any city plans or international guidance
+  call for. Comparing achieved to planned densities is very useful at the city
+  level. However, planned densities vary greatly from country to country, and at
+  times from city to city. At the sub-regional or city levels, it is more
+  appropriate to compare average densities achieved currently to those achieved
+  in the recent past. While building more densely does use land more
+  efficiently, high density neighborhoods, especially in and around urban
+  centers, have a number of other advantages. They support more frequent public
+  transportation, and more local stores and shops; they encourage pedestrian
+  activity to and from local establishments; and they create lively (and
+  sometimes safer) street life.</p>
+DATA_COMP: >-
+  <p>The method to compute ratio of land consumption rate to population growth
+  rate follows five broad steps:</p>
+
+  <ol>
+    <li>Deciding on the analysis period/years</li>
+    <li>Delimitation of the urban area or city which will act as the geographical scope for the analysis</li>
+    <li>Spatial analysis and computation of the land consumption rate</li>
+    <li>Spatial analysis and computation of the population growth rate</li>
+    <li>Computation of the ratio of land consumption rate to population growth rate</li>
+    <li>Computation of recommended secondary indicators</li>
+    <li><strong>Deciding on the analysis period/years</strong></li>
+  </ol>
+
+  <p>This step involves selecting the time period during which the measurement
+  of the indicator will be undertaken. Since this indicator considers historical
+  growth of urban areas, analysis can be done annually, in 5-year cycles or
+  10-year cycles. Cycles of 5 or 10 years are commended, especially where use of
+  mid-to-high resolution satellite imagery is used to extract data on built up
+  areas, which is used to compute the land consumption rate component of the
+  indicator. UN-Habitat and partners have been creating a repository of some
+  data on this indicator using 1990 as the baseline year. Countries can however
+  compute the indicator as far as back as satellite imagery is available (1975
+  for Landsat free imagery) and can maintain the current/most recent year as the
+  final reporting year. </p>
+
+  <ol>
+    <li><strong>Delimitation of the urban area or city which will act as the spatial analysis scope</strong></li>
+  </ol>
+
+  <p>Urban areas and cities grow in different ways, the most common of which
+  include infill (new developments within existing urban areas resulting in
+  densification), extension (new developments at the edge of existing urban
+  areas), leapfrogging (new urban threshold developments which are not attached
+  to the urban area but which are functionally linked) and inclusion (engulfing
+  of outlying urban clusters or leapfrog developments into the urban area, often
+  forming urban conurbations). Key to note also is that growth of urban areas is
+  not always positive. Sometimes, negative growth can be recorded, such as where
+  disasters (e.gs floods, earthquakes) result in collapse of buildings and/or
+  reduction in the built-up area mass. </p>
+
+  <p>Understanding the spatial growth of urban areas requires two important
+  pre-requisites: a) delimitation of an appropriate spatial analysis scope which
+  captures the entire urban fabric (as opposed to just the administratively
+  defined boundaries), and b) use of a growth tracking measurement that helps
+  understand when both positive and negative growth happen. For the former, a
+  harmonized urban area/city definition approach which allows for consistent
+  analysis is recommended, while the use of built up areas is recommended for
+  the latter since it allows for measurement of both positive and negative urban
+  growth. </p>
+
+  <p>Following consultations with 86 member states, the United Nations
+  Statistical Commission in its 51<sup>st</sup> Session (March 2020) endorsed
+  the Degree of Urbanisation (DEGURBA) as a workable method to delineate cities,
+  urban and rural areas for international statistical comparisons. Countries are
+  thus encouraged to adopt this approach, which will help them produce data that
+  is comparable across urban areas within their territories, as well as with
+  urban areas and cities in other countries. More details on DEGURBA are
+  available here: <a
+  href="https://unstats.un.org/unsd/statcom/51st-session/documents/BG-Item3j-Recommendation-E.pdf">https://unstats.un.org/unsd/statcom/51st-session/documents/BG-Item3j-Recommendation-E.pdf</a></p>
+
+  <ol>
+    <li><strong>Spatial analysis and computation of the land consumption rate</strong></li>
+  </ol>
+
+  <p>Using the urban boundaries defined in step (b), spatial analysis is
+  undertaken to determine the land consumption rate. To implement this, the
+  three steps below are followed:</p>
+
+  <ol>
+    <li>From satellite imagery, extract data on built up areas for each analysis year </li>
+    <li>Calculate the total area covered by the built-up areas for each of the analysis years </li>
+    <li>Compute the (annual) land consumption rate using the formula:</li>
+  </ol>
+
+  <p><img
+  src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAe4AAAA0CAIAAADDp0z8AAAAAXNSR0IArs4c6QAADixJREFUeF7tnUeoFM8Wxp/vPReGnQEFw0YM4MaACgbcmP5PECOIooJZMC9UjCAYwOxCTGAWzC7EtDBvBHWhYABd6ELRvwvBsFDw/f5+UDTdPXN75o73Tl+/WlxmeqpOnfNV9VenTp3u2+jnz5//cjECRsAIGIE8I/DvPCtv3Y2AETACRuAfBEzlngdGwAgYgdwjYCrP/RDaACNgBIyAqdxzwAgYASOQewRM5bkfQhtgBIyAETCVew4YASNgBHKPgKk890NoA4yAETACpnLPASNgBIxA7hEwled+CG2AETACRsBU7jlgBIyAEcg9Aqby3A+hDTACRsAImMo9B4yAETACuUfAVJ77IbQBRsAIGAFTueeAETACRiD3CJjKcz+ENsAIGAEjYCr3HGiYCPzvV1m6dCnm7du3T19v375dPdbGtIoqXL9KghK4VRVW9QtILno3ledimKxkyQhMnDiRNsuXL+fvrFmzunbtypVBgwaVLKjcBjt37oSsi7QePXp0y5Ythw4dKq2WLVvGVylcRqmxu4wyz5079/evkrG+q1UJAo38X4SqZCSsRsURmDp1KvQ9fPjwDx8+rFmzZs+ePXDrxYsXYc+HDx/CVqNGjYLlcYc7dOgA11+7do0rMOymTZuePXsGsS5cuLBnz56wG62o37Rp0xUrVnAF3qQyX5E/ZswYJNAcIVyk1ZYtW+7cuXPw4EFZpF5SrUPy9evXUUxbB9pKGqIod+/e5crKlSs7d+784sWLvXv3SivkU3/Xrl1YwYcBAwZ06dIlS3fZEcYrR+26XPmy6+aaqQjYK/fEaLAI9O/f/969e5h3/vz5IUOGyD2HIps0aXL48OH169dD0LA87vDr168HDhwIeVHnwIED1Ll06RJNaMgVhPCZK1z//Pkz/Ev9Q4cOQesnT56kwvz58yFZJHCRr0+fPoWRkUahFZ2GWIqiKBQ57DRhhYCRUePRo0e0krSvX7+OHTtWPV6+fJmL8PikSZOCfLqQDiiPhFh3DXZEbVhhBEzlnh0NFoHBgwfDkpTAkpiKK40HzQeca9Gu7OcrnEuBGXGuYVtoWm4vHIoEfHycXxxVKkDc06ZNW716NZxLTBmZktCqVSu85iSgiIWXo0V+OvVpdfXq1bDYSEOE4InzuX379lA2H1iWjh8/TqcKfaAGV+bNm4dTj3oNdghtWGYETOWZoXLFvCEAG8LaBEPkkocictSxXrdu3WJmwaTyprdv366A+8aNG2fPnk2gAy8ecqcC/ItHTElGISB3imR++/aNv8RGiiAHI8cWGyrD1/jplDdv3uCYU4H4CTrQIyyPfJx6hJ8+fRpltHXI2F2WMaRfFAhWZGniOvWOQHqsnFm+efNmKcfNsHXr1kopSgwOjwZpbAyTkTimLPNSrhAzuI7PqSplY5CDZ8dnSKH2kiUqFLHJjBkzcOtqLzwqQUNf9qArGC2ByRgxHEH4gvGFJqAkGHby5MlhSgQ1MI2AtbzmWhaFuQmnBDl0B5WjQIh0S4GgLert37+fOiFWPnfuXLE/KhGWwQrFqZMSqCPzGfQrV67Av9RRwL2IIfj79K7oCoUh2L17t5iUgeAglFGWDoTF+UuZPn06mwbBqPOA4t0xfzLOw+gIlj0Najlqbl4OAhx7ppYdO3b89au8f/++UJ0yriNtypQpiL1161asOVe4zq/Pnz/np1WrVvG1jC7qq8nZs2dRmJhmUEAAVkQfAqaSBkpgKHA2bNhQXDhIUm3JkiXZddAolNQkJnzOnDlI4G/sOmqPGzcuDP3Ro0eDOTJN0PFX0yC7ziXVRDHALKlJHVdGvSR6ZesgYMGT2VKp2Vi2Mm74+xAoGGDhaEgrQ2X9vkLBRDrSETzuiaKEsU1xOctU3bYhnBrrULHRimihaGwYEYGj7UuRcv/+/VJ7Z6uEzrXZh0nVqMLSAX8cLxK/Ursx/PHUCaYgsg4DS1W+xvq4nLi0+Lw11qzHCqiHksUTGbOrpxkIngT6KzUbs/fumnWGQMFkxLDPig0/gT+8BuVycbtyZ7J/DAEZdmTMGI5iuGlJ+eInWcLuj42nNq2aWLEACwI5ROInooHJxQNlyCJQjyGwEDbmbDCh0Wj2WLRHKcAKgYsaYjtcUQRJ2+pUUexhERvNOQuYYDUGojPmaGscixJwMcQZAoABBPoNMYQgE7iQSf5Z2LZHJ0FAWLjpKzEo5bGlDkp0p0wdbZYJDpw4cYJeonvz0FF0HAuxOXXY2ivgAA7JII+gSO7Nx48fT6ekZxANiM1vhY9CiENfU2dCnd0YDaYjwARYbh9GhHE3mzeYkY0ZUvKxJ5s1KIzMVoKG3JkwHTwCueiAiDu8d+/eJGnxWT/xIcT+uDkh99SnD8jxkmZJHj927Bi0qPwwJiXTkbRfahJD1MLA0RC8AzkimWQAyZFro7MpVYs+fIHC0fBlqih2CSNGjFBmmHLOlMrGBzpasGCB8sD0EwooLyLkn4FPFGtAUwAUffiJrxymQazIlCbQH7QIjNQJy0DqtKMVi6X6UoXUQUGyKqBYcLRxjZU9rbQ2VIoeyoVxLDTdqcwSIitQlbFAYMZ7Q8HfpLceay5vlIUtOROYSCGZL/ZBT3W6JBFQNiQTlbvSPN6AZ8h/S7UtOGvhTnv37h0hEXEcf6MUqZ8UeeCkniYUmEXeccai1GCFFNiVQ500h1OQDEczR5HMT6Rtaa8gsVAG3MEhKhlp0VOv0Knq66vCPjFRSgjDBCqE03wxETsP2QLd0wqKSR7hxk66eGYkCQIX8eilSY8ePRAYlopC4GgzgRpR97bQoMSEsAZAvoKRv2gIrd+8eVMRLRUpUKgox1lDOWzYMMZCAitSWMC0hhV6pgaQsz+0EjsoroiGeRGSpOxUEi8PIq8H1TkNSqZy7eVxeLPTsTbjZZfU5lokisjEByEPV+wQDfWUrUZqQy0AWWSmWpGxbVS+nmeBQ1lFWrdurQUj46CEHOry7mE6khWBc7MYnr0ODM6Wjjgb8vXcY/a2yZpmnBrRM0Q1QpSjClkDLJAF9z9uHdm1uHJ6+C2jnakPTcTahvReAsr6SbtpPqQ2T6YDxwTCcfiqpAbTHIVJSsuobUnVxMXNmzevsVWqFcVd4EIy8amVXMxaRZ3sg9KmTRvJTD6rUqP+qiArFEQKpXhbkFf0Q8ZGD4eT77di1Ii/U421Crtikh1gyThMpVYjhhk7ZWXUuFiqHNevRwQKUrmebgiFTDs+E5XWcVmvXr1CdELBB/lrorZwE+onwhH8JU7CdVql+qds2PGdqYZHxrIRwsFcUfxE0WFNLz1WpwcZQqdSWD1yz3PIRl947tHgrJgIBfScdLCuiKgQWokyCyeofGXVQQFkyjWW8IBbwEcfZEUAQYe0wChU+fvx48egfxRDKRnU0AcFwRHCLVdkUKRSaKtHZrii+xaccYFjiSJhHDFQ1Bl9Q16wQhF2eifiH2CMqSorNHBBZwIyEhi4IwAr6HhgXTono/DKrkkttUm5iekf+xrWDynMsqQwffFWOfoVu7hHYm+JYUvE0svTVTky5A9X9T/r1q1LQsD0PXLkiK6T8EBR8gkPCkNejx8/xs9t0aLFjx8/+ErGG48O66iTO/DLly969xBf9RMedGhFjqNaQUAwC0JC7/369aMtkZNTp05duHChbdu2JMN27NgRvuM6ogh5v3r1qm/fvjwu0axZM3xS0TF/CTdL4U+fPlEZVQkB37hxA82/f/9OOq2iwyR1wsLURwHkv3z5EjXwVeGXQqLoV7bAm0SHMVxf0RBehsR5lhpRXEElkKHQKWbCOKr59u1bGmIIxj558oRfUUwNO3XqBNRnzpyhGghjxbZt2wSIugvghFygACmagDZq9+nTR10nBwUckIOZGkHe+KHDYeiVKw8ePOjevfvIkSOjEyCMI1jRHBtxk1FedYIVHEIgoVGjRjSX+SrwgjIg6YUKoMSIsH7QNcaCACsW04OfIG7SzMlm4UVXAgo9QQAN9RQMhaHUalePBZPBsHHjxmvXrkUNBgXlObiOWp1dPdatCRMmVM+j9ujDcCxatAgTYrphOHO4Xbt20Zs0u6WuWccI+M2IpQEeezKwtMaunU8E2IIsXrxYyZEsvSxvLHhhJmjbQeqqXsEI0SuBlXNpthGxtyri54YDkuwhyt8Hm3Z1chR46DSmG5tg3IVCr3X8fVpZchkIZI2VlyG6QTZRsELBEJc/BAEFppTnig+rEJByW7nOi1DCYwRsVvBh4eiQphV7q6KSqRQjqgb04O7wMGBSt/LOcqrBrj9QB1N5CYOuZwVpEAK+JTR21TwjwCEB3jcueXhnoZJxlRwJ5WliwOBE8HROI3Njb1XMMwbWvaoRMJWXMDzRV5VmT3AuoQNXrVYEiPWzISMBVC55KKJsgulyYHnkiucD8NOJ+OsUN/ZWRTUkDlP8dYl1BgMrUyzBIapb9oTjOlPYHRVCwFTuuWEEakZALxbH6Y49zQBTk81CFGXmzJlI4YgYulfyJRFzefHE2Sk0V6YTQjjx1sNW9V5YoqJ8HdONMDpP2NW7klYgCwI+9syCkusYgTgCeK8wcgN4UUz4R3QxC1mHyI8KqVOeAVWOgL3yKh8gq1elCOhFQPqb60LYkNhR7IEg/dM783iORtZeeY4Gy6oaASNgBNIRsFfumWEEjIARyD0CpvLcD6ENMAJGwAiYyj0HjIARMAK5R8BUnvshtAFGwAgYAVO554ARMAJGIPcImMpzP4Q2wAgYASNgKvccMAJGwAjkHgFTee6H0AYYASNgBEzlngNGwAgYgdwjYCrP/RDaACNgBIyAqdxzwAgYASOQewRM5bkfQhtgBIyAEfg/FVFzXBk99zIAAAAASUVORK5CYII="></p>
+
+  <p>Where: V<sub>present</sub> is total built up area in current year</p>
+
+  <p>V<sub>pas</sub>t is total built up area in past year</p>
+
+  <p>t is the number of years between V<sub>present</sub> and V<sub>past</sub>
+  (or length in years of the period considered)</p>
+
+  <ol>
+    <li><strong>Spatial analysis and computation of the population growth rate</strong></li>
+  </ol>
+
+  <p>Using the urban boundaries defined in step (b), calculate the total
+  population within the urban area in each of the analysis years where the land
+  consumption rate is computed. Population data collected by National
+  Statistical Offices through censuses and other surveys should be used for this
+  analysis. Where this type of population data is not available, or where data
+  is released at large population units which exceed the defined urban area,
+  countries are encouraged to create population grids, which can help
+  disaggregate the data from large and different sized census/ population data
+  release units to smaller uniform sized grids. </p>
+
+  <p>The (annual) population growth rate is calculated using the total
+  population within the urban area for the analysis period using the formula
+  below:<img
+  src="data:image/png;base64,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"></p>
+
+  <p>Where </p>
+
+  <p>LN is the natural logarithm value</p>
+
+  <p>Pop<sub>t </sub>is the total population within the urban area/city in the
+  past/initial year</p>
+
+  <p>Pop<sub>t+n</sub> is the total population within the urban area/city in the
+  current/final year</p>
+
+  <p>y is the number of years between the two measurement periods</p>
+
+  <ol>
+    <li><strong>Computation of the ratio of land consumption rate to population growth rate</strong></li>
+  </ol>
+
+  <p>The ratio of land consumption rate (LCRPGR) to population growth rate is
+  calculated using the formula: </p>
+
+  <p><img
+  src="data:image/png;base64,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"></p>
+
+  <p>The analysis years for both the land consumption rate and the population
+  growth rate should be the same. </p>
+
+  <ol>
+    <li><strong>Computation of recommended secondary indicators</strong></li>
+  </ol>
+
+  <p>There are two important secondary indicators which help interpret the value
+  of the main indicator - LGRPGR, thus helping in better understanding the
+  nature of urban growth in each urban area. Both indicators use the same input
+  data as the LCRPGR and will thus not require additional work by countries.
+  These are: </p>
+
+  <ol>
+    <li><strong>Built-up area per capita</strong> &#x2013; which is a measure of the average amount of built-up area available to each person in an urban area during each analysis year. This indicator can help identify when urban areas become too dense and/or when they become too sparsely populated. It is computed by dividing the total built-up area by the total urban population within the urban area/city at a given year, using the formula below:</li>
+  </ol>
+
+  <p><img
+  src="data:image/png;base64,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"></p>
+
+  <p>Where</p>
+
+  <p>UrBU<sub>t </sub>is the total built-up area/city in the urban area in time
+  t (in square meters) </p>
+
+  <p>Pop<sub>t</sub> is the population in the urban area in time t</p>
+
+  <ol>
+    <li><strong>Total change in built up area</strong> &#x2013; which is a measure of the total increase in built up areas within the urban area over time. When applied to a small part of an urban area, such as the core city (or old part of the urban area), this indicator can be used to understand densification trends in urban areas. It is measured using the same inputs as the land consumption rate for the different analysis years, based on the below formula: </li>
+  </ol>
+
+  <p><img
+  src="data:image/png;base64,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"></p>
+
+  <p>Where</p>
+
+  <p>UrBU<sub>t +n </sub>is the total built-up area in the urban area/city in
+  time the current/final year </p>
+
+  <p>UrBU<sub>t </sub>is the total built-up area in the urban area/city in time
+  the past/initial year </p>
+
+  <p>Detailed steps for computation of the core indicator and the secondary
+  indicators are available in the detailed training module for indicator 11.3.1:
+  <a
+  href="https://unhabitat.org/sites/default/files/2020/07/indicator_11.3.1_training_module_land_use_efficiency_french.pdf">https://unhabitat.org/sites/default/files/2020/07/indicator_11.3.1_training_module_land_use_efficiency_french.pdf</a>
+  </p>
+DATA_VALIDATION: >-
+  <p>As part of the validation process, UN-Habitat developed a template to
+  compile data generated by countries through the National Statistics Offices as
+  well as other government agencies responsible for official statistics (see:
+  https://data.unhabitat.org/datasets/template-for-compilation-of-sdg-indicator-11-3-1).
+  Data compiled is then checked against several criteria including the data
+  sources used, the application of internationally agreed definitions,
+  classification and methodologies to the data from that source, etc. Once
+  reviewed, appropriate feedback is then provided to individual countries for
+  further discussion. </p>
+ADJUSTMENT: >-
+  <p>Any adjustments to the data is jointly agreed after consultations with the
+  relevant national agencies that share the data points for reporting.</p>
+IMPUTATION: >-
+  <p>&#x2022; At country level</p>
+
+  <p>&#x2022; At regional and global levels</p>
+
+  <p>All countries are expected to fully report on this indicator more
+  consistently starting in 2020 with few challenges where missing values will be
+  reported due to missing base map files. Only limited cases of missing values
+  are anticipated, which can emanate from situations where population growth
+  figures are unavailable or where land consumption rates are inestimable due to
+  lack or poor quality of multi-temporal coverage of satellite imagery. Because
+  the values will be aggregated at the national levels from a national sample of
+  cities, missing values will be less observed at national and global levels</p>
+REG_AGG: >-
+  <p>Data at the global/regional levels will be estimated from national figures
+  derived from national sample of cities. Regional estimates will incorporate
+  national representations using a weighting by population sizes. Global
+  monitoring will be led by UN-Habitat with the support of other partners and
+  regional commissions.</p>
+DOC_METHOD: >-
+  <p>Data for indicator 11.3.1 is to be collected at the city/urban level and
+  aggregates made to the national level. For countries which have adequate
+  capacity (personnel, systems, resources) and baseline data, the indicator can
+  be computed for all cities/urban areas then averages used to report on
+  national performances. For countries which do not have the capacity to collect
+  data and undertake computations for all their cities/urban areas, UN-Habitat
+  has proposed the use of the National Sample of Cities Approach, which allows
+  them to select a representative sample from where weighted national aggregates
+  can be undertaken. </p>
+
+  <p>The guidance on implementation of the National Sample of Cities Approach is
+  available here: <a
+  href="https://unhabitat.org/sites/default/files/2020/06/national_sample_of_cities_english.pdf">https://unhabitat.org/sites/default/files/2020/06/national_sample_of_cities_english.pdf</a></p>
+
+  <p>UN-Habitat will continuously undertake capacity building on the sampling
+  approach, and directly support countries to develop a national sample of
+  cities where needed. </p>
+QUALITY_MGMNT: >-
+  <p>To ensure consistency in data production across countries, UN-Habitat has
+  developed detailed step-by-step tutorials on the computation of indicator
+  11.3.1, which further explain the steps presented in this metadata. The
+  detailed tutorials, which will be continuously updated are available at <a
+  href="https://unhabitat.org/knowledge/data-and-analytics">https://unhabitat.org/knowledge/data-and-analytics</a>,
+  <a
+  href="https://www.urbanagendaplatform.org/learning">https://www.urbanagendaplatform.org/learning</a>,
+  and <a href="https://data.unhabitat.org/">https://data.unhabitat.org/</a>.
+  </p>
+
+  <p>Within its Data and Analytics Section which is responsible for the
+  indicator data compilation, UN-Habitat has a team of spatial data experts who
+  check all submitted data and provide direct support to countries in the
+  indicator computation. </p>
+
+  <p>As part of its global custodianship of indicator 11.3.1, UN-Habitat has
+  also established partnerships with major institutions and organizations
+  involved in production of baseline data relevant for the indicator
+  computation. The main aim of this is to create a common understanding on the
+  approach for the indicator computation, and to encourage continuous production
+  of high-quality global data that responds to the indicator computation needs.
+  Examples of some ongoing initiatives with partners to manage quality of
+  products and processes include, among others providing support to apply the
+  Degree of Urbanisation at the local level for the indicator computation (in
+  partnership with the European Commission), development of an Earth Observation
+  Toolkit for SDG 11 (in partnership with EO4SDG and GEO), and continuous
+  feedback to global products produced by partners such as the German Aerospace
+  Center (DLR) and the European Commission Joint Research Centre (EC-JRC) among
+  others. </p>
+QUALITY_ASSURE: >-
+  <p>UN-Habitat maintains the global urban indicators database that is used for
+  monitoring of the urban metrics drawn from SDGs, NUA, flagship reports (e.g.
+  World Cities Report) and other official reporting. In general, for all new
+  data, a thorough review is done to check for consistency and overall data
+  quality by technical staff in the Data and Analytics unit before publication
+  in the urban indicators database. This ensures that only the most accurate and
+  reliable information are included in the database. Key elements considered in
+  the review include: proper documentation of data sources; representativeness
+  of data at national level, use of appropriate methodology for data collection
+  and analysis (e.g. appropriate sampling process, values based on valid sample
+  sizes), use of appropriate concepts and definitions, consistency of data
+  trends with previously published/reported estimates for the indicator.</p>
+QUALITY_ASSMNT: >-
+  <p>Once data is received from member states, UN-Habitat uses a checklist
+  specific to each indicator to assess a) whether the data production process
+  followed the metadata provisions, and b) confirm the accuracy of the data
+  sources used for the indicator computation. Both components are captured in
+  the reporting template shared with National Statistical Offices, which helps
+  to assess whether computation was done using the proposed indicator inputs or
+  proxies. The reporting template also requests for information that helps
+  understand whether national data for the indicator was produced from a
+  representative sample of the country&#x2019;s urban systems, or if estimates
+  were done for only select cities/urban areas where data is easily available.
+  </p>
+
+  <p>In addition, the received data is also checked for other qualities such as
+  data disaggregation, reporting period and consistency with other previously
+  reported trends, which ensures reliable regional estimates. For indicator
+  11.3.1, one extra assessment that is done is to compare reported urbanization
+  values (at the city/urban level) against visual interpretation of growth
+  trends from multi-temporal high resolution Google Earth Imagery and population
+  projections from the World Urbanization Prospects. </p>
+COVERAGE: >-
+  <p>Data availability:</p>
+
+  <p>This indicator is categorized under Tier II, meaning the indicator is
+  conceptually clear and an established methodology exists but data on many
+  countries is not yet available. The indicator&#x2019;s rapid adoption by
+  countries since 2015 has resulted in increased production of data at the local
+  level, while activities of UN-Habitat and partners in the earth observation
+  field are significantly contributing to availability of baseline data for the
+  indicator. For example, using global datasets such as the Global Human
+  Settlement Layer (GHSL), the World Settlement Footprint (WSF), the Gridded
+  Population of the World (GPW), WorldPop dataset, the High Resolution
+  Settlement Layer (HRSL) among others can help attain global estimates for the
+  indicator. While some of these datasets have limitations in their application
+  to track city level trends, their wide coverage provides a useful resource for
+  the indicator computation. Higher resolution data is continuously being
+  produced by countries, which are supported by organizations working in the
+  earth observation and geospatial information field of expertise. More than
+  1,500 cities from more than 80 countries have data at the right resolution
+  required for the indicator computation.</p>
+
+  <p>Time series:</p>
+
+  <p>Available time series runs at the city and national level for selected
+  countries</p>
+
+  <p>Disaggregation:</p>
+
+  <p>Potential Disaggregation:</p>
+
+  <ul>
+    <li>Disaggregation by location (operational urban area vs administratively defined urban area, urban wide vs intra-urban growth trends)</li>
+    <li>Disaggregation by type of growth<strong> </strong>(infill, expansion, leapfrogging)</li>
+    <li>Disaggregation by city type (large vs medium sized vs small)</li>
+    <li>Disaggregation by type of land use consumed by the urbanization process </li>
+  </ul>
+COMPARABILITY: >-
+  <p>Sources of discrepancies:</p>
+
+  <p>Significant variations between global and national figures are anticipated
+  where globally produced built-up layers are used to compute the indicator.
+  This is largely due to the uniqueness of some local contexts and variations in
+  image reflectance and land cover types, which make it difficult to accurately
+  capture built up areas consistently. While the national figures will be used
+  for reporting &#x2013; resulting in less differences being observed, some
+  countries may opt to use the globally available products, which may create
+  some variations as locally generated data becomes available. UN-Habitat will
+  be responsible for checking all figures to ensure that no inconsistencies are
+  reported. </p>
+
+  <p>The second likely source of differences between figures is the approach
+  used to define urban areas and cities for the purpose of the indicator
+  computation. To resolve this, the use of the degree of urbanization approach
+  to definition of urban and rural areas and production of comparable data is
+  recommended. This approach was endorsed by the UN Statistical Commission in
+  March 2020, and its incremental adoption by countries is likely to reduce any
+  differences in the figures reported in future. </p>
+OTHER_DOC: >-
+  <p><strong>URL references:</strong></p>
+
+  <ul>
+    <li>http://unhabitat.org/knowledge/data-and-analytics </li>
+    <li>http://www.lincolninst.edu/pubs/1880_Making-Room-for-a-Planet-of-Cities-urban-expansion</li>
+    <li>http://www.lincolninst.edu/subcenters/atlas-urban-expansion/</li>
+    <li>http://ciczac.org/sistema/docpdf/capacitacion/foro%20sedatu/02.-</li>
+  </ul>
+
+  <p>%20LA%20EXPANSION%20DE%20LAS%20CIUDADES%201980-2010.pdf</p>
+
+  <ul>
+    <li>http://unhabitat.org/books/construction-of-more-equitable-cities/</li>
+    <li>http://unhabitat.org/books/state-of-the-worlds-cities-20102011-cities-for-all-bridging-the-urban-divide/)</li>
+    <li>http://dx.doi.org/10.1787/reg_glance-2013-7-en</li>
+    <li>http://newclimateeconomy.report/TheNewClimateEconomyReport</li>
+    <li>http://2015.newclimateeconomy.report/wp-content/uploads/2014/08/NCE2015_workingpaper_cities_final_web.pdf</li>
+    <li>http://www.smartgrowthamerica.org/documents/measuring-sprawl-2014.pdf,</li>
+    <li>www.smartgrowthamerica.org/documents/MeasuringSprawlTechnical.pdf.</li>
+    <li>http://www.mckinsey.com/insights/urbanization/tackling_the_worlds_affordable_housing_challenge</li>
+    <li>http://www.worldbank.org/depweb/english/teach/pgr.html (Accessed on May 30, 2016)</li>
+    <li>http://indicators.report/indicators/i-68/ (Accessed on May 30, 2016)</li>
+    <li>http://glossary.eea.europa.eu (Accessed on May 30, 2016)</li>
+  </ul>
+
+  <p><strong>References:</strong></p>
+
+  <p>Blais, P. (2011). Perverse cities: hidden subsidies, wonky policy, and
+  urban sprawl. UBC Press.</p>
+
+  <p>Ewing, R., Pendall, R, and Chen, D. (2002). Measuring Sprawl and its
+  Impact. Smart Growth America. [6]</p>
+
+  <p>Glaeser and Abha Joshi-Ghani. (2015). &#x201C;Rethinking Cities,&#x201D; in
+  The Urban Imperative: towards Competitive Cities, Oxford University Press.</p>
+
+  <p>Global Commission on the Economy and Climate. (2014). Better Growth, Better
+  Climate: The New Climate Economy Report. Washington DC: Global Commission on
+  the Economy and Climate. [7]</p>
+
+  <p>Global Commission on the Economy of Cities and Climate (2015), Accelerating
+  Low Carbon Growth in the World&#x2019;s Cities [8]</p>
+
+  <p>Lincoln Institute (n.d) Atlas of Urban Expansion [2]</p>
+
+  <p>Lincoln institute (2011) Making Room for a Planet of Cities [1]</p>
+
+  <p>OECD (2013), &#x201C;Urbanisation and urban forms&#x201D;, in OECD Regions
+  at a Glance 2013, OECD Publishing. [6]</p>
+
+  <p>Robert Burchell et al., Costs of Sprawl Revisited: The Evidence of
+  Sprawl&#x2019;s Negative and Positive Impacts, Transit Cooperative Research
+  Program, Transportation Research Board, Washington, D.C., 1998</p>
+
+  <p>Sedesol (2012) La expansi&#xF3;n de las ciudades 1980-2010. [3]</p>
+
+  <p>UN-Habitat (2012) State of the World&#x2019;s Cities Report: Bridging the
+  Urban Divide, 2012. Nairobi [5]</p>
+
+  <p>UN-Habitat, CAF (2014) Construction of More Equitable Cities. Nairobi
+  [4]</p>
+
+  <p>Smart Growth America, Measuring Sprawl 2014 [9]</p>
+
+  <p>Woetzel, J., Ram, S., Mischke, J., Garemo, N., and Sankhe, S. (2014). A
+  blueprint for addressing the global affordable housing challenge. McKinsey
+  Global Institute. [10]</p>
+
+  <p>Dijkstra, L., H. Poelman, 2014. A harmonized definition of cities and rural
+  areas: the new degree of urbanisation. Directorate General for Regional and
+  Urban Policy, Regional working paper 2014; </p>
+
+  <p>Florczyk, A.J., Melchiorri, M., Corbane, C., Schiavina, M., Maffenini, M.,
+  Pesaresi, M., Politis, P., Sabo, S., Freire, S., Ehrlich, D., Kemper, T.,
+  Tommasi, P., Airaghi, D. and L. Zanchetta, Description of the GHS Urban Centre
+  Database 2015, Public Release 2019, Version 1.0, Publications Office of the
+  European Union, Luxembourg, 2019, ISBN 978-92-79- 99753-2, doi:10.2760/037310,
+  JRC115586.; </p>
+
+  <p>http://atlasofurbanexpansion.org/file-manager/userfiles/
+  data_page/Methodology/Understanding_and_Measuring_
+  Urban_Expansion.pdf?time=1476446554646 </p>

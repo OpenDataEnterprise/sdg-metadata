@@ -1,3 +1,4 @@
+SDG_INDICATOR_INFO: ''
 SDG_GOAL: '<p>Goal 12: Ensure sustainable consumption and production patterns</p>'
 SDG_TARGET: >-
   <p>Target 12.c: Rationalize inefficient fossil-fuel subsidies that encourage
@@ -17,6 +18,15 @@ SDG_CUSTODIAN_AGENCIES: |-
   <h1>Institutional information</h1>
   <h2>Organization(s):</h2>
   <p>UN Environment (United Nations Environment Programme)</p>
+CONTACT: ''
+CONTACT_ORGANISATION: <p>United Nations Environment Programme</p>
+CONTACT_NAME: <p>Ludgarde Coppens</p>
+ORGANISATION_UNIT: <p>SDGs and Environment Statistics Unit</p>
+CONTACT_FUNCT: <p>Head of SDGs and Environment Statistics Unit</p>
+CONTACT_PHONE: <p>+254 20 7624158</p>
+CONTACT_MAIL: '<p>UN Gigiri, Nairobi, Kenya</p>'
+CONTACT_EMAIL: <p>Ludgarde.coppens@un.org</p>
+IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
   <h1>Concepts and definitions</h1>
 
@@ -48,6 +58,7 @@ STAT_CONC_DEF: >-
     <li>Include non-energy uses with monitoring optional for the measuring of this indicator.</li>
     <li>Additional details are provided in the methodological document entitled, Measuring Fossil Fuel Subsidies in the Context of the Sustainable Development Goals.</li>
   </ul>
+SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
   <h1>Data sources</h1>
 
@@ -104,6 +115,7 @@ DATA_SOURCE: |-
 COMPILING_ORG: |-
   <h1>Data compilers</h1>
   <p>UN Environment (United Nations Environment Programme) </p>
+OTHER_METHOD: ''
 RATIONALE: >-
   <h2>Rationale:</h2>
 

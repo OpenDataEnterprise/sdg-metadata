@@ -1,25 +1,28 @@
-SDG_GOAL: >-
-  <p>Goal 16: Promote peaceful and inclusive societies for sustainable
-  development, provide access to justice for all and build effective,
-  accountable and inclusive institutions at all levels</p>
+SDG_INDICATOR_INFO: ''
+SDG_GOAL: '<p>Goal 10: Reduce inequality within and among countries</p>'
 SDG_TARGET: >-
-  <p>Target 16.8: Broaden and strengthen the participation of developing
-  countries in the institutions of global governance</p>
+  <p>Target 10.6: Ensure enhanced representation and voice for developing
+  countries in decision-making in global international economic and financial
+  institutions in order to deliver more effective, credible, accountable and
+  legitimate institutions</p>
 SDG_INDICATOR: >-
-  <p>Indicator 16.8.1: Proportion of members and voting rights of developing
+  <p>Indicator 10.6.1: Proportion of members and voting rights of developing
   countries in international organizations</p>
-META_LAST_UPDATE: '<p>Last updated: 19 July 2016</p>'
-SDG_RELATED_INDICATORS: |-
-  <h1>Related indicators</h1>
-  <p>10.6.1</p>
-SDG_CUSTODIAN_AGENCIES: |-
-  <h1>Institutional information</h1>
-  <h2>Organization(s):</h2>
-  <p>Financing for Development Office, DESA (FFDO)</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: <p>19 July 2016</p>
+SDG_RELATED_INDICATORS: ''
+SDG_CUSTODIAN_AGENCIES: '<p>Financing for Development Office, DESA (FFDO)</p>'
+CONTACT: ''
+CONTACT_ORGANISATION: '<p>Financing for Development Office, DESA (FFDO)</p>'
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <h1>Concepts and definitions</h1>
-
-  <h2>Definition:</h2>
+  <p><strong>Definition:</strong></p>
 
   <p>The proportion of members and voting rights of developing countries in
   international organizations has two components, the developing country
@@ -27,7 +30,7 @@ STAT_CONC_DEF: >-
   membership in international organisations. In some institutions these two
   components are identical.</p>
 
-  <h2>Concepts:</h2>
+  <p><strong>Concepts:</strong></p>
 
   <p>The indicator is calculated independently for eleven different
   international institutions: The United Nations General Assembly, the United
@@ -50,47 +53,140 @@ STAT_CONC_DEF: >-
   are intended for statistical convenience and do not necessarily express a
   judgement about the stage reached by a particular country or area in the
   development process.</p>
+UNIT_MEASURE: ''
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <h1>Data sources</h1>
-
-  <h2>Description:</h2>
+  <p><strong>Description:</strong></p>
 
   <p>Annual reports, as presented on the website of the institution in question,
   are used as sources of data. Sources of information by institution:</p>
 
-  <ul>
-    <li>United Nations General Assembly: Website of the General Assembly</li>
-    <li>United Nations Security Council: Report of the Security Council for the respective year</li>
-    <li>United Nations Economic and Social Council: Report of the Economic and Social Council for the respective year</li>
-    <li>International Monetary Fund: Annual Report for the respective year</li>
-    <li>International Bank for Reconstruction and Development: Management&#x2019;s Discussion &amp; Analysis and Financial Statements for the respective year</li>
-    <li>International Finance Corporation: Annual Report (volume 2) for the respective year</li>
-    <li>African Development Bank: Annual Report for the respective year </li>
-    <li>Asian Development Bank: Annual Report for the respective year</li>
-    <li>Inter-American Development Bank: Annual Report for the respective year</li>
-    <li>World Trade Organisation: WTO Annual Report 2015</li>
-    <li>Financial Stability Board: Charters of the Financial Stability Board</li>
-  </ul>
-FREQ_COLL: <h1>Calendar</h1>
-REL_CAL_POLICY: |-
-  <h2>Data release:</h2>
-  <ul>
-    <li>United Nations General Assembly: continuous</li>
-    <li>United Nations Security Council: annually in September </li>
-    <li>United Nations Economic and Social Council: annually in October</li>
-    <li>International Monetary Fund: annually in October </li>
-    <li>International Bank for Reconstruction and Development: annually in September </li>
-    <li>International Finance Corporation: annually in September</li>
-    <li>African Development Bank: annually in May </li>
-    <li>Asian Development Bank: annually in April </li>
-    <li>Inter-American Development Bank: annually in April </li>
-    <li>World Trade Organisation: annually in May </li>
-    <li>Financial Stability Board: annually in January </li>
-  </ul>
-DATA_SOURCE: >-
-  <h1>Data providers</h1>
+  <p>United Nations General Assembly: </p>
 
-  <h2>Description:</h2>
+  <p>website of the General Assembly</p>
+
+  <p>United Nations Security Council: </p>
+
+  <p>Report of the Security Council for the respective year</p>
+
+  <p>United Nations Economic and Social Council: </p>
+
+  <p>Report of the Economic and Social Council for the respective year</p>
+
+  <p>International Monetary Fund: </p>
+
+  <p>Annual Report for the respective year</p>
+
+  <p>International Bank for Reconstruction and Development: </p>
+
+  <p>Management&#x2019;s Discussion &amp; Analysis and Financial Statements for
+  the respective year</p>
+
+  <p>International Finance Corporation: </p>
+
+  <p>Annual Report (volume 2) for the respective year</p>
+
+  <p>African Development Bank: </p>
+
+  <p>Annual Report for the respective year </p>
+
+  <p>Asian Development Bank: </p>
+
+  <p>Annual Report for the respective year</p>
+
+  <p>Inter-American Development Bank: </p>
+
+  <p>Annual Report for the respective year</p>
+
+  <p>World Trade Organisation: </p>
+
+  <p>WTO Annual Report 2015</p>
+
+  <p>Financial Stability Board: </p>
+
+  <p>Charters of the Financial Stability Board</p>
+
+  <p><strong>List:</strong></p>
+
+  <p>General Assembly website; </p>
+
+  <p>Report of the Security Council; </p>
+
+  <p>Report of the Economic and Social Council, </p>
+
+  <p>Report of the International Monetary Fund; </p>
+
+  <p>IBRD&apos;s Management&#x2019;s Discussion &amp; Analysis and Financial
+  Statements; </p>
+
+  <p>IFC Annual Report (volume 2); </p>
+
+  <p>AfDB Annual Report; </p>
+
+  <p>ADB Annual Report; </p>
+
+  <p>IADB Annual Report; </p>
+
+  <p>WTO Annual Report; </p>
+
+  <p>Charters of the Financial Stability Board</p>
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: >-
+  <p>United Nations General Assembly:</p>
+
+  <p>continuous</p>
+
+  <p>United Nations Security Council:</p>
+
+  <p>annually in September </p>
+
+  <p>United Nations Economic and Social Council: </p>
+
+  <p>annually in October</p>
+
+  <p>International Monetary Fund: </p>
+
+  <p>annually in October </p>
+
+  <p>International Bank for Reconstruction and Development: </p>
+
+  <p>annually in September </p>
+
+  <p>International Finance Corporation: </p>
+
+  <p>annually in September</p>
+
+  <p>African Development Bank: </p>
+
+  <p>annually in May </p>
+
+  <p>Asian Development Bank: </p>
+
+  <p>annually in April </p>
+
+  <p>Inter-American Development Bank: </p>
+
+  <p>annually in April </p>
+
+  <p>World Trade Organisation: </p>
+
+  <p>annually in May </p>
+
+  <p>Financial Stability Board: </p>
+
+  <p>annually in January </p>
+
+  <p>(UNGA: continuous UNSC: September 2016 ECOSOC: October 2016 IMF: October
+  2016 IBRD: September 2016 IFC: September 2016 AfDB: May 2017 ADB: April 2017
+  IADB: April 2017 WTO: May 2017 FSB: January 2017)</p>
+DATA_SOURCE: >-
+  <p><strong>Name:</strong></p>
+
+  <p>UNGA, UNSC, ECOSOC, IMF, IBRD, IFC, AfDB, ADB, IADB, WTO, FSB</p>
+
+  <p><strong>Description:</strong></p>
 
   <p>The United Nations General Assembly, the United Nations Security Council,
   the United Nations Economic and Social Council, the International Monetary
@@ -99,23 +195,23 @@ DATA_SOURCE: >-
   Development Bank, the Inter-American Development Bank, the World Trade
   Organisation, and the Financial Stability Board.</p>
 COMPILING_ORG: >-
-  <h1>Data compilers</h1>
+  <p><strong>Name:</strong></p>
 
-  <h2>Description:</h2>
+  <p>FFD/UN-DESA</p>
+
+  <p><strong>Description:</strong></p>
 
   <p>The data is compiled and the proportions calculated by the Financing for
   Development Office, United Nations Department of Economic and Social
   Affairs.</p>
+INST_MANDATE: ''
+OTHER_METHOD: ''
 RATIONALE: >-
-  <h2>Rationale:</h2>
-
   <p>The United Nations is based on a principle of sovereign equality of all its
   Member States (Article 2, UN Charter). This indicator aims to measure the
   degree to which States enjoy equal representation in different international
   organizations.</p>
 REC_USE_LIM: >-
-  <h2>Comments and limitations:</h2>
-
   <p>Cross institutional comparisons needs to pay attention to the different
   membership of the institutions. Voting rights and membership in their
   institutions are agreed by the Member States themselves. As a structural
@@ -123,29 +219,32 @@ REC_USE_LIM: >-
   new States joining as Members, suspension of voting rights, membership
   withdrawal and negotiated voting rights changes.</p>
 DATA_COMP: >-
-  <h1>Methodology</h1>
-
-  <h2>Computation method:</h2>
-
   <p>The computation uses each institutions&#x2019; own published membership and
   voting rights data from their respective annual reports. The proportion of
   voting rights is computed as the number of voting rights allocated to
   developing countries, divided by the total number of voting rights. The
   proportion of membership is calculated by taking the number of developing
   country members, divided by the total number of members.</p>
+DATA_VALIDATION: ''
+ADJUSTMENT: ''
+IMPUTATION: ''
+REG_AGG: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
 COVERAGE: >-
-  <h1>Data availability</h1>
+  <p>Data availability:</p>
 
   <p>Available for all countries.</p>
 
-  <h2>Disaggregation:</h2>
+  <p>Disaggregation:</p>
 
   <p>Data is calculated and presented separately for each international
   organization.</p>
+COMPARABILITY: ''
 OTHER_DOC: >-
-  <h1>References</h1>
-
-  <h2>URL:</h2>
+  <p><strong>URL:</strong></p>
 
   <p><a
   href="https://www.un.org/development/desa/en/">https://www.un.org/development/desa/en/</a></p>

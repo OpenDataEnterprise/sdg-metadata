@@ -1,3 +1,4 @@
+SDG_INDICATOR_INFO: ''
 SDG_GOAL: >-
   <p>Goal 14: Conserve and sustainably use the oceans, seas and marine resources
   for sustainable development</p>
@@ -8,37 +9,75 @@ SDG_INDICATOR: >-
   <p>Indicator 14.b.1: Progress by countries in the degree of application of a
   legal/regulatory/policy/institutional framework which recognizes and protects
   access rights for small-scale fisheries</p>
-META_LAST_UPDATE: '<p>Last updated: 29 May 2018</p>'
+SDG_SERIES_DESCR: |-
+  <p>Metadata applies to complete series under this indicator. </p>
+  <p> </p>
+META_LAST_UPDATE: <p>February 2021</p>
 SDG_RELATED_INDICATORS: >-
-  <h1>Related indicators</h1>
-
   <p>Linkages with any other Goals and Targets: SDG 1, SDG 2 (in particular
   2.3), SDG 5, SDG 12, SDG 13, SDG 14.2/4/5/6/7</p>
-SDG_CUSTODIAN_AGENCIES: |-
-  <h1>Institutional information</h1>
-  <h2>Organization(s): </h2>
-  <p>Food and Agriculture Organisation of the United Nations</p>
+SDG_CUSTODIAN_AGENCIES: <p>Food and Agriculture Organization of the United Nations</p>
+CONTACT: ''
+CONTACT_ORGANISATION: <p>Food and Agriculture Organization of the United Nations</p>
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <h1>Concepts and definitions</h1>
-
-  <h2>Definition:</h2>
+  <p>Definition:</p>
 
   <p>Progress by number of countries in the degree of application of a
   legal/regulatory/policy/institutional framework which recognizes and protects
   access rights for small-scale fisheries.</p>
 
-  <h2>Concepts:</h2>
+  <p>Concepts:</p>
 
   <p>National Statistical Systems already collect fisheries-relevant data, with
   a focus on production, employment, and trade. Relevant concepts can be found
-  at <a href="http://www.fao.org/fishery/cwp/search/en">CWP Handbook of Fishery
-  Statistical Standards</a> of the Coordinating Working Party on Fisheries
-  Statistics (CWP). </p>
+  at CWP Handbook of Fishery Statistical Standards of the Coordinating Working
+  Party on Fisheries Statistics (CWP).</p>
+UNIT_MEASURE: >-
+  <p>Degree of implementation of frameworks which recognize and protect access
+  rights for small-scale fisheries, categorized into 5 bands, as follows:</p>
+
+  <table>
+    <tbody>
+      <tr>
+        <td>
+          <p>Band 1: Very low implementation of instruments for access to resources and markets for small-scale fisheries</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>Band 2: Low implementation of instruments for access to resources and markets for small-scale fisheries</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>Band 3: Medium implementation of instruments for access to resources and markets for small-scale fisheries</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>Band 4: High implementation of instruments for access to resources and markets for small-scale fisheries</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>Band 5: Very high implementation of instruments for access to resources and markets for small-scale fisheries</p>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+CLASS_SYSTEM: >-
+  <p>No applicable international standards for measuring degree of
+  implementation of frameworks which recognize and protect access rights for
+  small-scale fisheries.</p>
+SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <h1>Data sources</h1>
-
-  <h2>Description:</h2>
-
   <p>Data is based on the replies to three questions of the CCRF questionnaire.
   It is usually provided from administrative sources, as best identified by the
   national fisheries administration responsible for replying to the CCRF
@@ -47,8 +86,6 @@ SOURCE_TYPE: >-
   so both legislative, management, and other documentation must be consulted to
   respond to the queries.</p>
 COLL_METHOD: >-
-  <h2>Collection process:</h2>
-
   <p>The CCRF questionnaire is a web-based system, with related data processing
   tools and usability features. Data is collected from FAO member countries
   every two years to be reported at aggregated level on the occasion of the
@@ -56,39 +93,36 @@ COLL_METHOD: >-
   November to March preceding the session of COFI. In 2016, for the 32nd Session
   of COFI, 92 countries and the European Union (EU) responded to the section on
   small-scale fisheries of the CCRF questionnaire, which includes the three
-  questions providing the variables for indicator 14.b.1.</p>
+  questions providing the variables for indicator 14.b.1. </p>
 FREQ_COLL: >-
-  <h1>Calendar</h1>
-
-  <h2>Data collection:</h2>
-
-  <p>The next data collection cycle will be conducted and completed by May
-  2018.</p>
-REL_CAL_POLICY: |-
-  <h2>Data release:</h2>
-  <p>The data will be processed and released by July 2018.</p>
+  <p>The questionnaire is sent out on a biennial basis. It is expected to be
+  sent out towards the end of the year prior to the holding of the Committee on
+  Fisheries and remain open for a 2-3 month period, alterations of this calendar
+  are subject to changes in the timing of the Committee on Fisheries.</p>
+REL_CAL_POLICY: >-
+  <p> Data for the indicator is expected to be released one week after closure
+  of the questionnaire.</p>
 DATA_SOURCE: >-
-  <h1>Data providers</h1>
-
   <p>Data is typically provided by the National Fishery
   Ministries/departments.</p>
-COMPILING_ORG: |-
-  <h1>Data compilers</h1>
-  <p>FAO</p>
+COMPILING_ORG: <p>FAO</p>
+INST_MANDATE: >-
+  <p> Article I of the FAO constitution requires that the Organization collect,
+  analyses, interpret and disseminate information relating to nutrition, food
+  and agriculture http://www.fao.org/3/K8024E/K8024E.pdf.</p>
+OTHER_METHOD: ''
 RATIONALE: >-
-  <h2>Rationale:</h2>
-
   <p>Target 14.b focuses on access to resources and markets for small-scale
   fisheries, in line with the Rio+20 outcome document para, 175. In order to
   guarantee secure access, an enabling environment is necessary which recognizes
   and protects small-scale fisheries rights. Such an enabling environment has
   three key features:</p>
 
-  <ul>
+  <ol>
     <li>Appropriate legal, regulatory and policy frameworks; </li>
     <li>Specific initiatives to support small-scale fisheries; and</li>
     <li>Related institutional mechanisms which allow for the participation of small-scale fisheries organisations in relevant processes. </li>
-  </ul>
+  </ol>
 
   <p>The 32nd Session of the FAO Committee on Fisheries agreed that the data
   submitted through the Code of Conduct for Responsible Fisheries (CCRF)
@@ -99,11 +133,11 @@ RATIONALE: >-
   questions on small-scale fisheries of the CCRF questionnaire to reflect these
   three aspects:</p>
 
-  <ul>
+  <ol>
     <li>Are there any laws, regulations, policies, plans or strategies that specifically target or address the small-scale fisheries sector?</li>
     <li>Are there any ongoing specific initiatives to implement the SSF Guidelines?</li>
     <li>Does your country have an advisory/consultative body to the Ministry/Department of Fisheries in which fishers/fish workers can participate and contribute to decision-making processes?</li>
-  </ul>
+  </ol>
 
   <p>The national indicator is calculated based on these questions specifically
   focusing on actual efforts of promoting and facilitating access rights to
@@ -167,17 +201,11 @@ RATIONALE: >-
     </tbody>
   </table>
 REC_USE_LIM: >-
-  <h2>Comments and limitations:</h2>
-
   <p>It should be noted that while target 14.b refers to access for small-scale
   artisanal fishers to marine resources and markets some landlocked countries
   with inland fisheries have taken the opportunity to report on this
   indicator.</p>
 DATA_COMP: >-
-  <h1>Methodology</h1>
-
-  <h2>Computation method:</h2>
-
   <p>The indicator is calculated using three variables, which are given
   respective weightings for the final calculation. There has not been a change
   in the calculation, nor the use of mixed sources. </p>
@@ -203,7 +231,7 @@ DATA_COMP: >-
     <tbody>
       <tr>
         <td>
-          <p>&#xA0;</p>
+          <p> </p>
         </td>
         <td>
           <p><em>Sub-variables</em></p>
@@ -212,10 +240,10 @@ DATA_COMP: >-
           <p><em>Weight</em></p>
         </td>
         <td>
-          <p><em>&#xA0;</em></p>
+          <p><em> </em></p>
         </td>
         <td>
-          <p>&#xA0;</p>
+          <p> </p>
         </td>
         <td>
           <p><em>Sub-variables</em></p>
@@ -235,7 +263,7 @@ DATA_COMP: >-
           <p>0.1</p>
         </td>
         <td>
-          <p>&#xA0;</p>
+          <p> </p>
         </td>
         <td rowspan="11">
           <p><strong><em>Variable 2</em></strong></p>
@@ -255,7 +283,7 @@ DATA_COMP: >-
           <p>0.1</p>
         </td>
         <td>
-          <p>&#xA0;</p>
+          <p> </p>
         </td>
         <td>
           <p>2.2</p>
@@ -272,7 +300,7 @@ DATA_COMP: >-
           <p>0.1</p>
         </td>
         <td>
-          <p>&#xA0;</p>
+          <p> </p>
         </td>
         <td>
           <p>2.3</p>
@@ -289,7 +317,7 @@ DATA_COMP: >-
           <p>0.1</p>
         </td>
         <td>
-          <p>&#xA0;</p>
+          <p> </p>
         </td>
         <td>
           <p>2.4</p>
@@ -306,7 +334,7 @@ DATA_COMP: >-
           <p><em><sup>1</sup></em></p>
         </td>
         <td>
-          <p>&#xA0;</p>
+          <p> </p>
         </td>
         <td>
           <p>2.5</p>
@@ -317,7 +345,7 @@ DATA_COMP: >-
       </tr>
       <tr>
         <td>
-          <p>&#xA0;</p>
+          <p> </p>
         </td>
         <td>
           <p><strong>Variable weight</strong></p>
@@ -326,7 +354,7 @@ DATA_COMP: >-
           <p><strong>0.4</strong></p>
         </td>
         <td>
-          <p><strong>&#xA0;</strong></p>
+          <p><strong> </strong></p>
         </td>
         <td>
           <p>2.6</p>
@@ -340,7 +368,7 @@ DATA_COMP: >-
           <p><em><sup>1</sup></em><sup> </sup>Sub-variable 1.5 is only weighted when a response of &apos;yes&apos; is provided along with supporting details in the text form. </p>
         </td>
         <td>
-          <p>&#xA0;</p>
+          <p> </p>
         </td>
         <td>
           <p>2.7</p>
@@ -351,7 +379,7 @@ DATA_COMP: >-
       </tr>
       <tr>
         <td>
-          <p>&#xA0;</p>
+          <p> </p>
         </td>
         <td>
           <p>2.8</p>
@@ -362,7 +390,7 @@ DATA_COMP: >-
       </tr>
       <tr>
         <td>
-          <p>&#xA0;</p>
+          <p> </p>
         </td>
         <td>
           <p>2.9</p>
@@ -373,16 +401,16 @@ DATA_COMP: >-
       </tr>
       <tr>
         <td>
-          <p>&#xA0;</p>
+          <p> </p>
         </td>
         <td>
-          <p>&#xA0;</p>
+          <p> </p>
         </td>
         <td>
-          <p>&#xA0;</p>
+          <p> </p>
         </td>
         <td>
-          <p>&#xA0;</p>
+          <p> </p>
         </td>
         <td>
           <p>2.10</p>
@@ -393,16 +421,16 @@ DATA_COMP: >-
       </tr>
       <tr>
         <td>
-          <p>&#xA0;</p>
+          <p> </p>
         </td>
         <td>
-          <p>&#xA0;</p>
+          <p> </p>
         </td>
         <td>
-          <p>&#xA0;</p>
+          <p> </p>
         </td>
         <td>
-          <p>&#xA0;</p>
+          <p> </p>
         </td>
         <td>
           <p><strong>Indicator weight</strong></p>
@@ -413,59 +441,19 @@ DATA_COMP: >-
       </tr>
       <tr>
         <td>
-          <p>&#xA0;</p>
+          <p> </p>
         </td>
         <td>
-          <p>&#xA0;</p>
+          <p> </p>
         </td>
         <td>
-          <p>&#xA0;</p>
+          <p> </p>
         </td>
         <td>
-          <p>&#xA0;</p>
-        </td>
-        <td colspan="3">
-          <p>&#xA0;</p>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <p>&#xA0;</p>
+          <p> </p>
         </td>
         <td>
-          <p>&#xA0;</p>
-        </td>
-        <td>
-          <p>&#xA0;</p>
-        </td>
-        <td>
-          <p>&#xA0;</p>
-        </td>
-        <td>
-          <p><em>&#xA0;</em></p>
-        </td>
-        <td>
-          <p><em>Sub-variables</em></p>
-        </td>
-        <td>
-          <p><em>Weight</em></p>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <p>&#xA0;</p>
-        </td>
-        <td>
-          <p>&#xA0;</p>
-        </td>
-        <td>
-          <p>&#xA0;</p>
-        </td>
-        <td>
-          <p>&#xA0;</p>
-        </td>
-        <td rowspan="2">
-          <p><strong><em>Variable 3</em></strong></p>
+          <p><em> </em></p>
         </td>
         <td>
           <p>3.1</p>
@@ -476,16 +464,19 @@ DATA_COMP: >-
       </tr>
       <tr>
         <td>
-          <p>&#xA0;</p>
+          <p> </p>
         </td>
         <td>
-          <p>&#xA0;</p>
+          <p> </p>
         </td>
         <td>
-          <p>&#xA0;</p>
+          <p> </p>
         </td>
         <td>
-          <p>&#xA0;</p>
+          <p> </p>
+        </td>
+        <td>
+          <p><strong><em>Variable 3</em></strong></p>
         </td>
         <td>
           <p><strong>Indicator weight</strong></p>
@@ -520,13 +511,15 @@ DATA_COMP: >-
   <p>Once the specific score has been determined for each country, countries
   will be classified into a number of bands, ranging from a low to a high degree
   of implementation, and thus effectively translate a synthetic score into a
-  tangible and intuitive metric for countries. </p>
+  tangible and intuitive metric for countries.</p>
+DATA_VALIDATION: >-
+  <p>Upon completing the questionnaire, States are provided with a condensed
+  report showing their responses to relevant questions within the questionnaire
+  for the indicator and the resulting SDG indicator score for their
+  validation.</p>
+ADJUSTMENT: <p>Not applicable</p>
 IMPUTATION: >-
-  <h2>Treatment of missing values:</h2>
-
-  <ul>
-    <li><strong><em>At country level:</em></strong></li>
-  </ul>
+  <p>&#x2022; At country level</p>
 
   <p>The most appropriate methodology for producing estimates for the indicator
   when the country data are not available would be the use of expert
@@ -535,14 +528,10 @@ IMPUTATION: >-
   indicator asses the state of management/ policy implementation at a national
   level, not values that could be readily inputted. </p>
 
-  <ul>
-    <li><strong><em>At regional and global levels:</em></strong></li>
-  </ul>
+  <p>&#x2022; At regional and global levels</p>
 
   <p>Not applicable</p>
 REG_AGG: >-
-  <h2>Regional aggregates:</h2>
-
   <p>The categorization into the respective bands will also apply in the case of
   regional and global aggregates for this indicator. Once the mean score for an
   SDG region has been calculated, the region will be classified into a
@@ -552,29 +541,55 @@ REG_AGG: >-
   <p>Data is combined for the respective nations within a region, as a count of
   the number of countries by Band, and this can be further aggregated to the
   global level without the need for any weighting of national or regional
-  scores. </p>
+  scores.</p>
 DOC_METHOD: >-
-  <h2>Methods and guidance available to countries for the compilation of the
-  data at the national level:</h2>
-
   <p>Data is collected through an electronic questionnaire submitted by FAO to
   the country focal points for the CCRF questionnaire, usually in the national
   fisheries administration. Data are validated upon intake of the
   questionnaires. No adjustments are required for the data for definitions nor
   for classification or demographic harmonization.</p>
-QUALITY_ASSURE: |-
-  <h2>Quality assurance:</h2>
-  <ul>
-    <li>Data are checked for their correctness; completeness; consistency along the process of data entry, and/or through a specific statistical analysis as the yearly data set is closed. </li>
-    <li>The indicator relies on data generated through the CCRF questionnaire which is filled in by countries on a biannual basis. To facilitate reporting of the CCRF-based SDG indicators, a tailor-made data processing tool has been developed within the framework of the existing CCRF questionnaire online platform. Upon submission of the questionnaire by the user, an indicator report will automatically be generated for final validation by the country.</li>
-  </ul>
-COVERAGE: >-
-  <h1>Data availability</h1>
+QUALITY_MGMNT: >-
+  <p> FAO is responsible for the quality of the internal statistical processes
+  used to compile the published datasets. The FAO Statistics Quality Assurance
+  Framework (SQAF), available at: <a
+  href="http://www.fao.org/docrep/019/i3664e/i3664e.pdf">http://www.fao.org/docrep/019/i3664e/i3664e.pdf</a>,
+  provides the necessary principles, guidelines and tools to carry out quality
+  assessments. FAO is performing an internal bi-annual survey (FAO Quality
+  Assessment and Planning Survey) designed to gather information on all of
+  FAO&#x2019;s statistical activities, notably to assess the extent to which
+  quality standards are being implemented with a view to increasing compliance
+  with the quality dimensions of SQAF, documenting best practices and prepare
+  quality improvement plans, where necessary. Domain-specific quality assurance
+  activities are carried out systematically (e.g. quality reviews,
+  self-assessments, compliance monitoring).</p>
+QUALITY_ASSURE: >-
+  <p>&#x2022; Data are checked for their correctness; completeness; consistency
+  along the process of data entry, and/or through a specific statistical
+  analysis as the yearly data set is closed. </p>
 
-  <h2>Description:</h2>
+  <p>&#x2022; The indicator relies on data generated through the CCRF
+  questionnaire which is filled in by countries on a biannual basis. To
+  facilitate reporting of the CCRF-based SDG indicators, a tailor-made data
+  processing tool has been developed within the framework of the existing CCRF
+  questionnaire online platform. Upon submission of the questionnaire by the
+  user, an indicator report will automatically be generated for final validation
+  by the country.</p>
+QUALITY_ASSMNT: >-
+  <p> From 2022 data series onwards, questions of a factual nature used to
+  indicate applicability of the indicator or to calculate the score of the
+  indicator, such as whether a country is landlocked or whether it is a Party to
+  a relevant international instrument will be pre-compiled. Official sources
+  will be used to conduct this activity such as the depository of the relevant
+  international binding instrument.</p>
+
+  <p>This activity will be conducted for the following questions, please refer
+  to Appendix 1 for full text of referenced question: A.1, 1.1, 2.1, 4.1 and
+  5.1</p>
+COVERAGE: >-
+  <p>Data availability:</p>
 
   <p>In 2016, 92 countries and the European Union replied to the questionnaire
-  section on the three indicators to measure target performance for 14.b.1.</p>
+  section on the three indicators to measure target performance for 14.b.1 </p>
 
   <p>Breakdown of the number of countries covered by region is as follows:</p>
 
@@ -588,11 +603,6 @@ COVERAGE: >-
         <th>
           <p>Nature of data</p>
         </th>
-      </tr>
-      <tr>
-        <th></th>
-        <th></th>
-        <th></th>
       </tr>
     </thead>
     <tbody>
@@ -918,17 +928,17 @@ COVERAGE: >-
     </tbody>
   </table>
 
-  <h2>Time series:</h2>
+  <p><strong>Time series:</strong></p>
 
   <p>2016 (baseline)</p>
 
-  <h2>Disaggregation:</h2>
+  <p>Disaggregation:</p>
 
   <p>The disaggregation level is the national level. No demographic features are
   included in the indicators and are thus excluded from the consideration of
-  level of disaggregation. </p>
+  level of disaggregation.</p>
 COMPARABILITY: >-
-  <h2>Sources of discrepancies:</h2>
+  <p>Sources of discrepancies:</p>
 
   <p>There might be differences between a national estimated based on an expert
   judgment, in case of country data is not available, and the answer a country
@@ -938,23 +948,21 @@ COMPARABILITY: >-
   verifiable in this type of surveys that means countries will by tendency
   report a better reality that the one indeed in place.</p>
 OTHER_DOC: >-
-  <h1>References</h1>
+  <p>URL: </p>
 
-  <h2>URL: </h2>
+  <p>&#x2022; SDG 14.b
+  http://www.fao.org/sustainable-development-goals/indicators/14.b.1/en/</p>
 
-  <p>SDG 14.b <a
-  href="http://www.fao.org/sustainable-development-goals/indicators/14.b.1/en/">http://www.fao.org/sustainable-development-goals/indicators/14.b.1/en/</a></p>
+  <p>&#x2022; e-learning course on SDG indicator 14.b.1:
+  http://www.fao.org/elearning/#/elc/en/course/SDG14B1</p>
 
-  <p>e-learning course on SDG indicator 14.b.1: <a
-  href="http://www.fao.org/elearning/%23/elc/en/course/SDG14B1">http://www.fao.org/elearning/#/elc/en/course/SDG14B1</a></p>
+  <p>References:</p>
 
-  <h2>References:</h2>
-
-  <p>32<sup>nd</sup> Session of the FAO Committee on Fisheries &#x2013; relevant
+  <p>32nd Session of the FAO Committee on Fisheries &#x2013; relevant
   documents:</p>
 
-  <ul>
-    <li><a href="http://www.fao.org/3/a-mq663e.pdf">http://www.fao.org/3/a-mq663e.pdf</a></li>
-    <li><a href="http://www.fao.org/3/a-mq873e.pdf">http://www.fao.org/3/a-mq873e.pdf</a></li>
-    <li><a href="http://www.fao.org/3/a-bo076e.pdf">http://www.fao.org/3/a-bo076e.pdf</a></li>
-  </ul>
+  <p>&#x2022; http://www.fao.org/3/a-mq663e.pdf</p>
+
+  <p>&#x2022; http://www.fao.org/3/a-mq873e.pdf</p>
+
+  <p>&#x2022; http://www.fao.org/3/a-bo076e.pdf</p>

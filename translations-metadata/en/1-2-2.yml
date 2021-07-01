@@ -1,0 +1,2149 @@
+SDG_INDICATOR_INFO: ''
+SDG_GOAL: '<p>Goal 1: End poverty in all its forms everywhere</p>'
+SDG_TARGET: >-
+  <p>Target 1.2: By 2030, reduce at least by half the proportion of men, women
+  and children of all ages living in poverty in all its dimensions according to
+  national definitions</p>
+SDG_INDICATOR: >-
+  <p>Indicator: 1.2.2: Proportion of men, women and children of all ages living
+  in poverty in all its dimensions according to national definitions</p>
+SDG_SERIES_DESCR: >-
+  <p>Proportion of population living in poverty in all its dimensions according
+  to national definitions [1.2.2] (SI_POV_NMPI)</p>
+
+  <p>Average proportion of deprivations for people multidimensionally poor
+  [1.2.2] (SD_MDP_ANDI)</p>
+
+  <p>Proportion of children living in child-specific multidimensional poverty
+  [1.2.2] (SD_MDP_CSMP)</p>
+
+  <p>Proportion of households living in multidimensional poverty [1.2.2]
+  (SD_MDP_MUHHC)</p>
+META_LAST_UPDATE: <p>28 May 2020</p>
+SDG_CUSTODIAN_AGENCIES: '<p>The World Bank, UNICEF, and UNDP</p>'
+CONTACT: ''
+CONTACT_ORGANISATION: '<p>The World Bank, UNICEF, UNDP</p>'
+ORGANISATION_UNIT: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  <p><strong>Definition:</strong></p>
+
+  <p>The following four series are used to monitor the SDG 1.2.2. </p>
+
+  <ol>
+    <li>Official multidimensional poverty headcount, by sex, and age (% of population)</li>
+  </ol>
+
+  <ul>
+    <li>The percentage of people who are multidimensionally poor</li>
+  </ul>
+
+  <ol>
+    <li>Average number of deprivations (intensity)</li>
+  </ol>
+
+  <ul>
+    <li>The average percentage of dimensions in which poor people are deprived</li>
+  </ul>
+
+  <ol>
+    <li>Official multidimensional poverty headcount (% of total households)</li>
+  </ol>
+
+  <ul>
+    <li>The percentage of households who are multidimensionally poor</li>
+  </ul>
+
+  <ol>
+    <li>Multidimensional deprivation for children (% of population under 18)</li>
+  </ol>
+
+  <ul>
+    <li>The percentage of children who are simultaneously deprived in multiple dimensions of well-being</li>
+  </ul>
+
+  <p><strong>Concepts:</strong></p>
+
+  <p>Official multidimensional poverty headcount is calculated by each country
+  using different methodologies. The most commonly used method is Alkire Foster
+  (AF) methodology which identifies dimensions, typically health, education and
+  living standards and several indicators in each dimension. The unit of
+  analysis could be either individual or household. The individuals or
+  households are considered as multidimensionally poor if they are deprived in
+  multiple indicators exceeding certain thresholds. </p>
+
+  <p>On the other hand, EU countries and North Macedonia use a completely
+  different approach to measure the multidimensional poverty using the concept
+  of &quot;people at risk of poverty or social exclusion&quot; (AROPE). AROPE
+  consists of three indicators, and people will be considered as &quot;at risk
+  of poverty or social exclusion&quot; if they are &quot;at risk of
+  poverty&quot; or &quot;severely materially deprived&quot; or &quot;living in a
+  household with a very low work intensity&quot;. </p>
+
+  <p>Multidimensional deprivation for children is calculated based on the
+  methodology called as Multiple Overlapping Deprivation Analysis (MODA). A
+  child is considered multidimensionally poor if s/he is simultaneously deprived
+  in multiple dimensions. It also identifies dimensions and indicators under
+  each dimension, and has a similar structure with the AF methodology. However,
+  it is strikingly different in that it focuses on the life-cycle of children
+  and creates different sets of dimensions and indicators for different age
+  groups, for instance, 0-4, 5-11, 12-14, 15-17, and conducts analysis
+  separately for each age group. In the global SDG database, the
+  multidimensional poverty headcount (%) for overall 0-17 age range has been
+  used.</p>
+UNIT_MEASURE: >-
+  <p>Proportion of population living in poverty in all its dimensions according
+  to national definitions [1.2.2] (SI_POV_NMPI) (%)</p>
+
+  <p>Average proportion of deprivations for people multidimensionally poor
+  [1.2.2] (SD_MDP_ANDI) (%)</p>
+
+  <p>Proportion of children living in child-specific multidimensional poverty
+  [1.2.2] (SD_MDP_CSMP) (%)</p>
+
+  <p>Proportion of households living in multidimensional poverty [1.2.2]
+  (SD_MDP_MUHHC) (%)</p>
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  <p>Data sources and methods used for data collection differ from survey to
+  survey. For details, please refer to the official documentation through the
+  links listed at the end.</p>
+COLL_METHOD: >-
+  <p>The data has been validated by three-stage approach. First, the data has
+  been input by the poverty economists in the World Bank for each country, and
+  that data has been sent to UNICEF and UNDP officers who are in charge of each
+  country for the validation of the data. After integrating modification
+  suggested from these two agencies, the data has been sent to the SDGs focal
+  point personnel in the counterpart in each country for their final approval.
+  Regarding those countries where we do not have any country offices such as
+  OECD and EU countries, the World Bank collected the information based on the
+  data source available online, and sent it directly to the official
+  counterparts of each country.</p>
+REL_CAL_POLICY: >-
+  <p><strong>Data release:</strong></p>
+
+  <p>EU countries and some Latin American countries such as Costa Rica and
+  Ecuador conduct the survey and produce multidimensional indicators every year,
+  but most of the developing countries, especially African countries have
+  published multidimensional measurement only once in the last 10 years, or
+  spasmodically when the funding was available. Therefore, for these countries,
+  it is difficult to state definitely when the next data is available.</p>
+DATA_SOURCE: >-
+  <p>Following is the list of national data providers responsible for producing
+  the data at the national level.</p>
+
+  <table>
+    <tbody>
+      <tr>
+        <td>
+          <p><strong>Country</strong></p>
+        </td>
+        <td>
+          <p><strong>Source</strong></p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>Afghanistan</p>
+        </td>
+        <td>
+          <p>National Statistics and Information Authority (NSIA)</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>Angola</p>
+        </td>
+        <td>
+          <p>National Statistics Institute (INE) of Angola</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>Armenia</p>
+        </td>
+        <td>
+          <p>Statistical Committee of Republic of Armenia</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>Austria</p>
+        </td>
+        <td>
+          <p>EUROSTAT</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>Belgium</p>
+        </td>
+        <td>
+          <p>EUROSTAT</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>Bhutan</p>
+        </td>
+        <td>
+          <p>National Statistics Bureau</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>Bulgaria</p>
+        </td>
+        <td>
+          <p>EUROSTAT</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>Burundi</p>
+        </td>
+        <td>
+          <p>Burundi Institute of Statistics and Economic Studies</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>Chile</p>
+        </td>
+        <td>
+          <p>Ministerio de Desarrollo Social</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>Columbia</p>
+        </td>
+        <td>
+          <p>National Administrative Department of Statistics (DANE)</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>Costa Rica</p>
+        </td>
+        <td>
+          <p>The National Institute of Statistics and Census of Costa Rica</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>Croatia</p>
+        </td>
+        <td>
+          <p>EUROSTAT</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>Cyprus</p>
+        </td>
+        <td>
+          <p>EUROSTAT</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>Dominican Republic</p>
+        </td>
+        <td>
+          <p>Ministry of Economy, Planning and Development</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>Ecuador</p>
+        </td>
+        <td>
+          <p>National Institute of Statistics and Census (INEC), Ministry of Social Development Coordination and National Secretary of Planning and Development</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>Egypt</p>
+        </td>
+        <td>
+          <p>The Ministry of Social Solidarity (MoSS), the Central Agency for Public Mobilization and Statistics (CAPMAS)</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>El Salvador</p>
+        </td>
+        <td>
+          <p>Secretar&#xED;a T&#xE9;cnica y de Planificaci&#xF3;n Presidencia</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>Estonia</p>
+        </td>
+        <td>
+          <p>EUROSTAT</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>Finland</p>
+        </td>
+        <td>
+          <p>EUROSTAT</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>Germany</p>
+        </td>
+        <td>
+          <p>EUROSTAT</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>Ghana</p>
+        </td>
+        <td>
+          <p>Ghana Statistical Service, National Development Planning Commission</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>Greece</p>
+        </td>
+        <td>
+          <p>EUROSTAT</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>Guinea</p>
+        </td>
+        <td>
+          <p>INSTITUT NATIONAL DE LA STATISTIQUE</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>Guinea Bissau</p>
+        </td>
+        <td>
+          <p>La Direction Generale du Plan, Instituto Nacional de Estat&#xED;stica (INE)</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>Hungary</p>
+        </td>
+        <td>
+          <p>EUROSTAT</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>Ireland</p>
+        </td>
+        <td>
+          <p>EUROSTAT</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>Italy</p>
+        </td>
+        <td>
+          <p>EUROSTAT</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>Lithuania</p>
+        </td>
+        <td>
+          <p>EUROSTAT</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>Luxembourg</p>
+        </td>
+        <td>
+          <p>EUROSTAT</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>Mali</p>
+        </td>
+        <td>
+          <p>Institut National de la Statistique (INSTAT), La Cellule Technique de Coordination du Cadre Strat&#xE9;gique de Lutte contre la Pauvret&#xE9; (CT-CSCLP)</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>Malta</p>
+        </td>
+        <td>
+          <p>EUROSTAT</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>Mexico</p>
+        </td>
+        <td>
+          <p>Consejo Naciola de Evaluacion de la Politica de Desarrollo Social (CONEVAL)</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>Morocco</p>
+        </td>
+        <td>
+          <p>The high commission of planning</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>Mozambique</p>
+        </td>
+        <td>
+          <p>Ministry of Economics and Finance - Directorate of Economic and Financial Studies</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>Nepal</p>
+        </td>
+        <td>
+          <p>National Planning Commission</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>Netherlands</p>
+        </td>
+        <td>
+          <p>EUROSTAT</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>North Macedonia</p>
+        </td>
+        <td>
+          <p>State Statistical Office</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>Pakistan</p>
+        </td>
+        <td>
+          <p>Ministry of Planning Development &amp; Reform</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>Philippines</p>
+        </td>
+        <td>
+          <p>Philippine Statistics Authority</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>Poland</p>
+        </td>
+        <td>
+          <p>EUROSTAT</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>Romania</p>
+        </td>
+        <td>
+          <p>EUROSTAT</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>Rwanda</p>
+        </td>
+        <td>
+          <p>National Institute of Statistics of Rwanda</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>Seychelles</p>
+        </td>
+        <td>
+          <p>National Bureau of Statistics</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>Slovenia</p>
+        </td>
+        <td>
+          <p>EUROSTAT</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>Sweden</p>
+        </td>
+        <td>
+          <p>EUROSTAT</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>Thailand</p>
+        </td>
+        <td>
+          <p>National Economic and Social Development Council (NESDC)</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>Zambia</p>
+        </td>
+        <td>
+          <p>Ministry of National Development Planning</p>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+COMPILING_ORG: '<p>The World Bank, UNICEF, and UNDP </p>'
+OTHER_METHOD: ''
+RATIONALE: >-
+  <p><strong>Rationale:</strong></p>
+
+  <p>Poverty has traditionally been defined as the lack of money. However, the
+  poor themselves consider their experience of poverty much more broadly. A
+  person who is poor can suffer multiple disadvantages at the same time &#x2013;
+  for example, they may have poor health or malnutrition, a lack of clean water
+  or electricity, poor quality of work or little schooling. Focusing on one
+  factor alone, such as income, is not enough to capture the true reality of
+  poverty. Therefore, multidimensional poverty measures described above have
+  been developed to create a more comprehensive picture by looking at multiple
+  dimensions such as health, education, living standards. Official
+  multidimensional poverty headcount (% population), official multidimensional
+  poverty headcount (% of total households) and multidimensional deprivation for
+  children (% of population under 18) are all about the headcount ratio trying
+  to capture how many people, households, or children in the entire pool are
+  regarded as multidimensionally poor. On the other hand, average number of
+  deprivation tries to capture the depth of multidimensional poverty. For
+  instance, if there are 18 indicators to capture different dimensions of
+  poverty, a person or a household is considered to be deprived if they are
+  shown to be deprived in at least 4 indicators. Therefore, the person who is
+  deprived in 5 indicators, and the person who is deprived in 15 indicators are
+  considered to be both multidimensionally poor. The &apos;intensity&apos; of
+  the poverty is different between these two people, which is captured by the
+  average number of deprivation. </p>
+REC_USE_LIM: >-
+  <p><strong>Comments and limitations:</strong></p>
+
+  <p>It should be clearly noted that data in the above-mentioned series are not
+  comparable across countries. For instance, AF methodology and AROPE are
+  fundamentally very different, and although both produce some headcount ratio
+  of people who are considered as &quot;multidimensionally poor&quot;, their
+  definition of multidimensionality of poverty is utterly different, and so
+  should not be compared. Also, even when they use the same approach, such as,
+  AF, AROPE or MODA, the numbers are not comparable across countries, as the
+  important parameters to calculate the figures such as the number of
+  indicators, the weight allocated to each indicator, how to divide the age
+  group of children are tailored to the country specific context. Furthermore,
+  even in the same country, if the methodology is different, the number should
+  not be compared. For instance, some countries calculate child multidimensional
+  poverty headcount by using both AF and MODA methodologies, but their numbers
+  could be very different as the dimensions and indicators used in both
+  approaches differ significantly. To overcome these comparability issues, UNDP
+  produces global Multidimensional Poverty Index (MPI), which is the product of
+  multiplying multidimensional headcount and average number of deprivations
+  using the same dimensions and indicators covering more than 100 countries.
+  However, most of these numbers are not officially approved by each country,
+  and sometimes the nationally calculated MPI is different from the global MPI
+  due to some difference of the parameters, therefore, in this platform, the
+  global MPI is not included in the Global SDG Database. </p>
+DATA_COMP: >-
+  <p><strong>Computation Method:</strong></p>
+
+  <p><u>Official multidimensional poverty headcount (% of population)</u></p>
+
+  <p>First, we describe the AF methodology. Initially, the dimensions and
+  indicators should be chosen. In the standard approach of the AF methodology,
+  the dimension consists of health, education and living standards. Health
+  consists of two indicators; nutrition and child mortality. Education consists
+  of two indicators; years of schooling and school attendance. Living standards
+  contain six indicators which are cooking fuel, drinking water, sanitation,
+  electricity, housing and assets. Therefore, in this case, there are three
+  dimensions and ten indicators. </p>
+
+  <p>After dimensions and indicators are chosen, a deprivation cut-off is set
+  for each indicator. In the above example, it would yield a set of 10 binary
+  variables for every person - the value of 1 if the individual is deprived in
+  that indicator and 0 otherwise. Once the set of binary variables is
+  calculated, each person is assigned a deprivation score denoted as c,
+  indicating the proportion of deprivations weighted by the relative importance
+  of each indicator. The deprivation score c is defined to take values ranging
+  between 0 (indicating that the person does not experience any weighted
+  deprivations) and 1 (indicating that they experience weighted deprivations in
+  all the 10 indicators). Then to identify people who suffer multidimensional
+  poverty in the country, the deprivation score c is compared to a poverty
+  cut-off point. All people suffering deprivations in a number of weighted
+  deprivations equal to or greater than this cut-off are identified as
+  multidimensionally poor. Further details on AF methodology can be found <a
+  href="https://ophi.org.uk/research/multidimensional-poverty/">here</a>. It
+  should be noted that although the country adopts AF methodology to measure
+  multidimensional poverty, the sets of dimensions and indicators could be
+  different country by country, as they would be tailored to specific contexts
+  of each country. For the detailed methodology used to calculate the
+  country-specific multidimensional poverty indicators, please refer to the
+  official documentation through the links listed at the end.</p>
+
+  <p>Secondly, we describe the AROPE methodology. As mentioned above, the AROPE
+  consists of three indicators, which are &quot;at risk of poverty&quot; or
+  &quot;severely materially deprived&quot; or &quot;living in a household with a
+  very low work intensity&quot;. The &quot;at risk of poverty rate&quot; is the
+  share of people with an equivalised disposable income below the
+  at-risk-of-poverty threshold, which is set at 60% of the national median
+  equivalised disposable income after social transfers. The equivalised
+  disposable income is the total income of a household, after tax and other
+  deductions, that is available for spending or saving, divided by the number of
+  household members converted into equalised adults; household members are
+  equalised or made equivalent by weighting each according to their age, using
+  the so-called modified OECD equivalence scale. For poverty indicators, the
+  equivalised disposable income is calculated from the total disposable income
+  of each household divided by the equivalised household size. The income
+  reference period is a fixed 12-month period (such as the previous calendar or
+  tax year) for all countries except the UK for which the income reference
+  period is the current year and Ireland for which the survey is continuous and
+  income is collected for the last twelve months. </p>
+
+  <p>Material deprivation refers to a state of economic strain and durables,
+  defined as the enforced inability (rather than the <em>choice</em> not to do
+  so) to pay unexpected expenses, afford a one-week annual holiday away from
+  home, a meal involving meat, chicken or fish every second day, the adequate
+  heating of a dwelling, durable goods like a washing machine, colour
+  television, telephone or car, being confronted with payment arrears (mortgage
+  or rent, utility bills, hire purchase installments or other loan payments).
+  The material deprivation rate is an indicator in <a
+  href="https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Glossary:EU_statistics_on_income_and_living_conditions_(EU-SILC)">EU-SILC</a>
+  that expresses the inability to afford some items considered by most people to
+  be desirable or even necessary to lead an adequate life. The indicator
+  distinguishes between individuals who cannot afford a certain good or service,
+  and those who do not have this good or service for another reason, e.g.,
+  because they do not want or do not need it. The indicator adopted by the <a
+  href="http://ec.europa.eu/employment_social/spsi/social_protection_committee_en.htm">Social
+  protection committee</a> measures the percentage of the population that cannot
+  afford at least three of the following nine items: 1) to pay their rent,
+  mortgage or utility bills; 2) to keep their home adequately warm; 3) to face
+  unexpected expenses; 4) to eat meat or proteins regularly; 5) to go on
+  holiday; 6) a television set; 7) a washing machine; 8) a car; 9) a telephone.
+  Severe material deprivation rate is defined as the enforced inability to pay
+  for at least four of the above-mentioned items.</p>
+
+  <p>The indicator &quot;persons living in households with very low work
+  intensity&quot; is defined as the number of persons living in a <a
+  href="https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Glossary:Household_-_social_statistics">household</a>
+  where the members of working age worked less than 20 % of their total
+  potential during the previous 12 months. The work intensity of a household is
+  the ratio of the total number of months that all working-age household members
+  have worked during the income <a
+  href="https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Glossary:Reference_year">reference
+  year</a> and the total number of months the same household members
+  theoretically could have worked in the same period. A working-age person is a
+  person aged 18-59 years, with the exclusion of students in the age group
+  between 18 and 24 years. Households composed only of children, of students
+  aged less than 25 and/or people aged 60 or more are completely excluded from
+  the indicator calculation. Further details on AROPE methodology can be found
+  <a
+  href="https://ec.europa.eu/eurostat/statistics-explained/index.php/Glossary:At_risk_of_poverty_or_social_exclusion_(AROPE)">here</a>.</p>
+
+  <p><u>Average number of deprivations (intensity)</u></p>
+
+  <p>The multidimensional headcount is a useful measure, but it does not
+  increase if poor people become more deprived. Because of that, we need a
+  different set of measures, which is the average number of deprivations, also
+  known as intensity. Intensity is calculated by adding up the proportion of
+  total deprivations each person suffers and dividing by the total number of
+  poor persons. For example, if say person 1 suffers 4 out of 6 deprivations and
+  person 2 suffers 6 out of 6, and then the intensity will be calculated as (4/6
+  + 6/6)/2=5/6.</p>
+
+  <p><u>Official multidimensional poverty headcount (% of total
+  households)</u></p>
+
+  <p>The calculation methodology is the same as the AF methodology described
+  above, except for that the unit of analysis is household instead of
+  individuals.</p>
+
+  <p><u>Multidimensional deprivation for children (% of population under
+  18)</u></p>
+
+  <p>In order to measure multidimensional poverty based on the MODA methodology,
+  dimensions of children&apos;s well-being that best reflect the situation of
+  poverty in the country should be defined. Each dimension of well-being is
+  measured by a set of indicators based on available data. The selection of
+  indicators and dimensions should be guided by data availability and relevance
+  to children&apos;s needs and rights in each country&apos;s context. Given the
+  life cycle approach emphasizing that children have different needs throughout
+  the different phases of their childhood development, the selection of
+  dimensions as well as the findings and results are disaggregated by age
+  groups. Then a deprivation threshold is set for each indicator so that a child
+  can be classified as either deprived or non-deprived in each indicator. For
+  the multidimensional deprivation analysis, the number of dimensions in which a
+  child is deprived is counted and then the percentage of children suffering
+  from zero, one, two, three, etc deprivations is presented to see the
+  distribution of deprivation. A cut-off point, or &quot;deprivation
+  threshold&quot; (k) is used to define whether the child is multidimensionally
+  poor or not and based on that, the percentage of multidimensionally poor
+  children is calculated. It is important to note that a country-specific
+  analysis is carried out adjusting the choice of dataset, age groups,
+  dimensions, indicators and thresholds to better reflect each country&apos;s
+  context and so the results presented in one country are not comparable with
+  the findings of other countries on multidimensional poverty. Further details
+  on MODA methodology can be found <a
+  href="https://www.unicef-irc.org/publications/695-step-by-step-guidelines-to-the-multiple-overlapping-deprivation-analysis-moda.html">here</a>.</p>
+IMPUTATION: >-
+  <ul>
+    <li>At country level</li>
+  </ul>
+
+  <p>The treatment of missing values differs from survey to survey. For details,
+  please refer to the official documentation through the links listed at the
+  end.</p>
+
+  <ul>
+    <li>At regional and global levels</li>
+  </ul>
+
+  <p>No estimation by international agencies has been implemented for missing
+  values in this data.</p>
+REG_AGG: >-
+  <p>Since the data for indicator 1.2.2 are based on the national definitions of
+  poverty &#x2013; and the methodologies used to produce them are different, as
+  described in the &#x201C;comments and limitations&#x201D; section, data are
+  not comparable across countries. Thus regional and global aggregates are not
+  produced.</p>
+QUALITY_ASSURE: >-
+  <p>Initially, the data has been input by poverty economists, which has been
+  checked carefully together with the metadata information by the central team
+  for monitoring SDGs 1.2.2 in the World Bank. Then data has been sent to the
+  UNDP and UNICEF for further verification.</p>
+COVERAGE: >-
+  <p>Official multidimensional poverty headcount (% population) is disaggregated
+  by sex and age. The age band for official multidimensional poverty headcount
+  for children is mostly 0-17, but some countries have different age definition
+  for children, such as 0-15 in El Salvador.</p>
+
+  <p><strong>Description:</strong></p>
+
+  <p>47 countries&apos; multidimensional poverty measurement are available.
+  However, the data availability over time differs greatly from country to
+  country. Please see the subsection, &#x201C;Time series&#x201D; below for
+  further information. </p>
+
+  <p><strong>Time series:</strong></p>
+
+  <p>The following table shows how many of the 5 headcount data (population,
+  household, male, female, children) is available in each country. The little
+  rectangular mark indicates that the intensity data is available as well and
+  the double circle shows that the data on multidimensional deprivation for
+  children is also available.</p>
+
+  <table>
+    <tbody>
+      <tr>
+        <td colspan="2">
+          <p><strong>Country</strong></p>
+        </td>
+        <td>
+          <p><strong>2010</strong></p>
+        </td>
+        <td>
+          <p><strong>2011</strong></p>
+        </td>
+        <td colspan="2">
+          <p><strong>2012</strong></p>
+        </td>
+        <td>
+          <p><strong>2013</strong></p>
+        </td>
+        <td>
+          <p><strong>2014</strong></p>
+        </td>
+        <td>
+          <p><strong>2015</strong></p>
+        </td>
+        <td>
+          <p><strong>2016</strong></p>
+        </td>
+        <td>
+          <p><strong>2017</strong></p>
+        </td>
+        <td>
+          <p><strong>2018</strong></p>
+        </td>
+        <td>
+          <p><strong>2019</strong></p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2">
+          <p>Afghanistan</p>
+        </td>
+        <td></td>
+        <td></td>
+        <td colspan="2"></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>
+          <p>&#xF070;</p>
+        </td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td colspan="2">
+          <p>Angola</p>
+        </td>
+        <td></td>
+        <td></td>
+        <td colspan="2"></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>
+          <p>&#x25CE;</p>
+        </td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td colspan="2">
+          <p>Armenia</p>
+        </td>
+        <td></td>
+        <td></td>
+        <td colspan="2"></td>
+        <td>
+          <p>&#x25CE;</p>
+        </td>
+        <td>
+          <p>&#x25CE;</p>
+        </td>
+        <td>
+          <p>&#x25CE;</p>
+        </td>
+        <td>
+          <p>&#x25CE;</p>
+        </td>
+        <td>
+          <p>&#x25CE;</p>
+        </td>
+        <td>
+          <p>&#xF070;</p>
+        </td>
+        <td></td>
+      </tr>
+      <tr>
+        <td colspan="2">
+          <p>Austria</p>
+        </td>
+        <td></td>
+        <td></td>
+        <td colspan="2"></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td colspan="2">
+          <p>Belgium</p>
+        </td>
+        <td></td>
+        <td></td>
+        <td colspan="2"></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td colspan="2">
+          <p>Bhutan</p>
+        </td>
+        <td></td>
+        <td></td>
+        <td colspan="2">
+          <p>&#xF070;</p>
+        </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>
+          <p>&#xF070;</p>
+        </td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td colspan="2">
+          <p>Bulgaria</p>
+        </td>
+        <td></td>
+        <td></td>
+        <td colspan="2"></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td colspan="2">
+          <p>Burundi</p>
+        </td>
+        <td></td>
+        <td></td>
+        <td colspan="2"></td>
+        <td></td>
+        <td>
+          <p>&#xF070;</p>
+        </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td colspan="2">
+          <p>Chile</p>
+        </td>
+        <td></td>
+        <td></td>
+        <td colspan="2"></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td colspan="2">
+          <p>Columbia</p>
+        </td>
+        <td>
+          <p>&#xF070;</p>
+        </td>
+        <td>
+          <p>&#xF070;</p>
+        </td>
+        <td colspan="2">
+          <p>&#xF070;</p>
+        </td>
+        <td>
+          <p>&#xF070;</p>
+        </td>
+        <td>
+          <p>&#xF070;</p>
+        </td>
+        <td>
+          <p>&#xF070;</p>
+        </td>
+        <td>
+          <p>&#xF070;</p>
+        </td>
+        <td></td>
+        <td>
+          <p>&#xF070;</p>
+        </td>
+        <td></td>
+      </tr>
+      <tr>
+        <td colspan="2">
+          <p>Costa Rica</p>
+        </td>
+        <td>
+          <p>&#xF070;</p>
+        </td>
+        <td>
+          <p>&#xF070;</p>
+        </td>
+        <td colspan="2">
+          <p>&#xF070;</p>
+        </td>
+        <td>
+          <p>&#xF070;</p>
+        </td>
+        <td>
+          <p>&#xF070;</p>
+        </td>
+        <td>
+          <p>&#xF070;</p>
+        </td>
+        <td>
+          <p>&#xF070;</p>
+        </td>
+        <td>
+          <p>&#xF070;</p>
+        </td>
+        <td>
+          <p>&#xF070;</p>
+        </td>
+        <td>
+          <p>&#xF070;</p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2">
+          <p>Croatia</p>
+        </td>
+        <td></td>
+        <td></td>
+        <td colspan="2"></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td colspan="2">
+          <p>Cyprus</p>
+        </td>
+        <td></td>
+        <td></td>
+        <td colspan="2"></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td colspan="2">
+          <p>Dominican Republic</p>
+        </td>
+        <td>
+          <p>&#xF070;</p>
+        </td>
+        <td>
+          <p>&#xF070;</p>
+        </td>
+        <td colspan="2">
+          <p>&#xF070;</p>
+        </td>
+        <td>
+          <p>&#xF070;</p>
+        </td>
+        <td>
+          <p>&#xF070;</p>
+        </td>
+        <td>
+          <p>&#xF070;</p>
+        </td>
+        <td>
+          <p>&#xF070;</p>
+        </td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td colspan="2">
+          <p>Ecuador</p>
+        </td>
+        <td>
+          <p>&#xF070;</p>
+        </td>
+        <td>
+          <p>&#xF070;</p>
+        </td>
+        <td colspan="2">
+          <p>&#xF070;</p>
+        </td>
+        <td>
+          <p>&#xF070;</p>
+        </td>
+        <td>
+          <p>&#xF070;</p>
+        </td>
+        <td>
+          <p>&#xF070;</p>
+        </td>
+        <td>
+          <p>&#xF070;</p>
+        </td>
+        <td>
+          <p>&#xF070;</p>
+        </td>
+        <td>
+          <p>&#xF070;</p>
+        </td>
+        <td>
+          <p>&#xF070;</p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2">
+          <p>Egypt</p>
+        </td>
+        <td></td>
+        <td></td>
+        <td colspan="2"></td>
+        <td></td>
+        <td>
+          <p>&#x25CE;</p>
+        </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td colspan="2">
+          <p>El Salvador</p>
+        </td>
+        <td></td>
+        <td></td>
+        <td colspan="2"></td>
+        <td></td>
+        <td>
+          <p>&#xF070;</p>
+        </td>
+        <td></td>
+        <td>
+          <p>&#xF070;</p>
+        </td>
+        <td>
+          <p>&#xF070;</p>
+        </td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td colspan="2">
+          <p>Estonia</p>
+        </td>
+        <td></td>
+        <td></td>
+        <td colspan="2"></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td colspan="2">
+          <p>Finland</p>
+        </td>
+        <td></td>
+        <td></td>
+        <td colspan="2"></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td colspan="2">
+          <p>Germany</p>
+        </td>
+        <td></td>
+        <td></td>
+        <td colspan="2"></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td colspan="2">
+          <p>Ghana</p>
+        </td>
+        <td>
+          <p>&#xF070;</p>
+        </td>
+        <td></td>
+        <td colspan="2"></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>
+          <p>&#x25CE;</p>
+        </td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td colspan="2">
+          <p>Greece</p>
+        </td>
+        <td></td>
+        <td></td>
+        <td colspan="2"></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td colspan="2">
+          <p>Guinea</p>
+        </td>
+        <td></td>
+        <td></td>
+        <td colspan="2"></td>
+        <td></td>
+        <td>
+          <p>&#xF070;</p>
+        </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td colspan="2">
+          <p>Guinea Bissau</p>
+        </td>
+        <td>
+          <p>&#xF070;</p>
+        </td>
+        <td></td>
+        <td colspan="2"></td>
+        <td></td>
+        <td>
+          <p>&#xF070; &#x25CE;</p>
+        </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td colspan="2">
+          <p>Hungary</p>
+        </td>
+        <td></td>
+        <td></td>
+        <td colspan="2"></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td colspan="2">
+          <p>Ireland</p>
+        </td>
+        <td></td>
+        <td></td>
+        <td colspan="2"></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td colspan="2">
+          <p>Italy</p>
+        </td>
+        <td></td>
+        <td></td>
+        <td colspan="2"></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td colspan="2">
+          <p>Lithuania</p>
+        </td>
+        <td></td>
+        <td></td>
+        <td colspan="2"></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td colspan="2">
+          <p>Luxembourg</p>
+        </td>
+        <td></td>
+        <td></td>
+        <td colspan="2"></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td colspan="2">
+          <p>Mali</p>
+        </td>
+        <td>
+          <p>&#x25CE;</p>
+        </td>
+        <td></td>
+        <td colspan="2"></td>
+        <td></td>
+        <td></td>
+        <td>
+          <p>&#x25CE;</p>
+        </td>
+        <td>
+          <p>&#xF070;</p>
+        </td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td colspan="2">
+          <p>Malta</p>
+        </td>
+        <td></td>
+        <td></td>
+        <td colspan="2"></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td colspan="2">
+          <p>Mexico</p>
+        </td>
+        <td>
+          <p>&#xF070;</p>
+        </td>
+        <td></td>
+        <td colspan="2">
+          <p>&#xF070;</p>
+        </td>
+        <td></td>
+        <td>
+          <p>&#xF070;</p>
+        </td>
+        <td></td>
+        <td>
+          <p>&#xF070;</p>
+        </td>
+        <td></td>
+        <td>
+          <p>&#xF070;</p>
+        </td>
+        <td></td>
+      </tr>
+      <tr>
+        <td colspan="2">
+          <p>Morocco</p>
+        </td>
+        <td></td>
+        <td>
+          <p>&#xF070;</p>
+        </td>
+        <td colspan="2"></td>
+        <td></td>
+        <td>
+          <p>&#xF070;</p>
+        </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td colspan="2">
+          <p>Mozambique</p>
+        </td>
+        <td></td>
+        <td></td>
+        <td colspan="2"></td>
+        <td></td>
+        <td>
+          <p>&#xF070;</p>
+        </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td colspan="2">
+          <p>Nepal</p>
+        </td>
+        <td></td>
+        <td></td>
+        <td colspan="2"></td>
+        <td></td>
+        <td>
+          <p>&#xF070;</p>
+        </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td colspan="2">
+          <p>Netherlands</p>
+        </td>
+        <td></td>
+        <td></td>
+        <td colspan="2"></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td colspan="2">
+          <p>North Macedonia</p>
+        </td>
+        <td></td>
+        <td></td>
+        <td colspan="2"></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td colspan="2">
+          <p>Pakistan</p>
+        </td>
+        <td></td>
+        <td></td>
+        <td colspan="2"></td>
+        <td></td>
+        <td></td>
+        <td>
+          <p>&#xF070;</p>
+        </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td colspan="2">
+          <p>Philippines</p>
+        </td>
+        <td></td>
+        <td></td>
+        <td colspan="2"></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>
+          <p>&#xF070;</p>
+        </td>
+        <td>
+          <p>&#xF070;</p>
+        </td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td colspan="2">
+          <p>Poland</p>
+        </td>
+        <td></td>
+        <td></td>
+        <td colspan="2"></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td colspan="2">
+          <p>Romania</p>
+        </td>
+        <td></td>
+        <td></td>
+        <td colspan="2"></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td colspan="2">
+          <p>Rwanda</p>
+        </td>
+        <td></td>
+        <td>
+          <p>&#xF070;</p>
+        </td>
+        <td colspan="2"></td>
+        <td></td>
+        <td>
+          <p>&#xF070;</p>
+        </td>
+        <td></td>
+        <td></td>
+        <td>
+          <p>&#xF070;</p>
+        </td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td colspan="2">
+          <p>Seychelles</p>
+        </td>
+        <td></td>
+        <td></td>
+        <td colspan="2"></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>
+          <p>&#xF070;</p>
+        </td>
+        <td></td>
+      </tr>
+      <tr>
+        <td colspan="2">
+          <p>Slovenia</p>
+        </td>
+        <td></td>
+        <td></td>
+        <td colspan="2"></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td colspan="2">
+          <p>Sweden</p>
+        </td>
+        <td></td>
+        <td></td>
+        <td colspan="2"></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td colspan="2">
+          <p>Thailand</p>
+        </td>
+        <td></td>
+        <td></td>
+        <td colspan="2"></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>
+          <p>&#xF070;</p>
+        </td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td colspan="2">
+          <p>Zambia</p>
+        </td>
+        <td></td>
+        <td></td>
+        <td colspan="2"></td>
+        <td></td>
+        <td></td>
+        <td>
+          <p>&#x25CE;</p>
+        </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td colspan="5">
+          <p>Color Legend</p>
+        </td>
+      </tr>
+      <tr>
+        <td></td>
+        <td colspan="4">
+          <p>1</p>
+        </td>
+      </tr>
+      <tr>
+        <td></td>
+        <td colspan="4">
+          <p>2</p>
+        </td>
+      </tr>
+      <tr>
+        <td></td>
+        <td colspan="4">
+          <p>3</p>
+        </td>
+      </tr>
+      <tr>
+        <td></td>
+        <td colspan="4">
+          <p>4</p>
+        </td>
+      </tr>
+      <tr>
+        <td></td>
+        <td colspan="4">
+          <p>5</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p> &#xF070;</p>
+        </td>
+        <td colspan="4">
+          <p>with intensity data</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>&#x25CE;</p>
+        </td>
+        <td colspan="4">
+          <p>Multidimensional deprivation for children</p>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+COMPARABILITY: >-
+  <p><strong>Sources of discrepancies:</strong></p>
+
+  <p>In the process of producing the global MPI described above, the UNDP also
+  produces the multidimensional poverty headcount. However, this number often
+  differs from the nationally produced multidimensional poverty headcount as
+  they use the different dimensions, indicators and cut-off points. </p>
+OTHER_DOC: |-
+  <table>
+    <tbody>
+      <tr>
+        <td>
+          <p><strong>Country</strong></p>
+        </td>
+        <td>
+          <p><strong>Reference</strong></p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p><strong>Afghanistan</strong></p>
+        </td>
+        <td>
+          <p>Official publication: https://www.nsia.gov.af:8080/wp-content/uploads/2019/04/A-MPI-2019-full-report-English-1.pdf; </p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p><strong>Angola</strong></p>
+        </td>
+        <td>
+          <p>Official publication: Childhood in Angola - A Multidimensional Analysis of Child Poverty https://www.unicef.org/esaro/UNICEF-Angola-2018-A-Multidimensional-Analysis-of-Child-Poverty.pdf</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p><strong>Armenia</strong></p>
+        </td>
+        <td>
+          <p>(2010-2017)<br>Official publication: Social Snapshot and Poverty in Armenia: Statistical and analytical report, 2018 (https://www.armstat.am/en/?nid=82&amp;id=2095); </p>
+          <p>Methodological documentation: The Many Faces of Deprivation: A Multidimensional Approach to Poverty in Armenia (<a href="http://documents.worldbank.org/curated/en/111701504028830403/The-many-faces-of-deprivation-a-multidimensional-approach-to-poverty-in-Armenia">http://documents.worldbank.org/curated/en/111701504028830403/The-many-faces-of-deprivation-a-multidimensional-approach-to-poverty-in-Armenia</a>)</p>
+          <p>(2013-2017)</p>
+          <p>Official publication: https://www.armstat.am/file/article/poverty_2018_english_2.pdf<br><br>(2018)<br>Official publication: Social Snapshot and Poverty in Armenia, 2019 <br><a href="https://armstat.am/am/?nid=82&amp;id=2217">https://armstat.am/am/?nid=82&amp;id=2217</a>; </p>
+          <p>Methodological documentation: The Many Faces of Deprivation: A Multidimensional Approach to Poverty in Armenia (http://documents.worldbank.org/curated/en/111701504028830403/The-many-faces-of-deprivation-a-multidimensional-approach-to-poverty-in-Armenia)</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p><strong>Austria</strong></p>
+        </td>
+        <td>
+          <p>Official publication: https://ec.europa.eu/eurostat/data/database</p>
+          <p>https://ec.europa.eu/eurostat/documents/3217494/9940483/KS-02-19-165-EN-N.pdf; Methodological documentation: People at risk of poverty and social exclusion (AROPE) , https://ec.europa.eu/eurostat/statistics-explained/index.php/EU_statistics_on_income_and_living_conditions_(EU-SILC)_methodology_-_Europe_2020_target_on_poverty_and_social_exclusion</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p><strong>Belgium</strong></p>
+        </td>
+        <td>
+          <p>Official publication: https://ec.europa.eu/eurostat/data/database</p>
+          <p>https://ec.europa.eu/eurostat/documents/3217494/9940483/KS-02-19-165-EN-N.pdf; Methodological documentation: People at risk of poverty and social exclusion (AROPE) , https://ec.europa.eu/eurostat/statistics-explained/index.php/EU_statistics_on_income_and_living_conditions_(EU-SILC)_methodology_-_Europe_2020_target_on_poverty_and_social_exclusion</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p><strong>Bhutan</strong></p>
+        </td>
+        <td>
+          <p>Official publication: Bhutan Multidimensional Poverty Index 2017 http://www.nsb.gov.bt/publication/files/pub0mu6061yd.pdf; </p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p><strong>Bulgaria</strong></p>
+        </td>
+        <td>
+          <p>Official publication: https://ec.europa.eu/eurostat/data/database</p>
+          <p>https://ec.europa.eu/eurostat/documents/3217494/9940483/KS-02-19-165-EN-N.pdf; Methodological documentation: People at risk of poverty and social exclusion (AROPE) , https://ec.europa.eu/eurostat/statistics-explained/index.php/EU_statistics_on_income_and_living_conditions_(EU-SILC)_methodology_-_Europe_2020_target_on_poverty_and_social_exclusion</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p><strong>Burundi</strong></p>
+        </td>
+        <td>
+          <p>Official publication: <a href="https://www.ilo.org/surveyLib/index.php/catalog/2153/download/18083">https://www.ilo.org/surveyLib/index.php/catalog/2153/download/18083</a>, https://www.unicef.org/esa/sites/unicef.org.esa/files/2018-09/UNICEF-Burundi-2017-Child-Poverty.pdf</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p><strong>Chile</strong></p>
+        </td>
+        <td>
+          <p>(2011 and 2013)<br>Official publication: <a href="http://observatorio.ministeriodesarrollosocial.gob.cl/documentos/Casen2013_Situacion_Pobreza_Chile.pdf">http://observatorio.ministeriodesarrollosocial.gob.cl/documentos/Casen2013_Situacion_Pobreza_Chile.pdf</a>; </p>
+          <p>Methodological documentation: http://observatorio.ministeriodesarrollosocial.gob.cl/casen/casen_informes.php<br><br>(2015)<br>Official publication: <a href="http://observatorio.ministeriodesarrollosocial.gob.cl/casen-multidimensional/casen/docs/CASEN_2015_Situacion_Pobreza.pdf">http://observatorio.ministeriodesarrollosocial.gob.cl/casen-multidimensional/casen/docs/CASEN_2015_Situacion_Pobreza.pdf</a>; </p>
+          <p>Methodological documentation: http://observatorio.ministeriodesarrollosocial.gob.cl/casen-multidimensional/casen/metodologia.php<br><br>(2017)<br>Official publication: <a href="http://observatorio.ministeriodesarrollosocial.gob.cl/casen-multidimensional/casen/docs/Resultados_pobreza_Casen_2017.pdf">http://observatorio.ministeriodesarrollosocial.gob.cl/casen-multidimensional/casen/docs/Resultados_pobreza_Casen_2017.pdf</a>; </p>
+          <p>Methodological documentation: http://observatorio.ministeriodesarrollosocial.gob.cl/casen-multidimensional/casen/metodologia.php</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p><strong>Columbia</strong></p>
+        </td>
+        <td>
+          <p>Official publication: <a href="https://www.dane.gov.co/files/investigaciones/condiciones_vida/pobreza/2018/bt_pobreza_multidimensional_18.pdf">https://www.dane.gov.co/files/investigaciones/condiciones_vida/pobreza/2018/bt_pobreza_multidimensional_18.pdf</a>; </p>
+          <p>Methodological documentation: https://www.dane.gov.co/files/acerca/Normatividad/CONPES-150.pdf</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p><strong>Costa Rica</strong></p>
+        </td>
+        <td>
+          <p>(2010, 2011, 2014, 2016 and 2017)<br>Official publication: Multidimensional poverty indicators according to planning area and region, July 2017.<br>https://www.inec.go.cr/system/files_force/documetos-biblioteca-virtual/resultados_generales_sitio_web_enaho_2017_ipm_9oct17.xlsx?download=1<br><br>(2012, 2013)<br>Official publication: Poor households with deprivation in the indicators of the Multidimensional Poverty Index by planning region<br>https://www.inec.go.cr/system/files_force/documentos/pobreza_y_presupuesto_de_hogares/pobreza/estadisticas/resultados/repobrezaenaho2012-01_0.xls?download=1<br></p>
+          <p>(2015)</p>
+          <p>Official publication: Poor households with deprivation in the indicators of the Multidimensional Poverty Index by planning region<br><a href="https://www.inec.go.cr/system/files_force/documentos/pobreza_y_presupuesto_de_hogares/pobreza/estadisticas/resultados/repobrezaenaho2012-01_0.xls?download=1">https://www.inec.go.cr/system/files_force/documentos/pobreza_y_presupuesto_de_hogares/pobreza/estadisticas/resultados/repobrezaenaho2012-01_0.xls?download=1</a></p>
+          <p>Methodological documentation: ENAHO 2015. Methodology: Multidimensional Poverty Index (IPM). Handbook. National Household Survey. <a href="https://www.inec.cr/sites/default/files/documentos/pobreza_y_presupuesto_de_hogares/pobreza/metodologias/mepobrezaenaho2015-01.pdf">https://www.inec.cr/sites/default/files/documentos/pobreza_y_presupuesto_de_hogares/pobreza/metodologias/mepobrezaenaho2015-01.pdf</a></p>
+          <p><br>(2018)<br>Official publication: Multidimensional poverty indicators according to planning area and region, July 2018.<br>https://www.inec.go.cr/system/files_force/documetos-biblioteca-virtual/reenaho2018-ipm.xlsx?download=1<br><br>(2019)<br>Official publication: <br>Multidimensional poverty indicators according to planning area and region, July 2019<br>https://www.inec.go.cr/system/files_force/documetos-biblioteca-virtual/reenaho2019-ipm.xlsx?download=1</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p><strong>Croatia</strong></p>
+        </td>
+        <td>
+          <p>Official publication: https://ec.europa.eu/eurostat/data/database</p>
+          <p>https://ec.europa.eu/eurostat/documents/3217494/9940483/KS-02-19-165-EN-N.pdf; Methodological documentation: People at risk of poverty and social exclusion (AROPE) , https://ec.europa.eu/eurostat/statistics-explained/index.php/EU_statistics_on_income_and_living_conditions_(EU-SILC)_methodology_-_Europe_2020_target_on_poverty_and_social_exclusion</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p><strong>Cyprus</strong></p>
+        </td>
+        <td>
+          <p>Official publication: https://ec.europa.eu/eurostat/data/database</p>
+          <p>https://ec.europa.eu/eurostat/documents/3217494/9940483/KS-02-19-165-EN-N.pdf; Methodological documentation: People at risk of poverty and social exclusion (AROPE) , https://ec.europa.eu/eurostat/statistics-explained/index.php/EU_statistics_on_income_and_living_conditions_(EU-SILC)_methodology_-_Europe_2020_target_on_poverty_and_social_exclusion</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p><strong>Dominican Republic</strong></p>
+        </td>
+        <td>
+          <p>Official publication: 1) The <br>Multidimensional Poverty Index for Latin America (MPI-LA): an application for the Dominican Republic 2000-2016. http://economia.gob.do/wp-content/uploads/drive/UAAES/Publicaciones/El%20indice%20de%20Pobreza%20Multidimensional%20para%20America%20Latina.pdf </p>
+          <p><br>2) National Voluntary Report on SDG (for gender disaggregation of the data). https://sustainabledevelopment.un.org/content/documents/19710INV_RD_2018_V2.pdf; Methodological documentation: The Multidimensional Poverty Index for Latin America (MPI-LA): an application for the Dominican Republic 2000-2016. http://economia.gob.do/wp-content/uploads/drive/UAAES/Publicaciones/El%20indice%20de%20Pobreza%20Multidimensional%20para%20America%20Latina.pdf</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p><strong>Ecuador</strong></p>
+        </td>
+        <td>
+          <p>Official publication:<strong> </strong>National Employment, Underemployment and Unemployment Survey (ENEMDU) 2019 https://www.ecuadorencifras.gob.ec/documentos/web-inec/POBREZA/2019/Diciembre-2019/Tabulados%20IPM-dic%2019.xlsx</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p><strong>Egypt</strong></p>
+        </td>
+        <td>
+          <p>Official publication: Understanding Multidimensional Poverty in Egypt https://www.unicef.org/MODA-Report-Full-EN-websingle.pdf</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p><strong>El Salvador</strong></p>
+        </td>
+        <td>
+          <p>(2014)</p>
+          <p>Official publication: OBJETIVOS DE DESARROLLO SOSTENIBLE 2019. SAN SALVADOR EL SALVADOR.http://www.odselsalvador.gob.sv/wp-content/uploads/2019/05/Informe_ODS-1.pdf Multidimensional Measurement of Poverty El Salvador: <a href="http://www.secretariatecnica.gob.sv/wp-content/uploads/2015/10/Medici%C3%B3n-Multidimensional-de-la-Pobreza-El-Salvador.pdf">http://www.secretariatecnica.gob.sv/wp-content/uploads/2015/10/Medici%C3%B3n-Multidimensional-de-la-Pobreza-El-Salvador.pdf</a></p>
+          <p>(2016, 2017)</p>
+          <p>Official publication: OBJETIVOS DE DESARROLLO SOSTENIBLE 2019. SAN SALVADOR EL SALVADOR.http://www.odselsalvador.gob.sv/wp-content/uploads/2019/05/Informe_ODS-1.pdf</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p><strong>Estonia</strong></p>
+        </td>
+        <td>
+          <p>Official publication: https://ec.europa.eu/eurostat/data/database</p>
+          <p>https://ec.europa.eu/eurostat/documents/3217494/9940483/KS-02-19-165-EN-N.pdf; Methodological documentation: People at risk of poverty and social exclusion (AROPE) , https://ec.europa.eu/eurostat/statistics-explained/index.php/EU_statistics_on_income_and_living_conditions_(EU-SILC)_methodology_-_Europe_2020_target_on_poverty_and_social_exclusion</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p><strong>Finland</strong></p>
+        </td>
+        <td>
+          <p>Official publication: https://ec.europa.eu/eurostat/data/database</p>
+          <p>https://ec.europa.eu/eurostat/documents/3217494/9940483/KS-02-19-165-EN-N.pdf; Methodological documentation: People at risk of poverty and social exclusion (AROPE) , https://ec.europa.eu/eurostat/statistics-explained/index.php/EU_statistics_on_income_and_living_conditions_(EU-SILC)_methodology_-_Europe_2020_target_on_poverty_and_social_exclusion</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p><strong>Germany</strong></p>
+        </td>
+        <td>
+          <p>Official publication: https://ec.europa.eu/eurostat/data/database</p>
+          <p>https://ec.europa.eu/eurostat/documents/3217494/9940483/KS-02-19-165-EN-N.pdf; Methodological documentation: People at risk of poverty and social exclusion (AROPE) , https://ec.europa.eu/eurostat/statistics-explained/index.php/EU_statistics_on_income_and_living_conditions_(EU-SILC)_methodology_-_Europe_2020_target_on_poverty_and_social_exclusion</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p><strong>Ghana</strong></p>
+        </td>
+        <td>
+          <p>(2010)</p>
+          <p>Official publication: Non-Monetary Poverty in Ghana <br><a href="https://www.undp.org/content/dam/ghana/docs/Doc/Inclgro/Non-Monetary%20Poverty%20in%20Ghana%20(24-10-13).pdf">https://www.undp.org/content/dam/ghana/docs/Doc/Inclgro/Non-Monetary%20Poverty%20in%20Ghana%20(24-10-13).pdf</a></p>
+          <p>(2017)</p>
+          <p>Multi-Dimensional Child Poverty in Ghana: https://www.unicef.org/ghana/media/2676/file/Multi-Dimensional%20Child%20Poverty%20Report.pdf</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p><strong>Greece</strong></p>
+        </td>
+        <td>
+          <p>Methodological documentation: https://ec.europa.eu/eurostat/statistics-explained/index.php/EU_statistics_on_income_and_living_conditions_(EU-SILC)_methodology_-_Europe_2020_target_on_poverty_and_social_exclusion</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p><strong>Guinea</strong></p>
+        </td>
+        <td>
+          <p>Official publication&#xA0;: http://www.stat-guinee.org/images/Publications/INS/RGPH3/RGPH3_rapport_pauvrete.pdf</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p><strong>Guinea Bissau</strong></p>
+        </td>
+        <td>
+          <p>Official publication: PAUVRETE MULTIDIMENSIONNELLE ET PRIVATIONS MULTIPLES DES ENFANTS EN GUINEE-BISSAU<br>https://uprdoc.ohchr.org/uprweb/downloadfile.aspx?filename=7579&amp;file=Annexe7; </p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p><strong>Hungary</strong></p>
+        </td>
+        <td>
+          <p>Official publication: https://ec.europa.eu/eurostat/data/database</p>
+          <p>https://ec.europa.eu/eurostat/documents/3217494/9940483/KS-02-19-165-EN-N.pdf; Methodological documentation: People at risk of poverty and social exclusion (AROPE) , https://ec.europa.eu/eurostat/statistics-explained/index.php/EU_statistics_on_income_and_living_conditions_(EU-SILC)_methodology_-_Europe_2020_target_on_poverty_and_social_exclusion</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p><strong>Ireland</strong></p>
+        </td>
+        <td>
+          <p>Official publication: https://ec.europa.eu/eurostat/data/database</p>
+          <p>https://ec.europa.eu/eurostat/documents/3217494/9940483/KS-02-19-165-EN-N.pdf; Methodological documentation: People at risk of poverty and social exclusion (AROPE) , https://ec.europa.eu/eurostat/statistics-explained/index.php/EU_statistics_on_income_and_living_conditions_(EU-SILC)_methodology_-_Europe_2020_target_on_poverty_and_social_exclusion</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p><strong>Italy</strong></p>
+        </td>
+        <td>
+          <p>Official publication: https://ec.europa.eu/eurostat/data/database</p>
+          <p>https://ec.europa.eu/eurostat/documents/3217494/9940483/KS-02-19-165-EN-N.pdf; Methodological documentation: People at risk of poverty and social exclusion (AROPE) , https://ec.europa.eu/eurostat/statistics-explained/index.php/EU_statistics_on_income_and_living_conditions_(EU-SILC)_methodology_-_Europe_2020_target_on_poverty_and_social_exclusion</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p><strong>Lithuania</strong></p>
+        </td>
+        <td>
+          <p>Official publication: https://ec.europa.eu/eurostat/data/database</p>
+          <p>https://ec.europa.eu/eurostat/documents/3217494/9940483/KS-02-19-165-EN-N.pdf; Methodological documentation: People at risk of poverty and social exclusion (AROPE) , https://ec.europa.eu/eurostat/statistics-explained/index.php/EU_statistics_on_income_and_living_conditions_(EU-SILC)_methodology_-_Europe_2020_target_on_poverty_and_social_exclusion</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p><strong>Luxembourg</strong></p>
+        </td>
+        <td>
+          <p>Official publication: https://ec.europa.eu/eurostat/data/database</p>
+          <p>https://ec.europa.eu/eurostat/documents/3217494/9940483/KS-02-19-165-EN-N.pdf; Methodological documentation: People at risk of poverty and social exclusion (AROPE) , https://ec.europa.eu/eurostat/statistics-explained/index.php/EU_statistics_on_income_and_living_conditions_(EU-SILC)_methodology_-_Europe_2020_target_on_poverty_and_social_exclusion</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p><strong>Mali</strong></p>
+        </td>
+        <td>
+          <p>(2010)</p>
+          <p>Official publication: Pauvret&#xE9; et privation des enfants au Mali Les premi&#xE8;res estimations nationales <a href="https://www.unicef-irc.org/publications/pdf/20_mali_poverty_dep_fr.pdf">https://www.unicef-irc.org/publications/pdf/20_mali_poverty_dep_fr.pdf</a></p>
+          <p>(2015)</p>
+          <p>Official publication&#xA0;: Privation multidimensionnelle et pauvret&#xE9; des enfants au Mali, October 2018, UNICEF</p>
+          <p>(2016)</p>
+          <p>Official publication&#xA0;: La pauvret&#xE9; &#xE0; plusieurs dimensions au Mali</p>
+          <p>http://www.instat-mali.org/contenu/eq/rap-ind16-17_eq.pdf </p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p><strong>Malta</strong></p>
+        </td>
+        <td>
+          <p>Official publication: https://ec.europa.eu/eurostat/data/database</p>
+          <p>https://ec.europa.eu/eurostat/documents/3217494/9940483/KS-02-19-165-EN-N.pdf; Methodological documentation: People at risk of poverty and social exclusion (AROPE) , https://ec.europa.eu/eurostat/statistics-explained/index.php/EU_statistics_on_income_and_living_conditions_(EU-SILC)_methodology_-_Europe_2020_target_on_poverty_and_social_exclusion</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p><strong>Mexico</strong></p>
+        </td>
+        <td>
+          <p>(2010)<br>Official publication: https://www.coneval.org.mx/Medicion/Paginas/PobrezaInicio.aspx; Methodological documentation: https://www.coneval.org.mx/Medicion/MP/Paginas/Metodologia.aspx<br><br>(2012, 2014, 2018)<br>Official publication: https://www.coneval.org.mx/Medicion/MP/Paginas/Pobreza-2018.aspx; Methodological documentation: https://www.coneval.org.mx/Medicion/MP/Paginas/Metodologia.aspx<br><br>(2016)<br>Official publication: https://www.coneval.org.mx/Medicion/MP/Paginas/Pobreza_2016.aspx; Methodological documentation: https://www.coneval.org.mx/Medicion/MP/Paginas/Metodologia.aspx</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p><strong>Morocco</strong></p>
+        </td>
+        <td>
+          <p>(2011)<br>Official publication: https://www.hcp.ma/Les-Cahiers-du-Plan-N-43-Mars-Avril-2013_a1248.html; <br><br>(2014)<br>Official publication: https://www.hcp.ma/Principaux-resultats-de-la-cartographie-de-la-pauvrete-multidimensionnelle-2004-2014-Paysage-territorial-et-dynamique_a2126.html<br>press release the rate of child multidimensional poverty: https://www.hcp.ma/Note-d-information-du-Haut-Commissariat-au-Plan-a-l-occasion-de-la-Journee-Nationale-de-l-Enfant-2017_a1921.html</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p><strong>Mozambique</strong></p>
+        </td>
+        <td>
+          <p>Official publication: Poverty and Well-being in Mozambique: Fourth National Poverty Assessment (IOF 2014/2015) p.52 (Portuguese) https://www.wider.unu.edu/sites/default/files/Final_QUARTA%20AVALIA%C3%87AO%20NACIONAL%20DA%20POBREZA_2016-10-26_2.pdf</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p><strong>Nepal</strong></p>
+        </td>
+        <td>
+          <p>Official publication: Nepal Multidimensional Poverty Index 2018 <br>https://www.npc.gov.np/images/category/Nepal_MPI.pdf</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p><strong>Netherlands</strong></p>
+        </td>
+        <td>
+          <p>Official publication: https://ec.europa.eu/eurostat/data/database</p>
+          <p>https://ec.europa.eu/eurostat/documents/3217494/9940483/KS-02-19-165-EN-N.pdf; Methodological documentation: People at risk of poverty and social exclusion (AROPE) , https://ec.europa.eu/eurostat/statistics-explained/index.php/EU_statistics_on_income_and_living_conditions_(EU-SILC)_methodology_-_Europe_2020_target_on_poverty_and_social_exclusion</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p><strong>North Macedonia</strong></p>
+        </td>
+        <td>
+          <p>(2010)<br>Methodological documentation: Survey on Income and Living Conditions (http://www.stat.gov.mk/Publikacii/2.4.15.01.pdf)<br><br>(2011-2013)<br>Methodological documentation: Survey on Income and Living Conditions (http://www.stat.gov.mk/Publikacii/2.4.15.13.pdf)<br><br>(2014-2016)<br>Methodological documentation: Survey on Income and Living Conditions (http://www.stat.gov.mk/Publikacii/2.4.17.13.pdf)<br><br>(2017)<br>Methodological documentation: Survey on Income and Living Conditions (http://www.stat.gov.mk/Publikacii/2.4.18.13.pdf)<br><br>(2018)<br>Methodological documentation: Laeken Poverty Indicators: <br>(http://www.stat.gov.mk/MetodoloskiObjasSoop_en.aspx?id=115&amp;rbrObl=13)</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p><strong>Pakistan</strong></p>
+        </td>
+        <td>
+          <p>Official publication: Multidimensional Poverty in Pakistan<br>https://www.undp.org/content/dam/pakistan/docs/MPI/Multidimensional%20Poverty%20in%20Pakistan.pdf</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p><strong>Philippines</strong></p>
+        </td>
+        <td>
+          <p>Official document: Philippine Statistics Authority press release <a href="https://psa.gov.ph/poverty-press-releases/nid/136930">https://psa.gov.ph/poverty-press-releases/nid/136930</a></p>
+          <p>Methodological documentation: Technical notes on the estimation of the MPI based on the initial methodology https://psa.gov.ph/sites/default/files/mpi%20technical%20notes.pdf</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p><strong>Poland</strong></p>
+        </td>
+        <td>
+          <p>Official publication: https://ec.europa.eu/eurostat/data/database</p>
+          <p>https://ec.europa.eu/eurostat/documents/3217494/9940483/KS-02-19-165-EN-N.pdf; Methodological documentation: People at risk of poverty and social exclusion (AROPE) , https://ec.europa.eu/eurostat/statistics-explained/index.php/EU_statistics_on_income_and_living_conditions_(EU-SILC)_methodology_-_Europe_2020_target_on_poverty_and_social_exclusion</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p><strong>Romania</strong></p>
+        </td>
+        <td>
+          <p>Official publication: https://ec.europa.eu/eurostat/data/database</p>
+          <p>https://ec.europa.eu/eurostat/documents/3217494/9940483/KS-02-19-165-EN-N.pdf; Methodological documentation: People at risk of poverty and social exclusion (AROPE) , https://ec.europa.eu/eurostat/statistics-explained/index.php/EU_statistics_on_income_and_living_conditions_(EU-SILC)_methodology_-_Europe_2020_target_on_poverty_and_social_exclusion</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p><strong>Rwanda</strong></p>
+        </td>
+        <td>
+          <p>Official publication&#xA0;: https://www.mppn.org/wp-content/uploads/2018/12/EICV5_Thematic-Report_Multidimensional-Poverty-Index_MPI.pdf</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p><strong>Seychelles</strong></p>
+        </td>
+        <td>
+          <p>Official publication&#xA0;: https://www.nbs.gov.sc/downloads/social-statistics/multidimensional-poverty-index/2018</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p><strong>Slovenia</strong></p>
+        </td>
+        <td>
+          <p>Official publication: https://ec.europa.eu/eurostat/data/database</p>
+          <p>https://ec.europa.eu/eurostat/documents/3217494/9940483/KS-02-19-165-EN-N.pdf; Methodological documentation: People at risk of poverty and social exclusion (AROPE) , https://ec.europa.eu/eurostat/statistics-explained/index.php/EU_statistics_on_income_and_living_conditions_(EU-SILC)_methodology_-_Europe_2020_target_on_poverty_and_social_exclusion</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p><strong>Sweden</strong></p>
+        </td>
+        <td>
+          <p>Official publication: https://ec.europa.eu/eurostat/data/database</p>
+          <p>https://ec.europa.eu/eurostat/documents/3217494/9940483/KS-02-19-165-EN-N.pdf; Methodological documentation: People at risk of poverty and social exclusion (AROPE) , https://ec.europa.eu/eurostat/statistics-explained/index.php/EU_statistics_on_income_and_living_conditions_(EU-SILC)_methodology_-_Europe_2020_target_on_poverty_and_social_exclusion</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p><strong>Thailand</strong></p>
+        </td>
+        <td>
+          <p>Official publication: http://social.nesdc.go.th/social/Portals/0/Documents/%e0%b8%a3%e0%b8%a7%e0%b8%a1%20NMPI%2007102019%20(1630)_2305.pdf</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p><strong>Zambia</strong></p>
+        </td>
+        <td>
+          <p>Official publication: Child Poverty in Zambia (https://www.unicef.org/zambia/reports/child-poverty-zambia-report-2018</p>
+        </td>
+      </tr>
+    </tbody>
+  </table>

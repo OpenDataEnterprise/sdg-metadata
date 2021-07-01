@@ -1,53 +1,50 @@
-SDG_GOAL: '<p>Goal 3: Ensure healthy lives and promote well-being for all at all ages</p>'
+SDG_INDICATOR_INFO: ''
+SDG_GOAL: >-
+  <p>Goal 3: Ensure healthy lives and promote well-being for all at all ages
+  </p>
 SDG_TARGET: >-
   <p>Target 3.3: By 2030, end the epidemics of AIDS, tuberculosis, malaria and
   neglected tropical diseases and combat hepatitis, water-borne diseases and
-  other communicable diseases</p>
-SDG_INDICATOR: '<p>Indicator 3.3.4: Hepatitis B incidence per 100,000 population</p>'
-META_LAST_UPDATE: '<p>Last updated: September 2020</p>'
-SDG_RELATED_INDICATORS: <h1>Related indicators</h1>
-SDG_CUSTODIAN_AGENCIES: >-
-  <h1>Institutional information</h1>
-
-  <h2>Organization(s):</h2>
-
-  <p>Agency responsible for global compilation of the indicator or time series
-  specified below</p>
+  other communicable diseases </p>
+SDG_INDICATOR: '<p>Indicator 3.3.4: Hepatitis B incidence per 100,000 population </p>'
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: <p>September 2020</p>
+SDG_RELATED_INDICATORS: ''
+SDG_CUSTODIAN_AGENCIES: <p>World Health Organization </p>
+CONTACT: ''
+CONTACT_ORGANISATION: <p>World Health Organization</p>
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <h1>Concepts and definitions</h1>
-
-  <h2>Definition:</h2>
+  <p><strong>Definition:</strong> </p>
 
   <p>This indicator is measured indirectly through the proportion of children 5
   years of age who have developed chronic HBV infection (i.e. the proportion
   that tests positive for a marker of infection called hepatitis B surface
-  antigen [HBsAg]).<sup><a href="#footnote-1"
-  id="footnote-ref-1">[1]</a></sup></p>
+  antigen [HBsAg]).<sup>1</sup> </p>
 
   <p> </p>
 
   <p>Hepatitis B surface antigen: a protein from the virus&#x2019;s coat. A
   positive test for HBsAg indicates active HBV infection. The immune response to
   HBsAg provides the basis for immunity against HBV, and HBsAg is the main
-  component of HepB.<sup><a href="#footnote-2"
-  id="footnote-ref-2">[2]</a></sup></p>
+  component of HepB.<sup>2</sup> </p>
 
-  <h2>Concepts:</h2><div class="footnotes"><div><sup class="footnote-number"
-  id="footnote-1">1</sup><p> Global Hepatitis Report 2017. World Health
-  Organization. ISBN 978-92-4-156545-5. <a
-  href="#footnote-ref-1">&#x2191;</a></p></div><div><sup class="footnote-number"
-  id="footnote-2">2</sup><p> Documenting the Impact of Hepatitis B Immunization:
-  best practices for conducting a serosurvey. Immunization, Vaccines and
-  Biologicals. World Health Organization. WHO/IVB/11.08 <a
-  href="#footnote-ref-2">&#x2191;</a></p></div></div>
+  <p> </p>
+UNIT_MEASURE: ''
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <h1>Data sources</h1>
-
-  <h2>Description:</h2>
-
   <p>A systematic search on articles published between Jan 1, 1965, and Oct 30,
   2018. in the databases Embase, PubMed, Global Index Medicus, Popline, and Web
   of Science. </p>
+
+  <p> </p>
 
   <p>Following full text review, we extracted data from each study using the
   following variables: study characteristics (study and sample collection dates,
@@ -55,7 +52,7 @@ SOURCE_TYPE: >-
   in a country], or national level), participant characteristics (age range,
   sex, year, and population group), and prevalence of the HBV marker, type of
   laboratory tests, and number of participants the HBV marker prevalence was
-  based on.</p>
+  based on. </p>
 
   <p>Data of eligible articles were entered into a Microsoft EXCEL&#xAE; and/or
   Distiller databank by two reviewers independently. Information was extracted
@@ -71,124 +68,49 @@ SOURCE_TYPE: >-
   convenience samples in certain communities or tribes in the country were
   assigned a 1, supplemented by additional information. The risk of
   bias/non-representativeness information was applied if the population was
-  neither HCW nor blood donor (see description below).<sup><a href="#footnote-3"
-  id="footnote-ref-3">[3]</a></sup> In the following, variables extracted from
-  the studies and assumptions made are described in detail:</p>
+  neither HCW nor blood donor (see description below).3 In the following,
+  variables extracted from the studies and assumptions made are described in
+  detail: </p>
 
-  <p>1. Author, Date</p>
-
-  <p>2. Year start/end of study conduct: Year of study begin and end was
-  extracted. If this information was not available from the studies, we used the
-  commonly used assumption that the study was conducted two years prior to the
-  year of publication (e.g. author, 2000, year of study conduct: 1998). </p>
-
-  <p>3. Sex: Sex-specific values were extracted. If only an overall (all)
-  estimate was provided, the share of females in the study was specified in the
-  column additional information.</p>
-
-  <p>4. Age start/end: The most specific age-group provided by the data was
-  extracted. If the age-group on which the parameter value was based on was not
-  available, assumptions were made based on the context of the study. Therefore,
-  the following was applied in case of missing information on age-groups in the
-  study population: </p>
-
-  <p> a. If the study was conducted in the general population without further
-  specification and if only one prevalence estimate is provided, the age-group
-  was considered to be 0-85 years. Subsequently, if the beginning and last
-  age-group is missing, the lower value of the youngest age-group is 1 year, the
-  upper value of the oldest age-groups is 85 years. </p>
-
-  <p> b. If the study was conducted among adult populations but no age-range is
-  provided, the age-group is considered to be 17-65 years.</p>
+  <ol>
+    <li>Author, Date </li>
+    <li>Year start/end of study conduct: Year of study begin and end was extracted. If this information was not available from the studies, we used the commonly used assumption that the study was conducted two years prior to the year of publication (e.g. author, 2000, year of study conduct: 1998). </li>
+    <li>Sex: Sex-specific values were extracted. If only an overall (all) estimate was provided, the share of females in the study was specified in the column additional information. </li>
+    <li>Age start/end: The most specific age-group provided by the data was extracted. If the age-group on which the parameter value was based on was not available, assumptions were made based on the context of the study. Therefore, the following was applied in case of missing information on age-groups in the study population: </li>
+    <li>If the study was conducted in the general population without further specification and if only one prevalence estimate is provided, the age-group was considered to be 0-85 years. Subsequently, if the beginning and last age-group is missing, the lower value of the youngest age-group is 1 year, the upper value of the oldest age-groups is 85 years. </li>
+    <li>If the study was conducted among adult populations but no age-range is provided, the age-group is considered to be 17-65 years. </li>
+    <li>If the study was conducted among pupils but no age-range is provided, the age-group is considered to be 5-15 years. </li>
+    <li>If the study was conducted among pregnant women but no age-range is provided, the age-group is considered to be 15-49 years (reproductive age). </li>
+    <li>If the study was conducted among blood donors but no age-range is provided, the age-group is considered to be 17-65 years. </li>
+    <li>If the study was conducted among army recruits or soldiers but no age-range is provided, the age-group is considered to be 18-45 years. </li>
+    <li>If the study was conducted among the working population but no age-range is provided, the age-group is considered to be 16-65 years. </li>
+    <li>HBsAg Prevalence: The most specific prevalence estimate provided by the data was extracted (defined by age-/sex-/year-prevalence). Separate lines for each marker were used in the data extraction file (e.g. one for HBeAg and one line for HBsAg, even if the study group/publication was the same) </li>
+    <li>HBeAg Prevalence (optional marker): The most specific prevalence estimate (defined by age-/sex-/year-prevalence) of HBeAg among HBsAg-positive individuals was extracted and, if applicable was calculated to reflect prevalence among HBsAg carriers. </li>
+    <li>anti-HBc Prevalence (optional marker): The most specific prevalence estimate provided by the data was extracted (defined by age-/sex-/year-prevalence). </li>
+    <li>Laboratory method: Testing immune response markers of HBV infection began in the 1970s by counter-immuno-electrophoresis technique (CIEP). Since then, different detection methods have been developed (RIA, EIA, &#x2026;). The most applied method in prevalence studies is the ELISA (enzyme-linked immunosorbent assay). Five categories were established to record the method/test used for prevalence detection in the studies: ELI new (ELISA -2, -3, EIA, &#x2026;), EIA old (CMIA, CIEP, RPHA), NAT (qPCR/real-time PCR, nested PCR, multiplex PCR), other (e.g. RIA); Unknown/not specified. </li>
+    <li>Country: Country names were recorded according to www.who.int and, for additional analysis purpose, were grouped according to the six WHO regions: the African Region, the Region of the Americas, the Eastern Mediterranean Region, the European Region, the South East-Asia Region and the Western Pacific Region. </li>
+    <li>Sample size of individuals blood drawn from; of individuals involved in analyses/bases for parameter estimate: As a quality indicator of the study, we distinguished the effective sample size, i.e. the number of individuals involved in the analysis/on which the parameter estimate is based on, from the number of individuals from which blood was drawn from (separate column) and the initially calculated/planed sample size (separate column). </li>
+    <li>Population: Although focus was on the general population, two additional groups were included and specified. These include: HCW and blood donor (plus subgroups unspecified, paid, unpaid/voluntary). If in this column &#x201C;population&#x201D; was specified as HCW or blood donor and not as general population, the risk of bias column (following) remains empty. </li>
+    <li>Level: Information is provided if the study was conducted on a national, sub-national, city level or if the level was not further specified (four categories). </li>
+    <li>Study Location: This free-text variable specifies the city/area within the country where the included study was conducted. The variables/columns Level and Study Location were additionally included following the WHO Meeting on Impact of Hepatitis B Vaccination at WHO, Geneva, in March 2014. </li>
+  </ol>
 
   <p> </p>
 
-  <p> c. If the study was conducted among pupils but no age-range is provided,
-  the age-group is considered to be 5-15 years. </p>
-
-  <p> d. If the study was conducted among pregnant women but no age-range is
-  provided, the age-group is considered to be 15-49 years (reproductive age).
-  </p>
-
-  <p> e. If the study was conducted among blood donors but no age-range is
-  provided, the age-group is considered to be 17-65 years. </p>
-
-  <p> f. If the study was conducted among army recruits or soldiers but no
-  age-range is provided, the age-group is considered to be 18-45 years. </p>
-
-  <p> g. If the study was conducted among the working population but no
-  age-range is provided, the age-group is considered to be 16-65 years. </p>
-
-  <p> h. HBsAg Prevalence: The most specific prevalence estimate provided by the
-  data was extracted (defined by age-/sex-/year-prevalence). Separate lines for
-  each marker were used in the data extraction file (e.g. one for HBeAg and one
-  line for HBsAg, even if the study group/publication was the same)</p>
-
-  <p>5. HBeAg Prevalence (optional marker): The most specific prevalence
-  estimate (defined by age-/sex-/year-prevalence) of HBeAg among HBsAg-positive
-  individuals was extracted and, if applicable was calculated to reflect
-  prevalence among HBsAg carriers. </p>
-
-  <p>6. anti-HBc Prevalence (optional marker): The most specific prevalence
-  estimate provided by the data was extracted (defined by
-  age-/sex-/year-prevalence).</p>
-
-  <p>7. Laboratory method: Testing immune response markers of HBV infection
-  began in the 1970s by counter-immuno-electrophoresis technique (CIEP). Since
-  then, different detection methods have been developed (RIA, EIA, &#x2026;).
-  The most applied method in prevalence studies is the ELISA (enzyme-linked
-  immunosorbent assay). Five categories were established to record the
-  method/test used for prevalence detection in the studies: ELI new (ELISA -2,
-  -3, EIA, &#x2026;), EIA old (CMIA, CIEP, RPHA), NAT (qPCR/real-time PCR,
-  nested PCR, multiplex PCR), other (e.g. RIA); Unknown/not specified.</p>
-
-  <p>8. Country: Country names were recorded according to www.who.int and, for
-  additional analysis purpose, were grouped according to the six WHO regions:
-  the African Region, the Region of the Americas, the Eastern Mediterranean
-  Region, the European Region, the South East-Asia Region and the Western
-  Pacific Region.</p>
-
-  <p>9. Sample size of individuals blood drawn from; of individuals involved in
-  analyses/bases for parameter estimate: As a quality indicator of the study, we
-  distinguished the effective sample size, i.e. the number of individuals
-  involved in the analysis/on which the parameter estimate is based on, from the
-  number of individuals from which blood was drawn from (separate column) and
-  the initially calculated/planed sample size (separate column). </p>
-
-  <p>10. Population: Although focus was on the general population, two
-  additional groups were included and specified. These include: HCW and blood
-  donor (plus subgroups unspecified, paid, unpaid/voluntary). If in this column
-  &#x201C;population&#x201D; was specified as HCW or blood donor and not as
-  general population, the risk of bias column (following) remains empty.</p>
-
-  <p>11. Level: Information is provided if the study was conducted on a
-  national, sub-national, city level or if the level was not further specified
-  (four categories).</p>
-
-  <p>12. Study Location: This free-text variable specifies the city/area within
-  the country where the included study was conducted. The variables/columns
-  Level and Study Location were additionally included following the WHO Meeting
-  on Impact of Hepatitis B Vaccination at WHO, Geneva, in March 2014.</p>
-
-  <p>Additional data from other sources than the eligible studies:</p>
+  <p>Additional data from other sources than the eligible studies: </p>
 
   <ol>
-    <li>Year of vaccine introduction in the entire country: data is derived from official reports by WHO Member States and unless otherwise stated, data is reported annually through the&#xA0;<a href="http://www.who.int/immunization/monitoring_surveillance/routine/reporting/en/">WHO/UNICEF joint reporting process</a>. <a href="http://www.who.int/entity/immunization/monitoring_surveillance/data/year_vaccine_introduction.xls?ua=1">http://www.who.int/entity/immunization/monitoring_surveillance/data/year_vaccine_introduction.xls?ua=1</a></li>
+    <li>Year of vaccine introduction in the entire country: data is derived from official reports by WHO Member States and unless otherwise stated, data is reported annually through the <a href="http://www.who.int/immunization/monitoring_surveillance/routine/reporting/en/" target="_blank">WHO/UNICEF joint reporting process</a>. <a href="http://www.who.int/entity/immunization/monitoring_surveillance/data/year_vaccine_introduction.xls?ua=1" target="_blank">http://www.who.int/entity/immunization/monitoring_surveillance/data/year_vaccine_introduction.xls?ua=1</a> </li>
     <li>Period when the study was conducted: pre- vaccination or post vaccination. This is determined according the year of introduction in the whole country. </li>
-    <li>Coverage estimates series: data is obtained from WUENIC: <a href="http://apps.who.int/immunization_monitoring/globalsummary/timeseries/tswucoveragebcg.html">http://apps.who.int/immunization_monitoring/globalsummary/timeseries/tswucoveragebcg.html</a> </li>
-    <li>GDP per capita was used form UN data that compiles information from the World Bank Source <a href="http://data.un.org/Data.aspx?q=GDP&amp;d=SNAAMA&amp;f=grID%3a101%3bcurrID%3aUSD%3bpcFlag%3a1">http://data.un.org/Data.aspx?q=GDP&amp;d=SNAAMA&amp;f=grID%3a101%3bcurrID%3aUSD%3bpcFlag%3a1</a> </li>
-    <li>Longitude and latitude data (source: <a href="http://www.google.com">www.google.com</a>).</li>
-    <li>Population structure and size data for each country was from the UN population division: <a href="http://www.un.org/en/development/desa/population/">http://www.un.org/en/development/desa/population/</a> </li>
-  </ol><div class="footnotes"><div><sup class="footnote-number"
-  id="footnote-3">3</sup><p> The Newcastle Ottawa Scale for assessing the
-  quality of nonrandomized studies in meta-analyses was consulted (<a
-  href="http://www.ohri.ca/programs/clinical_epidemiology/oxford.asp">http://www.ohri.ca/programs/clinical_epidemiology/oxford.asp</a>)<u>
-  and the</u> Strobe reporting guidelines for observational studies was referred
-  to in order to assess thoroughness of study reporting. <a
-  href="#footnote-ref-3">&#x2191;</a></p></div></div>
-COLL_METHOD: >-
-  <h2>Collection process:</h2>
+    <li>Coverage estimates series: data is obtained from WUENIC: <a href="http://apps.who.int/immunization_monitoring/globalsummary/timeseries/tswucoveragebcg.html" target="_blank">http://apps.who.int/immunization_monitoring/globalsummary/timeseries/tswucoveragebcg.html</a> </li>
+    <li>GDP per capita was used form UN data that compiles information from the World Bank Source <a href="http://data.un.org/Data.aspx?q=GDP&amp;d=SNAAMA&amp;f=grID%3a101%3bcurrID%3aUSD%3bpcFlag%3a1" target="_blank">http://data.un.org/Data.aspx?q=GDP&amp;d=SNAAMA&amp;f=grID%3a101%3bcurrID%3aUSD%3bpcFlag%3a1</a> ), </li>
+    <li>Longitude and latitude data (source: <a href="http://www.google.com/" target="_blank">www.google.com</a>). </li>
+    <li>Population structure and size data for each country was from the UN population division: </li>
+  </ol>
 
+  <p><a href="http://www.un.org/en/development/desa/population/"
+  target="_blank">http://www.un.org/en/development/desa/population/</a> </p>
+COLL_METHOD: >-
   <p>WHO provides Member States the opportunity to review and comment on data as
   part of the so called country consultation process. Member States receive an
   annex with their country specific estimates, the serosurveys used to inform
@@ -196,24 +118,14 @@ COLL_METHOD: >-
   with sufficient time to provide any additional study to be screened according
   to the inclusion and inclusion criteria. </p>
 FREQ_COLL: >-
-  <h1>Calendar</h1>
-
-  <h2>Data collection:</h2>
-
   <p>The systematic review of published serosurveys and model estimates are
-  updated on an annual basis. Planned for the last quarter of 2019.</p>
-REL_CAL_POLICY: |-
-  <h2>Data release:</h2>
-  <p>Second quarter of each year</p>
-DATA_SOURCE: |-
-  <h1>Data providers</h1>
-  <p>World Health Organization</p>
-COMPILING_ORG: |-
-  <h1>Data compilers</h1>
-  <p>World Health Organization</p>
+  updated on an annual basis. Planned for the last quarter of 2019. </p>
+REL_CAL_POLICY: <p>Second quarter of each year</p>
+DATA_SOURCE: <p>World Health Organization </p>
+COMPILING_ORG: <p>World Health Organization </p>
+INST_MANDATE: ''
+OTHER_METHOD: ''
 RATIONALE: >-
-  <h2>Rationale:</h2>
-
   <p>The purpose is to describe the reduction in chronic hepatitis b infections.
   Most of the burden of disease from HBV infection comes from infections
   acquired before the age of 5 years. Therefore, prevention of HBV infection
@@ -225,15 +137,13 @@ RATIONALE: >-
   (i.e. the proportion that tests positive for a marker of infection called
   hepatitis B surface antigen [HBsAg]). </p>
 REC_USE_LIM: >-
-  <h2>Comments and limitations:</h2>
-
   <p>The main Limitations of the analysis is that despite the thorough and
   in-depth literature search and access, there are fewer data on post
   vaccination studies than pre- vaccination studies. The model is largely
-  informed by pre-vaccination studies in adults.</p>
+  informed by pre-vaccination studies in adults. </p>
 
   <p>The quality of studies and data was assessed by reviewing
-  representativeness of sampling. Bias factor is a dichotomous variable.</p>
+  representativeness of sampling. Bias factor is a dichotomous variable. </p>
 
   <p>Potential important biases included geographical representation of the data
   points. Also, studies were from many different sources such as blood donors
@@ -244,12 +154,8 @@ REC_USE_LIM: >-
   birth dose of vaccine to prevent vertical transmission. As the proportion of
   studies and size of studies that were from blood donors was significantly
   greater than those on pregnant women, we may presume that our estimates of
-  prevalence of pre- vaccination may be on the low side.</p>
+  prevalence of pre- vaccination may be on the low side. </p>
 DATA_COMP: >-
-  <h1>Methodology</h1>
-
-  <h2>Computation method:</h2>
-
   <p>The data was modelled using a Bayesian logistic regression looking at the
   proportion of individuals that tested positive for HBsAg in each study,
   weighting each study by its size and using a conditional autoregressive (CAR)
@@ -290,24 +196,30 @@ DATA_COMP: >-
   age was evenly represented in that age group in the study. The same process
   was used for the 3 dose and birth dose vaccination. </p>
 
+  <p> </p>
+
   <p>The general logistic model equation is described below, </p>
 
-  <p><img
-  src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAeEAAABRCAMAAADSKe79AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAK1UExURf////T09NTU1Nzc3Pz8/O/v79DQ0Pr6+qampnh4eHR0dMLCwpGRkXp6em1tbc/Pz+Li4snJydfX11NTU4KCgt3d3erq6m9vb6Wlpby8vFZWVr6+vvHx8X19fZ+fn3Fxcf7+/uzs7K+vr+7u7l1dXZSUlP39/WdnZ9PT01VVVaenp4yMjJaWlre3t1RUVIiIiLCwsKKiouTk5J2dnWNjY+Pj4+vr6/j4+PX19YaGhoSEhPf399/f3/Dw8Pv7+4uLi2JiYl9fX6CgoNbW1pKSkpWVla2traysrHd3d66urvb29o+Pj0pKSktLS+jo6NXV1fn5+bGxsYODg2xsbGRkZOfn59jY2GlpaYmJicjIyGZmZmFhYY2NjZmZmXZ2duDg4Lm5uc3NzbKysk9PT25ubp6entHR0cDAwPPz81tbW1dXV6GhoWtra3BwcO3t7enp6YGBgbi4uJOTk7W1tVFRUXl5eX9/f+bm5tvb27+/v7Ozs7S0tM7Ozn5+ft7e3tra2uHh4cXFxfLy8nJycnV1daOjo5CQkJubm46OjsPDw8bGxk5OTqioqJeXl3x8fFJSUlBQUMzMzKqqql5eXlhYWMHBwWpqamBgYMrKyoWFhU1NTbq6utnZ2ampqZqamkxMTFxcXOXl5cvLy3Nzc4qKimVlZVlZWba2toCAgLu7u729vaSkpNLS0qurq5iYmIeHh8fHx1paWmhoaHt7e5ycnMTExLGtrfayso9ubvze3ptUVGhnZ/vc3MllZXFvb/3y8vivr/739//+/vvX17VXV3Vqav3r69pdXWtMTP/8/NiAgJhcXOfk5P79/fi6uvixse3q6v78/LN3d6g+PvGSkoBTU8u+vp5AQOy3t/rIyPWYmOLU1JKRkYBXV/WGhui0tJ6dncXExHRjY+GEhPWQkMGysgAAAH/C7rcAAADndFJOU///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////ALLDDRIAAAAJcEhZcwAAIdUAACHVAQSctJ0AAAsnSURBVHhe7Zw7suO4FYa1CcQOEDHCNhCwvABUIfJunAG7wA7cE3Xg6nE5tGvK7Qk6sMv78P+fA4pvSrp69IwaX7d4KYokQBycBw4gnRqNRqPRaDR+AKwxJ5tMfdd4O2z2ITkfmojfFZNM54z1sb5vvB+lLyfrc33XeD+8t03C74ztYKBNSPVt4+0wHdTXufqu8X7kzuWYbX3XeD9iMNY2Ab8vthnoN8cG35Idb401ppnoRqPRaDQa74txXeV1EzzW1yKXtDmmx5N8jL5k35X8unGLdX3fu5Ln/0LfNwk/HptOmalhX9+/CEizW46TTOhb/uMpuITGrdrzquGp6breLcuKTYefgvUGDV5kP71sHq90PaeVZqSmw0/BBGhPp5I15VUpJrribuH5ZbK48XAiJBx0Ldwrp3ksXHF4XXE/MDYEKI87sbHz4I5fgekQTzcRP5+C8MZ2vnCSxwR1x69hyxU3Ho71dMFRZ/HSSxcu2wg7/coCvy/mpoRDek5EVF7rGK3/jiI2oP658NDm+uhkfis7eWtzuGWxkk3uYOb842Pae1Zc2Ox9vFFcBtHWXpG2OO/Shx/lIjAgbHK4iq1gwMKqBS8ysdf3Qjt/mtiPY89cRyt7RHWQNp5r4/av4BLkj4FudlyPfUzoSum222K/OuKKNz+GCY/J97fGBdc/uQ2SVDNdHK8ZFySYrvM+yPNYPznjmMXC74mE04UIx3adnMy4d8DvxqHhw5pIram7N2I9DTy/wLDG7stp3xXLCB3NX99eh+lviNyiSDhO1aGEzqPYEtlhUbt8X5JtIuGLWheC2pIwOspU01BrPq7D5sPfAixSm7Qt4YOIma54q7pWuumtKZCbekRhdyjT/oVBY0IL2+hVwtgyXU83jJc9Zwu4J7vno/XA+bD+HSWctOvxA64tXXt2FC0h71SHoTV1b4nqMO+m99FbflR21+Gk67lllko40GEKZdMVq9ta2AR9ouGxNpD19SN6/t4FpgsL48mcLYTq0FvPEsalVCvo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"></p>
+  <p>Yi ~Binomial (&#x3C0;i, Ni), log&#x3C0;i1&#x2212;&#x3C0;i= &#x3B2;0+
+  &#x2211;j=1p&#x3B2;jxij+ui </p>
 
-  <p>Where &#x3B2;j are the fixed effects of the explanatory variables
-  <em>x<sub>ii</sub></em>. With the spatial random effects described by</p>
+  <p> </p>
 
-  <p><img
-  src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJsAAAAuCAMAAAAIuJt4AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAIfUExURf////r6+vLy8vHx8e/v7/X19f7+/r+/v319faenp7CwsIiIiIaGhuXl5fz8/ODg4KSkpMDAwLu7u/39/crKylhYWLKysp2dndHR0fv7+7y8vF1dXYuLi+np6dTU1FlZWaqqqoCAgPn5+WBgYJGRkcLCwmdnZ0pKSlZWVuvr62xsbExMTI6OjuHh4bW1tc7OztPT0/b29pubm15eXtXV1VtbW8vLy9LS0mpqaoeHh+rq6pKSkk5OTk1NTaysrPf395WVlV9fX1dXV5+fn6urq3p6eomJib29vWhoaLe3t35+fnNzc+7u7tra2mNjY4KCgnBwcPT09IyMjFVVVcjIyFxcXKOjo/j4+Nvb21RUVKKiomFhYePj4+zs7N3d3aCgoHh4eFNTU3t7e6WlpcnJyVpaWtzc3OTk5N/f3+bm5szMzJiYmOjo6PDw8MXFxY2NjWZmZuLi4tDQ0JeXl2VlZVFRUdfX166uroODg2JiYo+Pj3l5eXFxcWRkZJSUlN7e3r6+vufn57i4uIqKipCQkIWFhcbGxm1tbe3t7dnZ2bq6und3d8TExHZ2doGBgVBQUHx8fK+vr5mZmX9/f7a2tqmpqaGhofPz85OTk2lpaYSEhJaWlk9PT6ioqJ6enrOzs29vb8PDw3JyclJSUpycnMfHx7S0tM/Pz2tra9jY2EtLS7GxsZqams3Nza2trcHBwXR0dKamprm5udbW1gAAAPSlTP8AAAC1dFJOU////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wChHAOwAAAACXBIWXMAACHVAAAh1QEEnLSdAAADnElEQVRYR+1XO5LtKgx0TsYKlLEZZeRaABH7IGPFt/XB9vH4zOfOq1c3cE/VGJufpG4JzvbgwYMHDx48ePBfgTfmaP5ryIMojf/POqEcra+Radtaxb/PMVs0folc08/iICfbeNzaST1F6yfIvRQ1pfWSRD9Qt6hJc9i3T8GzHoNyvY9Q6z902DBLMVdntcmtTn1sNAL29hmyO+MY77Qn3df9Ecaouj8nj/pwE7+PF7Wd6b1g9j26LLZHPD5BpVEwi4f51WoIQ3yi3HPKYkALcT7tMI1S2xRD/Fvg8CGnrnZCC19kSCttFpgl3QaGdpiGGcmj6+sFbY6q0GnqkixSpYMCpoRsklF9xQXusRQnSQUz+EuKqHIrEIn4wOSPTFhbfTO+L6BaRq7T8oQKJLknYVbpCsGj3CmV17lGjyJvYduL3zclPHXmghBnG8jJxwvDKzybhvQC9IzGwdDsFX9rUFKWWLbR55B8sS2VPY5mppz95gwPs5rH9t+giZhq3qblOHyJHqeA1MELpikshbTZYE0QHLt1FUQrK5yOua8lFrHm781GUSe4OfBl7hZLh/8NVOhTLVo9+g2WmwWcTsoJd43yCxp8VBgRTrAqPyw/2WZanh5H0mjw0IDPWupJpc1YqF182SNuZHKzhPJBC5Fvd7ZFidSI4QowXV/rI2yxiUBWq6R6hwfdxwglOpbNqipIgZyiQ5/QoVLqTPtMR5QJuOPvBzjKtkdopeE++dDbxEnEqWqZ5vn+qHV2G0LpW0WeQjKY2ZJKhmke8ly2ZQtNnpiFvPQeWuEd2rB6onuHD5xWnvIojRMhg2D30sFHRMUVHKb+HkRo8WBJmgooL9aJSJkNWReTrtvPrjTNkAG0uhrqoKY4zKdlEaZ4Q+lAamM4QWWyHLqCIR5bL61asZ8LA/Mp14GQiwkFHNkuWrxoWOo0URZTiH2vN83YQs4QelA/19clNxhMYCJTxoKWCncAKa69tg4eyMD9bETNFlE3tRNxsw6cApNCsThUwL6bdHDm9z+2vXkvCafz9IwRsfgOXs9Hg5N2Jwy1OjI89HVFiEZdi8YrGJy8CdwN4v52gM011rp4hWa1l0DV4Z1wQk4My29NwMVFmf0u8jiXWqzbqbXbnyyM2xqk10yzVnQ+QKpkrEbjAxsO0ayI9ndw+b2AJPAb8QdojdJ80eEv17gDvjdDu2+wH3h/h09ma5d3vxv0u60fPHjw4MGvsW1/AGGYQZ8WYoN2AAAAAElFTkSuQmCC"></p>
+  <p>Where &#x3B2;j are the fixed effects of the explanatory variables xii. With
+  the spatial random effects described by </p>
 
-  <p>where,</p>
+  <p>ui~ N(u&#x2212;i,&#x3C3;2u/ni)</p>
 
-  <p><img
-  src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAPQAAABNCAMAAACmNLlxAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAIlUExURf////7+/v39/bW1tZ6enujo6I+Pj0pKSktLS01NTdXV1e/v72xsbE5OTqWlpfT09Pf39/X19dHR0WBgYL+/v1paWl9fX6Ojo3Nzc+Hh4fHx8VxcXIqKin9/f+zs7IuLi+fn52tra1FRUaurq/n5+cDAwFdXV9fX18PDw2JiYmVlZc3Nzevr68XFxfj4+KqqqmZmZubm5oCAgIiIiPDw8HR0dFRUVK6urtPT08nJyVBQUOnp6e3t7UxMTJCQkO7u7sfHx7q6unp6eqKiol5eXuXl5ampqVJSUpeXl/r6+l1dXc/Pz6+vr9nZ2bS0tNLS0vz8/LGxsVZWVn5+foKCgtbW1ry8vPb29uPj43FxcaioqLm5ucrKyvv7+8bGxq2trbCwsLu7u8zMzM7OzuLi4o2NjU9PT2dnZ8jIyGNjY2RkZFlZWdTU1MTExPLy8m1tbZSUlODg4IWFhXV1dWhoaJWVlVhYWFVVVcHBwaGhoVtbW2FhYXd3d8LCwri4uIyMjKysrJGRkYSEhHx8fJaWloODg/Pz825ubnBwcIeHh6SkpH19fXZ2dp2dnXl5eVNTU5ycnN3d3W9vb4aGhtvb23h4eOrq6rOzs5mZmaamptDQ0Gpqat7e3t/f35iYmI6OjomJidjY2Kenp76+vre3t2lpaXt7e3JycuTk5JOTk7Kyspqampubm7a2tpKSktra2svLy6CgoIGBgb29vZ+fn9zc3AAAAEw+Zl4AAAC3dFJOU///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////ABGphX4AAAAJcEhZcwAAIdUAACHVAQSctJ0AAAZkSURBVHhe7VpLluMqDM3My4FzWIDWIjbBhE0wY7nvSgI7iXFVknKq/Vy53ZX4Q2xd9EEgLh988MEH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"></p>
+  <p> , </p>
 
-  <p>Where <em>n<sub>i</sub></em> is the number of neighbours for country
-  <em>i</em> and weights <em>w<sub>i</sub></em>, are 1. </p>
+  <p>where, </p>
+
+  <p>u&#x2212;i= &#x2211;j &#x2208; neigh(i)wiuj/ni</p>
+
+  <p>Where ni is the number of neighbours for country i and weights wi, are 1.
+  </p>
+
+  <p> </p>
 
   <p>The model was simulated in the Bayesian statistical package WinBUGS, and
   data manipulation and model initialisation run from R (3.3.1) using R2WinBUGS.
@@ -398,7 +310,7 @@ DATA_COMP: >-
   country from all the studies plotted against the models estimate. Figure 5
   shows the marginal and joint posterior distributions for the fitted
   parameters. Table 1 gives the estimated parameter values with associated
-  credible intervals.</p>
+  credible intervals. </p>
 
   <p>During the validation exercise (in which countries were consulted over
   their estimates) it was pointed out that China had undertaken three very
@@ -412,13 +324,15 @@ DATA_COMP: >-
   under 5, or juveniles (children 5-15 years)) were no longer significantly
   different from zero (see Table 2 and Figure 6). The deviance was significantly
   reduced, suggesting a much better fitting model (Table 2), albeit on a
-  somewhat reduced dataset.</p>
+  somewhat reduced dataset. </p>
+DATA_VALIDATION: ''
+ADJUSTMENT: ''
 IMPUTATION: >-
-  <h2>Treatment of missing values:</h2>
-
   <ul>
-    <li><strong><em>At country level:</em></strong></li>
+    <li>At country level </li>
   </ul>
+
+  <p> </p>
 
   <p>All values represent the best estimates for the hepatitis B surface antigen
   indicator and aim to facilitate comparability across countries and over time.
@@ -428,7 +342,9 @@ IMPUTATION: >-
   groups 0-5 years and for the general population. Due to scarcity of data from
   some countries, the estimates are more robust at global and regional level
   than at country level, therefore, we suggest countries focus on the 95%
-  Credible Intervals and not only on the reported point estimates.</p>
+  Credible Intervals and not only on the reported point estimates. </p>
+
+  <p> </p>
 
   <p>A thorough and robust literature review was undertaken to find studies
   across the 194 WHO Member States and across age groups and vaccination status.
@@ -438,57 +354,24 @@ IMPUTATION: >-
   2013, and October 30, 2018 in the databases Embase, PubMed, Global Index
   Medicus, Popline, and Web of Science. </p>
 
+  <p> </p>
+
   <p>For each country that had prevalence data, a weighted central position was
   calculated using the size and location of each study. For those countries with
   no data, we used the population centroid. Please see detailed explanation
-  above.</p>
+  above. </p>
+
+  <p> </p>
+
+  <p> </p>
 
   <ul>
-    <li><strong><em>At regional and global levels:</em></strong></li>
+    <li>At regional and global levels </li>
   </ul>
 
-  <p>Same as above</p>
-REG_AGG: <h2>Regional aggregates:</h2>
-DOC_METHOD: >-
-  <h2>Methods and guidance available to countries for the compilation of the
-  data at the national level:</h2>
-
-  <p>Non applicable. Estimates come from the mathematical model. </p>
-
-  <p>Gather checklist of information that should be included in new reports of
-  global health estimates. Gather promotes best practices in reporting health
-  estimates. A range of health indicators are used to monitor population health
-  and guide resource allocation throughout the world. But the lack of data for
-  some regions and differing measurement methods present challenges that are
-  often addressed by using statistical modeling techniques to generate coherent
-  estimates based on often disparate sources of data. <a
-  href="http://gather-statement.org/">http://gather-statement.org/</a> </p>
-QUALITY_ASSURE: |-
-  <h2>Quality assurance:</h2>
-  <ul>
-    <li>WHO&#x2019;s estimates use a methodology reviewed by the Immunization and Vaccines Related Implementation Research Advisory Committee (IVIR-AC) and presented to the Strategic Advisory Group of Experts (SAGE). These estimates have been documented following the Guidelines for Accurate and Transparent Health Estimates Reporting (GATHER).</li>
-    <li>WHO provided Member States the opportunity to review and comment on data and estimates as part of the so called country consultation process.</li>
-  </ul>
-COVERAGE: >-
-  <h1>Data availability</h1>
-
-  <h2>Description:</h2>
-
-  <p>Estimates are available for 194 Member States and for the six WHO Regions,
-  as well as at global level.</p>
-
-  <h2>Time series:</h2>
-
-  <p>Estimates are available for pre- vaccine era, 2015 and 2017 estimates are
-  in review process. </p>
-
-  <h2>Disaggregation:</h2>
-
-  <p>Age groups (i.e. under five years of age and the general population);
-  sex/gender if possible. Although the data for the latter is scarce. In
-  addition, data at national, regional and global level. </p>
-COMPARABILITY: >-
-  <h2>Sources of discrepancies:</h2>
+  <p>Same as above </p>
+REG_AGG: >-
+  <p><strong>Sources of discrepancies:</strong> </p>
 
   <p>The estimates are not always the same as the official national estimates,
   because of the use of different methodologies and data sources. The study
@@ -500,18 +383,58 @@ COMPARABILITY: >-
   surveillance reports, case studies, letters or correspondence, or did not
   contain HBsAg seroprevalence data. Studies were also excluded if they
   exclusively reported prevalence estimates for high-risk population groups
-  (e.g., migrants and refugees). Country estimates may come from selected
-  serosurveys.</p>
+  (e.g., migrants and refugees). </p>
+
+  <p>Country estimates may come from selected serosurveys. </p>
+DOC_METHOD: >-
+  <p>Non applicable. Estimates come from the mathematical model. </p>
+
+  <p> </p>
+
+  <p>Gather checklist of information that should be included in new reports of
+  global health estimates. Gather promotes best practices in reporting health
+  estimates. A range of health indicators are used to monitor population health
+  and guide resource allocation throughout the world. But the lack of data for
+  some regions and differing measurement methods present challenges that are
+  often addressed by using statistical modeling techniques to generate coherent
+  estimates based on often disparate sources of data. <a
+  href="http://gather-statement.org/"
+  target="_blank"><u>http://gather-statement.org/</u></a> </p>
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: |-
+  <p><strong>Quality assurance</strong> </p>
+  <ul>
+    <li>WHO&#x2019;s estimates use a methodology reviewed by the Immunization and Vaccines Related Implementation Research Advisory Committee (IVIR-AC) and presented to the Strategic Advisory Group of Experts (SAGE). These estimates have been documented following the Guidelines for Accurate and Transparent Health Estimates Reporting (GATHER). </li>
+  </ul>
+  <p> </p>
+  <ul>
+    <li>WHO provided Member States the opportunity to review and comment on data and estimates as part of the so called country consultation process. </li>
+  </ul>
+QUALITY_ASSMNT: ''
+COVERAGE: >-
+  <p>Data availability: </p>
+
+  <p>Estimates are available for 194 Member States and for the six WHO Regions,
+  as well as at global level. </p>
+
+  <p>Time series:</p>
+
+  <p>Estimates are available for pre- vaccine era, 2015 and 2017 estimates are
+  in review process. </p>
+
+  <p>Disaggregation: </p>
+
+  <p>age groups (i.e. under five years of age and the general population);
+  sex/gender if possible. Although the data for the latter is scarce. In
+  addition, data at national, regional and global level. </p>
+
+  <p> </p>
+COMPARABILITY: ''
 OTHER_DOC: >-
-  <h1>References</h1>
+  <p><strong>Serosurveys are available for each member states and reference
+  provided for each data point.</strong> </p>
 
-  <p>Serosurveys are available for each member states and reference provided for
-  each data point.</p>
-
-  <h2>URL:</h2>
-
-  <p><a
-  href="http://whohbsagdashboard.com/#global-strategies">http://whohbsagdashboard.com/#global-strategies</a><strong>
-  </strong></p>
-
-  <h2>References:</h2>
+  <p><strong>URL: </strong><a
+  href="http://whohbsagdashboard.com/#global-strategies"
+  target="_blank"><strong><u>http://whohbsagdashboard.com/#global-strategies</u></strong></a><strong>
+  </strong> </p>

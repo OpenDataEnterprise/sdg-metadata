@@ -1,175 +1,228 @@
-SDG_GOAL: '<p>Goal 3: Ensure healthy lives and promote well-being for all at all ages</p>'
+SDG_INDICATOR_INFO: ''
+SDG_GOAL: >-
+  <p>Goal 3: Ensure healthy lives and promote well-being for all at all
+  ages.</p>
 SDG_TARGET: >-
   <p>Target 3.3: By 2030, end the epidemics of AIDS, tuberculosis, malaria and
   neglected tropical diseases and combat hepatitis, water-borne diseases and
-  other communicable diseases</p>
+  other communicable diseases </p>
 SDG_INDICATOR: >-
   <p>Indicator 3.3.1: Number of new HIV infections per 1,000 uninfected
-  population, by sex, age and key populations</p>
-META_LAST_UPDATE: '<p>Last updated: March 2020</p>'
-SDG_CUSTODIAN_AGENCIES: |-
-  <h1>Institutional information</h1>
-  <h2>Organization(s):</h2>
-  <p>The Joint United Nations Programme on HIV/AIDS (UNAIDS)</p>
+  population, by sex, age and key populations </p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: <p> February 2021</p>
+SDG_RELATED_INDICATORS: >-
+  <p>Achieving this target will positively impact multiple SDG goals and by
+  reaching other goals will improve countries ability to reduce new HIV
+  infections. The goals that are linked to HIV include goals 1 through 8, 10,
+  11, 16 and 17. </p>
+SDG_CUSTODIAN_AGENCIES: <p>The Joint United Nations Programme on HIV/AIDS (UNAIDS)</p>
+CONTACT: ''
+CONTACT_ORGANISATION: <p>The Joint United Nations Programme on HIV/AIDS (UNAIDS)</p>
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <h1>Concepts and definitions</h1>
+  <p><strong>Definition:</strong> </p>
 
-  <h2>Definition:</h2>
+  <p> </p>
 
   <p>The number of new HIV infections per 1,000 uninfected population, by sex,
   age and key populations as defined as the number of new HIV infections per
-  1000 person-years among the uninfected population.</p>
+  1000 person-years among the uninfected population. </p>
+
+  <p> </p>
+UNIT_MEASURE: <p>Number of people per 1000.</p>
+CLASS_SYSTEM: <p>Not applicable</p>
+SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <h1>Data sources</h1>
+  <p>Spectrum modelling is used for the data presented here. Alternative methods
+  of measures include household or key population surveys with HIV
+  incidence-testing, or routine surveillance among key populations. </p>
 
-  <h2>Description:</h2>
-
-  <p>Spectrum modelling, household or key population surveys with HIV
-  incidence-testing,</p>
-
-  <p>Other possible data sources: Regular surveillance system among key
-  populations.</p>
+  <p> </p>
 COLL_METHOD: >-
-  <h2>Collection process:</h2>
+  <p>Country teams use UNAIDS-supported Spectrum software to develop estimates
+  annually. The country teams are comprised primarily of epidemiologists,
+  demographers, monitoring and evaluation specialists and technical partners.
+  </p>
 
-  <p>Country teams use UNAIDS-supported software to develop estimates annually.
-  The country teams are comprised of primarily epidemiologists, demographers,
-  monitoring and evaluation specialists and technical partners.</p>
+  <p> </p>
 
-  <p>The software used to produce the estimates is Spectrum&#x2014;developed by
-  Avenir Health (www.avenirhealth.org)&#x2014;and the Estimates and Projections
-  Package, which is developed by the East-West Center (<a
-  href="www.eastwestcenter.org">www.eastwestcenter.org</a>). The UNAIDS
-  Reference Group on Estimates, Modelling and Projections provides technical
-  guidance on the development of the HIV component of the software (<a
-  href="www.epidem.org">www.epidem.org</a>).</p>
+  <p>The UNAIDS Reference Group on Estimates, Modelling and Projections provides
+  technical guidance on the development of the HIV component of the Spectrum
+  software (www.epidem.org). The Spectrum software is developed by Avenir Health
+  (www.avenirhealth.org)&#x2014;which includes a module, the Estimates and
+  Projections Package, which is developed by the East-West Center
+  (www.eastwestcenter.org). </p>
 FREQ_COLL: >-
-  <h1>Calendar</h1>
-
-  <h2>Data collection:</h2>
-
   <p>Data sources are compiled all year long. The spectrum models are created in
-  the first three months of every year and finalized by June. The next report
-  will be in July 2020. </p>
-REL_CAL_POLICY: |-
-  <h2>Data release:</h2>
-  <p>June 2018, June 2019, etc. </p>
+  the first three months of every year and finalized by `May. </p>
+REL_CAL_POLICY: <p>Data are released every year in July</p>
 DATA_SOURCE: >-
-  <h1>Data providers</h1>
-
-  <p>The estimates are produced by a team consisting of ministry of health,
-  national AIDS advisory groups and development partners. The results are signed
-  off on by senior managers at the ministries of health.</p>
-COMPILING_ORG: |-
-  <h1>Data compilers</h1>
-  <p>UNAIDS</p>
+  <p>The estimates are produced by team of national experts consisting of
+  ministry of health, national AIDS advisory groups and development partners.
+  The results are signed off on by senior managers at the ministries of health.
+  </p>
+COMPILING_ORG: >-
+  <p>After the data review process the national experts share their results with
+  UNAIDS who compiles the data for all countries and calculates regional and
+  global estimates. </p>
+INST_MANDATE: >-
+  <p>The UN Political Declarations on HIV/AIDS (from 2001, 2011, and 2016) have
+  mandated for UNAIDS to support countries to produce these data and for UNAIDS
+  to report on the status of the Global HIV epidemic annually as well as through
+  the UN Secretary General. </p>
+OTHER_METHOD: ''
 RATIONALE: >-
-  <h2>Rationale:</h2>
-
   <p>The incidence rate provides a measure of progress toward preventing onward
-  transmission of HIV.</p>
-DATA_COMP: >-
-  <h1>Methodology</h1>
-
-  <h2>Computation method:</h2>
-
-  <p>Longitudinal data on individuals are the best source of data but are rarely
-  available for large populations. Special diagnostic tests in surveys or from
-  health facilities can be used to obtain data on HIV incidence. HIV incidence
-  is thus modelled using the Spectrum software.</p>
-IMPUTATION: >-
-  <h2>Treatment of missing values:</h2>
+  transmission of HIV. Although other indicators are also very important to the
+  HIV epidemic, HIV incidence reflects success in prevention programmes and, to
+  some extent, successful treatment programmes, as those will also lead to lower
+  HIV incidence. </p>
+REC_USE_LIM: >-
+  <p>The methods and limitations for estimating HIV incidence vary based on the
+  data and surveillance systems available in countries. </p>
 
   <ul>
-    <li><strong><em>At country level:</em></strong></li>
+    <li>Countries with high HIV prevalence in the general population have relatively strong surveillance systems with household surveys contributing to the information required to estimate incidence. In epidemics concentrated in key populations, the surveillance systems for key hard-to-reach populations are often not comparable over time due to changing survey and sampling methods. The estimated size of key populations, a critical input to the Spectrum model for concentrated epidemics, can also lead to important under or over estimation of HIV epidemics in concentrated epidemics.</li>
+    <li>In many countries trends in recent new infections rely on prevalence data from routine antenatal clinic testing. If those data are biased because women with known positive HIV status are not captured when calculating prevalence, or women found to be negative at initial ANC visit are retested later in the pregnancy, the derived incidence trends might be biased. While some limitations of the models are reflected in the uncertainty bounds the measurement biases and the uncertainty caused by these biases are not easily quantified and are thus not included. </li>
+    <li>Although HIV prevalence and incidence among children appears to be reasonably robust in generalized epidemics, estimating the pediatric HIV epidemic in concentrated epidemics remains a challenge because no robust measures exist of fertility among key populations living with HIV. </li>
+    <li>Currently UNAIDS only supports the HIV estimates development in countries with populations greater than 250,000. This is primarily due to support capacity. </li>
   </ul>
+DATA_COMP: >-
+  <p>Longitudinal data on individuals newly infected with HIV would be the most
+  accurate source of data but are rarely available for representative
+  populations. Special diagnostic tests in surveys or from health facilities can
+  also be used to obtain data on HIV incidence but these require very large
+  samples to accurately estimate HIV incidence and the latter are also rarely
+  representative. HIV incidence is thus modelled using the Spectrum software</p>
+DATA_VALIDATION: >-
+  <p>The HIV incidence estimates are created by country teams and are signed off
+  on by ministry of health managers, including a clear statement that these data
+  will be provided for SDG reporting. The SDG focal point in country is copied
+  on the requests for clearance. UNAIDS then reviews the input data and results
+  to ensure quality. </p>
+ADJUSTMENT: <p>No adjustments are made to the estimates. </p>
+IMPUTATION: >-
+  <p>&#x2022; At country level: </p>
 
   <p>Estimates are not collected from countries with populations &lt; 250,000.
   In addition no estimates are available for 10 countries with very small HIV
-  epidemics who do not produce estimates. For some countries the estimates were
-  not finalized at the time of publication. The country specific values are not
-  presented for these countries.</p>
+  epidemics who do not produce estimates. </p>
 
-  <ul>
-    <li><strong><em>At regional and global levels:</em></strong></li>
-  </ul>
+  <p>For some countries the estimates were not finalized at the time of
+  publication. The country specific values are not presented for these
+  countries. </p>
+
+  <p> </p>
+
+  <p>&#x2022; At regional and global levels: </p>
 
   <p>The countries with populations &lt; 250,000 and the 10 countries that do
   not produce estimates are not included in regional or global level estimates.
   For countries in which the estimates were not finalized at the time of
   publication, the unofficial best estimates are included in the regional and
-  global values.</p>
+  global values. </p>
 REG_AGG: >-
-  <h2>Regional aggregates:</h2>
-
-  <p>Available for the World, the SDG regional groupings, LDCs, LLDCs and
-  SIDS.</p>
+  <p>Available for the World, the SDG regional groupings, LDCs, LLDCs and SIDS.
+  </p>
 DOC_METHOD: >-
-  <h2>Methods and guidance available to countries for the compilation of the
-  data at the national level:</h2>
-
   <p>A description of the methodology is available at: </p>
 
-  <p><a
-  href="http://www.unaids.org/sites/default/files/media_asset/Estimates_methods_2018.pdf">http://www.unaids.org/sites/default/files/media_asset/Estimates_methods_2018.pdf</a></p>
+  <p>Countries are provided with capacity building workshops every year on the
+  methods. In addition, they are supported by in country specialists in roughly
+  45 countries. Where no in country specialists are available, remote assistance
+  is provided. Guidelines are also available at: HIVtools.unaids.org </p>
 
-  <p>Countries are providing with capacity building workshops every two years on
-  the methods. In addition, they are supported by in country specialists in
-  roughly 45 countries. Where no in country specialists are available remote
-  assistance is provided. Guidelines are also available at: <a
-  href="http://www.unaids.org/en/dataanalysis/datatools/spectrum-epp">http://www.unaids.org/en/dataanalysis/datatools/spectrum-epp</a>
-  and at <a href="http://www.avenirhealth.org">www.avenirhealth.org</a></p>
+  <p><strong> </strong></p>
+QUALITY_MGMNT: >-
+  <p>Development of methods is overseen by an external reference group of
+  estimates. The actual files are reviewed by UNAIDS global experts to ensure
+  consistency between countries.</p>
 QUALITY_ASSURE: >-
-  <h2>Quality assurance:</h2>
-
-  <p><a
-  href="http://www.unaids.org/sites/default/files/media_asset/Estimates_methods_2018.pdf">http://www.unaids.org/sites/default/files/media_asset/Estimates_methods_2018.pdf</a></p>
+  <p> </p>
 
   <p>Countries are fully involved in the development of the estimates. The final
   values are reviewed for quality by UNAIDS and approved by senior managers at
-  national Ministries of Health.</p>
+  national Ministries of Health. </p>
+QUALITY_ASSMNT: >-
+  <p>Results are routinely compared to empirical evidence when available. These
+  empirical data include research studies, household surveys with incidence
+  measurement, and longitudinal HIV surveillance sites when available. If
+  inconsistencies are found modifications are considered for the models. Most
+  recently a study looking at incidence in sub-Saharan Africa have found
+  correspondence. </p>
 COVERAGE: >-
-  <h1>Data availability</h1>
+  <p>Data availability: </p>
 
-  <h2>Description:</h2>
+  <p>170 countries in 2020. Data are available by age and sex, however there are
+  methodological challenges in estimating incidence among key populations</p>
 
-  <p>170 countries in 2019</p>
+  <p>Time series:</p>
 
-  <h2>Time series:</h2>
+  <p>2000-2019 </p>
 
-  <p>2000-2018 </p>
+  <p>Disaggregation: </p>
 
-  <h2>Disaggregation:</h2>
-
-  <p>General population, Age groups (0-14, 15-24, 15-49, 50+ years), sex (male,
-  female, both)</p>
+  <p>General population, Age groups (0-14, 15-24, 15-49, 50+ years, All ages),
+  sex (male, female, both) Key population data are currently not available as
+  methods are being developed. </p>
 COMPARABILITY: |-
-  <h2>Sources of discrepancies:</h2>
-  <p>These variations will differ by country.</p>
+  <p>Sources of discrepancies: </p>
+  <p>These variations will differ by country. </p>
 OTHER_DOC: >-
-  <h1>References</h1>
+  <p><strong>URL:</strong> </p>
 
-  <h2>URL:</h2>
+  <p>unaids.org </p>
 
-  <p><a href="http://unaids.org">http://unaids.org</a></p>
+  <p> </p>
 
-  <h2>References:</h2>
+  <p><strong>References:</strong> </p>
 
-  <p><a
-  href="http://www.unaids.org/en/dataanalysis/datatools/spectrum-epp">http://www.unaids.org/en/dataanalysis/datatools/spectrum-epp</a></p>
+  <p> </p>
 
-  <p>UNAIDS Global AIDS Monitoring: Indicators for monitoring the 2016 United
-  Nations Political Declaration on Ending AIDS</p>
+  <p>More information on the estimates process</p>
+
+  <p>http://www.unaids.org/en/dataanalysis/datatools/spectrum-epp </p>
+
+  <p>Tools and tutorial videos on the methods</p>
+
+  <p><a href="https://hivtools.unaids.org/">https://hivtools.unaids.org/</a></p>
+
+  <p>Journal Supplement on methods:</p>
+
+  <p>https://journals.lww.com/aidsonline/toc/2019/12153</p>
+
+  <p>UNAIDS Global AIDS Monitoring </p>
+
+  <p>https://www.unaids.org/en/global-aids-monitoring</p>
+
+  <p> </p>
 
   <p>Political Declaration on HIV and AIDS: On the Fast Track to Accelerating
-  the Fight against HIV and to Ending the AIDS Epidemic by 2030 <a
-  href="http://www.unaids.org/sites/default/files/media_asset/2017-Global-AIDS-Monitoring_en.pdf">http://www.unaids.org/sites/default/files/media_asset/2017-Global-AIDS-Monitoring_en.pdf</a>
-  </p>
+  the Fight against HIV and to Ending the AIDS Epidemic by 2030 </p>
 
-  <p>UNAIDS website for relevant data and national Spectrum files <a
-  href="http://aidsinfo.unaids.org/">http://aidsinfo.unaids.org/</a></p>
+  <p>https://www.unaids.org/en/resources/documents/2016/2016-political-declaration-HIV-AIDS</p>
+
+  <p> </p>
+
+  <p>UNAIDS website for access to data </p>
+
+  <p>http://aidsinfo.unaids.org/ </p>
+
+  <p>UNAIDS website for downloading files used to create incidence estimates
+  https://www.unaids.org/en/dataanalysis/datatools/spectrum-epp</p>
+
+  <p> </p>
 
   <p>Consolidated Strategic Information Guidelines for HIV in the Health Sector.
-  Geneva: World Health Organization <a
-  href="https://www.who.int/hiv/pub/guidelines/en/">https://www.who.int/hiv/pub/guidelines/en/</a>
-  accessed on 7 February 2019</p>
+  Geneva: World Health Organization; <a
+  href="https://www.who.int/hiv/pub/guidelines/en/"
+  target="_blank"><u>https://www.who.int/hiv/pub/guidelines/en/</u></a> </p>
+
+  <p> </p>

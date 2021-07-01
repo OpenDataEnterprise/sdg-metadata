@@ -1,3 +1,4 @@
+SDG_INDICATOR_INFO: ''
 SDG_GOAL: >-
   <p>Goal 9: Build resilient infrastructure, promote inclusive and sustainable
   industrialization and foster innovation</p>
@@ -9,15 +10,24 @@ SDG_TARGET: >-
 SDG_INDICATOR: >-
   <p>Indicator 9.2.1: Manufacturing value added as a proportion of GDP and per
   capita</p>
-META_LAST_UPDATE: '<p>Last updated: March 2020</p>'
-SDG_CUSTODIAN_AGENCIES: |-
-  <h1>Institutional information</h1>
-  <h2>Organization(s):</h2>
-  <p>United Nations Industrial Development Organization (UNIDO)</p>
+SDG_SERIES_DESCR: |-
+  <p>Manufacturing value added as a proportion of GDP (in constant 2015 USD)</p>
+  <p>Manufacturing value added as a proportion of GDP (in current USD)</p>
+  <p>Manufacturing value added per capita</p>
+META_LAST_UPDATE: <p>Februrary 2021</p>
+SDG_RELATED_INDICATORS: ''
+SDG_CUSTODIAN_AGENCIES: <p>United Nations Industrial Development Organization (UNIDO)</p>
+CONTACT: ''
+CONTACT_ORGANISATION: <p>United Nations Industrial Development Organization (UNIDO)</p>
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <h1>Concepts and definitions</h1>
-
-  <h2>Definition:</h2>
+  <p>Definitions:</p>
 
   <p>Manufacturing value added (MVA) as a proportion of gross domestic product
   (GDP) is a ratio between MVA and GDP, both reported in constant 2015 USD.</p>
@@ -25,7 +35,7 @@ STAT_CONC_DEF: >-
   <p>MVA per capita is calculated by dividing MVA in constant 2015 USD by
   population of a country or area.</p>
 
-  <h2>Concepts:</h2>
+  <p>Concepts:</p>
 
   <p>The gross value added measures the contribution to the economy of each
   individual producer, industry or sector in a country. The gross value added
@@ -41,17 +51,29 @@ STAT_CONC_DEF: >-
   resident in the economy. For the purpose on comparability over time and across
   countries MVA and GDP are estimated in terms of constant prices in USD. The
   current series are given at constant prices of 2015.</p>
+UNIT_MEASURE: >-
+  <p>MVA as a proportion of GDP is measure in percentages, MVA per capita in
+  constant 2015 USD.</p>
+CLASS_SYSTEM: >-
+  <p><a
+  href="https://unstats.un.org/unsd/nationalaccount/docs/SNA2008.pdf">System of
+  National Accounts 2008</a></p>
+
+  <p><a
+  href="https://unstats.un.org/unsd/publication/seriesm/seriesm_4rev4e.pdf">International
+  Standard Industrial Classification of all Economic Activities (ISIC) Revision
+  4</a></p>
+
+  <p><a
+  href="https://unstats.un.org/unsd/publication/seriesm/seriesm_4rev3_1e.pdf">International
+  Standard Industrial Classification of all Economic Activities (ISIC) Revision
+  3</a></p>
+SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <h1>Data sources</h1>
-
-  <h2>Description:</h2>
-
-  <p>UNIDO maintains MVA database. Figures for updates are obtained from
+  <p>UNIDO maintains the MVA database. Figures for updates are obtained from
   national account estimates produced by UN Statistics Division (UNSD) and from
   official publications.</p>
 COLL_METHOD: >-
-  <h2>Collection process:</h2>
-
   <p>The MVA and GDP country data are collected through a national accounts
   questionnaire (NAQ) sent by UNSD. More information on the methodology is
   available on</p>
@@ -67,27 +89,31 @@ COLL_METHOD: >-
   information on the methodology is available on</p>
 
   <p><a
-  href="https://esa.un.org/unpd/wpp/Publications/Files/WPP2015_Methodology.pdf">https://esa.un.org/unpd/wpp/Publications/Files/WPP2015_Methodology.pdf</a>.</p>
+  href="https://population.un.org/wpp/Publications/Files/WPP2019_Methodology.pdf">https://population.un.org/wpp/Publications/Files/WPP2019_Methodology.pdf</a>.</p>
 FREQ_COLL: >-
-  <h1>Calendar</h1>
-
-  <h2>Data collection:</h2>
-
   <p>Data collection is carried out by receiving data electronically throughout
   the year.</p>
-REL_CAL_POLICY: |-
-  <h2>Data release:</h2>
-  <p>UNIDO MVA database is updated between March and April every year.</p>
+REL_CAL_POLICY: <p>UNIDO MVA database is updated between March and April every year.</p>
 DATA_SOURCE: |-
-  <h1>Data providers</h1>
   <p>United Nations Statistics Division (UNSD) and official publications</p>
   <p>UNSD from national statistical offices (NSOs)</p>
-COMPILING_ORG: |-
-  <h1>Data compilers</h1>
-  <p>United Nations Industrial Development Organization (UNIDO)</p>
+COMPILING_ORG: <p>United Nations Industrial Development Organization (UNIDO)</p>
+INST_MANDATE: >-
+  <p>UNIDO, as the specialized UN agency on industrial development, has the
+  international mandate for collecting, producing and disseminating
+  internationally comparable industrial statistics. UNIDO&#x2019;s mandate
+  covers (i) the maintenance and updating of international industrial statistics
+  databases; (ii) methodological and analytical products based on statistical
+  research and experience of maintaining internationally comparable statistics;
+  (iii) contributions to the development and implementation of international
+  statistical standards and methodology; and (iv) technical cooperation services
+  to countries in the field of industrial statistics. With the repositioning of
+  UNIDO as the focal agency for inclusive and sustainable industrial development
+  (ISID), its statistical mandate was expanded to cover all dimensions of
+  industrial development, including its inclusiveness and environmental
+  sustainability.</p>
+OTHER_METHOD: ''
 RATIONALE: >-
-  <h2>Rationale:</h2>
-
   <p>MVA is a well-recognized and widely used indicator by researchers and
   policy makers to assess the level of industrialization of a country. The share
   of MVA in GDP reflects the role of manufacturing in the economy and a
@@ -97,83 +123,91 @@ RATIONALE: >-
   classifying country groups according to the stage of industrial
   development.</p>
 REC_USE_LIM: >-
-  <h2>Comments and limitations:</h2>
-
   <p>Differences may appear due to different versions of System of National
   Accounts (SNA) or ISIC revisions used by countries.</p>
-DATA_COMP: |-
-  <h1>Methodology</h1>
-  <h2>Computation method:</h2>
-  <p>MVA proportion to GDP = MVA/GDP*100.</p>
-  <p>MVA per capita = MVA/population</p>
-IMPUTATION: >-
-  <h2>Treatment of missing values:</h2>
+DATA_COMP: >-
+  <p><img
+  src="data:image/png;base64,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"></p>
+DATA_VALIDATION: >-
+  <p>UNIDO engages with countries in regular consultations during the data
+  collection process to ensure the data quality and international
+  comparability.</p>
+ADJUSTMENT: >-
+  <p>UNSD collects national accounts data through a regular consultation with
+  countries and areas by sending the UN NAQ to obtain important information
+  about differences in concept, scope, coverage and classification used. The
+  final estimates are provided to facilitate international comparability. More
+  detailed information on estimation methods is available here:</p>
 
-  <ul>
-    <li><strong><em>At country level:</em></strong></li>
-  </ul>
+  <p><a
+  href="https://unstats.un.org/unsd/snaama/assets/pdf/methodology.pdf">https://unstats.un.org/unsd/snaama/assets/pdf/methodology.pdf</a></p>
+
+  <p>The MVA data are nowcasted by UNIDO to enhance a timely analysis of
+  manufacturing trends.</p>
+IMPUTATION: >-
+  <p>&#x2022; At country level</p>
+
+  <p><a
+  href="https://unstats.un.org/unsd/snaama/assets/pdf/methodology.pdf">Methodology
+  for the National Accounts Main Aggregates Database</a></p>
 
   <p>Boudt, Todorov, Upadhyaya (2009): Nowcasting manufacturing value added for
   cross-country comparison; Statistical Journal of IAOS</p>
 
-  <ul>
-    <li><strong><em>At regional and global levels:</em></strong></li>
-  </ul>
+  <p>&#x2022; At regional and global levels</p>
 
   <p>No imputation used.</p>
 REG_AGG: >-
-  <h2>Regional aggregates:</h2>
-
   <p>Regional, global aggregation of direct summation of country values within
   the country groups.</p>
 DOC_METHOD: >-
-  <h2>Methods and guidance available to countries for the compilation of the
-  data at the national level:</h2>
+  <p>International Recommendations for Industrial Statistics (IRIS) 2008</p>
 
-  <p>International Recommendations for Industrial Statistics (IRIS) 2008 <a
+  <p><a
   href="https://unstats.un.org/unsd/publication/seriesM/seriesm_90e.pdf">https://unstats.un.org/unsd/publication/seriesM/seriesm_90e.pdf</a></p>
 
-  <p>System of National Accounts (SNA) 2008 <a
+  <p>System of National Accounts 2008 </p>
+
+  <p><a
   href="https://unstats.un.org/unsd/publication/seriesf/SeriesF_2Rev5e.pdf">https://unstats.un.org/unsd/publication/seriesf/SeriesF_2Rev5e.pdf</a></p>
 
   <p>International Standard Industrial Classification of All Economic Activities
   (ISIC) </p>
 
   <p><a
-  href="https://unstats.un.org/unsd/cr/registry/regcst.asp?Cl=27">https://unstats.un.org/unsd/cr/registry/regcst.asp?Cl=27</a></p>
+  href="https://unstats.un.org/unsd/classifications/Econ/isic">https://unstats.un.org/unsd/classifications/Econ/isic</a></p>
+
+  <p> </p>
+QUALITY_MGMNT: ''
 QUALITY_ASSURE: >-
-  <h2>Quality assurance:</h2>
+  <p>The UNIDO quality assurance framework is followed to check data quality and
+  consistency before the data dissemination.</p>
 
   <p>UNIDO (2009), UNIDO Data Quality: A quality assurance framework for UNIDO
   statistical activities <a
   href="https://open.unido.org/api/documents/4814740/download/UNIDO-Publication-2009-4814740">https://open.unido.org/api/documents/4814740/download/UNIDO-Publication-2009-4814740</a>
   </p>
+QUALITY_ASSMNT: ''
 COVERAGE: >-
-  <h1>Data availability</h1>
-
-  <h2>Description:</h2>
+  <p>Data availability:</p>
 
   <p>For more than 200 economies</p>
 
-  <h2>Time series:</h2>
+  <p>Time series:</p>
 
   <p>Data for this indicator are available as of 2000 in the UN Global SDG
   Database, but longer time series are available in the UNIDO MVA database.</p>
 
-  <h2>Disaggregation:</h2>
+  <p>Disaggregation:</p>
 
   <p>No disaggregation available.</p>
 COMPARABILITY: >-
-  <h2>Sources of discrepancies:</h2>
-
-  <p>Minor differences may arise due to 1) exchange rates for conversion to USD
-  2) different base years used for constant price data 3) methods for recent
-  period estimation and 4) different versions of SNA and ISIC revisions used by
-  countries.</p>
+  <p>Sources of discrepancies: Minor differences may arise due to 1) exchange
+  rates for conversion to USD 2) different base years used for constant price
+  data 3) methods for recent period estimation and 4) different versions of SNA
+  and ISIC revisions used by countries.</p>
 OTHER_DOC: >-
-  <h1>References</h1>
-
-  <h2>URL:</h2>
+  <p><strong>URL:</strong></p>
 
   <p><a href="http://www.unido.org/statistics">www.unido.org/statistics</a></p>
 
@@ -181,7 +215,9 @@ OTHER_DOC: >-
   href="https://unstats.un.org/unsd/snaama/methodology.pdf">https://unstats.un.org/unsd/snaama/methodology.pdf</a><br><a
   href="https://esa.un.org/unpd/wpp/Publications/Files/WPP2015_Methodology.pdf">https://esa.un.org/unpd/wpp/Publications/Files/WPP2015_Methodology.pdf</a></p>
 
-  <h2>References:</h2>
+  <p><strong>References:</strong></p>
+
+  <p>International Recommendations for Industrial Statistics 2008</p>
 
   <p>International Yearbook of Industrial Statistics; UNIDO</p>
 

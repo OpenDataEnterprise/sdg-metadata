@@ -1,26 +1,34 @@
-SDG_GOAL: '<p>Goal 3: Ensure healthy lives and promote well-being for all at all ages</p>'
+SDG_INDICATOR_INFO: ''
+SDG_GOAL: >-
+  <p>Goal 3: Ensure healthy lives and promote well-being for all at all ages
+  </p>
 SDG_TARGET: >-
   <p>Target 3.5: Strengthen the prevention and treatment of substance abuse,
-  including narcotic drug abuse and harmful use of alcohol</p>
+  including narcotic drug abuse and harmful use of alcohol </p>
 SDG_INDICATOR: >-
   <p>Indicator 3.5.2: Alcohol per capita consumption (aged 15 years and older)
-  within a calendar year in litres of pure alcohol</p>
-META_LAST_UPDATE: '<p>Last updated: 08 June 2018</p>'
-SDG_RELATED_INDICATORS: |-
-  <h1>Related indicators as of February 2020</h1>
-  <p>Goal 8; Targets 3.4, 3.6</p>
-SDG_CUSTODIAN_AGENCIES: |-
-  <h1>Institutional information</h1>
-  <h2>Organization(s):</h2>
-  <p>World Health Organization (WHO)</p>
+  within a calendar year in litres of pure alcohol </p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: <p>08 June 2018</p>
+SDG_RELATED_INDICATORS: '<p>Goal 8; Targets 3.4, 3.6 </p>'
+SDG_CUSTODIAN_AGENCIES: <p>World Health Organization (WHO) </p>
+CONTACT: ''
+CONTACT_ORGANISATION: <p>World Health Organization (WHO) </p>
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <h1>Concepts and definitions</h1>
-
-  <h2>Definition:</h2>
+  <p>Definitions:</p>
 
   <p>Harmful use of alcohol, defined according to the national context as
   alcohol per capita consumption (aged 15 years and older) within a calendar
-  year in litres of pure alcohol</p>
+  year in litres of pure alcohol </p>
+
+  <p> </p>
 
   <p>Total alcohol per capita consumption (APC) is defined as the total (sum of
   recorded APC three-year average and unrecorded APC as a proportion of total)
@@ -37,9 +45,9 @@ STAT_CONC_DEF: >-
   other countries. Positive figures denote alcohol consumption of outbound
   tourists being greater than alcohol consumption by inbound tourists, negative
   numbers the opposite. Tourist consumption is based on UN statistics, and data
-  are provided by IHME.</p>
+  are provided by IHME. </p>
 
-  <h2>Concepts:</h2>
+  <p>Concepts:</p>
 
   <p>Recorded alcohol per capita (15+) consumption of pure alcohol is calculated
   as the sum of beverage-specific alcohol consumption of pure alcohol (beer,
@@ -63,7 +71,9 @@ STAT_CONC_DEF: >-
   countries where alcohol is legal. Second are specific other empirical
   investigations, and third is expert opinion supported by periodic survey of
   experts at country level (50 countries with significant estimates of
-  unrecorded alcohol consumption) using modified Delphi-technique.</p>
+  unrecorded alcohol consumption) using modified Delphi-technique. </p>
+
+  <p> </p>
 
   <p>For recorded APC, in order to make the conversion into litres of pure
   alcohol, the alcohol content (% alcohol by volume) is considered to be as
@@ -73,7 +83,9 @@ STAT_CONC_DEF: >-
   fermented wheat and fermented rice 9%; other fermented beverages 9%). Survey
   questions on consumption of unrecorded alcohol are converted into estimates
   per year of unrecorded APC. In some countries, unrecorded is estimated based
-  on confiscated alcohol confiscated by customs or police.</p>
+  on confiscated alcohol confiscated by customs or police. </p>
+
+  <p> </p>
 
   <p>The litres of alcohol consumed by tourists (15 years of age and older) in a
   country were based on the number of tourists who visited a country, the
@@ -87,20 +99,19 @@ STAT_CONC_DEF: >-
   (1) that people drink the same amounts of alcohol when they are tourists as
   they do in their home countries, and (2) that global tourist consumption is
   equal to 0 (and thus tourist consumption can be either net negative or
-  positive).</p>
+  positive). </p>
+UNIT_MEASURE: ''
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <h1>Data sources</h1>
+  <p>Recorded: Government statistics or, alternatively, alcohol industry
+  statistics in the public domain, FAOSTAT; </p>
 
-  <h2>Description:</h2>
+  <p> </p>
 
-  <p><strong>Recorded:</strong> Government statistics or, alternatively, alcohol
-  industry statistics in the public domain, FAOSTAT;</p>
-
-  <p><strong>Unrecorded:</strong> Nationally representative empirical data or,
-  alternatively, specific empirical investigations, expert opinion.</p>
+  <p>Unrecorded: Nationally representative empirical data or, alternatively,
+  specific empirical investigations, expert opinion. </p>
 COLL_METHOD: >-
-  <h2>Collection process:</h2>
-
   <p>The Global Survey on Alcohol and Health is conducted periodically (latest
   one in 2016) in collaboration with all six WHO regional offices. National
   counterparts or focal points in all WHO Member States are officially nominated
@@ -115,45 +126,25 @@ COLL_METHOD: >-
   at annual meetings organized by WHO with an objective to identify
   discrepancies and solutions. Estimates for key indicators are compiled into
   country profiles which are sent to the focal point or national counterpart in
-  the country for validation and endorsement.</p>
+  the country for validation and endorsement. </p>
+
+  <p> </p>
 FREQ_COLL: >-
-  <h1>Calendar</h1>
-
-  <h2>Data collection:</h2>
-
   <p>Passive surveillance ongoing. The next WHO global surveys on alcohol and
-  health involving data collection from WHO Member States in 2019 and 2022.</p>
-REL_CAL_POLICY: |-
-  <h2>Data release:</h2>
-  <p>2018 and 2020. </p>
+  health involving data collection from WHO Member States in 2019 and 2022. </p>
+REL_CAL_POLICY: <p>2018 and 2020. </p>
 DATA_SOURCE: >-
-  <h1>Data providers</h1>
+  <p> </p>
 
   <p>Ministries of Health; National statistical bureau/agencies (data on alcohol
   production and trade/sales); National monitoring centres on alcohol and drug
   use; National academic and monitoring centres concerned with population-based
-  surveys of risk factors to health.</p>
-COMPILING_ORG: |-
-  <h1>Data compilers</h1>
-  <p>World Health Organization (WHO)</p>
-RATIONALE: >-
-  <h2>Rationale:</h2>
-
-  <p>Alcohol consumption can have an impact not only on the incidence of
-  diseases, injuries and other health conditions, but also on the course of
-  disorders and their outcomes in individuals. Alcohol consumption has been
-  identified as a component cause for more than 200 diseases, injuries and other
-  health conditions. Per capita alcohol consumption is widely accepted as the
-  best possible indicator of alcohol exposure in populations and the key
-  indicator for estimation of alcohol-attributable disease burden and
-  alcohol-attributable deaths. Its correct interpretation requires the use of
-  additional population-based indicators such as prevalence of drinking, and, as
-  a result, stimulates development of national monitoring systems on alcohol and
-  health involving contributions from a wide range of stakeholders, including
-  alcohol production and trade sectors.</p>
+  surveys of risk factors to health. </p>
+COMPILING_ORG: <p>World Health Organization (WHO) </p>
+INST_MANDATE: ''
+OTHER_METHOD: ''
+RATIONALE: ''
 REC_USE_LIM: >-
-  <h2>Comments and limitations:</h2>
-
   <p>The indicator is feasible and suitable for monitoring purposes as evidenced
   by availability of data from 190 countries and inclusion of this indicator in
   global, regional and national monitoring frameworks. This is the key indicator
@@ -167,80 +158,79 @@ REC_USE_LIM: >-
   of unrecorded alcohol consumption as well as their geographical coverage have
   increased substantially. As a result, it leads to a more accurate assessment
   of the total amount of alcohol consumed per person per year in a given
-  country.</p>
+  country. </p>
 DATA_COMP: >-
-  <h1>Methodology</h1>
+  <p>Numerator: The sum of the amount of recorded alcohol consumed per capita
+  (15+ years), average during three calendar years, in litres of pure alcohol,
+  and the amount of unrecorded alcohol per capita consumption (15+ years),
+  during a calendar year, in litres of pure alcohol, adjusted for tourist
+  consumption. </p>
 
-  <h2>Computation method:</h2>
+  <p> </p>
 
-  <p><strong>Numerator:</strong> The sum of the amount of recorded alcohol
-  consumed per capita (15+ years), average during three calendar years, in
-  litres of pure alcohol, and the amount of unrecorded alcohol per capita
-  consumption (15+ years), during a calendar year, in litres of pure alcohol,
-  adjusted for tourist consumption.</p>
-
-  <p><strong>Denominator:</strong> Midyear resident population (15+ years) for
-  the same calendar year, UN World Population Prospects, medium variant.</p>
+  <p>Denominator: Midyear resident population (15+ years) for the same calendar
+  year, UN World Population Prospects, medium variant. </p>
+DATA_VALIDATION: ''
+ADJUSTMENT: ''
 IMPUTATION: >-
-  <h2>Treatment of missing values:</h2>
-
-  <ul>
-    <li><strong><em>At country level:</em></strong></li>
-  </ul>
+  <p>At country level </p>
 
   <p>The values of missing countries (e.g. Monaco, San Marino) are that small
-  that they would not affect global or regional figures.</p>
+  that they would not affect global or regional figures. </p>
 
-  <ul>
-    <li><strong><em>At regional and global levels:</em></strong></li>
-  </ul>
+  <p> </p>
+
+  <p>At regional and global levels </p>
 
   <p>The values of missing countries (e.g. Monaco, San Marino) are that small
   that they would not affect global or regional figures.</p>
 REG_AGG: >-
-  <h2>Regional aggregates:</h2>
-
   <p>Regional and global aggregates are population weighted averages from
   country values (weighted by population of inhabitants 15+ years of the
-  respective countries).</p>
-COVERAGE: >-
-  <h1>Data availability</h1>
+  respective countries). </p>
 
-  <h2>Description:</h2>
+  <p> </p>
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: >-
+  <p>Data availability:</p>
 
   <p>Global, by WHO and SDG regions, by World Bank income groups, by country.
-  The data are available for 190 WHO Member States.</p>
+  The data are available for 190 WHO Member States. </p>
 
-  <h2>Time series:</h2>
+  <p>Time series:</p>
 
   <p>Recorded alcohol per capita consumption since 1960s, and total alcohol per
   capita consumption since 2005, with estimates for unrecorded alcohol
-  consumption for 2005, 2010 and 2015.</p>
+  consumption for 2005, 2010 and 2015. </p>
 
-  <h2>Disaggregation:</h2>
+  <p>Disaggregation:</p>
 
-  <p>Sex, age.</p>
+  <p>Sex, age. </p>
 COMPARABILITY: >-
-  <h2>Sources of discrepancies:</h2>
+  <p>Sources of discrepancies:</p>
 
   <p>Population estimates, alcohol content by volume across different alcoholic
   beverage categories, age distributions, requirements for survey data used in
-  producing the estimates, estimates of unrecorded alcohol consumption.</p>
+  producing the estimates, estimates of unrecorded alcohol consumption. </p>
 OTHER_DOC: >-
-  <h1>References</h1>
+  <p><strong>URL:</strong> </p>
 
-  <h2>URL:</h2>
+  <p>http://apps.who.int/gho/data/?showonly=GISAH&amp;theme=main </p>
 
-  <p><a
-  href="http://apps.who.int/gho/data/?showonly=GISAH&amp;theme=main">http://apps.who.int/gho/data/?showonly=GISAH&amp;theme=main</a></p>
+  <p> </p>
 
-  <h2>References:</h2>
+  <p><strong>References:</strong> </p>
 
-  <p><a
-  href="http://apps.who.int/gho/data/?showonly=GISAH&amp;theme=main">http://apps.who.int/gho/data/?showonly=GISAH&amp;theme=main</a></p>
+  <p>http://apps.who.int/gho/data/?showonly=GISAH&amp;theme=main </p>
 
-  <p><a
-  href="http://www.who.int/gho/alcohol/en/">http://www.who.int/gho/alcohol/en/</a></p>
+  <p> </p>
 
-  <p><a
-  href="http://www.who.int/substance_abuse/publications/global_alcohol_report/en/">http://www.who.int/substance_abuse/publications/global_alcohol_report/en/</a></p>
+  <p>http://www.who.int/gho/alcohol/en/ </p>
+
+  <p> </p>
+
+  <p>http://www.who.int/substance_abuse/publications/global_alcohol_report/en/
+  </p>

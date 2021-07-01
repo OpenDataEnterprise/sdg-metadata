@@ -1,3 +1,4 @@
+SDG_INDICATOR_INFO: ''
 SDG_GOAL: >-
   <p>Goal 14: Conserve and sustainably use the oceans, seas and marine resources
   for sustainable development</p>
@@ -15,6 +16,15 @@ SDG_CUSTODIAN_AGENCIES: |-
   <p>UN Environment World Conservation Monitoring Centre (UNEP-WCMC)</p>
   <p>BirdLife International (BLI)</p>
   <p>International Union for Conservation of Nature (IUCN)</p>
+CONTACT: ''
+CONTACT_ORGANISATION: <p>UN Environment Programme World Conservation Monitoring Centre</p>
+CONTACT_NAME: <p>Edward Lewis</p>
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: <p>Programme Officer</p>
+CONTACT_EMAIL: >-
+  <p><a
+  href="mailto:edward.lewis@unep-wcmc.org">edward.lewis@unep-wcmc.org</a></p>
+IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
   <h1>Concepts and definitions</h1>
 
@@ -77,6 +87,7 @@ STAT_CONC_DEF: >-
   subsets are being reassessed using the Global Standard, which unifies these
   approaches along with other mechanisms for identification of important sites
   for other species and ecosystems (IUCN 2016).</p>
+SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
   <h1>Data sources</h1>
 
@@ -164,6 +175,7 @@ COMPILING_ORG: >-
   disseminated through the <a
   href="https://www.ibat-alliance.org/ibat-conservation/login">Integrated
   Biodiversity Assessment Tool for Research and Conservation Planning</a></p>
+OTHER_METHOD: ''
 RATIONALE: >-
   <h2>Rationale:</h2>
 
@@ -283,7 +295,7 @@ REC_USE_LIM: >-
   documented dates of designation and with digitised boundary polygons (rather
   than coordinates).</p>
 DATA_COMP: >-
-  <p>Methodology</p>
+  <h1>Methodology</h1>
 
   <h2>Computation method:</h2>
 
@@ -585,18 +597,11 @@ OTHER_DOC: >-
 
   <h2>References:</h2>
 
-  <p>These metadata are based on</p>
-
-  <p><a
-  href="http://mdgs.un.org/unsd/mi/wiki/7-6-Proportion-of-terrestrial-and-marine-areas-protected.ashx">http://mdgs.un.org/unsd/mi/wiki/7-6-Proportion-</a></p>
-
-  <p><a
-  href="http://mdgs.un.org/unsd/mi/wiki/7-6-Proportion-of-terrestrial-and-marine-areas-protected.ashx">of-terrestrial-and-marine-areas-protected.ashx</a></p>
-
-  <p>supplemented by <a
-  href="http://www.bipindicators.net/paoverlays">http://www.bipindicators.net/paoverlays</a></p>
-
-  <p>and the references listed below.</p>
+  <p>These metadata are based on <a
+  href="http://mdgs.un.org/unsd/mi/wiki/7-6-Proportion-of-terrestrial-and-marine-areas-protected.ashx">http://mdgs.un.org/unsd/mi/wiki/7-6-Proportion-of-terrestrial-and-marine-areas-protected.ashx</a>
+  supplemented by <a
+  href="http://www.bipindicators.net/paoverlays">http://www.bipindicators.net/paoverlays</a>
+  and the references listed below.</p>
 
   <p>BIRDLIFE INTERNATIONAL (2014). Important Bird and Biodiversity Areas: a
   global network for conserving nature and benefiting people. Cambridge, UK:

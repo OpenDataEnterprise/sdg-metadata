@@ -1,28 +1,38 @@
+SDG_INDICATOR_INFO: ''
 SDG_GOAL: >-
   <p>Goal 8: Promote sustained, inclusive and sustainable economic growth, full
-  and productive employment and decent work for all</p>
+  and productive employment and decent work for all </p>
 SDG_TARGET: >-
   <p>Target 8.5: By 2030, achieve full and productive employment and decent work
   for all women and men, including for young people and persons with
-  disabilities, and equal pay for work of equal value</p>
+  disabilities, and equal pay for work of equal value </p>
 SDG_INDICATOR: >-
   <p>Indicator 8.5.2: Unemployment rate, by sex, age and persons with
-  disabilities</p>
-META_LAST_UPDATE: '<p>Last updated: March 2020</p>'
-SDG_RELATED_INDICATORS: <h1>Related indicators</h1>
-SDG_CUSTODIAN_AGENCIES: |-
-  <h1>Institutional information</h1>
-  <h2>Organization(s):</h2>
+  disabilities </p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: <p>January 2021</p>
+SDG_RELATED_INDICATORS: '<p>1.1.1, 8.2.1, 8.6.1, 10.4.1</p>'
+SDG_CUSTODIAN_AGENCIES: <p>ILO </p>
+CONTACT: ''
+CONTACT_ORGANISATION: |-
   <p>ILO</p>
+  <p> </p>
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <h1>Concepts and definitions</h1>
-
-  <h2>Definition:</h2>
+  <p><strong>Definition:</strong> </p>
 
   <p>The unemployment rate conveys the percentage of persons in the labour force
-  who are unemployed.</p>
+  who are unemployed. </p>
 
-  <h2>Concepts:</h2>
+  <p> </p>
+
+  <p><strong>Concepts:</strong> </p>
 
   <p>Unemployed persons are defined as all those of working age (usually aged 15
   and above) who were not in employment, carried out activities to seek
@@ -45,78 +55,76 @@ STAT_CONC_DEF: >-
   subsequent period not exceeding two weeks in total, so as to ensure adequate
   coverage of unemployment situations among different population groups). </p>
 
+  <p> </p>
+
   <p>Persons in employment are defined as all those of working age (usually aged
   15 and above) who, during a short reference period such as one week or one
   day, were engaged in any activity to produce goods or provide services for pay
-  or profit.</p>
+  or profit. </p>
+
+  <p> </p>
 
   <p>The labour force corresponds to the sum of persons in employment and in
-  unemployment</p>
+  unemployment. </p>
 
   <p>For more information on the definitions of employment and unemployment
   refer to the Resolution concerning statistics of work, employment and labour
   underutilization Adopted by the 19<sup>th</sup> International Conference of
-  Labour Statisticians.</p>
-SOURCE_TYPE: >-
-  <h1>Data sources</h1>
+  Labour Statisticians. </p>
 
-  <h2>Description:</h2>
+  <p> </p>
+UNIT_MEASURE: <p>Percentage</p>
+CLASS_SYSTEM: >-
+  <p>Disability status is based on the WHO International Classification of
+  Functioning, Disability and Health (ICF), according to which disability covers
+  impairments (problems in body function or structure such as a significant
+  deviation or loss), activity limitations (difficulties in executing
+  activities) and participation restrictions (problems in involvement in life
+  situations). For measurement purposes, the ICF defines a person with
+  disability as a person who is limited in the kind or amount of activities that
+  he or she can do because of ongoing difficulties due to a long-term physical
+  condition, mental condition or health problem.</p>
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  <p><strong>Description:</strong> </p>
 
   <p>The preferred official national data source for this indicator is a
-  household-based labour force survey. In the absence of a labour force survey,
-  a population census and/or other type of household surveys with an appropriate
-  employment module may also be used to obtain the required data. </p>
+  household-based labour force survey. </p>
 
-  <p>It is important to note that unemployment data derived from employment
-  office records or unemployment registers would not refer to unemployment (as
-  defined for the purposes of this indicator, using the three-criteria of being
-  without a job, seeking employment and available for employment) but to
-  registered unemployment, and thus, it would not be comparable with indicator
-  8.5.2.</p>
+  <p>In the absence of a labour force survey, a population census and/or other
+  type of household surveys with an appropriate employment module may also be
+  used to obtain the required data. It is important to note that unemployment
+  data derived from employment office records or unemployment registers would
+  not refer to unemployment (as defined for the purposes of this indicator,
+  using the three-criteria of being without a job, seeking employment and
+  available for employment) but to registered unemployment, and thus, it would
+  not be comparable with indicator 8.5.2. </p>
 COLL_METHOD: >-
-  <h2>Collection process:</h2>
-
-  <p>The ILO Department of Statistics sends out its annual questionnaire on
-  labour statistics to all relevant agencies within each country (national
-  statistical office, labour ministry, etc.) requesting for the latest annual
-  data available and any revisions on numerous labour market topics and
-  indicators, including many SDG indicators. Indicator 8.5.2 is calculated from
-  statistics submitted to the ILO via this questionnaire as well as through
-  special agreements with regional and national statistical offices or through
-  the processing of microdata sets of national labour force surveys.</p>
-FREQ_COLL: >-
-  <h1>Calendar</h1>
-
-  <h2>Data collection:</h2>
-
-  <p>The ILO Department of Statistics sends out its annual questionnaire on
-  labour statistics, usually in the 2nd quarter, with a view to receiving the
-  requested statistics by the 3rd quarter or the end of the year at the latest.
-  Data received in batch from regional and national statistical offices and data
-  obtained through the processing of microdata sets of national household
-  surveys by the ILO Department of Statistics are continuously updated in
-  ILOSTAT (as they become available to the ILO).</p>
-REL_CAL_POLICY: >-
-  <h2>Data release:</h2>
-
-  <p>The ILO&#x2019;s online database ILOSTAT is continuously updated to reflect
-  statistics compiled and processed every week. In general, statistics for
-  EUROSTAT and OECD countries are available around the 2nd or 3rd quarter of the
-  year following the year of reference, whereas they are usually available
-  around the 3rd or 4th quarter of the year following the year of reference for
-  other countries.</p>
+  <p>The ILO Department of Statistics processes national household survey
+  microdatasets in line with internationally-agreed indicator concepts and
+  definitions set forth by the International Conference of Labour Statisticians.
+  For data that could not be obtained through this processing or directly from
+  government websites, the ILO sends out an annual ILOSTAT questionnaire to all
+  relevant agencies within each country (national statistical office, labour
+  ministry, etc.) requesting the latest annual data and any revisions on
+  numerous labour market topics and indicators, including many SDG indicators.
+  </p>
+FREQ_COLL: <p>Continuous</p>
+REL_CAL_POLICY: <p>Continuous</p>
 DATA_SOURCE: >-
-  <h1>Data providers</h1>
-
   <p>Mainly national statistical offices, and in some cases labour ministries or
   other related agencies, at the country-level. In some cases, regional or
-  international statistical offices can also act as data providers.</p>
-COMPILING_ORG: |-
-  <h1>Data compilers</h1>
-  <p>ILO</p>
+  international statistical offices can also act as data providers. </p>
+COMPILING_ORG: <p>ILO</p>
+INST_MANDATE: >-
+  <p>The ILO is the UN focal point for labour statistics. It sets international
+  standards for labour statistics through the International Conference of Labour
+  Statisticians. It also compiles and produces labour statistics with the goal
+  of disseminating internationally-comparable datasets, and provides technical
+  assistance and training to ILO member States to support their efforts to
+  produce high quality labour market data.</p>
+OTHER_METHOD: ''
 RATIONALE: >-
-  <h2>Rationale:</h2>
-
   <p>The unemployment rate is a useful measure of the underutilization of the
   labour supply. It reflects the inability of an economy to generate employment
   for those persons who want to work but are not doing so, even though they are
@@ -127,10 +135,8 @@ RATIONALE: >-
   cycle; upward movements in the indicator often coincide with recessionary
   periods or in some cases with the beginning of an expansionary period as
   persons previously not in the labour market begin to test conditions through
-  an active job search.</p>
+  an active job search. </p>
 REC_USE_LIM: >-
-  <h2>Comments and limitations:</h2>
-
   <p>Even though in most developed countries the unemployment rate is useful as
   an indicator of labour market performance, and specifically, as a key measure
   of labour underutilization, in many developing countries, the significance and
@@ -139,32 +145,40 @@ REC_USE_LIM: >-
   must avoid unemployment, resorting to engaging in some form of economic
   activity, however insignificant or inadequate. Thus, in this context, other
   measures should supplement the unemployment rate to comprehensively assess
-  labour underutilization.</p>
-DATA_COMP: |-
-  <h1>Methodology</h1>
-  <h2>Computation method:</h2>
-  <h2>Unemployment rate = (Total unemployment/Total labour force) x 100</h2>
+  labour underutilization. </p>
+DATA_COMP: >-
+  <p><img
+  src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAfAAAABuCAIAAABX1dY2AAAAAXNSR0IArs4c6QAAGGVJREFUeF7tnUmoJUUWhru6y4VaOxV04YCKA6hoi6XgsBCccEJFwVJRcBaccFYcQEUFB7QWggMoioKzC+eFYimoOCwsnEAXuhFUVHAAXVR/3T+cDiLz5s28ce97efP+uXjkyxtx4pw/Mv+IPHHi5IoNGzb8w4cRMAJGwAjMPwL/nH8TbIERMAJGwAj8FwETuu8DI2AEjMBAEDChD6QjbYYRMAJGwITue8AIGAEjMBAETOgD6UibYQSMgBEwofseMAJGwAgMBAET+kA60mYYASNgBEzovgeMgBEwAgNBwIQ+kI60GUbACBgBE7rvASNgBIzAQBAwoQ+kI22GETACRsCE7nvACBgBIzAQBEzoA+lIm2EEjIARMKH7HjACRsAIDAQBE/pAOtJmGAEjYARM6L4HjIARMAIDQcCEPpCOtBlGwAgYARO67wEjYASMwEAQMKEPpCNthhEwAkbAhO57wAgYASMwEARM6APpSJthBIyAETCh+x4wAkbACAwEARP6QDrSZhgBI2AETOi+B4yAETACA0HAhD6QjrQZRsAIGAETuu8BI2AEjMBAEFixYcOGgZhiM4zADBA4/fTTf/zxRwS/9NJLMxC/nCIHbNpywrqsbZvQlxV+N94OgSOPPLKh4C677HLXXXe1kzRJKRHf8AgdLAZs2iQ9Pf917HKZ/z5cDAu22WabRx55BFY99thjsfiqq67i/Oabb95kk03aA/DVV18xNjzwwAPtq1By880371R+jgoPxjRGpssuu2yOkJ+Rqib0GQFrsVNG4JBDDtliiy0yof/+39G+pe+//759YZecIwTkFvNhQvc9MB8IHHjggbWK7rXXXu0NePfdd9sXdsl5QeC5556bF1Vnrad96LNG2PKnjAAOkxdffBGXy0EHHVQVjVPl2Wef/fjjj//44w+8MczfzzrrLE3tzz///G+//TatEs73t99+G67/4osvmOhR64ADDrj44oujJO/y/FTrQ7/tttveeecdSoY+2RU0uffeexGLc+POO+986KGHpBtNX3311ek7R6o5hXkjOfXUU5GcSXjiiSdoEQkoiWk///wz9kqHQw89NNRO1aB1EJMOIVbWVU374Ycfnn/+edDQnBcAjzvuOL0GXX/99Sijimeeeebxxx/PvzSEMlw5+eSTf/rpp9dff12/0taTTz4J4Jzw0+GHHw7thhromb5apY0K/zVr1mS9ds8997z11ltSDJkhAXjVaHoMcsGjzYP0r5tuuqlNOZcxAj1B4KOPPvryyy955rfddttMJTjxuuuu+/vvv/l70UUX/fXXXy+//DKks++++2666aZHHXXU77//Tl288Hffffcpp5xy2GGHIQFKgnqY6d9yyy377LPPe++99+mnn2622WY77rij5MMXkAjlqwjw3gCZ/vrrr6FPdmWrrbbipxdeeAGegt1oESZCDRFTvHZIcwpDmmeffTbjB5pLh0zCMccco5GJdvmLtqeddhqMqSsbb7zxrrvuip5I5grHd999h4Qbb7wR04COdptNu/zyy9evX3/eeedde+21W2+9NWogVmocfPDBQAF9X3jhhUcffTStcHHLLbdEJmPJOeecs99++2HU119/vWLFio022ggJKPPmm29SAE1AADWQ+cYbb4Aw40TgSaN4w6688kp6beXKlc888wytII0C9JoQBjRGwSuuuCKTQDGu0AS/Pvroo3RTbU/15O6dtRp2ucwaYctfOgQee+wxiODSSy/daaedaJUZLmQKlbz22msNSmjGBx9RhorMYTnJ5vIN1aurstkVzTRp5YQTTtC0VG2lTaA5V+Jl4pprruFfhhm1m0qQaYjiL7zPNJ8rFJDa0HeoCnFzzkClmT7FQIYTpsmjzHn88cfRiuFBbz/85RxImbOrilakU4e1pudMqFWAEYW/IKBGY5EDZXQFmTAvEpiVq0o0KtOY+FOAkYNBTgWE584778w0v1bCKHMW8LoJfQE7fbAmMxmHmsULOvbff3/+MitvsJmQR2Z2UYBwmhkBlCpGEymhozntph4YsV6mSUjQSVYlk6m6yAkh1NKLwigDP/nkE37abbfdogD0yjkjh64w8UdCuhTBOaNmtl6tsUSHzlM1dP3zzz/XiRpNHWhwN1eyFexqQE5IGGXOAl43oS9gpw/TZPzgGFYbh6dZZG8PaQ5pElIZhzhUP03xaB6u1Gg28HAlAIS4mXQzJMiZziSaE70uTHyo0dR2vUPEKDKx5AWsaEJfwE63yTkC8CZra6wQnnjiiXfccceyAIQ3g6W87Khd+F0W9aJRvfSsW7eOv6+88gr8Xh0AumrI/L1quxxTPjohYELvBJcL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"></p>
+DATA_VALIDATION: >-
+  <p>The ILO engages in annual consultations with member States through the
+  ILOSTAT questionnaire and related Statistics Reporting System (StaRS).
+  National data providers receive a link to the portal where they can review all
+  national SDG data available on ILOSTAT.</p>
+ADJUSTMENT: >-
+  <p>Through the ILO Harmonized Microdata initiative, the ILO strives to produce
+  internationally comparable labour statistics based on the indicator concepts
+  and definitions adopted by the International Conference of Labour
+  Statisticians.</p>
 IMPUTATION: >-
-  <h2>Treatment of missing values:</h2>
-
   <ul>
-    <li><strong><em>At country level:</em></strong></li>
+    <li>At country level </li>
   </ul>
 
   <p>Multivariate regression techniques are used to impute missing values at the
   country level. However, the imputed missing country values are only used to
   calculate the global and regional estimates; they are not used for
-  international reporting on the SDG indicators by the ILO. For further
-  information on the estimates, please refer to the the ILO modelled estimates
-  methodological overview, available at <a
-  href="https://www.ilo.org/ilostat-files/Documents/TEM.pdf">https://www.ilo.org/ilostat-files/Documents/TEM.pdf</a>.</p>
+  international reporting on the SDG indicators by the ILO. </p>
+
+  <p>For further information on the estimates, please refer to the the ILO
+  modelled estimates methodological overview, available at
+  https://www.ilo.org/ilostat-files/Documents/TEM.pdf</p>
+
+  <p> </p>
 
   <ul>
-    <li><strong><em>At regional and global levels:</em></strong></li>
+    <li>At regional and global levels </li>
   </ul>
 REG_AGG: >-
-  <h2>Regional aggregates:</h2>
-
   <p>To address the problem of missing data, the ILO designed several
   econometric models which are used to produce estimates of labour market
   indicators in the countries and years for which real data are not available.
@@ -172,13 +186,10 @@ REG_AGG: >-
   produce global and regional estimates on unemployment rates. These models use
   multivariate regression techniques to impute missing values at the country
   level, which are then aggregated to produce regional and global estimates. For
-  further information on the estimates, please refer to the the ILO modelled
+  further information on the estimates, please refer to the ILO modelled
   estimates methodological overview, available at <a
   href="https://www.ilo.org/ilostat-files/Documents/TEM.pdf">https://www.ilo.org/ilostat-files/Documents/TEM.pdf</a>.</p>
 DOC_METHOD: >-
-  <h2>Methods and guidance available to countries for the compilation of the
-  data at the national level:</h2>
-
   <p>In order to calculate this indicator (according to the ILO definitions of
   unemployment and unemployment rate), data is needed on both the labour force
   and the unemployed, by sex and age (and eventually disability status). This
@@ -186,77 +197,81 @@ DOC_METHOD: >-
   (or other types of household surveys with an employment module). For the
   methodology of each national household survey, one must refer to the most
   comprehensive survey report or to the methodological publications of the
-  national statistical office in question.</p>
+  national statistical office in question. </p>
 
   <ul>
-    <li>Decent Work and the Sustainable Development Goals: A Guidebook on SDG Labour Market Indicators, available at <a href="https://www.ilo.org/stat/Publications/WCMS_647109/lang--en/index.htm">https://www.ilo.org/stat/Publications/WCMS_647109/lang--en/index.htm</a> </li>
-    <li>ILO Manual &#x2013; Decent Work Indicators, Concepts and Definitions &#x2013; Chapter 1, Employment opportunities <a href="http://www.ilo.org/integration/resources/pubs/WCMS_229374/lang--en/index.htm">http://www.ilo.org/integration/resources/pubs/WCMS_229374/lang--en/index.htm</a> (second version, pages 34 and 49)</li>
-    <li>Resolution concerning statistics of work, employment and labour underutilization <a href="http://www.ilo.org/global/statistics-and-databases/standards-and-guidelines/resolutions-adoptedby-international-conferences-of-labour-statisticians/WCMS_230304/lang--en/index.htm">http://www.ilo.org/global/statistics-and-databases/standards-and-guidelines/resolutions-adoptedby-international-conferences-of-labour-statisticians/WCMS_230304/lang--en/index.htm</a> </li>
-    <li>ILOSTAT (<a href="https://ilostat.ilo.org/">https://ilostat.ilo.org/</a>)</li>
-    <li>ILOSTAT Indicator descriptions (<a href="https://ilostat.ilo.org/resources/methods/description-unemployment-rate/">https://ilostat.ilo.org/resources/methods/description-unemployment-rate/</a>)</li>
-    <li>ILOSTAT&#x2019;s topic page on Unemployment and Labour Underutilization (<a href="https://ilostat.ilo.org/topics/unemployment-and-labour-underutilization/">https://ilostat.ilo.org/topics/unemployment-and-labour-underutilization/</a>).</li>
+    <li>Decent Work and the Sustainable Development Goals: A Guidebook on SDG Labour Market Indicators, available at <a href="https://www.ilo.org/stat/Publications/WCMS_647109/lang--en/index.htm" target="_blank"><u>https://www.ilo.org/stat/Publications/WCMS_647109/lang--en/index.htm</u></a> </li>
+    <li>ILO Manual &#x2013; Decent Work Indicators, Concepts and Definitions &#x2013; Chapter 1, Employment opportunities <a href="http://www.ilo.org/integration/resources/pubs/WCMS_229374/lang--en/index.htm" target="_blank"><u>http://www.ilo.org/integration/resources/pubs/WCMS_229374/lang--en/index.htm</u></a> (second version, pages 34 and 49) </li>
+    <li>Resolution concerning statistics of work, employment and labour underutilization <a href="http://www.ilo.org/global/statistics-and-databases/standards-and-guidelines/resolutions-adoptedby-international-conferences-of-labour-statisticians/WCMS_230304/lang--en/index.htm" target="_blank"><u>http://www.ilo.org/global/statistics-and-databases/standards-and-guidelines/resolutions-adoptedby-international-conferences-of-labour-statisticians/WCMS_230304/lang--en/index.htm</u></a> </li>
+    <li>ILOSTAT (<a href="https://ilostat.ilo.org/" target="_blank"><u>https://ilostat.ilo.org/</u></a>) </li>
+    <li>ILOSTAT Indicator descriptions (<u>https://ilostat.ilo.org/resources/methods/description-unemployment-rate/</u>) </li>
+    <li>ILOSTAT&#x2019;s topic page on Unemployment and Labour Underutilization (https://ilostat.ilo.org/topics/unemployment-and-labour-underutilization/). </li>
   </ul>
-QUALITY_ASSURE: >-
-  <h2>Quality assurance</h2>
-
+QUALITY_MGMNT: >-
   <p>Data consistency and quality checks regularly conducted for validation of
-  the data before dissemination in the ILOSTAT database.</p>
+  the data before dissemination in the ILOSTAT database. In many cases, data are
+  obtained through ILO processing of microdata sets of national household
+  surveys. Data are also reported by national statistical offices or other
+  relevant national agencies to the ILO Department of Statistics through its
+  annual questionnaire on labour statistics. The primary source of the data as
+  well as the repository where applicable are indicated in the relevant metadata
+  and/or footnotes in ILOSTAT and in the SDG Indicators Global Database. </p>
+QUALITY_ASSURE: >-
+  <p>Data consistency and quality checks are regularly conducted for validation
+  of the data before dissemination in the ILOSTAT database.</p>
 
-  <p>In many cases, data are obtained through ILO processing of microdata sets
-  of national household surveys. Data are also reported by national statistical
-  offices or other relevant national agencies to the ILO Department of
-  Statistics through its annual questionnaire on labour statistics. The primary
-  source of the data as well as the repository where applicable are indicated in
-  the relevant metadata and/or footnotes in ILOSTAT and in the SDG Indicators
-  Global Database.</p>
+  <p> </p>
+QUALITY_ASSMNT: ''
 COVERAGE: >-
-  <h1>Data availability</h1>
+  <p>Data availability:</p>
 
-  <h2>Description:</h2>
+  <p>Data disaggregated by sex and age for this indicator is available for 186
+  countries and territories. The indicator is widely available based on real
+  observations provided by countries and derived from national labour force
+  surveys, other types of household surveys or population census. </p>
 
-  <p>The indicator is widely available based on real observations provided by
-  countries and derived from national labour force surveys, other types of
-  household surveys or population census.</p>
+  <p>However, the disaggregation by disability is not widely available and this
+  submission only includes 68 countries and territories. It is increasingly
+  reported but coverage is still very low. </p>
 
-  <p>However, the disaggregation by disability is not widely available. It is
-  increasingly reported but coverage is still very low.</p>
+  <p>Time series:<br>Data for disaggregation by sex and age for this indicator
+  is available as of 2000 until 2019 for countries in the SDG Indicators Global
+  Database, but time series going back further are available in ILOSTAT. 2020
+  regional aggregates are available for total population. </p>
 
-  <h2>Time series:</h2>
+  <p>Data for disaggregation by disability status is available for the period
+  from 2005 to 2019. </p>
 
-  <p>Data for this indicator is available as of 2000 in the SDG Indicators
-  Global Database, but time series going back further are available in
-  ILOSTAT.</p>
-
-  <h2>Disaggregation:</h2>
+  <p>Disaggregation:</p>
 
   <p>This indicator should, ideally, be disaggregated by sex, age group and
-  disability status.</p>
-COMPARABILITY: <h2>Sources of discrepancies:</h2>
-OTHER_DOC: >-
-  <h1>References</h1>
+  disability status. </p>
+COMPARABILITY: >-
+  <p>Sources of discrepancies:</p>
 
-  <p>Decent Work and the Sustainable Development Goals: A Guidebook on SDG
-  Labour Market Indicators, available at <a
-  href="https://www.ilo.org/stat/Publications/WCMS_647109/lang--en/index.htm%20">https://www.ilo.org/stat/Publications/WCMS_647109/lang--en/index.htm</a>
-  </p>
+  <p>Differences in the questionnaires used in the household surveys as the
+  basic measurement tool may entail differences in specific definitions of
+  employment and unemployment, differences in the treatment of specific groups
+  or differences in the operational criteria used to determine the
+  individual&#x2019;s labour force status.</p>
 
-  <p>ILOSTAT (<a
-  href="https://ilostat.ilo.org/">https://ilostat.ilo.org/</a>)</p>
-
-  <p>ILOSTAT Indicator descriptions
-  (https://ilostat.ilo.org/resources/methods/description-unemployment-rate/)</p>
-
-  <p>ILOSTAT&#x2019;s topic page on Unemployment and Labour Underutilization
-  (https://ilostat.ilo.org/topics/unemployment-and-labour-underutilization/).</p>
-
-  <p>Decent Work Indicators Manual: <a
-  href="http://www.ilo.org/wcmsp5/groups/public/---dgreports/---stat/documents/publication/wcms_223121.pdf%20">http://www.ilo.org/wcmsp5/groups/public/---dgreports/---stat/documents/publication/wcms_223121.pdf</a>
-  </p>
-
-  <p>Resolution concerning statistics of work, employment and labour
-  underutilization, adopted by the 19th ICLS in 2013: <a
-  href="http://www.ilo.org/global/statistics-and-databases/standards-and-guidelines/resolutions-adoptedby-international-conferences-of-labour-statisticians/WCMS_230304/lang--en/index.htm%20">http://www.ilo.org/global/statistics-and-databases/standards-and-guidelines/resolutions-adoptedby-international-conferences-of-labour-statisticians/WCMS_230304/lang--en/index.htm</a>
-  </p>
-
-  <p>Trends Econometric Models: A Review of Methodology: <a
-  href="http://www.ilo.org/wcmsp5/groups/public/---ed_emp/---emp_elm/---trends/documents/publication/wcms_120382.pdf">http://www.ilo.org/wcmsp5/groups/public/---ed_emp/---emp_elm/---trends/documents/publication/wcms_120382.pdf</a></p>
+  <p>The unemployment rate is dependent on the geographical coverage of the
+  survey since urban and rural areas tend to have significant differences in the
+  incidence of unemployment. It is important to note that unemployment
+  indicators do not convey any information on the characteristics of the
+  unemployed (their education level, ethnic origin, socio-economic background,
+  work experience, duration of unemployment, etc.), which is crucial to cast
+  light on labour market failures.</p>
+OTHER_DOC: |-
+  <ul>
+    <li>Decent Work and the Sustainable Development Goals: A Guidebook on SDG Labour Market Indicators, available at <a href="https://www.ilo.org/stat/Publications/WCMS_647109/lang--en/index.htm" target="_blank"><u>https://www.ilo.org/stat/Publications/WCMS_647109/lang--en/index.htm</u></a> </li>
+    <li>ILOSTAT (<a href="https://ilostat.ilo.org/" target="_blank"><u>https://ilostat.ilo.org/</u></a>) </li>
+    <li>ILOSTAT Indicator descriptions (<u>https://ilostat.ilo.org/resources/methods/description-unemployment-rate/</u>) </li>
+    <li>ILOSTAT&#x2019;s topic page on Unemployment and Labour Underutilization (https://ilostat.ilo.org/topics/unemployment-and-labour-underutilization/). </li>
+    <li>Decent Work Indicators Manual: http://www.ilo.org/wcmsp5/groups/public/---dgreports/--- </li>
+  </ul>
+  <p>stat/documents/publication/wcms_223121.pdf </p>
+  <ul>
+    <li>Resolution concerning statistics of work, employment and labour underutilization, adopted by the 19<sup>th</sup> ICLS in 2013: <a href="http://www.ilo.org/global/statistics-and-databases/standards-and-guidelines/resolutions-adoptedby-international-conferences-of-labour-statisticians/WCMS_230304/lang--en/index.htm" target="_blank"><u>http://www.ilo.org/global/statistics-and-databases/standards-and-guidelines/resolutions-adoptedby-international-conferences-of-labour-statisticians/WCMS_230304/lang--en/index.htm</u></a> </li>
+    <li>Trends Econometric Models: A Review of Methodology: <a href="http://www.ilo.org/wcmsp5/groups/public/---ed_emp/---emp_elm/---trends/documents/publication/wcms_120382.pdf" target="_blank"><u>http://www.ilo.org/wcmsp5/groups/public/---ed_emp/---emp_elm/---trends/documents/publication/wcms_120382.pdf</u></a> </li>
+  </ul>

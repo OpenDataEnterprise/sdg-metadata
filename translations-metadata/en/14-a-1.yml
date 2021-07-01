@@ -1,0 +1,359 @@
+SDG_INDICATOR_INFO: ''
+SDG_GOAL: >-
+  <p>Goal 14: Conserve and sustainably use the oceans, seas and marine resources
+  for sustainable development</p>
+SDG_TARGET: >-
+  <p>Target 14.a: Increase scientific knowledge, develop research capacity and
+  transfer marine technology, taking into account the Intergovernmental
+  Oceanographic Commission Criteria and Guidelines on the Transfer of Marine
+  Technology, in order to improve ocean health and to enhance the contribution
+  of marine biodiversity to the development of developing countries, in
+  particular small island developing States and least developed countries</p>
+SDG_INDICATOR: >-
+  <p>Indicator 14.a.1: Proportion of total research budget allocated to research
+  in the field of marine technology</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: <p>15 February 2021</p>
+SDG_RELATED_INDICATORS: >-
+  <p>Links to SDG 17, SDG 5;</p>
+
+  <p>Targets: to all other SDG 14 targets, as science is crucial to protect and
+  conserve the oceans&#x2019; resources.</p>
+SDG_CUSTODIAN_AGENCIES: <p>Intergovernmental Oceanographic Commission of UNESCO</p>
+CONTACT: ''
+CONTACT_ORGANISATION: <p>Intergovernmental Oceanographic Commission of UNESCO</p>
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  <p>Definition:</p>
+
+  <p>Definitions and mechanisms used in the development of the SDG indicator
+  14.a.1 are based on the IOC Criteria and Guidelines on Transfer of Marine
+  Technology &#x2013; IOCCGTMT (originally published and endorsed by IOC Member
+  States in 2005. These guidelines provide an internationally agreed definition
+  of what is understood by the term marine technology and have been referenced
+  in various UN General Assembly Resolutions and specifically in the formulation
+  of SDG target 14.a. These are further explained in the Global Ocean Science
+  Report (GOSR) referenced below.</p>
+
+  <p>Marine technology as defined in the IOCCGTMT refers to instruments,
+  equipment, vessels, processes and methodologies required to produce and use
+  knowledge to improve the study and understanding of the nature and resources
+  of the ocean and coastal areas. Toward this end, marine technology may include
+  any of the following components:</p>
+
+  <ol>
+    <li>Information and data, in a user-friendly format, on marine sciences and related marine operations and services;</li>
+    <li>Manuals, guidelines, criteria, standards, reference materials;</li>
+    <li>Sampling and methodology equipment (e.g., for water, geological, biological, chemical samples);</li>
+    <li>Observation facilities and equipment (e.g. remote sensing equipment, buoys, tide gauges, shipboard and other means of ocean observation);</li>
+    <li>Equipment for in situ and laboratory observations, analysis and experimentation;</li>
+    <li>Computer and computer software, including models and modelling techniques;</li>
+    <li>Expertise, knowledge, skills, technical/scientific/legal know-how and analytical methods related to marine scientific research and observation.</li>
+  </ol>
+
+  <p>Indicator 14.a.1 shows the annual national research budget allocated by
+  governments in the field of marine technology, relative to the overall
+  national governmental research and development budget in general.</p>
+
+  <p>Unit: percentage; raw data in national currency. The proportion can be
+  calculated, and if needed, data can be converted by the international agency
+  into USD.</p>
+
+  <p>Concepts:</p>
+
+  <p>The concepts used for the definition and calculation of the indicator
+  14.a.1 are based on similar concepts used in the UNESCO Science Report (2010,
+  2015).These reports present GERD data (gross domestic expenditure on research
+  and experimental development) as a share of GDP (gross domestic product) and
+  further provide the R&amp;D (research and development) expenditure by sector
+  of performance in % (Table S2 in the 2015 UNESCO Science Report). In addition,
+  UIS publishes science field specific R&amp;D, e.g. natural sciences
+  (http://data.uis.unesco.org/).</p>
+
+  <p>The definitions and classifications used to collect R&amp;D data are based
+  on the &#x2018;Frascati Manual: Proposed Standard Practice for Surveys on
+  Research and Experimental Development&#x2019; (OECD, 2002).</p>
+UNIT_MEASURE: <p>Ocean science expenditure as a share of GERD (%) </p>
+CLASS_SYSTEM: <p>Not applicable </p>
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  <p>Data sources: regular direct submission to the GOSR questionnaire/GOSR
+  portal (https://gosr.ioc-unesco.org).</p>
+
+  <p>The questionnaire used for the first edition of the GOSR was reviewed by
+  the Editorial Board of the GOSR2020 as well as by UIS in 2017/2018 prior to
+  the data collection exercise started in 2018. Assessments from 2018 on were
+  conducted with an improved questionnaire
+  (https://gosr.ioc-unesco.org/methodology).</p>
+
+  <p>The novelty of the GOSR published for the first time in 2017, and the
+  respective data collection of the 14.a.1 related data, requires the IOC
+  Secretariat to collect the data via its national focal point until now. Future
+  data collections might explore data availability at NSOs. New national
+  reporting mechanisms are being established, which facilitate the provision of
+  the required information (e.g. Colombia, Canada, Italy; document IOC-XXIX/2
+  Annex 14). The GERD (gross domestic expenditure on research and development)
+  data were obtained from the UNESCO Institute for Statistics/World Bank, based
+  on information directly provided from NSOs.</p>
+COLL_METHOD: >-
+  <p>(I) National Counterparts:</p>
+
+  <p>As mentioned in the previous paragraph the official counterparts are the
+  IOC focal points <a
+  href="https://oceanexpert.org/document/17716">https://oceanexpert.org/document/17716</a>
+  and well as National Oceanographic and Statistical Data Centres <a
+  href="https://www.iode.org/index.php?option=com_content&amp;view=article&amp;id=61&amp;Itemid=100057">https://www.iode.org/index.php?option=com_content&amp;view=article&amp;id=61&amp;Itemid=100057</a>.
+  </p>
+
+  <p>(II) Validation and consultation process by IOC Secretariat.</p>
+
+  <p>These counterparts are invited to provide metadata information for the data
+  provided. </p>
+FREQ_COLL: >-
+  <p>The next data collection is planned to start in 2021. The GOSR data portal
+  will allow for data submission throughout the year. In addition, IOC Member
+  States will receive regular invitations to submit to the portal via IOC
+  Circular letters. </p>
+REL_CAL_POLICY: <p>Biannually.</p>
+DATA_SOURCE: |-
+  <p>IOC focal points </p>
+  <p>National Statistical Offices (NSOs)</p>
+  <p>UNESCO Institute for Statistics (UIS)/World Bank</p>
+COMPILING_ORG: |-
+  <p>Intergovernmental Oceanographic Commission of UNESCO (IOC-UNESCO) </p>
+  <p>UNESCO Institute for Statistics (UIS)/World Bank</p>
+INST_MANDATE: >-
+  <p>IOC-UNESCO is the custodian agency for the SDG indicator 14.a.1. The
+  purpose of the Commission is to promote international cooperation and to
+  coordinate programmes in research, services and capacity-development, in order
+  to learn more about the nature and resources of the ocean and coastal areas
+  and to apply that knowledge for the improvement of management, sustainable
+  development, the protection of the marine environment, and the decision-making
+  processes of its Member States. In addition, IOC is recognized through the
+  United Nations Convention on the Law of the Sea (UNCLOS) as a competent
+  international organization in the fields of Marine Scientific Research (Part
+  XIII) and Transfer of Marine Technology (Part XIV). According to its Statutes,
+  the Commission may act also as a joint specialized mechanism of the
+  organizations of the United Nations system that have agreed to use the
+  Commission for discharging certain of their responsibilities in the fields of
+  marine sciences and ocean services, and have agreed accordingly to sustain the
+  work of the Commission. IOC&#x2019;s Member States agreed to submit
+  information relevant to the SDG indicator 14.a.1 to the IOC Secretariat in
+  2014 IOC/EC-XLVII/2 Annex 8. </p>
+OTHER_METHOD: ''
+RATIONALE: >-
+  <p>Sustained investment in research and development (R&amp;D), including ocean
+  research, remains essential to advance knowledge and to develop new technology
+  needed to support modern economies. The ocean economy yields various benefits
+  in terms of employment, revenues and innovation in many domains. Its current
+  developments are largely based on decades of science and R&amp;D investments
+  by governments around the world. Baseline information on ocean science
+  funding, as delivered by the indicator 14.a.1 can be used as a starting point
+  for more directed, tailored investment and new capacity development
+  strategies, and to support the case for ensuring maximum impact of ocean
+  research, for example through marine technology and knowledge transfer from
+  government-funded marine and maritime R&amp;D projects. Annual (2009-2013)
+  baseline information for 24 countries is presented in the GOSR (Isensee, K.,
+  Horn, L. and Schaaper, M. 2017. The funding for ocean science. In: In: IOC
+  UNESCO, <em>Global Ocean Science Report&#x2014;The current status of ocean
+  science around the world</em>. L. Vald&#xE9;s et al. (eds). Paris, UNESCO, pp.
+  80&#x2013;97) and in the GOSR2020 for 27 countries (Jolly, C., Olivari, M.,
+  Isensee, K., Nurse, L., Roberts, S., Lee, Y.-H. and Escobar Briones, E. 2020.
+  Funding for ocean science. IOC-UNESCO, <em>Global Ocean Science Report
+  2020&#x2013;Charting Capacity for Ocean Sustainability.</em> K. Isensee (ed.),
+  Paris, UNESCO Publishing, pp 69-90.). Updates on the methodology and progress
+  made was published in the <a
+  href="http://legacy.ioc-unesco.org/index.php?option=com_oe&amp;task=viewDocumentRecord&amp;docID=24776">IOC/INF-1368</a>
+  and <a
+  href="https://oceanexpert.org/event/2805#documents">IOC/INF-1385</a>.</p>
+
+  <p>In addition to the data related to ocean science funding the GOSR 2017,
+  2020 and the GOSR portal provide information about the impacts of ocean
+  science funding, such as data about research output, i.e. bibliometric and
+  technometric data, ocean science personal and ocean science technology. The
+  GOSR reports ocean science investment and the resulting capacity in a
+  transparent and inclusive manner, based on a unique collection of primary
+  data, is an opportunity to support and measure progress in capacity
+  development globally. This ambition of the 2030 Agenda is also evident in the
+  UN Decade of Ocean Science for Sustainable Development (2021&#x2013;2030,
+  hereafter &#x2018;the Ocean Decade&#x2019;), where the definition of
+  &#x2018;ocean science&#x2019; encompasses natural and social science
+  disciplines, including interdisciplinary approaches; the technology and
+  infrastructure that supports ocean science; the application of ocean science
+  for societal benefits, including knowledge transfer and applications in
+  regions that are currently lacking science capacity; as well as science-policy
+  and science-innovation interfaces. Data and information presented in the
+  GOSR2020, in future editions of the report and in the new GOSR portal will
+  form part of the monitoring and evaluation process to track the progress of
+  the Ocean Decade in achieving its vision &#x2018;The science we need for the
+  ocean we want&#x2019;, via the objectives, challenges and seven goals outlined
+  in the Ocean Decade Implementation Plan. The baseline information collected
+  and published in the GOSR2020 immediately before the start of Ocean Decade
+  will guide all ocean science actors, support</p>
+
+  <p>the involvement of all countries in the Ocean Decade and help to remove
+  barriers related to gender, generation and origin for all participants.</p>
+REC_USE_LIM: >-
+  <p>As of 2020 the SDG 14.a.1 methodology is an adopted mechanism to obtain
+  related information. Due to the fact that no agreed procedure to assess ocean
+  science capacity existed until the first edition of the Global Ocean Science
+  Report in 2017, national reporting mechanisms had to be developed and require
+  partly still to be harmonized. However since the GOSR 2020 data collection
+  more countries established an strategy to collect 14.a.1 related information,
+  allowing for global and regional technology and knowledge transfer in a
+  resource- and need-adapted manner based on national inventories, as well as
+  global and regional comparisons. </p>
+DATA_COMP: >-
+  <p>Indicator 14.a.1 = National governmental research expenditure in marine
+  technology / National governmental R&amp;D expenditure</p>
+
+  <p>National governmental R&amp;D expenditure data are assessed annually by the
+  UNESCO Institute for Statistics (UIS).</p>
+
+  <p>National governmental ocean science expenditures are envisaged to be
+  assessed biannually via the GOSR portal (IOC-XXIX/2 Annex 10).</p>
+
+  <p>The development of the GOSR data repository/data portal will take place in
+  close collaboration with UIS and IOC (at Headquarters and at the IOC Project
+  Office for IODE, Oostende, Belgium).</p>
+DATA_VALIDATION: >-
+  <p>IOC receives verified information directly from the identified
+  representatives of its Member States directly (primary data), which entails
+  the validation to be published for the SDG indicator 14.a.1 assessments.</p>
+ADJUSTMENT: >-
+  <p>Data are based on the GOSR2020 questionnaire and UNESCO Institute for
+  Statistics database. Note that ocean science funding is not identified as such
+  in GERD data, and can be found in natural sciences and other categories. </p>
+IMPUTATION: >-
+  <ul>
+    <li>At country level</li>
+  </ul>
+
+  <p>In case countries do not provide data, no estimate will be calculated.</p>
+
+  <ul>
+    <li>At regional and global levels</li>
+  </ul>
+
+  <p>For regional and global estimates/averages, only data received from Member
+  States will be taken into account, missing values are not imputed or otherwise
+  estimated.</p>
+REG_AGG: >-
+  <p>Each national contribution is weighted equally to calculate average values
+  for the regional and global estimates.</p>
+DOC_METHOD: |-
+  <ul>
+    <li>No particular guidance for the national data compilation exists as the organization of ocean science differs among Member States. </li>
+    <li>The IOC Secretariat recommends that IOC national focal points (IOC official national designated Coordinating Bodies for Liaison with the IOC) consult with the respective ministry(ies) responsible for ocean science and national universities and institutions to obtain SDG indicator 14.3.1 data.</li>
+    <li>IOC is an intergovernmental body of 150 Member States, the IOC national focal points may act as national coordinating bodies for relevant government departments, universities and research institutions actively involved in marine science and technology and other related aspects of ocean affairs.</li>
+    <li>As mentioned in point 3.a, the novelty of the GOSR published for the first time in 2017, and the respective data collection of the 14.a.1 related data, requires the IOC secretariat to collect the data via its national focal point until now. Future data collections might explore data availability at NSOs. New national reporting mechanisms are being established, which facilitate the provision of the required information (e.g. Colombia, Canada, Italy; document IOC-XXIX/2 Annex 14). The GERD (gross domestic expenditure on research and development) data were obtained from the UNESCO Institute for Statistics/World Bank, based on information directly provided from NSOs.</li>
+  </ul>
+QUALITY_MGMNT: >-
+  <p>Automated quality control will be set up for future data collection via the
+  GOSR portal. Currently information received from IOC Member States are quality
+  controlled by the IOC Secretariat before publication, which involves
+  contacting the respective focal points in case needed. The quality controlled
+  information is then made freely available and open access at the GOSR portal
+  (<a
+  href="https://gosr.ioc-unesco.org/home">https://gosr.ioc-unesco.org/home</a>).
+  </p>
+QUALITY_ASSURE: |-
+  <ul>
+    <li>IOC national focal points and experts from UIS assist in the data quality assessment, comparing indicator values with the national expenditure for Natural Sciences (UIS), this allows the identification of discrepancies. In the future new values will be compared to previously obtained information. In case of discrepancies, the IOC secretariat will consult the data providers individually.</li>
+    <li>Combination of: Automated quality control by data portal; National quality control; Automated quality control via GOSR portal, IOC Secretariat.</li>
+  </ul>
+QUALITY_ASSMNT: <p>See 4.i and 4.j.</p>
+COVERAGE: >-
+  <p>All data collected so far are available at the GOSR portal, as well as in
+  the GOSR2017 and GOSR2020 publications. </p>
+
+  <p>See</p>
+
+  <p><a
+  href="https://gosr.ioc-unesco.org/home">https://gosr.ioc-unesco.org/home</a></p>
+
+  <p><a
+  href="https://gosr.ioc-unesco.org/report">https://gosr.ioc-unesco.org/report</a></p>
+
+  <p>https://unesdoc.unesco.org/ark:/48223/pf0000250428.locale=fr</p>
+
+  <p>Time series:</p>
+
+  <p>To date data are available for the years 2009-2017.</p>
+
+  <p>Disaggregation:</p>
+
+  <p>Possibility for regional and global aggregation.</p>
+COMPARABILITY: >-
+  <p>Sources of discrepancies:</p>
+
+  <p>As this indicator only takes into account data submitted by Member States,
+  there are no discrepancies between estimates and submitted data sets.</p>
+OTHER_DOC: >-
+  <p>IOC-UNESCO. 2017<em>., Global Ocean Science Report&#x2014;The current
+  status of ocean science around the world</em>. L. Vald&#xE9;s et al. (eds),
+  UNESCO Publishing, Paris.</p>
+
+  <p>IOC-UNESCO. 2020. <em>Global Ocean Science Report 2020&#x2013;Charting
+  Capacity for Ocean Sustainability</em>. K. Isensee (ed.), UNESCO Publishing,
+  Paris.</p>
+
+  <p>Isensee, K., Horn, L. and Schaaper, M. 2017. The funding for ocean science.
+  In: In: IOC-UNESCO, Global</p>
+
+  <p>Ocean Science Report&#x2014;The current status of ocean science around the
+  world. L. Vald&#xE9;s et al. (eds). Paris, UNESCO, pp. 80&#x2013;97.</p>
+
+  <p>Jolly, C., Olivari, M., Isensee, K., Nurse, L., Roberts, S., Lee, Y.-H. and
+  Escobar Briones, E. 2020. Funding for ocean science. IOC-UNESCO, <em>Global
+  Ocean Science Report 2020&#x2013;Charting Capacity for Ocean
+  Sustainability.</em> K. Isensee (ed.), Paris, UNESCO Publishing, pp 69-90.</p>
+
+  <p>GOSR portal</p>
+
+  <p><a
+  href="https://gosr.ioc-unesco.org/home">https://gosr.ioc-unesco.org/home</a></p>
+
+  <p>UNESCO Science Report 2010, 2015</p>
+
+  <p>https://en.unesco.org/unesco_science_report</p>
+
+  <p>IOC Assembly Decisions: IOC-XXIX/5.1. and IOC-XXIX/9.1.)</p>
+
+  <p>http://www.ioc-unesco.org/index.php?option=com_oe&amp;task=viewDocumentRecord&amp;docID=19770</p>
+
+  <p>IOC Information documents</p>
+
+  <p><a
+  href="http://legacy.ioc-unesco.org/index.php?option=com_oe&amp;task=viewDocumentRecord&amp;docID=24776">IOC/INF-1368</a>
+  and <a
+  href="https://oceanexpert.org/event/2805#documents">IOC/INF-1385</a></p>
+
+  <p>IOC-XXIX/2 Annex 14</p>
+
+  <p>http://ioc-unesco.org/index.php?option=com_oe&amp;task=viewDocumentRecord&amp;docID=19589</p>
+
+  <p>R&amp;D relevant data</p>
+
+  <p>http://data.uis.unesco.org/</p>
+
+  <p>Definition/Concepts: Frascati Manual: Proposed Standard Practice for
+  Surveys on Research and</p>
+
+  <p>Experimental Development&#x2019; (OECD, 2002)</p>
+
+  <p>https://www.oecd-ilibrary.org/science-and-technology/frascati-manual-2002_9789264199040-en</p>
+
+  <p>IOC Criteria and Guidelines on the Transfer of Marine Technology</p>
+
+  <p><a
+  href="https://unesdoc.unesco.org/ark:/48223/pf0000139193.locale=en">https://unesdoc.unesco.org/ark:/48223/pf0000139193.locale=en</a></p>
+
+  <p>UNESCO. 2015. UNESCO Science Report: Towards 2030. Paris, UNESCO
+  Publishing. </p>

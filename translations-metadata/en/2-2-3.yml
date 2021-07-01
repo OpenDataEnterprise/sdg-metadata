@@ -1,19 +1,19 @@
+SDG_INDICATOR_INFO: ''
 SDG_GOAL: >-
   <p>Goal 2: End hunger, achieve food security and improved nutrition and
-  promote sustainable agriculture.</p>
+  promote sustainable agriculture</p>
 SDG_TARGET: >-
   <p>Target 2.2: By 2030, end all forms of malnutrition, including achieving, by
   2025, the internationally agreed targets on stunting and wasting in children
   under 5 years of age, and address the nutritional needs of adolescent girls,
-  pregnant and lactating women and older persons.</p>
+  pregnant and lactating women and older persons</p>
 SDG_INDICATOR: >-
   <p>Indicator 2.2.3: Prevalence of anaemia in women aged 15-49 years, by
   pregnancy status (percentage)</p>
-META_LAST_UPDATE: '<p>Last updated: 14 April 2020</p>'
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: <p>March 2021</p>
 SDG_RELATED_INDICATORS: >-
-  <h1>Related indicators</h1>
-
-  <p><strong>Goal 1. No poverty:</strong></p>
+  <p>Goal 1. No poverty</p>
 
   <p>The capacity for physical work is hampered when people are anaemic. Anaemia
   is estimated to contribute to 17% lower productivity in heavy manual labour
@@ -34,9 +34,9 @@ SDG_RELATED_INDICATORS: >-
   grains is one step toward improving productivity and thereby reducing
   poverty.</p>
 
-  <p><strong>Goal 3. Good health and well-being:</strong></p>
+  <p>Goal 3. Good health and well-being</p>
 
-  <p><strong><em>Maternal and newborn health:</em></strong></p>
+  <p>Maternal and Newborn Health</p>
 
   <p>Anaemia during pregnancy increases the risk of maternal and perinatal
   mortality. Anaemia during pregnancy also contributes to low birth-weight
@@ -46,12 +46,12 @@ SDG_RELATED_INDICATORS: >-
   an increased risk for poor mental development in childhood and chronic health
   problems such as diabetes and heart disease later in life.</p>
 
-  <p><strong><em>Non-communicable diseases:</em></strong></p>
+  <p>Non-Communicable Diseases</p>
 
   <p>Anaemia is a non-communicable disease. As noted above, nutritional anaemia
   is caused by vitamin and mineral deficiencies.</p>
 
-  <h2>Goal 4. Quality education</h2>
+  <p>Goal 4. Quality education</p>
 
   <p>Poor health in childhood can lead to reductions in educational achievement.
   While iron deficiency limits cognitive development, children who have adequate
@@ -65,7 +65,7 @@ SDG_RELATED_INDICATORS: >-
   delays and that these can be at least partially reversed by iron therapy,
   though the effect may diminish among older children.&#x201D;</p>
 
-  <h2>Goal 5. Gender equality</h2>
+  <p>Goal 5. Gender equality</p>
 
   <p>Anaemia rates in females are much higher than males. While anaemia rates
   decrease for males by the end of puberty, they remain high for females through
@@ -76,28 +76,32 @@ SDG_RELATED_INDICATORS: >-
   equality.</p>
 
   <p>For more details, see Food Fortification Initiative - Fortify to Address
-  Sustainable Development Goals (<a
-  href="http://www.ffinetwork.org/why_fortify/SDGs.html">http://www.ffinetwork.org/why_fortify/SDGs.html</a>).</p>
-SDG_CUSTODIAN_AGENCIES: |-
-  <h1>Institutional information</h1>
-  <h2>Organization(s):</h2>
-  <p>World Health Organization (WHO)</p>
+  Sustainable Development Goals
+  (http://www.ffinetwork.org/why_fortify/SDGs.html).</p>
+SDG_CUSTODIAN_AGENCIES: <p>World Health Organization (WHO)</p>
+CONTACT: ''
+CONTACT_ORGANISATION: <p>World Health Organization (WHO)</p>
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <h1>Concepts and definitions</h1>
-
-  <h2>Definition:</h2>
+  <p>Definition:</p>
 
   <p>Percentage of women aged 15&#x2212;49 years with a haemoglobin
   concentration less than 120 g/L for non-pregnant women and lactating women,
   and less than 110 g/L for pregnant women, adjusted for altitude and
   smoking.</p>
 
-  <h2>Concepts:</h2>
+  <p>Concepts:</p>
 
-  <p>Anaemia: condition in which the concentration of blood haemoglobin falls
-  below established cut-off values.</p>
+  <p>Anaemia: condition in which the concentration of blood haemoglobin
+  concentration falls below established cut-off values.</p>
 
-  <p>Iron deficiency state in which there is insufficient iron to maintain the
+  <p>Iron deficiency : state in which there is insufficient iron to maintain the
   normal physiological function of blood, brain and muscles (ICD-11, 5B5K.0 iron
   deficiency)</p>
 
@@ -105,54 +109,50 @@ STAT_CONC_DEF: >-
 
   <p>Blood haemoglobin concentration: concentration of haemoglobin in whole
   blood</p>
+UNIT_MEASURE: <p> Percentage</p>
+CLASS_SYSTEM: >-
+  <p>WHO. Haemoglobin concentrations for the diagnosis of anaemia and assessment
+  of severity. Vitamin and Mineral Nutrition Information System. Geneva, World
+  Health Organization, 2011
+  (WHO/NMH/NHD/MNM/11.1)(http://www.who.int/vmnis/indicators/haemoglobin.pdf,
+  accessed [4 March 2021).</p>
+SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <h1>Data sources</h1>
-
-  <h2>Description:</h2>
-
-  <p>The preferable source of data is population-based surveys, followed by data
-  from surveillance systems. In some cases, anonymized individual-level data are
-  obtained from multi-country surveys, including demographic and health surveys,
-  multiple indicator cluster surveys, reproductive health surveys and malaria
-  indicator surveys. However, the Micronutrients Database of the WHO Vitamin and
-  Mineral Information System (VMNIS) (<a
-  href="https://www.who.int/vmnis/database/en/">https://www.who.int/vmnis/database/en/</a>)
-  compiles and summarizes data on the micronutrient status of populations from
-  various other sources, including data collected from the scientific literature
-  and through collaborators, including WHO regional and country offices, United
-  Nations organizations, ministries of health, research and academic
-  institutions, and nongovernmental organizations.</p>
+  <p>The preferable source of data is population-based surveys. Data from
+  surveillance systems may be used under some conditions, but recorded diagnoses
+  are typically underestimated. Data are from the Micronutrients Database of the
+  WHO Vitamin and Mineral Information System (VMNIS) (<a
+  href="https://www.who.int/vmnis/database/en/">https://www.who.int/vmnis/database/en/</a>).
+  This database compiles and summarizes data on the micronutrient status of
+  populations from various other sources, including data collected from the
+  scientific literature and through collaborators, including WHO regional and
+  country offices, United Nations organizations, ministries of health, research
+  and academic institutions, and nongovernmental organizations. In addition,
+  anonymized individual-level data are obtained from multi-country surveys,
+  including demographic and health surveys, multiple indicator cluster surveys,
+  reproductive health surveys and malaria indicator surveys.</p>
 COLL_METHOD: >-
-  <h2>Collection process:</h2>
+  <p>The anaemia status of women is assessed using blood haemoglobin
+  concentrations. In surveys, blood haemoglobin concentrations are typically
+  measured using the direct cyanmethemoglobin method in a laboratory or with a
+  portable, battery-operated, haemoglobin photometer in the field that uses the
+  azide-methaemoglobin method.</p>
 
   <p>A PubMed search was carried out for relevant search terms related to
   anaemia, haemoglobin and iron status, searching for studies published after 1
   January 1990. In addition to indexed articles, many reports of national and
   international agencies were identified and accessed through requests to each
-  corresponding organization. Once survey data are compiled and the Bayesian
-  hierarchical mixture model is run to generate anaemia estimates, countries are
-  sent a memorandum to provide a background to the estimates and explain the
-  process. Information on the survey data used to generate the estimates for
-  that country, estimates for the year 2015, and the resulting plots for each
-  country are provided along with an explanation of the methodology used in
-  generating the estimates. Countries are requested to provide feedback within
-  six weeks.</p>
+  corresponding organization. Data are also collected during the country
+  validation process, described below, and from publicly available
+  individual-level survey data. </p>
 FREQ_COLL: >-
-  <h1>Calendar</h1>
-
-  <h2>Data collection:</h2>
-
   <p>Data on anaemia are continuously being collected from survey report and
-  manuscripts and entered into the WHO Micronutrients Database. </p>
+  manuscripts and entered into the WHO Micronutrients Database.</p>
 REL_CAL_POLICY: >-
-  <h2>Data release:</h2>
-
   <p>There is no fixed date in which the new round of anaemia estimates will be
-  generated; however, estimates are generally generated every three tofive
+  generated; however, estimates are generally generated every three to five
   years.</p>
 DATA_SOURCE: >-
-  <h1>Data providers</h1>
-
   <p>There are two main data sources of survey data for anaemia: 1) reports
   generated by countries or implementing partners and 2) published manuscripts.
   Occasionally, Member States, regional offices, the international community or
@@ -165,16 +165,22 @@ DATA_SOURCE: >-
     <li>Ministries of Health through WHO regional and country offices, </li>
     <li>National research and academic institutions,</li>
     <li>Nongovernmental organizations, and</li>
-    <li>Organizations of the <a href="http://www.unsceb.org/directory"><u>United Nations</u></a> system. </li>
+    <li>Organizations of the <a href="http://www.unsceb.org/directory">United Nations</a> system. </li>
   </ul>
 COMPILING_ORG: >-
-  <h1>Data compilers</h1>
-
   <p>WHO compiles the data fed into the Micronutrients Database of the WHO
-  Vitamin and Mineral Information System (VMNIS). </p>
+  Vitamin and Mineral Information System (VMNIS).</p>
+INST_MANDATE: >-
+  <p>The Vitamin and Mineral Nutrition Information System (VMNIS), formerly
+  known as the Micronutrient Deficiency Information System (MDIS), was
+  established in 1991 following a request by the World Health Assembly to
+  strengthen surveillance of micronutrient deficiencies at the global level.
+  Part of WHO&apos;s mandate is to assess the micronutrient status of
+  populations, monitor and evaluate the impact of strategies for the prevention
+  and control of micronutrient malnutrition, and to track related trends over
+  time.</p>
+OTHER_METHOD: ''
 RATIONALE: >-
-  <h2>Rationale:</h2>
-
   <p>Anaemia is highly prevalent globally, disproportionately affecting children
   and women of reproductive age. It negatively affects cognitive and motor
   development and work capacity, and among pregnant women iron deficiency
@@ -190,31 +196,18 @@ RATIONALE: >-
   prevalence for the population is used to classify the public health
   significance of the problem.</p>
 REC_USE_LIM: >-
-  <h2>Comments and limitations:</h2>
-
   <p>Despite the extensive data search, data for blood haemoglobin
   concentrations are still limited, compared to other nutritional indicators
   such as child anthropometry (1, 24); this was especially true in the
   high-income countries of the WHO European Region. As a result, the estimates
   may not capture the full variation across countries and regions, tending to
-  &#x201C;shrink&#x201D; towards global means when data are sparse.
-  Additionally, it was not possible to incorporate into the analyses some
-  potentially important predictors of blood haemoglobin concentration,
-  especially dietary iron and iron supplementation, because of limited data.</p>
+  &#x201C;shrink&#x201D; towards global means when data are sparse. </p>
+
+  <p>Estimates may differ from those reported by countries.</p>
 DATA_COMP: >-
-  <h1>Methodology</h1>
-
-  <h2>Computation method:</h2>
-
-  <p>The anaemia status of women is assessed using blood haemoglobin
-  concentrations. In surveys, blood haemoglobin concentrations are typically
-  measured using the direct cyanmethemoglobin method in a laboratory or with a
-  portable, battery-operated, haemoglobin photometer in the field that uses the
-  azide-methaemoglobin method.</p>
-
   <p>Prevalence of anaemia and/or mean haemoglobin in women of reproductive age
-  were obtained from 303 population-representative data sources from 116
-  countries worldwide. Data collected from 1990 to 2016 were used. Adjustment of
+  were obtained from 408 population-representative data sources from 124
+  countries worldwide. Data collected from 1995 to 2020 were used. Adjustment of
   data on blood haemoglobin concentrations for altitude and smoking was carried
   out whenever possible. Biologically implausible haemoglobin values (&lt;25 g/L
   or &gt;200 g/L) were excluded. A Bayesian hierarchical mixture model was used
@@ -232,17 +225,31 @@ DATA_COMP: >-
   region. The model borrows data, to a greater extent, when data are
   non-existent or weakly informative, and to a lesser degree for data-rich
   countries and regions. The resulting estimates are also informed by covariates
-  that help predict blood haemoglobin concentrations (e.g. maternal education,
-  prevalence of sickle-cell disorders, mean weight-for-age z-score for
-  children). The uncertainty ranges (credibility intervals) reflect the major
-  sources of uncertainty, including sampling error, non-sampling error due to
-  issues in sample design/measurement, and uncertainty from making estimates for
-  countries and years without data.</p>
+  that help predict blood haemoglobin concentrations (e.g. socio-demographic
+  index, meat supply (kcal/capita), mean BMI for women and log of under-five
+  mortality for children). The uncertainty ranges (credibility intervals)
+  reflect the major sources of uncertainty, including sampling error,
+  non-sampling error due to issues in sample design/measurement, and uncertainty
+  from making estimates for countries and years without data.</p>
+DATA_VALIDATION: >-
+  <p>Once survey data are compiled and the Bayesian hierarchical mixture model
+  is run to generate anaemia estimates, countries are sent a memorandum to
+  provide a background to the estimates and explain the process. Information on
+  the survey data used to generate the estimates for that country, estimates for
+  the years 2000, 2005, 2010, 2015, and 2019, and the resulting plots for each
+  country are provided along with an explanation of the methodology used in
+  generating the estimates. Countries are requested to provide feedback within
+  six weeks.</p>
+ADJUSTMENT: >-
+  <p>Data on mean haemoglobin and anaemia prevalence from high-altitude
+  countries that were not adjusted for altitude when published were adjusted for
+  altitude by WHO, as described in Stevens et al (2013). The Bayesian
+  hierarchical mixture internally adjusts summary statistics computed with
+  non-standard haemoglobin cutoffs to match the standard WHO cutoffs listed
+  above. </p>
 IMPUTATION: >-
-  <h2>Treatment of missing values:</h2>
-
   <ul>
-    <li><strong><em>At country level:</em></strong></li>
+    <li>At country level</li>
   </ul>
 
   <p>A Bayesian hierarchical mixture model was used to estimate haemoglobin
@@ -253,26 +260,21 @@ IMPUTATION: >-
   trends in haemoglobin concentration and prevalence of total and severe anaemia
   in children and pregnant and non-pregnant women for 1995&#x2013;2011: a
   systematic analysis of population-representative data. Lancet Glob Health
-  2013; 1: e16&#x2013;25. Available at <a
-  href="https://www.thelancet.com/cms/10.1016/S2214-109X(13)70001-9/attachment/e073f9da-1330-4a1d-a1a0-67caf08c11bf/mmc1.pdf">https://www.thelancet.com/cms/10.1016/S2214-109X(13)70001-9/attachment/e073f9da-1330-4a1d-a1a0-67caf08c11bf/mmc1.pdf</a></p>
+  2013; 1: e16&#x2013;25. Available at
+  https://www.thelancet.com/cms/10.1016/S2214-109X(13)70001-9/attachment/e073f9da-1330-4a1d-a1a0-67caf08c11bf/mmc1.pdf.</p>
 
   <ul>
-    <li><strong><em>At regional and global levels:</em></strong></li>
+    <li>At regional and global levels</li>
   </ul>
 
-  <p>Distributions for regions were calculated as population-weighted averages
-  of the constituent countries (see treatment of missing values at country
-  level).</p>
+  <p>Global and regional prevalence estimates were calculated as
+  population-weighted averages of the constituent countries (see treatment of
+  missing values at country level).</p>
 REG_AGG: >-
-  <h2>Regional aggregates:</h2>
-
-  <p>Distributions for regions were calculated as population-weighted averages
-  of the constituent countries (see methodology for deriving country-level
-  estimates above).</p>
+  <p>Global and regional prevalence estimates were calculated as
+  population-weighted averages of the constituent countries (see methodology for
+  deriving country-level estimates above). </p>
 DOC_METHOD: >-
-  <p><strong>Methods and guidance available to countries for the compilation of
-  the data at the national level:</strong></p>
-
   <p>This indicator is part of the Global Nutrition Monitoring Framework (GNMF),
   for which operational guidance is offered to countries &#x2013; the Global
   nutrition monitoring framework: Operational guidance for tracking progress in
@@ -280,42 +282,69 @@ DOC_METHOD: >-
   href="https://www.who.int/nutrition/publications/operational-guidance-GNMF-indicators">https://www.who.int/nutrition/publications/operational-guidance-GNMF-indicators</a>
   in the six UN official languages.</p>
 
-  <p>WHO is also collaborating with UNICEF, the US Centers for Disease Control
-  and Prevention and Nutrition International to update a Micronutrient Survey
-  Manual, containing details about conducting and national nutrition survey and
-  reporting results.<sup><a href="#footnote-1" id="footnote-ref-1">[1]</a></sup>
-  </p><div class="footnotes"><div><sup class="footnote-number"
-  id="footnote-1">1</sup><p> <a
-  href="http://mnsurveytoolkit.nutritionintl.org/">http://mnsurveytoolkit.nutritionintl.org/</a>
-  <a href="#footnote-ref-1">&#x2191;</a></p></div></div>
-QUALITY_ASSURE: >-
-  <h2>Quality assurance:</h2>
+  <p>WHO in collaborationg with UNICEF, the US Centers for Disease Control and
+  Prevention and Nutrition International updated a Micronutrient Survey Manual,
+  containing details about conducting and national nutrition survey and
+  reporting results.<sup><a href="#footnote-2"
+  id="footnote-ref-2">[1]</a></sup></p>
 
+  <p> </p><div class="footnotes"><div><sup class="footnote-number"
+  id="footnote-2">1</sup><p>Centers for Disease Control and Prevention, World
+  Health Organization, Nutrition International, UNICEF. Micronutrient survey
+  manual. Geneva: World Health Organization; 2020. Licence: CC BY-NC-SA 3.0 IGO.
+  <a href="#footnote-ref-2">&#x2191;</a></p></div></div>
+QUALITY_MGMNT: >-
+  <p>All surveys included in the database pass through inclusion criteria
+  described below. Data also follows the five WHO Data principles<sup><a
+  href="#footnote-3" id="footnote-ref-3">[2]</a></sup>. </p><div
+  class="footnotes"><div><sup class="footnote-number" id="footnote-3">2</sup><p>
+  WHO data principles. https://www.who.int/data/principles <a
+  href="#footnote-ref-3">&#x2191;</a></p></div></div>
+QUALITY_ASSURE: >-
   <p>Survey data provided in peer-reviewed publications or survey reports are
   screened for inclusion in the WHO Micronutrients Database. Eligibility
-  criteria include: details of the sampling method are provided; the sample was
-  representative of at least the 1st administrative level (e.g. state, province,
-  canton, oblast); the sample was population-based, household-based, or
-  facility-based (i.e., for pregnant women, newborns, and preschool and
-  school-age children); the sample was cross-sectional or was the baseline
-  assessment in an intervention programme; and the study used standard,
-  validated data collection techniques and laboratory methodology. If there are
-  particular concerns regarding the reported data, attempts are made to discuss
-  these concerns with a country representative.</p>
-COVERAGE: >-
-  <h1>Data availability</h1>
+  criteria to the Micronutrients database include: details of the sampling
+  method are provided; the sample was representative of at least the 1st
+  administrative level (e.g. state, province, canton, oblast); the sample was
+  population-based, household-based, or facility-based (i.e., for pregnant
+  women, newborns, and preschool and school-age children); the sample was
+  cross-sectional or was the baseline assessment in an intervention programme;
+  and the study used standard, validated data collection techniques and
+  laboratory methodology. If there are particular concerns regarding the
+  reported data, attempts are made to discuss these concerns with a country
+  representative.</p>
+QUALITY_ASSMNT: >-
+  <p>Data from the Micronutrients database passes an additional screening to be
+  included into the estimates if a facility-based sampling scheme was used in
+  order to exclude data where these would not be representative of the general
+  population. The general threshold for inclusion was 80% affiliation of the
+  target population with the facility. For studies of children sampled from
+  primary care physician rosters or well-child visits, we included the data if
+  national coverage of the third dose of DTP vaccine exceeded 80%. For women
+  sampled from obstetric care providers, data were included if the coverage of
+  at least one ANC care was greater than 80%. For school-based sampling of
+  adolescents, the completion rate of lower secondary school for girls was
+  required to be greater than 80%.</p>
 
-  <h2>Description:</h2>
+  <p>We excluded data if migrants comprised more than 40% of the population in
+  the country, and the data source only covered nationals. Quality checks (e.g.
+  implausible values that are not in according with life, ) are done when data
+  is entered into the database, and when data is compiled for producing the
+  estimates.</p>
+COVERAGE: >-
+  <p><strong>Data availability:</strong></p>
 
   <p>Prevalence of anaemia and/or mean haemoglobin in women of reproductive age
-  were obtained from 303 population-representative data sources from 116
-  countries worldwide. Data collected from 1990 to 2016 were used.</p>
+  were obtained from 408 population-representative data sources from 124
+  countries worldwide. Data collected from 1995 to 2020 were used.</p>
 
-  <h2><strong>Time series</strong>:</h2>
+  <p> </p>
 
-  <p>Estimates for 2000 to 2016 were derived in the latest exercise</p>
+  <p><strong>Time series:</strong></p>
 
-  <h2>Disaggregation:</h2>
+  <p>Estimates for 2000 to 2019 were derived in the latest exercise.</p>
+
+  <p><strong>Disaggregation:</strong></p>
 
   <p>Anaemia prevalence data are generally reported disaggregated by age, sex,
   income, geographic region (within country) and 1<sup>st</sup> administrative
@@ -324,15 +353,11 @@ COVERAGE: >-
   reproductive age (15-49 years) by pregnancy status (pregnant or
   non-nonpregnant) for each country. Data are then aggregated by WHO or UN
   region and for the global level.</p>
-COMPARABILITY: >-
-  <h2>Sources of discrepancies:</h2>
-
-  <p>Estimates were generated based on methodology that adjusted for the main
-  sources of discrepancies.</p>
+COMPARABILITY: |-
+  <p><strong>Sources of discrepancies:</strong></p>
+  <p>Data conform to the standard WHO definition of anaemia.</p>
 OTHER_DOC: >-
-  <h1>References</h1>
-
-  <h2>URL: </h2>
+  <p><strong>URL: </strong></p>
 
   <p><a
   href="https://www.who.int/nutrition/global-target-2025">https://www.who.int/nutrition/global-target-2025</a></p>
@@ -343,7 +368,7 @@ OTHER_DOC: >-
   <p><a
   href="https://www.who.int/nutrition/publications/globaltargets2025_policybrief_anaemia/en/">https://www.who.int/nutrition/publications/globaltargets2025_policybrief_anaemia/en/</a></p>
 
-  <h2>References: </h2>
+  <p><strong>References:</strong> </p>
 
   <p>WHO. Comprehensive Implementation Plan on Maternal, Infant and Young Child
   Nutrition. Geneva: World Health Organization; 2014</p>

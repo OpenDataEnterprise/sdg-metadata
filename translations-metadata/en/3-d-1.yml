@@ -1,30 +1,39 @@
-SDG_GOAL: '<p>Goal 3: Ensure healthy lives and promote well-being for all at all ages</p>'
+SDG_INDICATOR_INFO: ''
+SDG_GOAL: >-
+  <p>Goal 3: Ensure healthy lives and promote well-being for all at all ages
+  </p>
 SDG_TARGET: >-
   <p>Target 3.d: Strengthen the capacity of all countries, in particular
   developing countries, for early warning, risk reduction and management of
-  national and global health risks</p>
+  national and global health risks </p>
 SDG_INDICATOR: >-
   <p>Indicator 3.d.1: International Health Regulations (IHR) capacity and health
-  emergency preparedness</p>
-META_LAST_UPDATE: '<p>Last updated: 23 March 2020</p>'
+  emergency preparedness </p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: <p>23 March 2020</p>
 SDG_RELATED_INDICATORS: >-
-  <h1>Related indicators as of February 2020</h1>
+  <p>There are linkages with: </p>
 
-  <p>There are linkages with:</p>
-
-  <p>Goal 3: Ensure healthy lives and promote well-being for all at all ages</p>
+  <p>Goal 3: Ensure healthy lives and promote well-being for all at all ages
+  </p>
 
   <p>Target 3.d: Strengthen the capacity of all countries, in particular
   developing countries, for early warning, risk reduction and management of
-  national and global health risks</p>
-SDG_CUSTODIAN_AGENCIES: |-
-  <h1>Institutional information</h1>
-  <h2>Organization(s):</h2>
-  <p>World Health Organization (WHO) </p>
+  national and global health risks </p>
+SDG_CUSTODIAN_AGENCIES: <p>World Health Organization (WHO) </p>
+CONTACT: ''
+CONTACT_ORGANISATION: <p>World Health Organization (WHO) </p>
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <h1>Concepts and definitions</h1>
+  <p><strong>Definition:</strong> </p>
 
-  <h2>Definition:</h2>
+  <p> </p>
 
   <p>Percentage of attributes of 13 core capacities that have been attained at a
   specific point in time. The 13 core capacities are: (1) Legislation and
@@ -32,9 +41,15 @@ STAT_CONC_DEF: >-
   Zoonotic events and the Human-Animal Health Interface; (4) Food safety; (5)
   Laboratory; (6) Surveillance; (7) Human resources; (8) National Health
   Emergency Framework; (9) Health Service Provision; (10) Risk communication;
-  (11) Points of entry; (12) Chemical events; (13) Radiation emergencies.</p>
+  (11) Points of entry; (12) Chemical events; (13) Radiation emergencies. </p>
 
-  <h2>Concepts:</h2>
+  <p> </p>
+
+  <p> </p>
+
+  <p><strong>Concepts:</strong> </p>
+
+  <p> </p>
 
   <p><strong>Core capacity:</strong> the essential public health capacity that
   States Parties are required to have in place throughout their territories
@@ -42,7 +57,9 @@ STAT_CONC_DEF: >-
   the year 2012. Thirteen core capacities and 24 indicators are defined in this
   document. </p>
 
-  <p><strong>Indicator</strong>: a variable that can be measured repeatedly
+  <p> </p>
+
+  <p><strong>Indicator:</strong> a variable that can be measured repeatedly
   (directly or indirectly) over time to reveal change in a system. It can be
   qualitative or quantitative, allowing the objective measurement of the
   progress of a programme or event. The quantitative measurements need to be
@@ -50,26 +67,31 @@ STAT_CONC_DEF: >-
   supervisory reports and special studies) into consideration and they should be
   supplemented with qualitative information. </p>
 
+  <p> </p>
+
   <p><strong>Attributes:</strong> one of a set of specific elements or
   characteristics that reflect the level of performance or achievement of a
   specific indicator. </p>
 
-  <p><strong>Capability levels:</strong> Each attribute has been assigned a
+  <p> </p>
+
+  <p><strong>The capability levels:</strong> Each attribute has been assigned a
   level of maturity, or a &#x2018;capability level.&#x2019; Attainment of a
   given capability level requires that all attributes at lower levels are in
   place. In the checklist, the status of core capacity development is measured
   at five capability levels, each of the 5 levels used is described by specific
-  indicators, according related capacity.</p>
+  indicators, according related capacity. </p>
+
+  <p> </p>
+UNIT_MEASURE: ''
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <h1>Data sources</h1>
-
-  <h2>Description:</h2>
-
   <p>State Parties of IHR can use the on-line reporting tool, that reflects the
   questionnaire of the IHR State Parties Self-Assessment Tool was published in
   July 2018 (all references and results published at: <a
-  href="https://extranet.who.int/e-spar/">https://extranet.who.int/e-spar/</a>.
-  </p>
+  href="https://extranet.who.int/e-spar/"
+  target="_blank"><u>https://extranet.who.int/e-spar/</u></a>. </p>
 
   <p>The tool consists of 24 indicators for the thirteen IHR capacities needed
   to detect, assess, notify, report and respond, including at points of entry,
@@ -83,7 +105,7 @@ SOURCE_TYPE: >-
   current status. For each indicator, in order to move to the next level, all
   capacities described in previous levels should be in place. </p>
 COLL_METHOD: >-
-  <h2>Collection process:</h2>
+  <p> </p>
 
   <p>WHO receives the data send by each State Party from the Official IHR
   National Focal Point from designated officers that will have access to e-SPAR
@@ -96,121 +118,110 @@ COLL_METHOD: >-
 
   <p>WHO also will review data received at all level of the organization, using
   the e-SPAR platform for monitoring and evaluation of results, before final
-  report to the World Health Assembly is produced and published.</p>
+  report to the World Health Assembly is produced and published. </p>
 
   <p>Breakdown of results can be done by country, WHO administrative Regions,
-  Capacities and its indicators. All data recorded safely in e-SPAR
-  platform.</p>
+  Capacities and its indicators. All data recorded safely in e-SPAR platform.
+  </p>
 FREQ_COLL: >-
-  <h1>Calendar</h1>
-
-  <h2>Data collection:</h2>
-
   <p>Data collection for 2019 currently is under way. Deadline for completed
   questionnaire submission is end of February and report to be presented to the
   World Health Assembly is prepared to be submitted by May every year.
   Collection of data starts second semester every year. </p>
 REL_CAL_POLICY: >-
-  <h2>Data release:</h2>
-
   <p>Release of all data is provided every year around April, just before the
-  World Health Assembly</p>
+  World Health Assembly </p>
 DATA_SOURCE: >-
-  <h1>Data providers</h1>
-
   <p>Each State Party shall designate a IHR National Focal Point and update
   regularly the contacts details of its designated officers, that will be able
   to report on-line and consult all national reports submitted in the e-SPAR
-  database.</p>
-COMPILING_ORG: |-
-  <h1>Data compilers</h1>
-  <p>World Health Organization (WHO)</p>
+  database. </p>
+COMPILING_ORG: <p>World Health Organization (WHO) </p>
+INST_MANDATE: ''
+OTHER_METHOD: ''
 RATIONALE: >-
-  <h2>Rationale:</h2>
-
   <p>The revised International Health Regulations (IHR) were adopted in 2005 and
   entered into force in 2007 (available at: <a
-  href="http://apps.who.int/iris/bitstream/10665/43883/1/9789241580410_eng.pdf">http://apps.who.int/iris/bitstream/10665/43883/1/9789241580410_eng.pdf</a>)
-  . </p>
+  href="http://apps.who.int/iris/bitstream/10665/43883/1/9789241580410_eng.pdf"
+  target="_blank"><u>http://apps.who.int/iris/bitstream/10665/43883/1/9789241580410_eng.pdf</u></a>
+  ) . </p>
 
   <p>Under the IHR, States Parties are obliged to develop and maintain minimum
   core capacities for surveillance and response, including at points of entry,
   in order to early detect, assess, notify, and respond to any potential public
-  health events of international concern.</p>
+  health events of international concern. </p>
 
   <p>Article 54 of the IHR request that States Parties and the Director-General
   shall report to the World Health Assembly on the implementation of these
-  Regulations as decided by the World Health Assembly.</p>
+  Regulations as decided by the World Health Assembly. </p>
 
   <p>In 2008, the World Health Assembly, through the adoption of Resolution
   WHA61(2), and later on 2018 with the Resolution WHA71(15), decided that
   &#x201C;that States Parties and the Director-General shall continue to report
   annually to the Health Assembly on the implementation of the International
   Health Regulations (2005), using the self-assessment annual reporting
-  tool&#x201D;.</p>
+  tool&#x201D;. </p>
+
+  <p> </p>
 
   <p>This SDG 3.d.1. indicator reflects the capacities State Parties of the
   International Health Regulations (2005) (IHR) had agreed and committed to
   develop. </p>
-REC_USE_LIM: >-
-  <h2>Comments and limitations:</h2>
 
+  <p> </p>
+REC_USE_LIM: >-
   <p>1) it is based on a self-assessment and self-reporting by the State Party
   </p>
 
   <p>2) The questionnaire was revised in 2018 and been used for reporting in
   2018 and 2019 with same format, different from the questionnaire used during
   period from 2010-2017, thus there is limitation for comparison of scores from
-  reports between 2010-2017 period with reports after 2018.</p>
+  reports between 2010-2017 period with reports after 2018. </p>
 DATA_COMP: >-
-  <h1>Methodology</h1>
-
-  <h2>Computation method:</h2>
-
-  <p>INDICATOR LEVEL</p>
+  <p>INDICATOR LEVEL </p>
 
   <p>The score of each indicator level will be classified as a percentage of
   performance along the &#x201C;1 to 5&#x201D; scale. e.g. for a country
   selecting level 3 for indicator 2.1, the indicator level will be expressed as:
-  3/5*100=60%</p>
+  3/5*100=60% </p>
 
-  <p>CAPACITY LEVEL</p>
+  <p> </p>
+
+  <p>CAPACITY LEVEL </p>
 
   <p>The level of the capacity will be expressed as the average of all
   indicators. e.g. for a country selecting level 3 for indicator 2.1 and level 4
   for indicator 2.2. Indicator level for 2.1 will be expressed as: 3/5*100=60%,
   indicator level for 2.2 will be expressed as: 4/5*100=80% and capacity level
-  for 2 will be expressed as: (60+80)/2=70%</p>
+  for 2 will be expressed as: (60+80)/2=70% </p>
+DATA_VALIDATION: ''
+ADJUSTMENT: ''
 IMPUTATION: |-
-  <h2>Treatment of missing values:</h2>
   <ul>
-    <li><strong><em>At country level:</em></strong></li>
-    <li><strong><em>At regional and global levels:</em></strong></li>
+    <li>At country level </li>
   </ul>
-  <p>No estimate is made.</p>
+  <p> </p>
+  <ul>
+    <li>At regional and global levels </li>
+  </ul>
+  <p>No estimate is made. </p>
+  <p> </p>
 REG_AGG: >-
-  <h2>Regional aggregates:</h2>
-
   <p>Aggregate of each score per indicator/capacity, by country/number of
   countries submitted the questionnaire out of the 196 IHR State Parties by WHO
-  administrate regions or other groups</p>
+  administrate regions or other groups </p>
 DOC_METHOD: >-
-  <h2>Methods and guidance available to countries for the compilation of the
-  data at the national level:</h2>
-
   <p>The IHR States Parties Annual reports uses specific standard reporting tool
   made available by WHO Secretariat in July 2018. (State Parties Annual
   Reporting Tool annual reports and other guidance, links and references
-  available at: <a
-  href="https://extranet.who.int/e-spar/">https://extranet.who.int/e-spar/</a>)</p>
+  available at: <a href="https://extranet.who.int/e-spar/"
+  target="_blank">https://extranet.who.int/e-spar/</a> ) </p>
 
   <p> </p>
 
   <p>State Parties of IHR can use the on-line reporting tool, that reflects the
   questionnaire of the IHR State Parties Self-Assessment Tool was published in
   July 2018. </p>
-
-  <p> </p>
 
   <p>The tool consists of 24 indicators for the thirteen IHR capacities needed
   to detect, assess, notify, report and respond, including at points of entry,
@@ -224,149 +235,161 @@ DOC_METHOD: >-
   current status. For each indicator, in order to move to the next level, all
   capacities described in previous levels should be in place. </p>
 
+  <p> </p>
+
   <p>WHO made available specific guidance and tool, related resources and links
   for IHR State Parties submit annually their reports as well specific web
-  platform (e-SPAR available at: <a
-  href="https://extranet.who.int/e-spar/">https://extranet.who.int/e-spar/</a>)</p>
+  platform (e-SPAR available at: <a href="https://extranet.who.int/e-spar/"
+  target="_blank"><u>https://extranet.who.int/e-spar/</u></a> ) </p>
+QUALITY_MGMNT: ''
 QUALITY_ASSURE: >-
-  <h2>Quality assurance:</h2>
-
   <p>The national multisectoral self-assessment of IHR capacities, in
   preparation to the annual report is supported by WHO Country Office and
-  Regional Offices activities and technical orientation and advocacy work.</p>
+  Regional Offices activities and technical orientation and advocacy work. </p>
+
+  <p> </p>
+
+  <p> </p>
 
   <p>After submission of data by each State Party, WHO review data received at
   all level of the organization, using the e-SPAR platform for monitoring and
   evaluation of results, before final report to the World Health Assembly is
-  produced and published. Results are published at several WHO Websites:</p>
+  produced and published. Results are published at several WHO Websites: </p>
 
   <ul>
-    <li>e-SPAR (<a href="https://extranet.who.int/e-spar/">https://extranet.who.int/e-spar/</a>), </li>
-    <li>Strategic Partnership for IHR (2005) and Health Security &#x2013; SPH portal (<a href="https://extranet.who.int/sph/">https://extranet.who.int/sph/</a> )</li>
-    <li>World Health Statistics data visualization dashboard (<a href="http://apps.who.int/gho/data/node.sdg.3-d">http://apps.who.int/gho/data/node.sdg.3-d</a> )</li>
-    <li>Global Health Observatory for period after 2017 (<a href="https://www.who.int/data/gho/data/themes/theme-details/GHO/international-health-regulations-(2005)-monitoring-framework-spar">https://www.who.int/data/gho/data/themes/theme-details/GHO/international-health-regulations-(2005)-monitoring-framework-spar</a>) and for period 2010-2017 (<a href="https://www.who.int/data/gho/data/themes/topics/GHO/all-capacities">https://www.who.int/data/gho/data/themes/topics/GHO/all-capacities</a>)</li>
+    <li>e-SPAR (<a href="https://extranet.who.int/e-spar/" target="_blank"><u>https://extranet.who.int/e-spar/</u></a>), </li>
+    <li>Strategic Partnership for IHR (2005) and Health Security &#x2013; SPH portal (<a href="https://extranet.who.int/sph/" target="_blank"><u>https://extranet.who.int/sph/</u></a> ) </li>
+    <li>World Health Statistics data visualization dashboard (<a href="http://apps.who.int/gho/data/node.sdg.3-d" target="_blank"><u>http://apps.who.int/gho/data/node.sdg.3-d</u></a> ) </li>
+    <li>Global Health Observatory for period after 2017 (<a href="https://www.who.int/data/gho/data/themes/theme-details/GHO/international-health-regulations-(2005)-monitoring-framework-spar" target="_blank"><u>https://www.who.int/data/gho/data/themes/theme-details/GHO/international-health-regulations-(2005)-monitoring-framework-spar</u></a>) and for period 2010-2017 ( <a href="https://www.who.int/data/gho/data/themes/topics/GHO/all-capacities" target="_blank"><u>https://www.who.int/data/gho/data/themes/topics/GHO/all-capacities</u></a> ) </li>
   </ul>
-COVERAGE: >-
-  <h1>Data availability</h1>
 
-  <h2>Description:</h2>
+  <p> </p>
+QUALITY_ASSMNT: ''
+COVERAGE: >-
+  <p>Data availability:</p>
 
   <p>Since 2010 all 196 State Parties of IHR had at least once provided data for
   IHR Annual Reports/indicator SDG 3.d.1. Previous year, in 2018, 183 States had
   provided data using e-SPAR report format that was published, regarding this
   indicator. It was the highest number since 2010. For ongoing period 2019, as
-  of 06 February 2020 we have received 100 reports</p>
+  of 06 February 2020 we have received 100 reports </p>
+
+  <p> </p>
 
   <p>The final deadline for State Parties to submit annual reports is 29
-  February, so we expect final numbers first week of March.</p>
+  February, so we expect final numbers first week of March. </p>
+
+  <p> </p>
 
   <table>
     <tbody>
       <tr>
         <td colspan="2">
-          <p>Country Totals for e-SPAR report format received in 2019</p>
-          <p>By 12 February 2020 (provisional data)</p>
+          <p>Country Totals for e-SPAR report format received in 2019 </p>
+          <p>By 12 February 2020 (provisional data) </p>
         </td>
       </tr>
       <tr>
         <td>
-          <p>Total Country Reports Submitted</p>
+          <p>Total Country Reports Submitted </p>
         </td>
         <td>
-          <p>108</p>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <p>Total AFRO</p>
-        </td>
-        <td>
-          <p>37</p>
+          <p>108 </p>
         </td>
       </tr>
       <tr>
         <td>
-          <p>Total AMRO</p>
+          <p>Total AFRO </p>
         </td>
         <td>
-          <p>04</p>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <p>Total EMRO</p>
-        </td>
-        <td>
-          <p>07</p>
+          <p>37 </p>
         </td>
       </tr>
       <tr>
         <td>
-          <p>Total EURO</p>
+          <p>Total AMRO </p>
         </td>
         <td>
-          <p>38</p>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <p>Total SEARO</p>
-        </td>
-        <td>
-          <p>11</p>
+          <p>04 </p>
         </td>
       </tr>
       <tr>
         <td>
-          <p>Total WPRO</p>
+          <p>Total EMRO </p>
         </td>
         <td>
-          <p>11</p>
+          <p>07 </p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>Total EURO </p>
+        </td>
+        <td>
+          <p>38 </p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>Total SEARO </p>
+        </td>
+        <td>
+          <p>11 </p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>Total WPRO </p>
+        </td>
+        <td>
+          <p>11 </p>
         </td>
       </tr>
     </tbody>
   </table>
 
-  <h2>Time series:</h2>
+  <p>Time series:</p>
 
   <p>Data collection started in 2010 and collected with same questionnaire until
-  2017 (Serie of data 2010-2017).</p>
+  2017 (Serie of data 2010-2017). </p>
 
   <p>New IHR State Parties Annual Assessment and Reporting Tool implemented
-  since 2018 (Serie of data 2018-19).</p>
+  since 2018 (Serie of data 2018-19). </p>
 
   <p>All years have data published at e-SPAR (<a
-  href="https://extranet.who.int/e-spar/"><u>https://extranet.who.int/e-spar/</u></a>
-  ).</p>
+  href="https://extranet.who.int/e-spar/"
+  target="_blank"><u>https://extranet.who.int/e-spar/</u></a> ). </p>
 
-  <h2>Disaggregation:</h2>
+  <p> </p>
 
-  <p>Disaggregation can be done by WHO Administrative Regions and countries, by
-  scores of the 13 capacities.</p>
+  <p>Disaggregation:</p>
+
+  <p>Desegregation can be done by WHO Administrative Regions and countries, by
+  scores of the 13 capacities. </p>
 COMPARABILITY: >-
-  <h2>Sources of discrepancies:</h2>
+  <p>Sources of discrepancies:</p>
 
   <p>No estimate is made. The Regional and global scores are all based on
-  submitted questionnaires.</p>
+  submitted questionnaires. </p>
 OTHER_DOC: >-
-  <h1>References</h1>
+  <p><strong>URL:</strong> </p>
 
-  <h2>URL:</h2>
+  <p> </p>
 
-  <h2>References:</h2>
+  <p><strong>References:</strong> </p>
 
-  <p><a
-  href="http://apps.who.int/iris/bitstream/10665/43883/1/9789241580410_eng.pdf%20">http://apps.who.int/iris/bitstream/10665/43883/1/9789241580410_eng.pdf</a>
-  (Article 54)</p>
+  <p>http://apps.who.int/iris/bitstream/10665/43883/1/9789241580410_eng.pdf
+  (Article 54) </p>
 
-  <p><a
-  href="http://apps.who.int/gb/ebwha/pdf_files/WHA71/A71(15)-en.pdf">WHA71/15</a></p>
+  <p><a href="http://apps.who.int/gb/ebwha/pdf_files/WHA71/A71(15)-en.pdf"
+  target="_blank"><u>WHA71/15</u></a> </p>
 
-  <p><a
-  href="https://apps.who.int/gb/archive/pdf_files/A61/A61_7-en.pdf">WHA61/7</a></p>
+  <p>WHA A 61/7 </p>
 
-  <p><a
-  href="https://www.who.int/ihr/publications/WHO-WHE-CPI-2018.16/en/">https://www.who.int/ihr/publications/WHO-WHE-CPI-2018.16/en/</a></p>
+  <p><a href="https://www.who.int/ihr/publications/WHO-WHE-CPI-2018.16/en/"
+  target="_blank"><u>https://www.who.int/ihr/publications/WHO-WHE-CPI-2018.16/en/</u></a>
+  </p>
 
-  <p><a
-  href="https://www.who.int/ihr/publications/WHO-WHE-CPI-2018.17/en/">https://www.who.int/ihr/publications/WHO-WHE-CPI-2018.17/en/</a></p>
+  <p><a href="https://www.who.int/ihr/publications/WHO-WHE-CPI-2018.17/en/"
+  target="_blank"><u>https://www.who.int/ihr/publications/WHO-WHE-CPI-2018.17/en/</u></a>
+  </p>

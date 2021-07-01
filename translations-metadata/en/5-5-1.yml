@@ -1,0 +1,280 @@
+SDG_INDICATOR_INFO: ''
+SDG_GOAL: '<p>Goal 5: Achieve gender equality and empower all women and girls</p>'
+SDG_TARGET: >-
+  <p>Target 5.5: Ensure women&apos;s full and effective participation and equal
+  opportunities for leadership at all levels of decision-making in political,
+  economic and public life</p>
+SDG_INDICATOR: >-
+  <p>Indicator 5.5.1(b): Proportion of seats held by women in local
+  governments</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: <p>30 January 2018</p>
+SDG_RELATED_INDICATORS: ''
+SDG_CUSTODIAN_AGENCIES: <p>UN-Women</p>
+CONTACT: ''
+CONTACT_ORGANISATION: <p>UN-Women</p>
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  <p><strong>Definition:</strong></p>
+
+  <p>Indicator 5.5.1(b) measures the proportion of positions held by women in
+  local government.</p>
+
+  <p>It is expressed as a percentage of elected positions held by women in
+  legislative/ deliberative bodies of local government. </p>
+
+  <h2>Concepts: </h2>
+
+  <p><strong><u>Local government</u></strong> is one of the sub-national spheres
+  of government and a result of decentralization, a process of transferring
+  political, fiscal, and administrative powers from the central government to
+  sub-national units of government distributed across the territory of a country
+  to regulate and/or run certain government functions or public services on
+  their own. </p>
+
+  <p>The definition of local government follows the 2008 System of National
+  Accounts (SNA) distinction between central, state, and local government (para
+  4.129). Local government consists of local government units, defined in the
+  SNA as &#x201C;institutional units whose fiscal, legislative and executive
+  authority extends over the smallest geographical areas distinguished for
+  administrative and political purposes&#x201D; (para 4.145). What constitutes
+  local government of a given country is defined by that country&#x2019;s
+  national legal framework, including national constitutions and local
+  government acts or equivalent legislation.</p>
+
+  <p>Each local government unit typically includes a legislative/ deliberative
+  body and an executive body. <u>Legislative/ deliberative bodies</u>, such as
+  councils or assemblies, are formal entities with a prescribed number of
+  members as per national or state legislation. They are usually elected by
+  universal suffrage and have decision-making power, including the ability to
+  issue by-laws, on a range of local aspects of public affairs. </p>
+
+  <p>Executive bodies, consisting of an executive committee or a mayor, may be
+  elected, appointed or nominated and they prepare and execute decisions made by
+  the legislative/ deliberative body. </p>
+
+  <p><u>Elected positions</u> are the most common manner of selection of local
+  government members. They are selected in local elections, based on a system of
+  choosing political office holders in which the voters cast ballots for the
+  person, persons or political party that they desire to see elected. The
+  category of elected positions includes both elected persons who competed on
+  openly contested seats and persons selected during the electoral processes on
+  reserved seats or through a candidate quota.</p>
+
+  <p>By comparison, members selected on appointed positions (the least common
+  manner of selection of local government members) are nominated, typically by
+  government officials from higher-ranking tiers of government. Appointed
+  members of local government are more frequent among the leadership positions,
+  such as the heads of the executive body, representatives of specific groups
+  (e.g., women, disadvantaged groups, youth); and, temporary
+  committees/delegations/caretakers appointed by government officials when a
+  council has been dissolved.</p>
+UNIT_MEASURE: ''
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  <p><u>Administrative data based on electoral records</u> are the main source
+  of data on elected members of local government, and the recommended data
+  source for Indicator 5.5.1(b). Electoral records are produced and upheld by
+  Electoral Management Bodies (EMBs) or equivalent bodies tasked with organizing
+  elections at local level. EMBs are part of the National Statistical System,
+  and often specifically mentioned in the national statistics acts as producers
+  of official statistics. </p>
+
+  <p>The use of electoral records to measure women&#x2019;s representation in
+  local government and monitoring of Indicator 5.5.1(b) is cost-effective,
+  straightforward and timely. No adjustments or estimates are necessary to
+  transform the administrative information into statistics for monitoring the
+  indicator. The conceptual framework at the basis of Indicator 5.5.1(b) is
+  consistent with the conceptual framework at the basis of local elections, as
+  both are provided by national legal framework. The data used to calculate
+  Indicator 5.5.1(b) refer to information on election winners, disaggregated by
+  sex, and the coverage of the reference population (in this case, the elected
+  officials) should be complete. In countries where the electoral records are
+  electronic and centralized, information on numbers of women and men in elected
+  positions can be made available as soon as the official results of elections
+  are released. </p>
+
+  <p><u>Two other types of sources of data</u> may be used in the few instances
+  where electoral records are not electronic or not centralized. One additional
+  type of source is also administrative, and refers to public administration
+  data available to line ministries overseeing local government. However, its
+  use for statistics may be less straightforward compared to centralized
+  electoral records. The scope of public administration records is beyond the
+  elected positions, and information on women and men in elected positions of
+  local government may be mixed with information on public administration
+  employees, which are not covered by this indicator. Therefore, additional data
+  processing and resources may be required to carefully extract the information
+  needed. In some cases, the forms used as the basis for administrative records
+  may need to be modified to ensure recording of the positions as being elected,
+  in legislative/deliberative bodies, as well as the sex of persons in those
+  positions. In other cases, some elected positions may not be covered in the
+  records maintained, for example, if the administrative records are restricted
+  to only those positions that are on the government payroll. </p>
+
+  <p>Another type of data source that may provide information on women and men
+  in local government in the absence of centralized electronic election records,
+  refers to existing surveys or censuses using local government units as units
+  of observation. These surveys or censuses may be undertaken by National
+  Statistical Offices and/or line ministries and may take the form of (a) local
+  government censuses or surveys; (b) establishment survey; and (c) municipality
+  surveys. These surveys/census may already include, in the data collection tool
+  dedicated to their main purpose, a few questions on the number of members of
+  local legislative/deliberative and executive bodies by sex and other
+  individual characteristics such as age and education; or may require the
+  integration of such questions. Similar to other censuses and surveys, a low
+  response rate can result in bias of the statistics obtained. Sampling errors
+  may also add to the bias, in ways that cannot be assessed in the absence of a
+  good understanding of distribution of women&#x2019;s and men&#x2019;s
+  representation across different local government units across the territory of
+  a country.</p>
+COLL_METHOD: >-
+  <p>The compilation of data, coordinated by UN Women and undertaken with the
+  support of UN Regional Commissions, uses two mechanisms:</p>
+
+  <ul>
+    <li>data request forms sent to EMBs and NSOs directly or through UN Regional Commissions </li>
+    <li>on-line dissemination of data by NSS entities who are the primary source of data or in charge with coordination of SDGs, including EMBs and/or NSOs. This process will be done in a transparent manner, based on communication with NSS focal points, so that the NSS has a chance to validate or dismiss a country&#x2019;s compiled data. </li>
+  </ul>
+FREQ_COLL: >-
+  <p>After establishing the global baseline, the data will be compiled every
+  year, in January of each year, and/or after local elections have taken
+  place.</p>
+REL_CAL_POLICY: <p>Second quarter of the year.</p>
+DATA_SOURCE: >-
+  <p>Data are provided by Electoral Management Bodies and/or in coordination
+  with National Statistical Offices.</p>
+COMPILING_ORG: <p>UN Women with the support of UN Regional Commissions.</p>
+INST_MANDATE: ''
+OTHER_METHOD: ''
+RATIONALE: >-
+  <p>Women&#x2019;s and men&#x2019;s right to exercise their political rights on
+  an equal basis, and at all levels of decision-making, is recognized in the
+  SDGs and enshrined in many human and political rights declarations,
+  conventions and resolutions agreed to by most countries in the world.
+  Indicator 5.5.1(b) measures the degree to which gender balance has been
+  achieved in, and women have equal access to, political decision-making in
+  local government. </p>
+
+  <p>Indicator 5.5.1(b) complements the Indicator 5.5.1(a) on women in national
+  parliaments, and accounts for the representation of women among the millions
+  of members of local governments that influence (or have the potential to
+  influence) the lives of local communities around the world. All tiers of local
+  government are covered by the indicator, consistent with national legal
+  frameworks defining local government.</p>
+REC_USE_LIM: >-
+  <p>Indicator 5.5.1(b) refers to the representation of women among elected
+  positions of legislative/deliberative bodies of local government. This is a
+  strength, because it ensures comparability across countries, at low cost, and
+  mirrors the SDG indicator measuring women&#x2019;s representation at national
+  level, in parliament. This is also a limitation in that the indicator does not
+  consider other positions in local government. Local government officials
+  holding executive positions who are not simultaneously holding a position
+  within the legislative/deliberative body, or who are appointed and not
+  elected, are not considered in this indicator. </p>
+
+  <p>It is recommended that women&#x2019;s representation in executive
+  positions, particularly at the level of the head of the executive (such as
+  mayor), is monitored separately at national and global levels, but not as a
+  headline SDG indicator.</p>
+
+  <p>Importantly, the indicator refers to representation among members of local
+  government and not the quality of their participation. Countries may therefore
+  consider assessing political participation through national or subnational
+  studies involving qualitative and/or quantitative methods of research.
+  Additional indicators of political participation may also be monitored at
+  national level, such as women&#x2019;s share among voters and candidates in
+  local elections, to monitor the closing of other gaps on women&#x2019;s
+  political participation. </p>
+
+  <p>Finally, aspects of local governance beyond the formal institutions of
+  local government, such as public administration staff, are not included in the
+  indicator 5.5.1(b), and may be covered by other indicators in the SDG
+  framework, particularly within the Goal 16 on inclusive societies.</p>
+DATA_COMP: >-
+  <p>The method of computation is as follows: </p>
+
+  <h2><img
+  src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAsQAAAB6CAIAAAA3aNL4AAAAAXNSR0IArs4c6QAAKndJREFUeF7tnVvofVW1x4/nkFDag3QhH0qx6GJhVFJCGVJ0MyMqS8osrcyu2sXIiFKKbmBUCkZZUFj2kJU9dIf4l/WgdnkouoGiRRmVVJIFJfzP5/CFcQZzrjXX2nvttff+L7/74cdvrz0vY37mXHOMOebtsIMHD/6XPyZgAiZgAiZgAiawLoH/Xjei45mACZiACZiACZjA/xGwMeF2YAImYAImYAImMImAjYlJ+BzZBEzABEzABEzAxoTbgAmYgAmYgAmYwCQCNiYm4XNkEzABEzABEzABGxNuAyZgAiZgAiZgApMI2JiYhM+RTcAETMAETMAEbEy4DZiACZiACZiACUwiYGNiEj5HNgETMAETMAETsDHhNmACJmACJmACJjCJgI2JSfgc2QRMwARMwARMwMaE24AJmIAJmIAJmMAkAjYmJuFzZBMwARMwARMwARsTbgMmYAImYAImYAKTCNiYmITPkU3ABEzABEzABGxMuA2YgAmYgAmYgAlMImBjYhI+RzYBEzABEzABE7Ax4TZgAiZgAiZgAiYwiYCNiUn4HNkETMAETMAETMDGhNuACZiACZiACZjAJAI2Jibhc2QTMAETMAETMAEbE24DJmACJmACJmACkwjYmJiEz5FNwARMwARMwARsTLgNmIAJmIAJmIAJTCJgY2ISPkc2ARMwARMwAROwMeE2YAImYAImYAImMImAjYlJ+BzZBEzABEzABEzAxoTbgAmYgAmYgAmYwCQCNiYm4XNkEzABEzABEzABGxNuAyZgAiZgAiZgApMI2JiYhM+RTcAETMAETMAEbEy4DZiACZiACZiACUwiYGNiEj5HNgETMAETMAETsDHhNmACJmACJmACJjCJgI2JSfgc2QRMwARMwARMwMaE24AJmIAJmIAJmMAkAjYmJuFzZBMwARMwARMwARsTbgMmYAImYAImYAKTCNiYmITPkU3ABEzABEzABGxMuA2YgAmYgAmYgAlMImBjYhI+RzYBEzABEzABE7Ax4TZgAiZgAiZgAiYwiYCNiUn4HNkETMAETMAETMDGhNuACZiACZiACZjAJAI2Jibhc2QTMAETMAETMAEbE24DJmACJmACJmACkwjYmJiEz5FNwARMwARMwARs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"></h2>
+
+  <h2>Unit:</h2>
+
+  <p>%</p>
+DATA_VALIDATION: ''
+ADJUSTMENT: ''
+IMPUTATION: |-
+  <p>&#x2022; At country level</p>
+  <p>Not Imputed</p>
+  <p>&#x2022; At regional and global levels</p>
+  <p>Not Imputed</p>
+REG_AGG: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: >-
+  <p>Data availability:</p>
+
+  <p>Data on women&#x2019;s and men&#x2019;s representation in elected positions
+  of legislative/ deliberative bodies of local government are currently
+  estimated as available for 89 of countries in the world. This estimate is
+  based on a count of countries covered by regional databases in Europe, Latin
+  America and the Caribbean, and ad-hoc studies in Asia and Pacific. However,
+  the indicator used vary from one region to another. The count of countries is
+  expected to change after the methodology of the indicator is used consistently
+  across countries and regions.</p>
+
+  <p>Time series:</p>
+
+  <p>Disaggregation: </p>
+
+  <p>Data on elected positions in legislative/deliberative bodies of local
+  government have to be disaggregated by sex to enable the calculation of the
+  indicator. No additional disaggregation is required for SDG reporting.</p>
+COMPARABILITY: >-
+  <p>Sources of discrepancies:</p>
+
+  <p>There are no discrepancies. Data are reported by entities of National
+  Statistical Systems, including Electoral Management Bodies and National
+  Statistical Offices.</p>
+OTHER_DOC: >-
+  <p>ECLAC, 2016a. CEPALSTAT: Databases and statistical publications. <a
+  href="http://interwp.cepal.org/sisgen/ConsultaIntegrada.asp?idAplicacion=11&amp;idioma=e">http://interwp.cepal.org/sisgen/ConsultaIntegrada.asp?idAplicacion=11&amp;idioma=e</a>
+  (accessed January-April 2016)</p>
+
+  <p>European Commission, 2016a. Database on women and men in decision-making
+  (WMID). <a
+  href="http://ec.europa.eu/justice/gender-equality/gender-decision-making/database/index_en.htm">http://ec.europa.eu/justice/gender-equality/gender-decision-making/database/index_en.htm</a>
+  (accessed January-April 2016)</p>
+
+  <p>European Commission, International Monetary Fund, Organization for Economic
+  Co-operation and Development, United Nations and the World Bank, 2009<em>. The
+  2008 System of National Accounts.</em></p>
+
+  <p>UNECE, 2016a. Public life and decision-making database. <a
+  href="http://w3.unece.org/PXWeb2015/pxweb/en/STAT/STAT__30-GE__05-PublicAnddecision">http://w3.unece.org/PXWeb2015/pxweb/en/STAT/STAT__30-GE__05-PublicAnddecision</a>
+  (accessed January-April 2016).</p>
+
+  <p>UNDP, 2014. Gender Equality: Women&#x2019;s participation and leadership in
+  governments at the local level. Asia and the Pacific 2013. Bangkok, UNDP.</p>
+
+  <p>United Nations, 2011. <em>Using Administrative and Secondary Sources for
+  Official Statistics: A Handbook of Principles and Practices</em>. UNECE.</p>
+
+  <p>UNPAN (United Nations Public Administration Network), 2016. UN Public
+  Administration Glossary.
+  http://www.unpan.org/Directories/Glossary/tabid/1398/language/en-US/Default.aspx
+  (March 2016)</p>
+
+  <p>UN Women, 2017. Review of National Constitutions and Local Government Acts.
+  Unpublished. </p>
+
+  <p>UN Women and UNDP, 2015. Inclusive Electoral Processes: A guide for
+  Electoral Management Bodies on Promoting Gender Equality and Women&#x2019;s
+  Participation.</p>
