@@ -9,6 +9,7 @@ www/documents/**/*.pdf
 www/history/*.html
 www/_data/store.json
 www/_data/history.json
+www/_data/stats.json
 www/.jekyll-cache
 snapshot-*
 /temp

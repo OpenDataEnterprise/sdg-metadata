@@ -1,0 +1,23 @@
+{% if include.stats %}
+<h2>Translations statistics</h2>
+<ul class="weblate-stats">
+  {% if include.stats.approved_percent %}
+  <li>Approved: {{ include.stats.approved_percent }}%
+    <span class="weblate-stats-total"></span>
+    <span class="weblate-stats-part weblate-stats-approved" style="width:{{ include.stats.approved_percent }}%"></span>
+  </li>
+  {% endif %}
+  {% if include.stats.fuzzy_percent %}
+  <li>Needs edit: {{ include.stats.fuzzy_percent }}%
+    <span class="weblate-stats-total"></span>
+    <span class="weblate-stats-part weblate-stats-needs-edit" style="width:{{ include.stats.fuzzy_percent }}%"></span>
+  </li>
+  {% endif %}
+  {% if include.stats.failing_percent %}
+  <li>Failing checks: {{ include.stats.failing_percent }}%
+    <span class="weblate-stats-total"></span>
+    <span class="weblate-stats-part weblate-stats-failing-check" style="width:{{ include.stats.failing_percent }}%"></span>
+  </li>
+  {% endif %}
+</ul>
+{% endif %}

@@ -268,3 +268,37 @@
     }
   }
 }
+
+.weblate-stats {
+  li {
+    width: 100%;
+    position: relative;
+    height: 60px;
+    .weblate-stats-total {
+      width: 100%;
+      border: 1px solid black;
+      background-color: white;
+    }
+    .weblate-stats-total, .weblate-stats-part {
+      height: 25px;
+      display: inline-block;
+      position: absolute;
+      top: 30px;
+      left: 0;
+    }
+    .weblate-stats-approved {
+      background-color: #00d2e6;
+    }
+    .weblate-stats-needs-edit {
+      background-color: #f6664c;
+    }
+    .weblate-stats-failing-check {
+      background-color: yellow;
+    }
+    .weblate-stats-part {
+      border-left: 1px solid black;
+      border-top: 1px solid black;
+      border-bottom: 1px solid black;
+    }
+  }
+}

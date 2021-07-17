@@ -3,6 +3,9 @@ layout: single
 ---
 {{ site.data.languages[page.language].blurb | markdownify }}
 
+{% assign weblate_stats = site.data.stats[page.language] %}
+{% include statistics.html stats=weblate_stats %}
+
 {% for goal in page.goals %}
 <a class="goal-link" href="{{ goal }}">
   <img src="https://open-sdg.org/sdg-translations/assets/img/goals/{{ page.language }}/{{ goal }}.png" alt="Goal {{ goal }}" />
